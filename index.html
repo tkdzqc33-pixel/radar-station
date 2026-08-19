@@ -206,6 +206,8 @@ body{
       var shown = isExpanded ? summary : summary.slice(0, 120);
       var hasMore = summary.length > 120;
       var why = it.why ? '<div style="font-size:12px;color:' + self.levelColor.A + ';margin-top:8px;">💡 ' + it.why + '</div>' : '';
+      var opp = it.opportunity && it.opportunity !== '无' ? '<div style="font-size:12px;color:#4ADE80;margin-top:4px;">💰 机会: ' + it.opportunity + '</div>' : '';
+      var risk = it.risk && it.risk !== '无' ? '<div style="font-size:12px;color:#FF6B6B;margin-top:4px;">⚠️ 风险: ' + it.risk + '</div>' : '';
       var action = it.action ? '<div style="font-size:12px;color:' + C + ';margin-top:4px;">👉 ' + it.action + '</div>' : '';
       var link = it.link ? '<div style="font-size:11px;color:rgba(255,255,255,0.4);margin-top:6px;">🔗 <a href="' + it.link + '" target="_blank" style="color:rgba(255,255,255,0.4);text-decoration:none;">' + (it.source || '原文') + '</a></div>' : '';
       return '<div style="background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);border-left:3px solid ' + lvColor + ';border-radius:12px;padding:14px;margin-bottom:10px;">' +
@@ -216,7 +218,7 @@ body{
         '</div>' +
         (summary ? '<div style="font-size:12px;color:rgba(255,255,255,0.65);line-height:1.7;margin-top:8px;border-left:2px solid rgba(255,255,255,0.08);padding-left:10px;">' + shown + (hasMore && !isExpanded ? '...' : '') + '</div>' : '') +
         (hasMore ? '<div class="w3-toggle-item" data-idx="' + idx + '" style="font-size:11px;color:' + C + ';margin-top:6px;cursor:pointer;font-weight:600;">' + (isExpanded ? '收起 ▲' : '展开全文 ▾') + '</div>' : '') +
-        why + action + link +
+        why + opp + risk + action + link +
         '</div>';
     }).join('');
     if (!items.length) itemHtml = '<div style="padding:20px;color:rgba(255,255,255,0.4);text-align:center;font-size:12px;">暂无简报，运行 main.py daily 生成</div>';

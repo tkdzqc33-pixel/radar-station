@@ -48,11 +48,13 @@ def format_daily_report(items: list) -> str:
 
 
 def _format_item(it: dict, show_action: bool = True) -> str:
-    """格式化单条新闻"""
+    """格式化单条新闻（分析师版：含机会/风险）"""
     cat = CATEGORY_LABEL.get(it.get("category", "other"), it.get("category", ""))
     title = it.get("title", "")
     why = it.get("why", "")
     action = it.get("action", "")
+    opportunity = it.get("opportunity", "")
+    risk = it.get("risk", "")
     source = it.get("source", "")
     link = it.get("link", "")
 
@@ -61,6 +63,10 @@ def _format_item(it: dict, show_action: bool = True) -> str:
         lines.append(f"   💡 {why}")
     if show_action and action:
         lines.append(f"   👉 {action}")
+    if opportunity and opportunity != "无":
+        lines.append(f"   💰 机会: {opportunity}")
+    if risk and risk != "无":
+        lines.append(f"   ⚠️ 风险: {risk}")
     lines.append(f"   📎 {source}")
     if link and link.startswith("http"):
         lines.append(f"   🔗 {link}")
