@@ -14,6 +14,8 @@ on:
     - cron: "0 0 * * *"      # 每天 08:00（北京）
     - cron: "0 1 * * 0"      # 每周日 09:00（北京）
   workflow_dispatch:         # 支持手动触发
+  push:
+    branches: [main]         # 改代码 push 后自动重新构建+部署
 
 permissions:
   contents: write
