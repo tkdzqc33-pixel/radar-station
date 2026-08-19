@@ -16,9 +16,11 @@ from sources import FILTER_KEYWORDS_MUST, FILTER_KEYWORDS_EXCLUDE
 
 # ---------- 配置（从 config 读取，可选）----------
 try:
-    from config import PRODUCT_HUNT_TOKEN, GNEWS_API_KEY
+    from config import PRODUCT_HUNT_TOKEN, PRODUCT_HUNT_CLIENT_ID, PRODUCT_HUNT_CLIENT_SECRET, GNEWS_API_KEY
 except ImportError:
     PRODUCT_HUNT_TOKEN = ""
+    PRODUCT_HUNT_CLIENT_ID = ""
+    PRODUCT_HUNT_CLIENT_SECRET = ""
     GNEWS_API_KEY = ""
 
 # 追踪的 AI 视频/短剧工具仓库（releases 监控）
@@ -177,18 +179,43 @@ def fetch_hn_trending() -> list:
     return items
 
 
+def _get_product_hunt_token() -> str:
+    """获取 Product Hunt token：优先用已配置 token，否则用 Client ID/Secret 换取"""
+    if PRODUCT_HUNT_TOKEN:
+        return PRODUCT_HUNT_TOKEN
+    if PRODUCT_HUNT_CLIENT_ID and PRODUCT_HUNT_CLIENT_SECRET:
+        try:
+            resp = requests.post(
+                "https://api.producthunt.com/v2/oauth/token",
+                json={
+                    "client_id": PRODUCT_HUNT_CLIENT_ID,
+                    "client_secret": PRODUCT_HUNT_CLIENT_SECRET,
+                    "grant_type": "client_credentials",
+                },
+                headers={"Content-Type": "application/json", "Accept": "application/json"},
+                timeout=TIMEOUT,
+            )
+            if resp.status_code == 200:
+                return resp.json().get("access_token", "")
+        except Exception as e:
+            if DEBUG:
+                print(f"[ph] token换取失败: {e}")
+    return ""
+
+
 def fetch_product_hunt() -> list:
-    """Product Hunt：新产品首发（需 token，未配置则跳过）"""
-    if not PRODUCT_HUNT_TOKEN:
+    """Product Hunt：新产品首发（自动换 token，未配置则跳过）"""
+    token = _get_product_hunt_token()
+    if not token:
         return []
     items = []
     try:
-        query = '{ posts(order: NEWEST, first: 10) { edges { node { name tagline url description } } } }'
+        query = '{ posts(order: NEWEST, first: 12) { edges { node { name tagline url description } } } }'
         resp = requests.post(
             "https://api.producthunt.com/v2/api/graphql",
             json={"query": query},
             headers={
-                "Authorization": f"Bearer {PRODUCT_HUNT_TOKEN}",
+                "Authorization": f"Bearer {token}",
                 "Content-Type": "application/json",
                 "Accept": "application/json",
             },
@@ -203,7 +230,10 @@ def fetch_product_hunt() -> list:
             tagline = node.get("tagline", "")
             desc = node.get("description", "")
             combined = f"{name} {tagline} {desc}"
-            if not _passes_filter(combined, desc):
+            # PH 新品源：只收 AI/内容创作/视频/教育相关（精准匹配）
+            lower = combined.lower()
+            ai_kw = ["ai ", "ai-", " a.i", "artificial intelligence", "gpt", "llm", "diffusion", "video", "image", "photo", "story", "script", "drama", "animation", "content", "creator", "generate", "text to", "prompt", "voice", "audio", "design", "learning", "course", "education"]
+            if not any(k in lower for k in ai_kw):
                 continue
             items.append(
                 {
