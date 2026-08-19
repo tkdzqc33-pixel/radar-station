@@ -1,0 +1,25 @@
+{
+ "name": "AI 情报雷达站",
+ "short_name": "雷达站",
+ "description": "你的 AI 情报雷达站：短剧出海/AI工具/知识付费 实时情报",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#050505",
+ "theme_color": "#CCFF00",
+ "orientation": "portrait",
+ "icons": [
+  {
+   "src": "./data/icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "./data/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

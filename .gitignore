@@ -1,0 +1,14 @@
+# 密钥与配置文件（绝不提交！）
+config.py
+config.example.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Mac 系统
+.DS_Store
+
+# 生成的数据（云端构建时自动生成）
+data/

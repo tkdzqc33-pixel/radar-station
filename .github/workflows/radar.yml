@@ -1,0 +1,94 @@
+# ============================================================
+# 情报雷达站 · 云端自动构建 + 部署
+# - 每天 08:00（北京时间）自动抓取分析生成看板
+# - 每周日 09:00 生成周报数据
+# - 生成后自动提交并部署到 GitHub Pages
+# - 可手动触发（Actions 页面点 Run workflow）
+# ============================================================
+
+name: Radar Build & Deploy
+
+on:
+  schedule:
+    # cron 用 UTC 时间：北京时间 08:00 = UTC 00:00
+    - cron: "0 0 * * *"      # 每天 08:00（北京）
+    - cron: "0 1 * * 0"      # 每周日 09:00（北京）
+  workflow_dispatch:         # 支持手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # 需要完整历史以便提交
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -q feedparser requests edge-tts
+
+      - name: Write config from secrets
+        env:
+          DEEPSEEK_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          FEISHU_HOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: |
+          python3 -c "
+          import os
+          key = os.environ.get('DEEPSEEK_KEY', 'sk-placeholder')
+          hook = os.environ.get('FEISHU_HOOK', '')
+          lines = []
+          lines.append('DEEPSEEK_API_KEY = ' + repr(key))
+          lines.append('DEEPSEEK_BASE_URL = \"https://api.deepseek.com\"')
+          lines.append('DEEPSEEK_MODEL = \"deepseek-chat\"')
+          lines.append('FEISHU_WEBHOOK = ' + repr(hook))
+          lines.append('FEISHU_WEBHOOK_ALERT = \"\"')
+          lines.append('IDEA_COUNT = 10')
+          lines.append('MAX_ITEMS_PER_SOURCE = 20')
+          lines.append('TIMEOUT = 15')
+          lines.append('USER_AGENT = \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36\"')
+          lines.append('MAX_NEWS_CHARS = 1500')
+          lines.append('DEBUG = False')
+          open('config.py', 'w').write(chr(10).join(lines))
+          print('config.py generated')
+          "
+
+      - name: Run cloud build
+        run: |
+          python run_cloud.py
+
+      - name: Commit data
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/ config.py
+          git commit -m "chore: auto update radar data $(date +'%Y-%m-%d %H:%M')" || echo "无变更"
+          git push origin HEAD || echo "推送失败（可能是无变更）"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .  # 整个仓库作为站点（index.html 在根目录）
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
