@@ -255,7 +255,7 @@ def fetch_gnews() -> list:
     if not GNEWS_API_KEY:
         return []
     items = []
-    queries = ["AI 短剧", "AI video", "short drama"]
+    queries = ["AI video generation", "text-to-video"]  # 免费版限流，只查2个
     for q in queries:
         try:
             resp = requests.get(
@@ -269,7 +269,10 @@ def fetch_gnews() -> list:
             for article in data.get("articles", []):
                 title = article.get("title", "")
                 desc = article.get("description", "")
-                if not _passes_filter(title, desc):
+                combined = f"{title} {desc}".lower()
+                # 强信号词过滤：标题或描述必须明确是 AI/视频生成相关
+                strong_kw = ["video generation", "text-to-video", "text to video", "ai video", "sora", "video model", "generative video", "ai film", "ai animation", "video generator"]
+                if not any(k in combined for k in strong_kw):
                     continue
                 items.append(
                     {
@@ -280,7 +283,7 @@ def fetch_gnews() -> list:
                         "biz_tags": ["industry"],
                     }
                 )
-            time.sleep(1)
+            time.sleep(3)  # 免费版严格限流，间隔拉长
         except Exception as e:
             if DEBUG:
                 print(f"[gnews] {q} 失败: {e}")
@@ -294,7 +297,8 @@ def fetch_all_apis() -> list:
     items.extend(fetch_github_releases())
     items.extend(fetch_hn_trending())
     items.extend(fetch_product_hunt())
-    items.extend(fetch_gnews())
+    # GNews 免费版延迟高/限流严，暂不自动抓取（函数保留，可手动启用）
+    # items.extend(fetch_gnews())
 
     seen = set()
     unique = []
