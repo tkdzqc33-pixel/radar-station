@@ -10,5 +10,5 @@ __pycache__/
 # Mac 系统
 .DS_Store
 
-# 生成的数据（云端构建时自动生成）
-data/
+# 语音缓存（大文件，不提交；云端构建生成后提交的是最终 briefing.mp3）
+data/tts_cache/

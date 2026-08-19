@@ -80,7 +80,7 @@ jobs:
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
-          git add data/ config.py
+          git add data/
           git commit -m "chore: auto update radar data $(date +'%Y-%m-%d %H:%M')" || echo "无变更"
           git push origin HEAD || echo "推送失败（可能是无变更）"
 
