@@ -74,7 +74,7 @@ jobs:
           lines.append('MAX_NEWS_CHARS = 1500')
           lines.append('PRODUCT_HUNT_CLIENT_ID = ' + repr(os.environ.get('PH_CLIENT_ID', '')))
           lines.append('PRODUCT_HUNT_CLIENT_SECRET = ' + repr(os.environ.get('PH_CLIENT_SECRET', '')))
-          lines.append('PRODUCT_HUNT_TOKEN = ""')
+          lines.append('PRODUCT_HUNT_TOKEN = ' + repr(''))
           lines.append('GNEWS_API_KEY = ' + repr(os.environ.get('GNEWS_KEY', '')))
           lines.append('DEBUG = False')
           open('config.py', 'w').write(chr(10).join(lines))
