@@ -13,6 +13,7 @@ from datetime import datetime, timedelta
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 HISTORY_FILE = os.path.join(DATA_DIR, "history.json")
 LATEST_REPORT_FILE = os.path.join(DATA_DIR, "latest_report.json")
+MORNING_BRIEF_FILE = os.path.join(DATA_DIR, "morning_brief.json")
 
 # 与 dashboard.py 保持一致的关键词
 TREND_KEYWORDS = [
@@ -41,6 +42,16 @@ def load_report() -> dict:
         except Exception:
             pass
     return {"items": [], "date": ""}
+
+def load_morning_brief() -> dict:
+    """读取分析师晨报"""
+    if os.path.exists(MORNING_BRIEF_FILE):
+        try:
+            with open(MORNING_BRIEF_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {}
 
 
 def _date_key(dt: datetime) -> str:
@@ -193,6 +204,7 @@ def build_all_stats() -> dict:
         "category_distribution": compute_category_distribution(items),
         "daily_counts": compute_daily_counts(items),
         "report_items": report_items,
+        "morning_brief": load_morning_brief(),
     }
 
 

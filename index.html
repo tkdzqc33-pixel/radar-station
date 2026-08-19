@@ -152,6 +152,7 @@ body{
     var d = this.data;
     if (!d) { this.container.innerHTML = '<div style="color:#666;padding:40px;text-align:center;">加载中...</div>'; return; }
     var s = d.summary;
+    var brief = d.morning_brief || {};
     var sCount = s.s_count || 0;
     var aCount = s.a_count || 0;
 
@@ -245,6 +246,22 @@ body{
     }).join('');
 
     // 视图内容（Tab 切换）
+    // 晨报卡片
+    var briefHtml = '';
+    if (brief && brief.top_story) {
+      briefHtml =
+        '<div style="position:relative;border-radius:16px;padding:16px 18px;margin-bottom:16px;background:linear-gradient(135deg,rgba(204,255,0,0.06) 0%,rgba(255,255,255,0.02) 60%);border:1px solid rgba(204,255,0,0.2);overflow:hidden;">' +
+        '<div style="font-size:10px;color:' + C + ';font-weight:700;letter-spacing:1px;margin-bottom:8px;">📊 分析师晨报</div>' +
+        '<div style="font-size:14px;font-weight:700;color:#fff;margin-bottom:8px;line-height:1.5;">🔝 ' + (brief.top_story || '') + '</div>' +
+        (brief.judgment ? '<div style="font-size:12px;color:rgba(255,255,255,0.7);line-height:1.7;margin-bottom:8px;">🧠 ' + brief.judgment + '</div>' : '') +
+        ((brief.actions || []).length ? '<div style="font-size:11px;color:rgba(255,255,255,0.6);margin-bottom:4px;">✅ 今日行动：</div>' : '') +
+        (brief.actions || []).map(function (a, i) {
+          return '<div style="font-size:12px;color:#fff;line-height:1.8;">' + (i + 1) + '. ' + a + '</div>';
+        }).join('') +
+        (brief.risk_alert ? '<div style="font-size:11px;color:#FF6B6B;margin-top:8px;">⚠️ ' + brief.risk_alert + '</div>' : '') +
+        '</div>';
+    }
+
     var homeView =
       // 概览总资产卡
       '<div style="position:relative;border-radius:18px;padding:22px;margin-bottom:16px;background:linear-gradient(135deg,' + rgba(C, 0.10) + ' 0%,rgba(255,255,255,0.03) 60%);border:1px solid ' + rgba(C, 0.2) + ';overflow:hidden;">' +
@@ -263,6 +280,8 @@ body{
       '<div style="width:5px;height:5px;border-radius:50%;background:rgba(255,255,255,0.2);"></div>' +
       '</div></div>' +
 
+      // 晨报
+      briefHtml +
       // 快捷操作
       '<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:16px;">' +
       '<div class="w3-action" data-action="refresh" style="display:flex;flex-direction:column;align-items:center;gap:6px;cursor:pointer;">' +

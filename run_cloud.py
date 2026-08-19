@@ -18,6 +18,7 @@ from analyzer import analyze_daily
 from reporter import format_daily_report
 from stats import build_all_stats
 from speaker import generate_speech, build_briefing_text
+from morning_brief import generate_morning_brief, save_morning_brief
 
 DATA_DIR = os.path.join(BASE_DIR, "data")
 HISTORY_FILE = os.path.join(DATA_DIR, "history.json")
@@ -152,9 +153,21 @@ def build():
         json.dump(stats_data, f, ensure_ascii=False, indent=1)
     print(f"  stats.json: {os.path.getsize(STATS_FILE)} bytes")
 
+    report_items = stats_data.get("report_items", [])
+
+    # 4.5 生成分析师晨报
+    print("→ 生成分析师晨报...")
+    if report_items:
+        try:
+            brief = generate_morning_brief(report_items)
+            save_morning_brief(brief)
+        except Exception as e:
+            print(f"  ⚠️ 晨报生成失败: {e}")
+    else:
+        print("  ⚠️ 无简报，跳过晨报")
+
     # 5. 生成语音简报（晓晓）
     print("→ 生成语音简报...")
-    report_items = stats_data.get("report_items", [])
     if report_items:
         try:
             text = build_briefing_text(report_items)
