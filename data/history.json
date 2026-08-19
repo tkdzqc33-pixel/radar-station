@@ -638,6 +638,375 @@
    "date": "2026-08-19",
    "category": "short_drama",
    "level": "A"
+  },
+  {
+   "title": "独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线",
+   "link": "http://www.geekpark.net/news/369051",
+   "summary": "宇树的下一张牌，是搭起一套系统，让全球 AI 的持续进步，转化为机器人不断加快的进化速度。 作者&nbsp;|&nbsp;Li Yuan 8 月 19 日，宇树科技正式登陆科创板。上市首日，公司股价一度较发行价涨超 6 倍，总市值突破 4400 亿元。 当市场盯着这家「机器人身体最强公司」的股价时，一个更重要的问题随之出现：获得更多资金和资源之后，宇树接下来要做什么？ 当天中午，王兴兴参加了宇树的上市答谢午宴。这几乎是公司上市后的标准动作：感谢一路支持的政府、股东和合作伙伴，再回望一遍创业十年的艰辛。 但在略显磕巴地完成这些常规致谢后，王兴兴没有就此结束，而是突然把话题转向技术，开始讲述宇树上市后真正准备投入的一套系统。 他的状态也随之变化。表达明显流畅起来，语速越来越快，从大模型讲到自动编程，从仿真训练讲到真机测试，再讲到机器人技能的自我进化。 显然，这部分内容他已经想了很久。 01 当 AI 进入机器人研发全过程 &nbsp; 王兴兴讲的并不是宇树即将发布的某个模型或产品，而是他对机器人技术下一阶段的判断：只做一个 AI 模型或者视频模型，整体竞争力和迭代速度已经不够。下一阶段真正重要的，是能否把模型、工具、仿真、真机和评价连接成一个系统。 AI 不只会成为机器人的大脑，还会进入机器人的研发过程，帮助人类设计、训练和迭代机器人。搭建这样一套系统的循环将是 具身智能 企业最重要的竞争力。 今天，要让机器人学会一项新技能，工程师仍然需要手工推动多个环节：寻找论文和算法、编写训练代码、调整仿真参数、部署真机测试，再根据机器人的表现修改程序。 王兴兴认为，这套开发方式仍然非常原始。AI 已经具备编程、信息检索、视频生成和结果分析能力，完全可能把这些环节逐步连接起来。 按照他描述的路径，AI 首先自动查询最新论文和开源代码，选择可能适用的方案，生成机器人的训练程序。代码随后进入仿真环境，也可以借助视频生成模型构造训练环境和素材。 完成仿真后，训练结果被部署到实体机器人上。机器人能否保持平衡、动作是否准确、任务成功率有多高，都需要在真实世界中重新验证。 最后，AI 再对真机表现进行评价和打分，同时保留人工评价，把结果反馈给系统，进入下一轮代码生成和训练。 整套链路由此形成： 寻找技术方案&mdash;生成代码&mdash;仿真训练&mdash;真机测试&mdash;评价结果&mdash;再次训练。 而每次训练成功的结果都不只是一次任务完成，而是为所有同类机器人增加一个可以复用的新能力，最终推动机器人智能进化。 在王兴兴看来，这套系统可以持续借用全球基础模型的进步。即使宇树自身的编程能力没有同步提升，只要底层模型变强，自动搜索、编程、训练和评价的能力也会一起提高。 在早期，仍然需要人来定义机器人应该完成什么任务、采用什么算法、如何判断成功，以及系统不能突破哪些安全边界。但按照王兴兴的判断，一旦这套闭环跑通，在现有算力条件下，它的编程和迭代速度可能超过一支数百人规模的 AI 团队。 这个循环被王兴兴称为「物理 AI 机器人自进化 V1.0」，是他眼中未来机器人算法能够加速迭代的关键。 02 关键是真机部署 &nbsp; 在王兴兴描述的这套系统里，最容易被注意到的是 AI：自动寻找论文、生成代码、运行仿真，再评价训练结果。 但真正决定这套循环能不能成立的，并不是 AI 会不会写代码，而是生成的结果能否进入足够多的实体机器人，在真实世界中反复测试，并把数据重新送回系统。 这也是机器人与今天的 AI 模型竞争最不同的地方。 最近两年，AI 领域出现了一个明显趋势：模型能力快速进步的同时，能力扩散也在加速。开源模型、公开论文，以及 AI 对编程、实验和评测的参与，让新能力能够更快被复现和追赶，单次模型领先所能维持的时间正在缩短。 这意味着，在纯数字世界中，模型能力本身并不能成为绝对壁垒。 但机器人多了一道环节：真机部署。 在王兴兴的设想中，未来数据将来自多种来源：编程、仿真、测试和评价本身都会产生数据。真机则负责为这套数字循环提供最难伪造的现实反馈。 因此，在王兴兴构想的智能飞轮中，前半段的基础模型、代码生成和仿真能力可能越来越普及，真正拉开差距的，是循环进入物理世界之后的部分：谁拥有更多性能稳定的机器人，谁能以更低的成本部署真机，谁又能把真实世界的反馈持续送回训练系统。 王兴兴设想，未来如果能够同时部署数千乃至数万台机器人，真机反馈数据可能在短时间内快速增长。 这恰好是宇树积累了近十年的优势。 招股书披露，报告期内宇树四足机器人累计销量超过 3 万台，2025 年人形机器人出货量超过 5500 台。相比仍在样机和小批量阶段的公司，宇树已经拥有更大规模的本体生产和交付基础。 它也掌握机器人自研电机、关节、运动控制和整机集成等关键能力。当一段训练代",
+   "source": "极客公园",
+   "date": "2026-08-19",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "上任仅半年，微软 AI 部门首席营销官安德烈娅 · 马拉德被曝即将离职",
+   "link": "https://www.ithome.com/0/991/823.htm",
+   "summary": "IT之家 8 月 19 日消息，据《商业内幕》今天（19 日）透露，微软 AI 部门首席营销官安德烈娅 · 马拉德上任仅约六个月，就已经开始逐步准备卸任。 微软在内部邮件中宣布，马拉德 计划离开公司 。一份 6 月 30 日内部备忘录显示，微软高管优素福 · 梅赫迪宣布，马拉德计划 8 月带家人迁往欧洲，以便陪伴身体欠佳的父亲，因此将逐步退出现有职务。 ▲ 安德烈娅 · 马拉德的 X 平台头像 微软已经确认马拉德的离职安排，她将在明年初之前继续以顾问身份留在公司。备忘录写道：“我非常感谢她为加快 Copilot 营销工作带来的活力，以及以消费者为中心的理念；安德烈娅在推动更加统一的策略方面发挥了重要作用，这其中包括单一应用体验。” 两名知情人士表示，马拉德离职也与 微软 AI 部门近期调整战略 有关。目前，微软正重新审视消费者营销方式，把面向个人用户和企业用户的 Copilot 应用合并成一个应用。作为微软的旗舰生成式 AI 产品，Copilot 整体表现仍落后于 ChatGPT 和 Claude 等竞争产品。 据IT之家了解，Copilot 营销工作将统一交由微软高管贾里德 · 斯帕塔罗负责，微软 AI 部门 也没有直接补上马拉德职位的计划 。 马拉德所在的微软 AI 部门 近几个月一直处于调整期 。今年 3 月，微软将微软 AI CEO 穆斯塔法 · 苏莱曼调往新岗位，负责一个专注于超级智能的团队，同时把原本分散的企业和消费者 Copilot 团队整合到一名新高管旗下。 马拉德在消费者营销领域资历深厚，曾担任 Pinterest 首席营销官超过 7 年。更早之前，她负责 Gap 旗下运动休闲品牌 Athleta 的营销工作，也曾出任虚拟医疗公司 Omada Health 首席营销官。 今年 1 月，她离开 Pinterest 加入微软 AI 部门。当时，她认为 AI 是自己一生中影响最深远的一次技术变革。“我们肩负着巨大的责任，必须把这件事做好。”",
+   "source": "IT之家",
+   "date": "2026-08-19",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "单店月入42万，东北造的“韩国冰奶”走红，凭什么？",
+   "link": "https://www.huxiu.com/article/4884368.html",
+   "summary": "韩国冰奶的走红，是一场本土品类披上“韩式外衣”的概念营销，也是茶饮行业每年夏天固定上演的爆品轮回。”这个夏天，茶饮行业最大的黑马，非“韩国冰奶”莫属。一批打着“韩国”招牌的冰奶专门店密集涌现：有人已经开出200+家店，有人新店开业首月营收突破42万元。几乎一夜之间，上海、杭州、北京的热门商圈都冒出了马卡龙色系...... 本文来自微信公众号： 职业餐饮网 ，作者：程三月，原文标题：《单店月入42万！东北造的“韩国冰奶”走红，凭什么？》 韩国冰奶的走红，是一场本土品类披上“韩式外衣”的概念营销，也是茶饮行业每年夏天固定上演的爆品轮回。 ” 这个夏天，茶饮行业最大的黑马，非“韩国冰奶”莫属。 一批打着“韩国”招牌的冰奶专门店密集涌现：有人已经开出200+家店，有人新店开业首月营收突破42万元。 几乎一夜之间，上海、杭州、北京的热门商圈都冒出了马卡龙色系的冰奶小店，门口排起长队。 大牌也在跟进。茶百道荔枝冰奶回归首日卖出70万杯，51天累计售出超1700万杯；沪上阿姨旗下的茶瀑布冰奶系列稳居品牌销量前三，销售占比超过20%；书亦烧仙草、CoCo都可、甜啦啦纷纷上新……整个行业仿佛都挤进了这条赛道。 但这个顶着“韩国”名头的爆款，在韩国本土却“查无此物”。比如当下比较火的品牌“WUYOO”来自沈阳，“oh mo！”出自辽阳，彻头彻尾的中国制造。 一个“伪韩系”品类，凭什么搅动2026年新茶饮江湖？ 韩国冰奶，成为今夏茶饮新顶流！ “颜值好高，随手一拍就能出片，秒变韩剧女主！”、“味道很清爽，太适合我这种喝茶睡不着的人”…… 社交平台上，消费者用最直接的语言表达着对冰奶的追捧，在抖音上，#韩国冰奶目前的话题播放量高达6280多万。 不少韩国冰奶店的月销量都是上千单 线下专门店排队、头部品牌纷纷跟进，一杯“冰+奶”的极简饮品，成了2026年夏天茶饮的流量担当。 1、跑出了一批专门店品牌，有人已开出200+店 今夏冰奶赛道最引人注目的现象，是一批“韩国冰奶”专门店的密集刷屏。 这些门店以清新的马卡龙色系装潢、满杯果肉冰沙和醒目的韩文标识为特征，在上海、杭州、北京等城市的热门商圈扎堆开出。 WUYOO是这一轮扩张的典型代表。这个源自沈阳的品牌，产品线极为简单，核心就是冰加鲜奶，最多搭配少量鲜果调味，没有奶盖、没有芋圆、没有波波脆。 官方数据显示，截至2026年6月底，WUYOO全国门店已超200家，正陆续在北京、杭州、河北、河南、山西等地扩张。今年5月，该品牌在青岛四店齐开，其中CBD店开业首月营业额即突破42万元。 另一个品牌oh mo！号称全国首家韩国冰奶连锁品牌，2024年从辽宁辽阳县起步，据其官方宣称，目前全国已有100多家门店，覆盖深圳、北京、杭州等地。 6月中旬，该品牌宣布全国12店齐开，江浙沪地区三季度预计再开30家。 据媒体报道，oh mo！宁波黑金店日均营业额约2万元。其口碑产品包括咸感海盐冰奶、粉嫩玫瑰荔枝冰奶和冰绿豆冰奶等。 除此之外，市场还不断出现LULUYOO、Mumou、kacha、MOMO、晓肆、SoSo、欧尼佑佑等韩国冰奶品牌。 这些专门店的价格大多落在15到25元区间，团购活动甚至能做到6.9元一杯，加上“韩剧同款”的社交标签，迅速吸引年轻人打卡。 2、头部品牌纷纷跟进，“冰奶风”席卷茶饮业 韩国冰奶专门店的野蛮生长仅是冰山一角，一场席卷全行业的冰奶竞赛，正在全面上演。 茶百道是头部品牌中最早布局冰奶品类的先行者。 2025年，茶百道首创“荔枝冰奶”，将其打造为年度爆款单品。2026年5月20日，荔枝冰奶回归，上市首日热销70万杯，创下其近年来单品首日销售纪录，19天累计售出超1000万杯。 有茶百道店员发帖感慨：“谁懂啊，单子实在太多了，一天都在剥荔枝，手都麻了。”一位加盟商反馈，仅荔枝冰奶一天就卖了500多杯。 沪上阿姨旗下茶瀑布同样将冰奶系列做成了“销量担当”。 其上架了抹茶茉莉冰奶、青苹果茉莉冰奶、绿豆牛乳冰奶等多款产品。据相关负责人介绍：“冰奶系列产品目前占据产品销售TOP3，随着持续上新，该品类销售占比超20%。” 奈雪的茶在2025年“520”期间推出玳玳花蟠桃冰奶，迅速登上外卖平台热门趋势榜单TOP2，带动部分门店销售额环比上涨290%。2026年7月，进一步推出香柚抹茶冰奶。 书亦烧仙草于2026年7月正式推出“冰奶季”，首发产品海风青柠冰奶上市首周销量突破120万杯。 此外，CoCo于2026年7月上新轻轻柠檬冰奶，活动价9.9元；甜啦啦于6月推出“啦啦冰奶”系列；古茗也陆续推出荔枝冰奶、芭乐冰奶等产品。 韩国“查无此物”， 东北原生冰奶，为何火了？ 有意思的是，韩国冰奶火了，但不少身在韩国的网友纷纷在社交平台辟谣：韩国根本没有冰奶这个东西。 不少网友社交平台辟谣：韩国没有冰奶 那一个\"查",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-08-19",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "字节-MPA签订AI版权治理架构：输出侧治理、输入侧“再议”",
+   "link": "https://www.huxiu.com/article/4884361.html",
+   "summary": "2026年8月17日，字节跳动与美国电影协会（MPA）签署谅解备忘录（MOU），就字节旗下的Seedance视频模型、Seedream图像模型等平台知识产权保护建立“合作框架”。MPA主席Charles Rivkin称双方将“实施有意义的护栏”，字节跳动总法律顾问John Rogovine表示，“负责任的AI...... 本文来自微信公众号： Internet Law Review ，作者：张颖 2026年8月17日，字节跳动与美国电影协会（MPA）签署谅解备忘录（MOU），就字节旗下的Seedance视频模型、Seedream图像模型等平台知识产权保护建立“合作框架”。MPA主席Charles Rivkin称双方将“实施有意义的护栏”，字节跳动总法律顾问John Rogovine表示，“负责任的AI创新与对权利人的切实保护密不可分”。 值得注意的是，这是一份“输出侧的治理框架协议”，而非训练数据（输入侧）的授权合同。MPA官方稿明确，协议的目的是“在Seedance和Seedream上维护强护栏”，覆盖的产品矩阵式TikTok、CapCut、Dramina等用户触达层。公开信息中协议并未披露任何财务条款、许可费、片库授权范围等。因此，无论媒体说的“休战”还是“开放版权库”，都有所误读。 这个微妙的差异很重要，因为它揭示了AI版权治理中一个更为真实的商业诉求甚至是未来方向：输出侧护栏而非输入侧阻断才更直接地呈现了影视公司的核心利益，也有利于AI公司在发展业务的同时采取有效的保护措施。这一点，既能在近期迪士尼诉Midjourney案中找到依据和教训，又符合美国目前整个AI版权治理的大趋势。 一、美国国会立法路径：透明而非禁止 2026年6月30日，美国众议院司法委员会举行了一场“40岁中年危机”的听证会，主要针对互联网领域的知识产权进行了多轮专家论证。萨福克大学法学院Bhamati Viswanathan在证词中，对AI训练数据问题进行了系统性质疑：他不仅质疑Alsup法官在Anthropic案中对“合理使用”进行的宽口径解读，更强调“许可成本太高”绝非有效抗辩。 但即便是Viswanathan这种对AI公司持批评态度的学者，提出的解决方案也是“轻触式监管”（a light hand of regulation）——激励许可市场形成，而非强制干预。这一思路正对应了美国国会近期围绕AI训练数据版权的立法路径。 拟议中的CLEAR法案（S.3813）对AI公司的核心义务要求只有一项：强制披露；而TRAIN法案的核心机制则是“允许版权所有人获得行政传票”。这个两法案一方面要求AI公司将训练数据“透明化”，一方面赋予版权者一项要求AI公司披露的知情权，但都没有试图解决或判定：在生成式AI模型中使用版权作品进行训练，是否构成版权侵权。 训练数据使用的实体合法性，似乎仍需要通过个案的司法判决来决定。 二、司法实践：赔偿，但还有“反噬” Anthropic案（Bartz v.Anthropic）以15亿美元和解收场，看似推动了行业向“授权框架”演进，但实际上，最终赔偿的只是对“盗版数据”那部分的经济补偿，“合理使用”的解释虽没有成为先例，但也留下了巨大的破口。对整个案件结果最满意的，恐怕只有原告律师和Anthropic公司。 迪士尼与环球诉Midjourney案，则揭示了更复杂的产业博弈。2025年6月，迪士尼和环球联合起诉Midjourney，110页诉状中几乎都在做详细的“用户提示词vs.Midjourney生成图像”的并排对比，展示模型如何生成艾莎公主、巴斯光年、怪物史莱克等角色，且这些图片“几乎与官方艺术作品无异”。制片公司将Midjourney描述为“无底洞的抄袭”和“版权搭便车”。诉状强调，Midjourney按需求输出未经授权的受版权保护角色。这也是迄今为止关于生成式人工智能和知识产权的最大法律争斗之一。 但本案目前最值得关注的是2026年6月发生的一个转折：Midjourney反手要求迪士尼、环球、华纳兄弟披露他们自己内部用AI训练的数据集、模型权重和董事会AI决策文件，理由是：这些公司内部也广泛使用生成式AI，很可能同样在用未授权素材训练。 地方法官A.Joel Richlin已经部分支持了Midjourney的请求，要求片厂披露面向消费者的AI应用相关信息——制片厂自身的AI实践与本案问题至少有一定相关性，而驳回了对内部工具、训练数据集、模型权重的宽泛披露要求。Midjourney已向地区法院上诉，要求扩大披露范围。 这一证据披露令的杀伤力在于：它把“输入侧侵权”的矛头调转指向了原告。制片公司如果也在训练AI并使用了无版权授权的数据，首先会增加Midjourney在本案中的胜诉几率，而更重要的是，这一诉讼策略将会超出本案范",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "《牛来》让很多人破防，因为它励志",
+   "link": "https://www.huxiu.com/article/4884358.html",
+   "summary": "本文来自微信公众号：判官老司机（ID：panguansays），作者：判官封面图使用GPT生成今天七夕。对织女来说，今天就是牛来。最近这个电影热度很高。一开始很多人头铁，听说它史无前例地粗糙，好奇心来了。就像听说豆汁难喝、西湖醋鱼难吃一样，“烂片不一定看但烂到极致必须要尝尝咸淡”。先声明我没去看，不是因为有洁...... 本文来自微信公众号： 判官老司机 ，作者：判官老司机 本文来自微信公众号：判官老司机（ID：panguansays），作者：判官 封面图使用GPT生成 今天七夕。对织女来说，今天就是牛来。 最近这个电影热度很高。一开始很多人头铁，听说它史无前例地粗糙，好奇心来了。 就像听说豆汁难喝、西湖醋鱼难吃一样，“烂片不一定看但烂到极致必须要尝尝咸淡”。 先声明我没去看，不是因为有洁癖，是因为我家边上的电影院倒闭了，今年的电影我一概没看。 但整个事情的抽象程度越来越高，也越来越好玩。 一般的电影，别说整段拍视频，你就是拍个照片发社交媒体，都有人指责你屏摄，把你批判一番。 但看这部电影，大家都兴高采烈地掏出手机边看边拍，以至于网上到处都是现场气氛热烈的视频，好像在演唱会现场。 现场观众从龙标一出来就开始笑，中间甚至笑出牛叫，什么周星驰、沈腾都要靠边站，从这个角度来说，牛来是一部现象级作品。 更不用说在观众席组字、股民买影票支持以图个吉利，这就完全超越了电影范畴，属于各取所需了。 本来我觉得这事就是个行为艺术，大家乐呵乐呵得了，明眼人都知道这种成功是完全偶然、不可复制的，结果这几天有人开始一本正经批评这部电影。 昨天我看到个导演接受采访，说“我们用心拍电影的人成了小丑”，说的好像没有牛来，他的作品就能大卖了一样。 还有媒体人说“劣币驱逐良币变成了冥币驱逐劣币”。 拜托，冥币是假币，《牛来》作为正经合规的电影，怎么就成了假币呢？ 《牛来》是部完全反工业化、完成度很低的作品，它的大红大紫本来是个挺励志的事，但很多人骂它，恰恰因为它励志，让一些穷尽心机而不得的人破防。 说再直白些，很多人天天想走捷径，不想踏实做事，看到牛来爆火，就本能认为这么粗糙的作品能红，肯定是走了捷径，于是无能狂怒：凭啥你能走通而我走不通？ 回顾这部电影的制作过程，至少有三点对普通人是有启发的。 最早关于牛来是如何获得龙标（电影公映许可证）的争议，是有人站出来信誓旦旦说，导演和制片方靠关系拿到龙标骗地方专项补贴。 后来有业内人士出来解释，龙标并不审核电影内容完成度和美观程度，只要不出现技术问题和合规问题就可以申请。 就这样，很多人还不理解，非觉得有内幕、有关系，但不愿自己去官方网站亲自查一查申请流程。 这些年我对这类情况一直有很深的体会。 其实大多数工作真的没那么难，你按着流程去做就行了，哪怕繁琐一些，但规则和方法都是清晰的。 现实中不查不做不尝试的人太多了，为了掩饰自己的行动力缺乏，才会把它想的很专业。 一旦分解开来，会发现很多看似复杂的工作，其实你都能完成。 更重要的是，连公开信息都不查的人，都没走到分解和执行那一步就认输了。在他们眼里，世上无易事，动嘴最安全。 所以下次遇到看似复杂的工作，先尝试搜集信息和分解，然后大胆开始做，往往就会柳暗花明。 又不是让你手搓光刻机，你慌什么。 然后，还有一部分人抨击影片本身的质量，说这么糙的东西怎么好意思拿出来上院线公映？ 我就奇怪了，国家都给发了公映许可证，这电影上院线是违法了还是犯罪了？这有什么好喷的？ 我前几天录一档播客节目时表达过一个观点：世界是个巨大的推荐系统。 人通过工作和自我表达来让世界认识你，你咋知道世界不欢迎你这样的人和作品呢？ 我是做产品的，也做个体户很多年。十几年前我第一个产品没有做任何开发，就是依托微博、QQ群、支付宝就跑通了获客、运营、收款流程。 哪怕后边开发了一个网站，也是没有任何图片元素，放在今天用AI五分钟就能搓出来。 如今大家都在用AI搓产品、用手机拍视频，但很多人大概是中了完美主义的毒，老觉得自己的产品和作品太粗糙，发表出来怕丢人。 这就纯属想多了，大家都挺忙的，谁在乎你出门洗没洗头啊。 你的产品和作品不发出来，就永远没机会接受真实市场的检验，你也就没机会迭代和拿到可能的结果。 所以前几天我在网上看到一句话，觉得很提气：牛来都能上映，你的产品还在因为追求完美不发布？ 最后回到影片本身。 按现在的票房，制片方和导演母子分账到手上千万已成定局，甚至后续放映、IP授权的收益可能会更高。 有人开始红眼病，说花几千块钱买二手电脑做出来的垃圾也能大卖，这世界疯了。 他们大概忘了，导演母子从零起点上手到影片上映，用了五年时间。合着五年的时间不算成本吗？ 五年中，有任何一个时刻，他们会预测到，这部电影能让他们获得哪怕超过十万的收入吗？ 所以这部电影就是完全的家庭作坊式的作品，连发行方都认为它的故事到",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-08-19",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者",
+   "link": "https://github.com/HBAI-Ltd/Toonflow-app",
+   "summary": "⭐14105星 | 语言:TypeScript | 更新:2026-08-19 | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "[GitHub] krillinai/KrillinAI: AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. F",
+   "link": "https://github.com/krillinai/KrillinAI",
+   "summary": "⭐11196星 | 语言:Go | 更新:2026-08-19 | AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTub",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "[GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, De",
+   "link": "https://github.com/szczyglis-dev/py-gpt",
+   "summary": "⭐1885星 | 语言:Python | 更新:2026-08-19 | Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation tool. Uses Gemini for generating sto",
+   "link": "https://github.com/0xsline/StoryGen-Atelier",
+   "summary": "⭐958星 | 语言:JavaScript | 更新:2026-08-19 | AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high",
+   "link": "https://github.com/clipturbo/clipturbo",
+   "summary": "⭐849星 | 语言:未知 | 更新:2026-08-16 | 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high-quality marketing videos with one click.",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[GitHub] TorresLi608/SceneFlow: 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intell",
+   "link": "https://github.com/TorresLi608/SceneFlow",
+   "summary": "⭐2星 | 语言:Python | 更新:2026-08-19 | 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intelligent dialogue, AI-generated images/videos, AI short dramas/AI animated series, and a suite of management backends.",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本",
+   "link": "https://github.com/winsentrobot008/TOONOOT",
+   "summary": "⭐0星 | 语言:HTML | 更新:2026-05-23 | TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scrip",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & vid",
+   "link": "https://github.com/Anil-matcha/Open-Generative-AI",
+   "summary": "⭐26668星 | 语言:JavaScript | 更新:2026-08-19 | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with ",
+   "link": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+   "summary": "⭐13232星 | 语言:TypeScript | 更新:2026-08-19 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima",
+   "link": "https://github.com/jamez-bondos/awesome-gpt4o-images",
+   "summary": "⭐8123星 | 语言:JavaScript | 更新:2026-08-19 | Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabili",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[GitHub] open-mmlab/mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unl",
+   "link": "https://github.com/open-mmlab/mmagic",
+   "summary": "⭐7455星 | 语言:Jupyter Notebook | 更新:2026-08-19 | OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[GitHub] Osmantic/ODS: Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic",
+   "link": "https://github.com/Osmantic/ODS",
+   "summary": "⭐4396星 | 语言:Python | 更新:2026-08-19 | Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All",
+   "link": "https://github.com/hpcaitech/Open-Sora",
+   "summary": "⭐29281星 | 语言:Python | 更新:2026-08-19 | Open-Sora: Democratizing Efficient Video Production for All",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "[GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid",
+   "link": "https://github.com/SoraWebui/SoraWebui",
+   "summary": "⭐2404星 | 语言:TypeScript | 更新:2026-08-15 | SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from i",
+   "link": "https://github.com/D-Ogi/WatermarkRemover-AI",
+   "summary": "⭐1774星 | 语言:HTML | 更新:2026-08-19 | AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI.",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation",
+   "link": "https://github.com/lichao-sun/Mora",
+   "summary": "⭐1593星 | 语言:Python | 更新:2026-08-17 | Mora: More like Sora for Generalist Video Generation",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] all-in-aigc/sorafm: Sora AI Video Generator by Sora.FM",
+   "link": "https://github.com/all-in-aigc/sorafm",
+   "summary": "⭐1154星 | 语言:TypeScript | 更新:2026-08-15 | Sora AI Video Generator by Sora.FM",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "B"
+  },
+  {
+   "title": "[GitHub] cporter202/automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand ",
+   "link": "https://github.com/cporter202/automate-for-growth",
+   "summary": "⭐762星 | 语言:未知 | 更新:2026-08-19 | Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration.",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m",
+   "link": "https://github.com/AIM-Intelligence/video2robot",
+   "summary": "⭐725星 | 语言:Python | 更新:2026-08-19 | End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot motions",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[GitHub] SamurAIGPT/Vibe-Workflow: Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFau",
+   "link": "https://github.com/SamurAIGPT/Vibe-Workflow",
+   "summary": "⭐558星 | 语言:JavaScript | 更新:2026-08-19 | Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models",
+   "link": "https://github.com/mazsola2k/ai-video-editor",
+   "summary": "⭐57星 | 语言:Python | 更新:2026-08-17 | AI Video Editor Pipeline with Vision LLM Models",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le",
+   "link": "https://github.com/weshopai/awesome-Seedance-2.0-prompt",
+   "summary": "⭐26星 | 语言:未知 | 更新:2026-07-22 | A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Learn how to generate cinematic videos, anime scenes, UGC content, social media creatives, memes, and ads with precision. ",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "[GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet",
+   "link": "https://github.com/bitsandbrainsai/ai-ad-creative-strategist",
+   "summary": "⭐21星 | 语言:未知 | 更新:2026-08-18 | Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates competitor ad intelligence, performs multimodal creative strategy extraction, enables brand-safe adaptation, and generates AI ",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] nabobery/veo3-workflow-agents: A complete AI-powered video generation pipeline that enhances creative prompts a",
+   "link": "https://github.com/nabobery/veo3-workflow-agents",
+   "summary": "⭐16星 | 语言:Python | 更新:2026-07-03 | A complete AI-powered video generation pipeline that enhances creative prompts and generates high-quality videos using Google's Veo3 API, requiring only a single API key.",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w",
+   "link": "https://github.com/ajoesoft/ai0-video-creator",
+   "summary": "⭐15星 | 语言:TypeScript | 更新:2026-08-13 | Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI workflows and cloud APIs. Create short dramas, translated videos, vocabulary tutorials, dialogue clips and original stori",
+   "source": "GitHub开源",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "[HN] Show HN: A different kind of AI Video generation",
+   "link": "https://news.ycombinator.com/item?id=44383086",
+   "summary": "👍45分 | 19评论 | 2025-06-26 | Hello!<p>I&#x27;m Andrew Arrow, a developer and Final Cut Pro user. My history with FCP goes back years and years, I tried to be a video editor as a career but ended up a software developer. I purchas",
+   "source": "Hacker News",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[HN] Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
+   "link": "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video",
+   "summary": "👍158分 | 24评论 | 2026-01-22 | Writeup (includes good&#x2F;bad sample generations): <a href=\"https:&#x2F;&#x2F;www.linum.ai&#x2F;field-notes&#x2F;launch-linum-v2\">https:&#x2F;&#x2F;www.linum.ai&#x2F;field-notes&#x2F;launch-linum-v2",
+   "source": "Hacker News",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[HN] Meta’s new text-to-video AI generator is like DALL-E for video",
+   "link": "https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e",
+   "summary": "👍103分 | 28评论 | 2022-09-29 | ",
+   "source": "Hacker News",
+   "date": "2026-08-19",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "[HN] Google announces Veo, their Sora competing text/image-to-video model",
+   "link": "https://aitestkitchen.withgoogle.com/tools/video-fx",
+   "summary": "👍88分 | 3评论 | 2024-05-14 | ",
+   "source": "Hacker News",
+   "date": "2026-08-19",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "[HN] Sora: Creating video from text",
+   "link": "https://openai.com/sora",
+   "summary": "👍3647分 | 2231评论 | 2024-02-15 | ",
+   "source": "Hacker News",
+   "date": "2026-08-19",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "[HN] Sora is here",
+   "link": "https://openai.com/index/sora-is-here/",
+   "summary": "👍1152分 | 983评论 | 2024-12-09 | ",
+   "source": "Hacker News",
+   "date": "2026-08-19",
+   "category": "industry",
+   "level": "S"
+  },
+  {
+   "title": "[HN] Goodbye to Sora",
+   "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+   "summary": "👍1142分 | 851评论 | 2026-03-24 | <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;soraofficialapp&#x2F;status&#x2F;2036532795984715896\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;soraofficialapp&#x2F;status&#x2F;20365327959847158..",
+   "source": "Hacker News",
+   "date": "2026-08-19",
+   "category": "industry",
+   "level": "S"
+  },
+  {
+   "title": "[HN] Sora 2",
+   "link": "https://openai.com/index/sora-2/",
+   "summary": "👍905分 | 878评论 | 2025-09-30 | Video: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=gzneGhpXwjU\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=gzneGhpXwjU</a><p>System card: <a href=\"https:&#x2F;&#x2F;open",
+   "source": "Hacker News",
+   "date": "2026-08-19",
+   "category": "industry",
+   "level": "S"
+  },
+  {
+   "title": "[HN] Disney making $1B investment in OpenAI, will allow characters on Sora AI",
+   "link": "https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html",
+   "summary": "👍327分 | 2评论 | 2025-12-11 | ",
+   "source": "Hacker News",
+   "date": "2026-08-19",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "[HN] The Walt Disney Company and OpenAI Partner on Sora",
+   "link": "https://openai.com/index/disney-sora-agreement/",
+   "summary": "👍269分 | 501评论 | 2025-12-11 | <a href=\"https:&#x2F;&#x2F;www.cnbc.com&#x2F;2025&#x2F;12&#x2F;11&#x2F;disney-openai-sora-characters-video.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnbc.com&#x2F;2025&#x2F;12&#x2F;11&#x2F;disney-ope",
+   "source": "Hacker News",
+   "date": "2026-08-19",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "[HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora",
+   "link": "https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/",
+   "summary": "👍206分 | 3评论 | 2026-03-24 | ",
+   "source": "Hacker News",
+   "date": "2026-08-19",
+   "category": "industry",
+   "level": "S"
   }
  ]
 }

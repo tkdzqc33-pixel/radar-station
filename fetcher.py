@@ -10,6 +10,7 @@ import requests
 
 from config import TIMEOUT, USER_AGENT, MAX_ITEMS_PER_SOURCE, DEBUG
 from sources import RSS_SOURCES, FILTER_KEYWORDS_MUST, FILTER_KEYWORDS_EXCLUDE
+from api_fetcher import fetch_all_apis
 
 
 def _headers():
@@ -98,6 +99,11 @@ def fetch_all() -> list:
                 continue
             all_items.append(item)
         time.sleep(0.8)  # 礼貌间隔，避免触发限流
+
+    # 追加免费 API 数据源（GitHub 开源趋势 + Hacker News 全球风向）
+    print("  [api] 抓取免费 API 数据源...")
+    api_items = fetch_all_apis()
+    all_items.extend(api_items)
 
     # 去重（按标题前50字）
     unique = []
