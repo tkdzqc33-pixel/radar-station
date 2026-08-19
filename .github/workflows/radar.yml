@@ -53,6 +53,8 @@ jobs:
         env:
           DEEPSEEK_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           FEISHU_HOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          PH_TOKEN: ${{ secrets.PRODUCT_HUNT_TOKEN }}
+          GNEWS_KEY: ${{ secrets.GNEWS_API_KEY }}
         run: |
           python3 -c "
           import os
@@ -69,6 +71,8 @@ jobs:
           lines.append('TIMEOUT = 15')
           lines.append('USER_AGENT = \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36\"')
           lines.append('MAX_NEWS_CHARS = 1500')
+          lines.append('PRODUCT_HUNT_TOKEN = ' + repr(os.environ.get('PH_TOKEN', '')))
+          lines.append('GNEWS_API_KEY = ' + repr(os.environ.get('GNEWS_KEY', '')))
           lines.append('DEBUG = False')
           open('config.py', 'w').write(chr(10).join(lines))
           print('config.py generated')

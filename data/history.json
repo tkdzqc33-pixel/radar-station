@@ -1007,6 +1007,60 @@
    "date": "2026-08-19",
    "category": "industry",
    "level": "S"
+  },
+  {
+   "title": "广汽埃安焕新 LOGO 首车 Ray7 亮相，搭载新一代华为 DriveONE 多合一电驱",
+   "link": "https://www.ithome.com/0/991/827.htm",
+   "summary": "IT之家 8 月 19 日消息，在今晚的埃安超级纯电诞生夜活动上， 广汽埃安焕新 LOGO 第一车 Ray7 正式亮相 ，主打“超高颜值、超级底盘、超级三电、超级智能”。 据介绍，广汽埃安焕新 LOGO 首车 Ray7 拥有“闪电黄”和“仲夏紫”两款车色， 提供 5 米级越级尺寸车身 ，采用经典运动姿态 + 低趴宽体设计，并配备量子星环前后灯组。新车还拥有豪车级车漆 + 光影型面设计， 支持 0.22Cd 低风阻 。 新车整车控制全面电气化， 全球首发芯片级驱制融合架构，全球首搭华为 EMB 全电线控制动 ，并配有华为 iTRACK 智能扭矩控制系统。广汽埃安 Ray 7 还采用铝混前双叉臂 + 后五连杆悬挂，辅以前后稳定杆， 同时配有 FSD 可变阻尼悬架 + HRS 液压回弹止动器 。 广汽埃安 Ray 7 拥有全新热管理系统 + 28 合 1 热管理模块， 搭载新一代华为 DriveONE 多合一电驱 ，内置宁德时代整包电池， 采用弹匣电池 2.0 方案 。新车还拥有文远知行 L4 级同源大模型算法， 配备 27 个车规级全视角传感器 ，含 192 线激光雷达 + 3 颗 4D 毫米波雷达， 支持无导航漫游找车位等功能 。 工信部本月早些时候公布的申报信息显示，广汽埃安 Ray 7 搭载华为数字能源技术有限公司的 180kW 峰值功率电机，配备时代广汽动力电池有限公司（宁德时代、广汽、埃安合资）、因湃电池科技有限公司（广汽埃安旗下自研电池企业）的电池。 据IT之家此前报道，“Ray”是广汽埃安今年 7 月官宣的全新车系，首款车型“Ray 7”定位是“年轻人热爱的超级纯电轿车”。该车尺寸为 4960×1900×1455mm，轴距 2920mm。 相关阅读： 《 广汽埃安 Ray 7 纯电轿车申报：华为 180kW 电机、宁德时代 / 因湃电池 》",
+   "source": "IT之家",
+   "date": "2026-08-19",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "Anthropic和亚马逊为什么要销毁正版图书？",
+   "link": "https://www.huxiu.com/article/4884366.html",
+   "summary": "为了训练大语言模型，一些美国科技巨头正在系统性销毁人类文明的实体载体——书籍。2026年初，媒体曝光了Anthropic公司自2024年起斥资数千万美元收购数百万册二手纸质图书，高速扫描后将实体原件全部销毁。近日亚马逊公司也被追踪到大量购买实体书籍、扫描后销毁原书。实际上，美国AI公司...... 题图来自：AI生成 为了训练大语言模型，一些美国科技巨头正在系统性销毁人类文明的实体载体——书籍。2026年初，媒体曝光了Anthropic公司自2024年起斥资数千万美元收购数百万册二手纸质图书，高速扫描后将实体原件全部销毁。近日亚马逊公司也被追踪到大量购买实体书籍、扫描后销毁原书。实际上，美国AI公司销毁书籍是为了迎合美国的著作权法规定，降低训练素材授权的版权风险，而中国法律的规定有所不同，所以中国AI公司没必要这么做，今天就跟大家聊聊这个事情。 一、毁书百万册的巴拿马计划 Anthropic拆书、扫描然后销毁的项目，内部代号为巴拿马。根据公开披露的诉讼文件，该项目以流水线方式运作：大批正版图书被运入处理中心，工人将书脊切离、书页分离，再通过高速扫描设备将每一页转化为数字文本，这些文本会留存，用于大模型训练，而书的纸质原件则会被销毁。目前这么做的已经不只Anthropic，随着亚马逊等公司的跟进，二手书商们开始接到更多的异常订单。 但值得注意的是，并不是所有人工智能公司都选择这种方式。马斯克在2026年7月公开表示，SpaceX&nbsp;AI对于珍贵图书会采用更麻烦的方式扫描，而不是直接切掉书脊；Google早年的Google Books项目则是典型的非破坏性数字化，即使扫描全书建立数据库，也没有把原书销毁。换句话说，拆书并不是技术上的必然选择，而是Anthropic等公司在权衡法律风险与商业成本后的选择，而决策的逻辑需要从美国著作权法中寻找答案。 二、销毁图书只是为了版权合规吗？ Anthropic和亚马逊为什么要销毁正版图书？实际是在试图构建一条符合美国《著作权法》的训练数据获取通道，以便抵御著作权人的诉讼攻击。Anthropic曾经尝试与出版商谈判获得授权，但美国的大型出版商要求的许可费用极其高昂，且谈判周期极长。所以Anthropic最终决定直接从市场上匿名大量购买二手实体书。 美国著作权法规定，版权所有者在售出特定实体副本后，无权干涉买方对该特定副本的处置权 （如转售、出借或销毁） 。Anthropic合法出资购买正版书，确保了其对实体书籍拥有合法的处分权。但如果购买了纸质书并将其扫描为数字版，同时保留纸质书，在法律上容易被认定为复制权侵权。而销毁纸质原件，则可以主张一份合法购买的实体复制件被一份数字复制件替代，未侵害著作权人的权益。 这样获得的数字版合规性更高，作为镜像对照，Anthropic曾从多个盗版站点免费下载逾700万本盗版书，被法院认定为侵权，其不得不和版权人达成了一个总额高达15亿美元的集体诉讼和解。 但除了训练素材版权合规外，Anthropic和亚马逊这么做还有没有其他目的，笔者表示怀疑，因为同样要训练大模型，OpenAI和谷歌就没有传出大规模销毁图书的新闻。所以不排除销毁实体书也是为了增加自身大模型的竞争力，如果孤本图书被销毁，其内容只有用其训练的大模型还保留着线索，其他大模型没有，这也是一种独特的竞争力。 三、为什么中国AI公司无需销毁训练用图书？ 如果中国公司模仿Anthropic的做法，购买书籍、扫描后销毁原件、用于训练大模型，由于法律规定不同，很难起到Anthropic在美国的效果。 根据中国的法律，扫描的行为本质是复制，即便人工智能公司买了实体书，根据法律，其可以转卖、赠与或者销毁实体书，但无权未经许可复制该实体书，否则涉嫌侵权图书作者对作品享有的复制权，而扫描就是复制。当然，个人用户把自己的书扫描后供个人使用，可能构成合理使用，但公司扫描书用于模型训练的，不管扫描后是不是销毁原件，在扫描前就必须取得版权许可。 最后，书籍变成了大模型记忆的一部分，对人类的文明是不是有好处，目前尚未可知。但如果大模型公司竞争失败倒闭了，这些模型不再在市场上流通，书籍又被销毁了，那么人类文化的一部分就会消失。所以这种破坏式的数据获取方式，实际是对人类文明载体的不可逆的消耗。 本文作者：游云庭，知识产权律师。Email: yytbest@gmail.com，本文仅代表作者观点。",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "[版本更新] Open-Sora v1.3: Open-Sora V1.3 Release",
+   "link": "https://github.com/hpcaitech/Open-Sora/releases/tag/v1.3",
+   "summary": "2025-02-21 发布 | We are excited to introduce Open-Sora V1.3.0, bringing improvements in model architecture and generation quality.\r\n\r\nOpen-Sora V1.3.0 Release 🎉\r\n\r\n### 🚀 Key Highlights:\r\n📦 Upgraded Video Compression\r\n",
+   "source": "GitHub版本",
+   "date": "2026-08-19",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "[版本更新] Toonflow短剧工具 v1.1.8: ToonFlow v1.1.8",
+   "link": "https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v1.1.8",
+   "summary": "2026-06-08 发布 | ## 📦 下载指南\n\n| 操作系统 | 架构 | 文件 | 说明 |\n|---------|------|------|------|\n| 🪟 Windows | x64 | `ToonFlow-*-win-x64-setup.exe` | **推荐**，适用于大多数 Windows 电脑 |\n| 🪟 Windows | ARM64 | `ToonFlow-*-win-arm64-setup.ex",
+   "source": "GitHub版本",
+   "date": "2026-08-19",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[版本更新] ComfyUI v0.33.1: v0.33.1",
+   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.33.1",
+   "summary": "2026-08-13 发布 | ## What's Changed\r\n* Fix KSamplerAdvanced with add_noise disabled on nested latents by @kijai in https://github.com/Comfy-Org/ComfyUI/pull/15447\r\n* Update workflow templates to v0.11.40 by @comfyui-wi",
+   "source": "GitHub版本",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[版本更新] MoneyPrinter v1.3.4: v1.3.4",
+   "link": "https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.4",
+   "summary": "2026-08-12 发布 | ## Highlights\n\n- Added a WebUI preference to disable automatically opening the task folder after video generation.\n- Generated videos now use the video subject as the download filename, with automatic",
+   "source": "GitHub版本",
+   "date": "2026-08-19",
+   "category": "ai_tools",
+   "level": "B"
   }
  ]
 }
