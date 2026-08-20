@@ -13,8 +13,8 @@
 <meta http-equiv="Expires" content="0" />
 <meta name="mobile-web-app-capable" content="yes" />
 <link rel="manifest" href="./manifest.webmanifest" />
-<link rel="apple-touch-icon" href="./data/icons/icon-192.png" />
-<link rel="icon" type="image/png" href="./data/icons/icon-192.png" />
+<link rel="apple-touch-icon" href="' + _base() + 'data/icons/icon-192.png" />
+<link rel="icon" type="image/png" href="' + _base() + 'data/icons/icon-192.png" />
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
@@ -56,6 +56,14 @@ body{
 <script>
 (function (global) {
   'use strict';
+
+  // 自动识别部署路径：GitHub Pages 是 /radar-station/，Cloudflare 是 /
+  function _base() {
+    var p = location.pathname;
+    if (p.indexOf('/radar-station/') > -1) return '/radar-station/';
+    if (p.indexOf('/app.html') > -1) return p.substring(0, p.lastIndexOf('/') + 1);
+    return './';
+  }
 
   var C = '#CCFF00';
   var UP = '#CCFF00';
@@ -140,7 +148,7 @@ body{
   App.prototype.load = function (force) {
     var self = this;
     self._retry = self._retry || 0;
-    fetch('./data/stats.json?t=' + Date.now() + (force ? '&f=' + Math.random() : ''), { cache: 'no-store' })
+    fetch(_base() + 'data/stats.json?t=' + Date.now() + (force ? '&f=' + Math.random() : ''), { cache: 'no-store' })
       .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
       .then(function (d) {
         self.data = d;
@@ -611,7 +619,7 @@ body{
       return;
     }
     // 播放云端预生成的晓晓自然语音（GitHub Actions 每天生成 briefing.mp3）
-    var audio = new Audio('./data/briefing.mp3?t=' + Date.now());
+    var audio = new Audio(_base() + 'data/briefing.mp3?t=' + Date.now());
     self.audio = audio;
     self.state.playing = true;
     self.render();
@@ -645,7 +653,7 @@ window.addEventListener('DOMContentLoaded', function () {
   var app = RadarApp.mount('#radar-app');
   window.__radarReload = function () { app.load(); };
   // 静默记录版本（app.html 内使用，不跳转）
-  fetch('./version.txt?t=' + Date.now(), { cache: 'no-store' })
+  fetch(_base() + 'version.txt?t=' + Date.now(), { cache: 'no-store' })
     .then(function (r) { return r.text(); })
     .then(function (v) {
       try { localStorage.setItem('radar_version', v.trim()); } catch (e) {}
