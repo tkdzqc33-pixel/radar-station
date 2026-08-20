@@ -92,12 +92,17 @@ def fetch_all() -> list:
     sources = sorted(RSS_SOURCES, key=lambda s: -s.get("weight", 1))
     for src in sources:
         items = fetch_rss(src["url"], src.get("max_items", MAX_ITEMS_PER_SOURCE))
+        src_count = 0
         for item in items:
             item["biz_tags"] = src.get("tags", [])
             # 本地关键词过滤
             if not _passes_filter(item["title"], item.get("summary", "")):
                 continue
             all_items.append(item)
+            src_count += 1
+            # 每个信源最多贡献 8 条，防止单一信源刷屏
+            if src_count >= 8:
+                break
         time.sleep(0.8)  # 礼貌间隔，避免触发限流
 
     # 追加免费 API 数据源（GitHub 开源趋势 + Hacker News 全球风向）

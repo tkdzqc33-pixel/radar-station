@@ -83,8 +83,8 @@ def speak(text: str, voice: str = VOICE, rate: str = RATE, block: bool = True) -
         return False
 
 
-def build_briefing_text(items: list) -> str:
-    """把情报组装成适合播报的自然语言文案"""
+def build_briefing_text(items: list, max_play: int = 6) -> str:
+    """把情报组装成适合播报的自然语言文案（只读重点，避免冗长）"""
     if not items:
         return "今天没有新的情报。"
 
@@ -92,25 +92,23 @@ def build_briefing_text(items: list) -> str:
     a_items = [i for i in items if i.get("level") == "A"]
     b_count = len(items) - len(s_items) - len(a_items)
 
+    # 播报顺序：S级优先，再A级；总共最多读 max_play 条
+    play_items = (s_items + a_items)[:max_play]
+    skipped = len(s_items) + len(a_items) - len(play_items)
+
     lines = []
     lines.append(f"情报雷达站，为您播报今天的简报。")
-    lines.append(f"今天共有{len(items)}条情报，其中需要立刻行动的{s_items and len(s_items) or 0}条，今天处理的{a_items and len(a_items) or 0}条。")
+    lines.append(f"今天共有{len(items)}条情报，重点播报{len(play_items)}条。")
 
-    if s_items:
-        lines.append("首先，需要立刻行动的重要情报。")
-        for i, it in enumerate(s_items, 1):
-            lines.append(
-                f"第{i}条。{it.get('title', '')}。"
-                f"{it.get('why', '')}。建议您{it.get('action', '')}。"
-            )
+    for i, it in enumerate(play_items, 1):
+        level_word = "立刻行动" if it.get("level") == "S" else "今天处理"
+        lines.append(
+            f"第{i}条，{level_word}。{it.get('title', '')}。"
+            f"{it.get('why', '')}。建议您{it.get('action', '')}。"
+        )
 
-    if a_items:
-        lines.append("接下来，需要今天处理的情报。")
-        for i, it in enumerate(a_items, 1):
-            lines.append(
-                f"第{i}条。{it.get('title', '')}。"
-                f"{it.get('why', '')}。建议您{it.get('action', '')}。"
-            )
+    if skipped > 0:
+        lines.append(f"另外还有{skipped}条重点情报和{b_count}条一般情报，请在手机看板中查看。")
 
     if b_count:
         lines.append(f"另外还有{b_count}条一般情报，稍后可以在看板中查看。")
