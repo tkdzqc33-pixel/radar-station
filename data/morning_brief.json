@@ -1,12 +1,13 @@
 {
- "top_story": "Sora 2 正式发布，叠加开源工具链爆发，短剧制作成本断崖式下降。",
- "judgment": "Sora 2 与开源工具（Toonflow、Open-Sora、KrillinAI）形成组合拳，短剧从脚本到多语言分发可全流程自动化。红利窗口约3-6个月，先跑通低成本批量产出的团队将建立壁垒。",
+ "top_story": "Sora正式上线且Sora 2升级，直接冲击短剧制作流程，成为今天最关键的事件。",
+ "judgment": "Sora的成熟让AI短剧从'玩具'变'武器'，制作成本骤降，但窗口期短——大厂和MCN会迅速涌入。红利期约3-6个月，先跑通流程者能建立内容壁垒。连锁影响是开源工具（如Toonflow、Open-Sora）与Sora形成竞争，但Sora的易用性更胜一筹。",
  "actions": [
-  "用 Toonflow 搭一条短剧批量生产流水线，测试日更3集",
-  "接入 KrillinAI 做多语言配音，试水东南亚市场",
-  "研究 SoraWebui 开源客户端，储备 Sora 2 接入能力",
-  "用 awesome-nano-banana-pro-prompts 提示词库生成分镜，提效50%"
+  "立即用Sora或SoraWebui生成3条短剧测试片段，对比现有工具效果，确定主用流程。",
+  "基于Toonflow搭建批量生产管线，结合Sora生成高质量镜头，实现低成本量产。",
+  "研究Sora 2新功能（如长镜头、多角色），设计差异化短剧题材，抢占先发优势。",
+  "关注KrillinAI等翻译工具，将首批Sora短剧快速本地化，测试海外市场反应。",
+  "加入Sora相关社区（HN、GitHub），跟踪最新教程和提示词，保持技术敏感度。"
  ],
- "risk_alert": "警惕 WatermarkRemover-AI 去水印工具的法律风险，平台审核趋严，别因小失大。",
- "mood": "激进——工具红利期，快速试错抢占先机。"
+ "risk_alert": "Sora可能关闭（'Goodbye to Sora'情报），避免过度依赖单一工具，需同步布局开源替代方案。",
+ "mood": "激进——Sora红利期短，必须快速行动，但需分散风险。"
 }
