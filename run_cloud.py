@@ -194,6 +194,11 @@ def build():
 
     write_pwa_files()
 
+    # 生成版本文件（供前端检测更新）
+    with open(os.path.join(BASE_DIR, "version.txt"), "w", encoding="utf-8") as f:
+        f.write(datetime.now().strftime("%Y%m%d%H%M%S"))
+    print("  version.txt 已更新")
+
     print("✅ 云端构建完成")
 
 

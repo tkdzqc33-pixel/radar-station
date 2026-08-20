@@ -136,9 +136,9 @@ body{
     this.load();
   };
 
-  App.prototype.load = function () {
+  App.prototype.load = function (force) {
     var self = this;
-    fetch('./data/stats.json?t=' + Date.now())
+    fetch('./data/stats.json?t=' + Date.now() + (force ? '&f=' + Math.random() : ''), { cache: 'no-store' })
       .then(function (r) { return r.json(); })
       .then(function (d) {
         self.data = d;
@@ -478,15 +478,25 @@ body{
       voiceAction.addEventListener('click', function () { self.playVoice(); });
     }
 
-    // 刷新
+    // 刷新（强制绕过缓存）
     var refreshBtn = this.container.querySelector('[data-action="refresh"]');
     if (refreshBtn) {
       refreshBtn.addEventListener('click', function () {
-        self.load();
+        self.load(true);
       });
     }
 
-    // 周报/选题（调用后端）
+    // 选题（跳转简报页，AI 生成选题）
+    var ideasBtn = this.container.querySelector('[data-action="ideas"]');
+    if (ideasBtn) {
+      ideasBtn.addEventListener('click', function () {
+        self.state.activeTab = 'brief';
+        self.render();
+        self.bind();
+      });
+    }
+
+    // 周报（跳转简报页）
     var weeklyBtn = this.container.querySelector('[data-action="weekly"]');
     if (weeklyBtn) {
       weeklyBtn.addEventListener('click', function () {
@@ -538,6 +548,20 @@ body{
 window.addEventListener('DOMContentLoaded', function () {
   var app = RadarApp.mount('#radar-app');
   window.__radarReload = function () { app.load(); };
+  // 检测版本更新：version.txt 变化则整页强制刷新（绕过CDN缓存）
+  var cachedVersion = null;
+  try { cachedVersion = localStorage.getItem('radar_version'); } catch (e) {}
+  fetch('./version.txt?t=' + Date.now(), { cache: 'no-store' })
+    .then(function (r) { return r.text(); })
+    .then(function (v) {
+      v = v.trim();
+      if (cachedVersion && cachedVersion !== v) {
+        location.reload(true);
+        return;
+      }
+      try { localStorage.setItem('radar_version', v); } catch (e) {}
+    })
+    .catch(function () {});
   // 注册 Service Worker（PWA 离线支持）
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('./sw.js').catch(function () {});
