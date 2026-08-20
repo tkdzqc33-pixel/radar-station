@@ -139,15 +139,29 @@ body{
 
   App.prototype.load = function (force) {
     var self = this;
+    self._retry = self._retry || 0;
     fetch('./data/stats.json?t=' + Date.now() + (force ? '&f=' + Math.random() : ''), { cache: 'no-store' })
-      .then(function (r) { return r.json(); })
+      .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
       .then(function (d) {
         self.data = d;
+        self._retry = 0;
         self.render();
         self.bind();
       })
       .catch(function () {
-        self.container.innerHTML = '<div style="color:#fff;padding:40px;text-align:center;">加载失败：数据还没生成，请先运行云端构建或确认 data/stats.json 存在</div>';
+        // 自动重试最多 3 次（网络抖动容错）
+        if (self._retry < 3) {
+          self._retry++;
+          setTimeout(function () { self.load(force); }, self._retry * 2000);
+          return;
+        }
+        self._retry = 0;
+        self.container.innerHTML = '<div style="color:#fff;padding:40px;text-align:center;font-family:sans-serif;">' +
+          '<div style="font-size:40px;margin-bottom:10px;">📡</div>' +
+          '<div style="font-size:15px;color:#fff;margin-bottom:6px;">数据加载失败</div>' +
+          '<div style="font-size:12px;color:rgba(255,255,255,0.5);margin-bottom:20px;">请检查网络后重试，或确认云端已构建</div>' +
+          '<button onclick="location.reload()" style="padding:10px 28px;border-radius:20px;background:#CCFF00;color:#0A0A0A;border:none;font-size:14px;font-weight:700;cursor:pointer;">🔄 重新加载</button>' +
+          '</div>';
       });
   };
 
