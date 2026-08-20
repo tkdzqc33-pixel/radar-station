@@ -150,6 +150,14 @@ window.__EMBEDDED_STATS__ = {"generated_at": "2026-08-20 19:45:13", "today": "20
 
   App.prototype.load = function (force) {
     var self = this;
+    // 优先使用内嵌数据（页面自带，打开即显示，不依赖网络请求）
+    if (!force && window.__EMBEDDED_STATS__ && Object.keys(window.__EMBEDDED_STATS__).length > 0) {
+      self.data = window.__EMBEDDED_STATS__;
+      self._retry = 0;
+      self.render();
+      self.bind();
+      return;
+    }
     self._retry = self._retry || 0;
     fetch(_base() + 'data/stats.json?t=' + Date.now() + (force ? '&f=' + Math.random() : ''), { cache: 'no-store' })
       .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
