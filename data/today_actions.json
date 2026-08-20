@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
+   "name": "黑鲸鱼 DeepSeek Harness (DSH)",
+   "what": "一个将DeepSeek模型变成可扩展Agent Store的开源框架，支持插件生态。",
+   "why_today": "情报标记为S级，插件生态爆发，可直接开发垂直插件赚取收入，且DeepSeek涨价背景下开源框架带来定制机会。",
+   "time_est": "2小时",
+   "source": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store"
+  },
+  {
+   "name": "MiniMax Design",
+   "what": "视频生成新工具，类似视频领域的Codex，可提升短剧制作效率。",
+   "why_today": "S级机会，立即注册测试其视频生成能力，评估是否用于短剧素材快速生成。",
+   "time_est": "1小时",
+   "source": "MiniMax Design 来了，视频模型也有了自己的 Codex"
+  },
+  {
    "name": "Toonflow-app",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画短剧",
-   "why_today": "S级情报，直接提升短剧制作效率，且为开源项目可立即上手测试",
-   "time_est": "2-3小时",
+   "what": "开源一站式AI短剧创作工具，将小说/剧本转化为动画。",
+   "why_today": "S级开源工具，可直接降低制作成本，今天下载测试功能与输出质量。",
+   "time_est": "2小时",
    "source": "[GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
    "name": "KrillinAI",
-   "what": "AI视频翻译与配音工具，支持多语言，适合短剧出海本地化",
-   "why_today": "S级情报，短剧出海刚需，需实测翻译质量与速度以评估合作可能",
-   "time_est": "1-2小时",
+   "what": "AI视频翻译配音工具，加速短剧出海本地化。",
+   "why_today": "S级工具，测试翻译准确度与配音质量，评估多语言本地化效率。",
+   "time_est": "1小时",
    "source": "[GitHub] krillinai/KrillinAI"
   },
   {
-   "name": "Open-Sora",
-   "what": "开源视频生成模型，可低成本批量生成短剧素材",
-   "why_today": "S级情报，部署测试生成质量，判断能否替代商业模型降本",
-   "time_est": "3-4小时（含部署）",
-   "source": "[GitHub] hpcaitech/Open-Sora"
-  },
-  {
-   "name": "ai0-video-creator",
-   "what": "桌面AI视频工具，支持短剧创作，Tauri v2构建",
-   "why_today": "S级情报，直接相关且易于安装，快速验证短剧生成流程",
-   "time_est": "1小时",
-   "source": "[GitHub] ajoesoft/ai0-video-creator"
-  },
-  {
-   "name": "SoraWebui",
-   "what": "开源Sora Web客户端，简化Sora使用流程",
-   "why_today": "S级情报提示Sora可能关闭，需测试此替代方案以保障业务连续性",
-   "time_est": "1小时",
-   "source": "[GitHub] SoraWebui/SoraWebui"
+   "name": "veo3-workflow-agents",
+   "what": "基于Veo3的AI视频生成管道，可批量生成视频。",
+   "why_today": "S级机会，获取API密钥测试生成短剧样片，评估成本与质量。",
+   "time_est": "2小时",
+   "source": "[GitHub] nabobery/veo3-workflow-agents"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora服务状态及官方公告",
-   "reason": "S级情报显示Sora可能关闭或重大变动，直接影响依赖其的短剧业务，需持续监控"
+   "item": "Sora 2 的发布动态及替代方案",
+   "reason": "Sora被关闭，但Sora 2可能带来高质量视频生成，需持续关注其可用性和API，同时跟踪其他替代工具的发展。"
   },
   {
-   "item": "黑鲸鱼 DeepSeek Harness 插件生态发展",
-   "reason": "S级情报，DSH可能成为AI工具变现新平台，需跟踪其Agent Store上线及插件需求"
+   "item": "智谱GLM 5.3 API性能",
+   "reason": "智谱模型能力提升可能影响工具选择，需跟踪其API的稳定性和成本，以决定是否集成。"
   },
   {
-   "item": "智谱GLM 5.3 API迭代",
-   "reason": "A级情报，模型迭代影响AI工具技术选型，需关注其在短剧生成中的表现"
+   "item": "支付宝智能体生态接入方式",
+   "reason": "智能体商业化趋势带来插件分成机会，需关注其开放政策和接入流程。"
   }
  ],
  "research_topics": [
   {
-   "topic": "AI数字人授权平台合作模式",
-   "why": "S级情报指出数字人授权可降低短剧制作成本，需调研主流平台价格、授权条款及质量"
+   "topic": "Mirafans平台数字人授权流程和价格",
+   "why": "AI数字人授权模式直接影响短剧制作成本，研究低成本合法获取数字人形象的途径。"
   },
   {
-   "topic": "短剧出海目标市场文化差异与本地化策略",
-   "why": "A级情报强调文化差异影响AI内容接受度，需研究欧美/亚洲市场的剧本、视觉偏好"
+   "topic": "DeepSeek API涨价后的调用策略优化",
+   "why": "DeepSeek涨价直接影响AI工具成本，需研究如何调整调用策略（如高峰时段用量）以控制成本。"
   },
   {
-   "topic": "菜鸟全球三日达对短剧周边商品物流的影响",
-   "why": "A级情报显示物流提速利好短剧出海变现，需评估结合短剧推广实物商品的可行性"
+   "topic": "东南亚智能客服市场及合作机会",
+   "why": "国产AI大模型在东南亚做智能客服有盈利机会，需调研市场需求、成本结构和潜在合作伙伴。"
   }
  ],
- "daily_focus": "下载并测试Toonflow-app，完成一部短篇小说到动画短剧的完整流程，评估其制作效率与质量。"
+ "daily_focus": "下载并测试DSH和Toonflow，评估其生成短剧的效率与质量，为后续开发插件和批量制作做准备。"
 }
