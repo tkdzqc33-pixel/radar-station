@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "黑鲸鱼 DeepSeek Harness (DSH)",
-   "what": "一个将DeepSeek模型变成可扩展Agent Store的开源框架，支持插件生态。",
-   "why_today": "情报标记为S级，插件生态爆发，可直接开发垂直插件赚取收入，且DeepSeek涨价背景下开源框架带来定制机会。",
-   "time_est": "2小时",
-   "source": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store"
-  },
-  {
    "name": "MiniMax Design",
-   "what": "视频生成新工具，类似视频领域的Codex，可提升短剧制作效率。",
-   "why_today": "S级机会，立即注册测试其视频生成能力，评估是否用于短剧素材快速生成。",
-   "time_est": "1小时",
+   "what": "AI视频生成工具，类似视频领域的Codex，可快速生成视频内容",
+   "why_today": "S级情报，可能颠覆短剧制作流程，需立即测试评估效率提升",
+   "time_est": "2小时",
    "source": "MiniMax Design 来了，视频模型也有了自己的 Codex"
   },
   {
-   "name": "Toonflow-app",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本转化为动画。",
-   "why_today": "S级开源工具，可直接降低制作成本，今天下载测试功能与输出质量。",
-   "time_est": "2小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app"
+   "name": "Sora / Sora 2",
+   "what": "OpenAI的视频生成模型，可从文本生成视频",
+   "why_today": "S级情报，Sora正式上线且Sora 2发布，需注册测试生成短剧片段，评估商业应用",
+   "time_est": "3小时",
+   "source": "[HN] Sora is here / [HN] Sora 2"
   },
   {
-   "name": "KrillinAI",
-   "what": "AI视频翻译配音工具，加速短剧出海本地化。",
-   "why_today": "S级工具，测试翻译准确度与配音质量，评估多语言本地化效率。",
+   "name": "Open-Sora v1.3",
+   "what": "开源视频生成模型，免费可自部署",
+   "why_today": "版本更新，可能提升短剧制作效率且成本低，值得测试",
+   "time_est": "1.5小时",
+   "source": "[版本更新] Open-Sora v1.3"
+  },
+  {
+   "name": "ToonFlow v1.1.8",
+   "what": "短剧专用制作工具，优化工作流",
+   "why_today": "版本更新，直接针对短剧制作，测试新功能看能否提升效率",
    "time_est": "1小时",
-   "source": "[GitHub] krillinai/KrillinAI"
+   "source": "[版本更新] Toonflow短剧工具 v1.1.8"
   },
   {
-   "name": "veo3-workflow-agents",
-   "what": "基于Veo3的AI视频生成管道，可批量生成视频。",
-   "why_today": "S级机会，获取API密钥测试生成短剧样片，评估成本与质量。",
-   "time_est": "2小时",
-   "source": "[GitHub] nabobery/veo3-workflow-agents"
+   "name": "MockitUp",
+   "what": "制作iPhone通知视频的工具，适合短剧营销",
+   "why_today": "新品，低成本制作高互动营销内容，可快速测试用于短剧推广",
+   "time_est": "30分钟",
+   "source": "[新品] MockitUp: Fake iPhone notifications."
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora 2 的发布动态及替代方案",
-   "reason": "Sora被关闭，但Sora 2可能带来高质量视频生成，需持续关注其可用性和API，同时跟踪其他替代工具的发展。"
+   "item": "Sora的后续动态（是否关停或调整）",
+   "reason": "有情报显示Sora可能关闭，需关注官方消息，准备替代方案"
   },
   {
-   "item": "智谱GLM 5.3 API性能",
-   "reason": "智谱模型能力提升可能影响工具选择，需跟踪其API的稳定性和成本，以决定是否集成。"
+   "item": "迪士尼与OpenAI的合作进展",
+   "reason": "可能影响Sora内容生态和版权，对短剧内容有潜在影响"
   },
   {
-   "item": "支付宝智能体生态接入方式",
-   "reason": "智能体商业化趋势带来插件分成机会，需关注其开放政策和接入流程。"
+   "item": "DeepSeek API价格变化",
+   "reason": "涨价策略已实行，需持续关注成本影响，优化调用策略"
   }
  ],
  "research_topics": [
   {
-   "topic": "Mirafans平台数字人授权流程和价格",
-   "why": "AI数字人授权模式直接影响短剧制作成本，研究低成本合法获取数字人形象的途径。"
+   "topic": "Sora替代方案（Runway、Pika等）的生成质量和成本",
+   "why": "Sora可能关停，需找到可靠的替代工具以保障短剧制作"
   },
   {
-   "topic": "DeepSeek API涨价后的调用策略优化",
-   "why": "DeepSeek涨价直接影响AI工具成本，需研究如何调整调用策略（如高峰时段用量）以控制成本。"
+   "topic": "支付宝智能体生态的变现模式",
+   "why": "智能体商业兴起，可能为AI工具提供新的变现渠道"
   },
   {
-   "topic": "东南亚智能客服市场及合作机会",
-   "why": "国产AI大模型在东南亚做智能客服有盈利机会，需调研市场需求、成本结构和潜在合作伙伴。"
+   "topic": "Temu欧洲营销策略的本地化玩法",
+   "why": "短剧出海需本地化营销，借鉴成功案例可提升效果"
   }
  ],
- "daily_focus": "下载并测试DSH和Toonflow，评估其生成短剧的效率与质量，为后续开发插件和批量制作做准备。"
+ "daily_focus": "注册并测试Sora 2，生成一段短剧片段，评估其质量和速度，同时对比MiniMax Design，确定最佳AI视频生成工具。"
 }
