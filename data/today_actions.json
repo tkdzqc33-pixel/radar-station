@@ -1,0 +1,68 @@
+{
+ "tools_to_test": [
+  {
+   "name": "黑鲸鱼 DeepSeek Harness",
+   "what": "一个将AI工具模块化组合的Agent Store平台，支持插件开发与集成。",
+   "why_today": "情报标记为S级，且明确建议立即下载测试插件开发，是当前生态爆发的核心机会。",
+   "time_est": "2小时",
+   "source": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store"
+  },
+  {
+   "name": "MiniMax Design",
+   "what": "视频模型专用设计工具，类似视频领域的Codex，可提升短剧制作效率。",
+   "why_today": "S级情报，建议立即测试，评估其在短剧制作中的应用潜力。",
+   "time_est": "1.5小时",
+   "source": "MiniMax Design 来了，视频模型也有了自己的 Codex"
+  },
+  {
+   "name": "Toonflow (v1.1.8)",
+   "what": "开源一站式AI短剧创作工具，可将小说/剧本快速转化为动画短剧。",
+   "why_today": "S级情报，且刚发布新版本，直接提升制作效率，需下载测试新功能。",
+   "time_est": "2小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app 及 [版本更新] Toonflow短剧工具 v1.1.8"
+  },
+  {
+   "name": "Open-Sora",
+   "what": "开源视频生成模型，可低成本批量生成短剧内容。",
+   "why_today": "S级情报，建议下载测试生成质量，是降低制作成本的关键工具。",
+   "time_est": "2小时",
+   "source": "[GitHub] hpcaitech/Open-Sora"
+  },
+  {
+   "name": "Sora (官方)",
+   "what": "OpenAI的视频生成模型，可从文本直接生成视频。",
+   "why_today": "S级情报，Sora正式上线，是短剧生产流程的重大变革，需立即注册测试。",
+   "time_est": "1小时",
+   "source": "[HN] Sora is here"
+  }
+ ],
+ "things_to_watch": [
+  {
+   "item": "Sora 2 发布动态",
+   "reason": "S级情报，Sora 2可能带来更优性能，影响短剧质量，需持续关注发布信息。"
+  },
+  {
+   "item": "DeepSeek 涨价策略影响",
+   "reason": "A级情报，涨价直接影响AI工具成本，需跟踪价格变化并调整API调用策略。"
+  },
+  {
+   "item": "Claude 水印机制发展",
+   "reason": "A级情报，AI内容水印影响内容创作和知识付费，需关注后续反应和应对方案。"
+  }
+ ],
+ "research_topics": [
+  {
+   "topic": "短剧出海多语言翻译配音工具（如KrillinAI）的集成方案",
+   "why": "A级情报，多语言出海是扩大受众的关键，需研究如何高效集成到现有制作流程。"
+  },
+  {
+   "topic": "拉美市场短剧买量策略",
+   "why": "A级情报，拉美市场是蓝海，需研究手游买量案例并迁移到短剧推广。"
+  },
+  {
+   "topic": "AI工具数据安全与合规要求（对比OpenAI与Anthropic）",
+   "why": "A级情报，数据安全是客户决策关键，需研究不同平台政策以优化选型和合规。"
+  }
+ ],
+ "daily_focus": "今天集中测试Sora、Toonflow和Open-Sora，产出3个短剧试播片段，评估效果并确定最优制作路径。"
+}

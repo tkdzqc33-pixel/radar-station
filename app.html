@@ -120,6 +120,7 @@ body{
       activeTab: 'home',
       showBalance: true,
       expandedItems: {},
+      doneTools: {},
       playing: false,
       audio: null,
     };
@@ -240,6 +241,7 @@ body{
     // 底部 Tab
     var tabs = [
       { id: 'home', label: '首页', icon: 'home' },
+      { id: 'actions', label: '今日行动', icon: 'light' },
       { id: 'trend', label: '行情', icon: 'trend' },
       { id: 'brief', label: '简报', icon: 'list' },
       { id: 'more', label: '更多', icon: 'gear' },
@@ -333,6 +335,51 @@ body{
       '<div class="w3-script-body" style="display:none;font-size:12px;color:rgba(255,255,255,0.75);line-height:1.8;margin-top:8px;white-space:pre-wrap;">' + (d.speech_text || '（暂无语音稿）') + '</div>' +
       '</div>' + itemHtml + '</div>';
 
+    // 今日行动视图（AI 提炼：今天要测试/关注/研究）
+    var actionsData = d.today_actions || {};
+    var toolsList = actionsData.tools_to_test || [];
+    var watchList = actionsData.things_to_watch || [];
+    var researchList = actionsData.research_topics || [];
+
+    var actionsView =
+      '<div style="margin-bottom:16px;">' +
+      // 语音播报内容对照（默认展开）
+      '<div style="background:rgba(204,255,0,0.06);border:1px solid rgba(204,255,0,0.2);border-radius:10px;padding:10px 12px;margin-bottom:12px;">' +
+      '<div style="font-size:11px;color:' + C + ';font-weight:600;">🔊 语音正在播报的内容（对照）</div>' +
+      '<div style="font-size:12px;color:rgba(255,255,255,0.75);line-height:1.8;margin-top:8px;">' + (d.speech_text || '（暂无语音稿）') + '</div>' +
+      '</div>' +
+      (actionsData.daily_focus ? '<div style="border-radius:14px;padding:14px 16px;margin-bottom:12px;background:linear-gradient(135deg,' + rgba(C,0.10) + ',rgba(255,255,255,0.02));border:1px solid ' + rgba(C,0.25) + ';">' +
+        '<div style="font-size:10px;color:' + C + ';font-weight:700;letter-spacing:1px;margin-bottom:6px;">🎯 今日最重要</div>' +
+        '<div style="font-size:14px;font-weight:700;color:#fff;line-height:1.5;">' + actionsData.daily_focus + '</div>' +
+      '</div>' : '') +
+      '<h3 style="font-size:14px;font-weight:700;margin-bottom:10px;color:#fff;">🛠️ 今天要测试的工具</h3>' +
+      (toolsList.length ? toolsList.map(function (t, i) {
+        var done = self.state.doneTools[i];
+        return '<div class="w3-tool-item" data-tool="' + i + '" style="display:flex;gap:12px;background:rgba(255,255,255,0.04);border:1px solid ' + (done ? rgba(C,0.4) : 'rgba(255,255,255,0.06)') + ';border-radius:12px;padding:12px 14px;margin-bottom:10px;cursor:pointer;">' +
+          '<div style="width:22px;height:22px;flex-shrink:0;border-radius:50%;border:2px solid ' + (done ? C : 'rgba(255,255,255,0.3)') + ';display:flex;align-items:center;justify-content:center;font-size:12px;color:' + C + ';margin-top:2px;">' + (done ? '✓' : '') + '</div>' +
+          '<div style="flex:1;">' +
+          '<div style="font-size:14px;font-weight:700;color:#fff;' + (done ? 'text-decoration:line-through;opacity:0.5;' : '') + '">' + t.name + '</div>' +
+          '<div style="font-size:11px;color:rgba(255,255,255,0.6);margin-top:3px;">' + (t.what || '') + '</div>' +
+          '<div style="font-size:11px;color:' + C + ';margin-top:5px;">📌 ' + (t.why_today || '') + '</div>' +
+          '<div style="font-size:10px;color:rgba(255,255,255,0.4);margin-top:4px;">⏱ ' + (t.time_est || '') + (t.source ? ' | 📎 ' + t.source.slice(0, 30) : '') + '</div>' +
+          '</div></div>';
+      }).join('') : '<div style="padding:16px;color:rgba(255,255,255,0.4);text-align:center;font-size:12px;background:rgba(255,255,255,0.03);border-radius:12px;">今日暂无需要测试的工具</div>') +
+
+      (watchList.length ? '<h3 style="font-size:14px;font-weight:700;margin:16px 0 10px;color:#fff;">👀 持续关注</h3>' +
+        watchList.map(function (w) {
+          return '<div style="background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.05);border-radius:10px;padding:10px 14px;margin-bottom:8px;">' +
+            '<div style="font-size:13px;font-weight:600;color:#fff;">' + (w.item || '') + '</div>' +
+            '<div style="font-size:11px;color:rgba(255,255,255,0.5);margin-top:3px;">' + (w.reason || '') + '</div></div>';
+        }).join('') : '') +
+
+      (researchList.length ? '<h3 style="font-size:14px;font-weight:700;margin:16px 0 10px;color:#fff;">🔍 要研究的主题</h3>' +
+        researchList.map(function (r) {
+          return '<div style="background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.05);border-radius:10px;padding:10px 14px;margin-bottom:8px;">' +
+            '<div style="font-size:13px;font-weight:600;color:#fff;">' + (r.topic || '') + '</div>' +
+            '<div style="font-size:11px;color:rgba(255,255,255,0.5);margin-top:3px;">' + (r.why || '') + '</div></div>';
+        }).join('') : '') +
+      '</div>';
+
     var moreView =
       '<div style="margin-bottom:16px;">' +
       '<h3 style="font-size:14px;font-weight:700;margin-bottom:10px;color:#fff;">关于</h3>' +
@@ -347,7 +394,7 @@ body{
       '</div></div></div>' +
       '<div style="text-align:center;margin-top:10px;font-size:10px;color:rgba(255,255,255,0.3);">页面计数由不蒜子提供 · 每日自动更新</div>';
 
-    var viewMap = { home: homeView, trend: trendView, brief: briefView, more: moreView };
+    var viewMap = { home: homeView, actions: actionsView, trend: trendView, brief: briefView, more: moreView };
     var viewContent = viewMap[this.state.activeTab] || homeView;
 
     this.container.innerHTML =
@@ -464,6 +511,17 @@ body{
     tabs.forEach(function (el) {
       el.addEventListener('click', function () {
         self.state.activeTab = el.getAttribute('data-tab');
+        self.render();
+        self.bind();
+      });
+    });
+
+    // 今日行动：勾选/取消工具
+    var toolItems = this.container.querySelectorAll('.w3-tool-item');
+    toolItems.forEach(function (el) {
+      el.addEventListener('click', function () {
+        var idx = el.getAttribute('data-tool');
+        self.state.doneTools[idx] = !self.state.doneTools[idx];
         self.render();
         self.bind();
       });

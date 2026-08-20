@@ -19,6 +19,7 @@ from reporter import format_daily_report
 from stats import build_all_stats
 from speaker import generate_speech, build_briefing_text
 from morning_brief import generate_morning_brief, save_morning_brief
+from today_actions import generate_today_actions, save_today_actions
 
 DATA_DIR = os.path.join(BASE_DIR, "data")
 HISTORY_FILE = os.path.join(DATA_DIR, "history.json")
@@ -154,6 +155,17 @@ def build():
     print(f"  stats.json: {os.path.getsize(STATS_FILE)} bytes")
 
     report_items = stats_data.get("report_items", [])
+
+    # 4.6 生成今日行动清单
+    print("→ 生成今日行动清单...")
+    if report_items:
+        try:
+            actions = generate_today_actions(report_items)
+            save_today_actions(actions)
+        except Exception as e:
+            print(f"  ⚠️ 行动清单生成失败: {e}")
+    else:
+        print("  ⚠️ 无简报，跳过行动清单")
 
     # 4.5 生成分析师晨报
     print("→ 生成分析师晨报...")

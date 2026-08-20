@@ -14,6 +14,7 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 HISTORY_FILE = os.path.join(DATA_DIR, "history.json")
 LATEST_REPORT_FILE = os.path.join(DATA_DIR, "latest_report.json")
 MORNING_BRIEF_FILE = os.path.join(DATA_DIR, "morning_brief.json")
+TODAY_ACTIONS_FILE = os.path.join(DATA_DIR, "today_actions.json")
 
 # 与 dashboard.py 保持一致的关键词
 TREND_KEYWORDS = [
@@ -42,6 +43,17 @@ def load_report() -> dict:
         except Exception:
             pass
     return {"items": [], "date": ""}
+
+def load_today_actions() -> dict:
+    """读取今日行动清单"""
+    if os.path.exists(TODAY_ACTIONS_FILE):
+        try:
+            with open(TODAY_ACTIONS_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {}
+
 
 def load_morning_brief() -> dict:
     """读取分析师晨报"""
@@ -216,6 +228,7 @@ def build_all_stats() -> dict:
         "report_items": report_items,
         "morning_brief": load_morning_brief(),
         "speech_text": _build_speech_text(report_items),
+        "today_actions": load_today_actions(),
     }
 
 
