@@ -199,8 +199,12 @@ body{
         '</div>';
     }).join('');
 
-    // 简报列表
-    var items = d.report_items || [];
+    // 简报列表（按 S→A→B 排序，与语音播报顺序一致）
+    var allItems = d.report_items || [];
+    var levelRank = { S: 0, A: 1, B: 2 };
+    var items = allItems.slice().sort(function (a, b) {
+      return (levelRank[a.level] || 2) - (levelRank[b.level] || 2);
+    });
     var itemHtml = items.map(function (it, idx) {
       var lv = it.level || 'B';
       var lvColor = self.levelColor[lv];
@@ -323,7 +327,11 @@ body{
 
     var briefView =
       '<div style="margin-bottom:10px;">' +
-      '<h3 style="font-size:14px;font-weight:700;margin-bottom:10px;color:#fff;">今日简报</h3>' + itemHtml + '</div>';
+      '<h3 style="font-size:14px;font-weight:700;margin-bottom:10px;color:#fff;">今日简报</h3>' +
+      '<div class="w3-speech-script" data-show="0" style="background:rgba(204,255,0,0.06);border:1px solid rgba(204,255,0,0.2);border-radius:10px;padding:10px 12px;margin-bottom:12px;cursor:pointer;">' +
+      '<div style="font-size:11px;color:' + C + ';font-weight:600;">🔊 语音播报内容（点此展开/收起）</div>' +
+      '<div class="w3-script-body" style="display:none;font-size:12px;color:rgba(255,255,255,0.75);line-height:1.8;margin-top:8px;white-space:pre-wrap;">' + (d.speech_text || '（暂无语音稿）') + '</div>' +
+      '</div>' + itemHtml + '</div>';
 
     var moreView =
       '<div style="margin-bottom:16px;">' +
@@ -461,6 +469,16 @@ body{
       });
     });
 
+    // 语音稿展开/收起
+    var speechScript = this.container.querySelector('.w3-speech-script');
+    if (speechScript) {
+      speechScript.addEventListener('click', function () {
+        var body = speechScript.querySelector('.w3-script-body');
+        var isOpen = body.style.display !== 'none';
+        body.style.display = isOpen ? 'none' : 'block';
+      });
+    }
+
     // 展开/收起简报内容
     var toggles = this.container.querySelectorAll('.w3-toggle-item');
     toggles.forEach(function (el) {
@@ -550,6 +568,8 @@ body{
 })(window);
 
 window.addEventListener('DOMContentLoaded', function () {
+  // 用 replaceState 替换当前历史，防止手机侧滑退回到引导页
+  try { history.replaceState(null, '', location.href); } catch (e) {}
   var app = RadarApp.mount('#radar-app');
   window.__radarReload = function () { app.load(); };
   // 静默记录版本（app.html 内使用，不跳转）
@@ -569,6 +589,6 @@ window.addEventListener('DOMContentLoaded', function () {
   }, 60000);
 });
 </script>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 </body>
 </html>

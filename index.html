@@ -25,10 +25,10 @@
     .then(function (v) {
       v = v.trim();
       try { localStorage.setItem('radar_version', v); } catch (e) {}
-      location.replace('./app.html?v=' + v);
+      location.replace('./app.html#v=' + v);
     })
     .catch(function () {
-      location.replace('./app.html' + (cached ? '?v=' + cached : ''));
+      location.replace('./app.html' + (cached ? '#v=' + cached : ''));
     });
 })();
 </script>

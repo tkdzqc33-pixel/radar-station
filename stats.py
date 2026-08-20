@@ -162,6 +162,16 @@ def compute_daily_counts(items: list, days: int = 14) -> list:
     return {"dates": dates, "counts": [date_counts.get(d, 0) for d in dates]}
 
 
+def _build_speech_text(items: list) -> str:
+    """生成语音播报文字稿（与 speaker.py 保持一致，供页面展示对照）"""
+    try:
+        from speaker import build_briefing_text
+
+        return build_briefing_text(items)
+    except Exception:
+        return ""
+
+
 def build_all_stats() -> dict:
     """组装看板需要的全部统计"""
     items = load_history()
@@ -205,6 +215,7 @@ def build_all_stats() -> dict:
         "daily_counts": compute_daily_counts(items),
         "report_items": report_items,
         "morning_brief": load_morning_brief(),
+        "speech_text": _build_speech_text(report_items),
     }
 
 
