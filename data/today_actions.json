@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "MiniMax H3 API",
-   "what": "视频生成模型API，支持低成本批量生成短剧素材",
-   "why_today": "S级情报显示其视频生成SOTA且降价，直接提升短剧制作效率与成本优势，需立即测试生成效果",
+   "name": "MiniMax Design",
+   "what": "视频生成模型+Agent产品，类似视频领域的Claude Code",
+   "why_today": "S级情报显示其能自动化短剧制作流程，且建议立即申请内测，是当前最高优先级机会",
    "time_est": "2小时",
    "source": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了"
   },
   {
    "name": "Toonflow-app",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本转化为动画",
-   "why_today": "S级情报，开源且直接降低制作成本，需评估能否替代现有流程",
+   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画",
+   "why_today": "S级情报，直接提升短剧制作效率，且开源可立即下载测试，成本低",
    "time_est": "1.5小时",
    "source": "[GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
-   "name": "TOONOOT",
-   "what": "开源一站式AI短剧创作工具，含AI编剧和分镜功能",
-   "why_today": "S级情报，与Toonflow类似但功能侧重不同，需对比测试以选择最佳工具",
-   "time_est": "1.5小时",
-   "source": "[GitHub] winsentrobot008/TOONOOT"
-  },
-  {
-   "name": "veo3-workflow-agents",
-   "what": "基于Veo3的AI视频生成工作流管道",
-   "why_today": "S级情报，可大幅提升短剧制作效率，需申请API并测试工作流",
+   "name": "Open-Sora",
+   "what": "开源视频生成模型，可低成本生成短剧片段",
+   "why_today": "S级情报，且Sora可能停运，需要立即测试替代方案，Open-Sora是开源首选",
    "time_est": "2小时",
-   "source": "[GitHub] nabobery/veo3-workflow-agents"
+   "source": "[GitHub] hpcaitech/Open-Sora"
   },
   {
-   "name": "DeepSeek 多模态模型",
-   "what": "DeepSeek新发布的多模态模型，支持图像/视频理解与生成",
-   "why_today": "S级情报，多模态是短剧制作关键，需立即测试其在短剧生成中的效果",
+   "name": "DeepSeek 多模态API",
+   "what": "DeepSeek新发布的多模态模型API",
+   "why_today": "S级情报，多模态能力可增强短剧制作，且建议立即测试评估应用场景",
    "time_est": "1小时",
    "source": "突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了"
+  },
+  {
+   "name": "GPT-5.6 Sol API",
+   "what": "OpenAI最新模型API，价格下调超20%",
+   "why_today": "S级情报，降价直接降低开发成本，需立即评估在短剧生成和工具开发中的适用性",
+   "time_est": "1小时",
+   "source": "OpenAI将GPT-5.6 Sol模型API定价下调两成以上"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关闭动态",
-   "reason": "S级情报显示Sora可能关闭，需持续关注并准备替代方案，避免影响短剧流程"
+   "item": "Sora服务状态及替代方案",
+   "reason": "多条情报显示Sora可能停运，直接影响依赖它的业务，需持续跟踪并准备迁移"
   },
   {
    "item": "可灵后续更新",
-   "reason": "A级情报，核心技术骨干离职可能影响工具迭代，需关注是否出现功能停滞或新版本"
+   "reason": "核心技术骨干离职，可能影响工具迭代，需关注更新节奏并测试替代工具"
   },
   {
-   "item": "Wapoo视频共创平台",
-   "reason": "A级情报，获得千万美元融资，可能改变短剧用户互动模式，值得跟踪其发展"
+   "item": "Wapoo平台发展",
+   "reason": "AI视频共创平台获融资，可能成为短剧新分发渠道，值得关注合作或借鉴"
   }
  ],
  "research_topics": [
   {
-   "topic": "DSH插件开发文档与变现规则",
-   "why": "S级情报显示DSH插件生态爆发，是AI工具变现新机会，需研究如何开发并上架插件"
+   "topic": "DeepSeek Harness插件开发文档",
+   "why": "DSH生态爆发，是AI工具开发与变现新平台，需研究插件开发以抢占机会"
   },
   {
-   "topic": "OpenAI GPT-5.6 Sol新价格对现有工具成本的影响",
-   "why": "S级和A级情报均提及降价，需计算迁移到新API的成本节省，评估是否调整工具链"
+   "topic": "支付宝智能体生态接入规则",
+   "why": "智能体商业兴起，可能影响AI工具分发与变现，需研究接入机会"
   },
   {
-   "topic": "支付宝智能体生态的短剧接入可行性",
-   "why": "A级情报指出智能体商业改变流量分发，需研究短剧如何通过智能体获得精准流量"
+   "topic": "东南亚AI客服市场",
+   "why": "国产AI大模型出海案例，可借鉴成本控制与盈利模式，评估工具开发机会"
   }
  ],
- "daily_focus": "注册并测试MiniMax H3 API，生成一批短剧素材，评估其效果和成本"
+ "daily_focus": "申请MiniMax Design内测并测试其视频编辑功能，同时下载Toonflow和Open-Sora进行短剧生成对比测试"
 }
