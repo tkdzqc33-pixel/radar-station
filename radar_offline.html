@@ -329,7 +329,7 @@ body{
       '<div style="position:relative;">' +
       '<div style="font-size:11px;color:rgba(255,255,255,0.5);margin-bottom:6px;">今日情报情报雷达</div>' +
       '<div style="display:flex;align-items:center;gap:10px;margin-bottom:6px;">' +
-      '<span style="font-size:36px;font-weight:800;letter-spacing:-0.02em;color:#fff;text-shadow:0 0 30px ' + rgba(C, 0.3) + ';">' + s.today_items + '</span>' +
+      '<span style="font-size:36px;font-weight:800;letter-spacing:-0.02em;color:#fff;text-shadow:0 0 30px ' + rgba(C, 0.3) + ';">' + (d.report_items ? d.report_items.length : s.today_items) + '</span>' +
       '<span style="font-size:11px;color:' + totalDir + ';font-weight:600;">' + totalArrow + ' ' + totalText + '</span>' +
       '</div>' +
       '<div style="font-size:11px;color:rgba(255,255,255,0.4);">累计 ' + s.total_history + ' 条 | 🚨S级 ' + sCount + ' | 🔶A级 ' + aCount + '</div>' +
