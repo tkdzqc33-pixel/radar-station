@@ -688,7 +688,7 @@ window.addEventListener('DOMContentLoaded', function () {
     .catch(function () {});
   // 注册 Service Worker（PWA 离线支持）
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('./sw.js').catch(function () {});
+    navigator.serviceWorker.register('./sw.js?v=20260822v3').catch(function () {});
   }
   // 每 60 秒刷新
   setInterval(function () {

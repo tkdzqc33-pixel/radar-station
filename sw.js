@@ -1,7 +1,7 @@
 
-const CACHE_NAME = 'radar-cloud-v2';
+const CACHE_NAME = 'radar-cloud-v3';
 // 关键页面/数据: 永远走网络(绕缓存), 离线时 fallback 缓存
-const NO_CACHE = ['app.html', 'index.html', '/data/', 'version.txt'];
+const NO_CACHE = ['app.html', 'index.html', '/data/', 'version.txt', 'manifest.webmanifest'];
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE_NAME).then((c) => c.addAll(['./', './data/stats.json'])));
   self.skipWaiting();
