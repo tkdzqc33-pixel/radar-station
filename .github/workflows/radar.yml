@@ -89,7 +89,9 @@ jobs:
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
-          git add data/
+          # 关键修复: 更新版本号(version.txt), 否则前端 URL 不变, 浏览器缓存永远命中旧数据
+          date +'%Y%m%d%H%M%S' > version.txt
+          git add data/ version.txt
           git commit -m "chore: auto update radar data $(date +'%Y-%m-%d %H:%M')" || echo "无变更"
           git push origin HEAD || echo "推送失败（可能是无变更）"
 
