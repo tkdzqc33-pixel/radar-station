@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "MiniMax H3 和 Design",
-   "what": "视频生成模型和设计工具，用于短剧制作",
-   "why_today": "情报指出其直接提升短剧制作效率、降低成本，且为S级机会，需立即评估",
+   "name": "MiniMax H3 视频模型",
+   "what": "MiniMax 最新视频生成模型，降价且功能强，适合短剧制作。",
+   "why_today": "情报显示其降价且功能强大，直接提升短剧制作效率，且是 S 级机会。",
    "time_est": "2小时",
    "source": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了"
   },
   {
-   "name": "DeepSeek 多模态模型",
-   "what": "新上线的多模态模型，可提升内容创作效率",
-   "why_today": "S级情报，直接影响短剧制作效率，需立即测试生成能力",
-   "time_est": "1.5小时",
-   "source": "突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了"
-  },
-  {
-   "name": "Ox Alpha AI 模型",
-   "what": "神秘新AI模型，性能跑分碾压竞品",
-   "why_today": "S级情报，可能带来降本增效，需立即测试适用场景",
-   "time_est": "1小时",
-   "source": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱"
-  },
-  {
-   "name": "Toonflow-app",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本转动画",
-   "why_today": "S级情报，直接降低制作成本，需立即下载测试流程效率",
+   "name": "Toonflow",
+   "what": "开源一站式 AI 短剧创作工具，将小说/剧本快速转化为动画。",
+   "why_today": "S 级开源项目，直接降低短剧制作成本，今天下载测试工作流。",
    "time_est": "1.5小时",
    "source": "[GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
-   "name": "Sora 2",
-   "what": "OpenAI视频生成模型重大升级版",
-   "why_today": "S级情报，虽Sora可能关闭，但Sora 2升级可能带来高质量生成，需测试替代方案",
-   "time_est": "1小时",
-   "source": "[HN] Sora 2"
+   "name": "TOONOOT",
+   "what": "另一款开源一站式 AI 短剧创作工具，支持分镜和生成。",
+   "why_today": "S 级开源项目，提供低成本量产短剧机会，立即测试其分镜质量。",
+   "time_est": "1.5小时",
+   "source": "[GitHub] winsentrobot008/TOONOOT"
+  },
+  {
+   "name": "veo3-workflow-agents",
+   "what": "基于 Veo3 的 AI 视频生成管道，简化短剧制作流程。",
+   "why_today": "S 级，Veo3 是高质量视频生成方案，且 Sora 关闭后替代需求上升。",
+   "time_est": "2小时",
+   "source": "[GitHub] nabobery/veo3-workflow-agents"
+  },
+  {
+   "name": "Open-Sora",
+   "what": "开源视频生成模型，可定制化短剧内容。",
+   "why_today": "Sora 关闭后开源替代方案需求激增，且可低成本生成视频。",
+   "time_est": "2小时",
+   "source": "[GitHub] hpcaitech/Open-Sora"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora 的最终状态（关闭或保留）",
-   "reason": "多条情报冲突，直接影响短剧制作工具链，需持续确认"
+   "item": "可灵后续更新",
+   "reason": "核心技术骨干离职可能影响工具迭代，需关注替代方案。"
   },
   {
-   "item": "可灵后续更新（骨干离职影响）",
-   "reason": "可灵是视频生成标杆，离职可能影响迭代，需关注替代工具"
+   "item": "Wapoo 产品模式",
+   "reason": "AI 视频共创平台获融资，可能影响短剧互动趋势。"
   },
   {
-   "item": "DeepSeek Harness 插件生态发展",
-   "reason": "DSH生态爆发，是AI工具开发与变现新平台，需跟踪上架流程和红利"
+   "item": "支付宝智能体生态",
+   "reason": "智能体商业趋势可能带来新的变现机会。"
   }
  ],
  "research_topics": [
   {
-   "topic": "DeepSeek Harness 插件开发与上架流程",
-   "why": "S级机会，需立即研究如何开发插件抢占生态红利"
+   "topic": "DSH 插件开发与上架流程",
+   "why": "DSH 插件生态爆发，是 AI 工具变现新机会，需立即研究。"
   },
   {
-   "topic": "Wapoo 视频共创模式",
-   "why": "A级情报，可能成为短剧新趋势，需研究是否可借鉴"
+   "topic": "Temu 社交裂变机制",
+   "why": "可借鉴到短剧推广，提升流量。"
   },
   {
-   "topic": "东南亚AI客服方案与成本控制",
-   "why": "A级情报，可借鉴出海成本控制，评估工具化机会"
+   "topic": "AI 视频工具替代方案对比",
+   "why": "Sora 关闭后，需评估现有替代工具（如 Veo3、开源模型）的生成质量与成本。"
   }
  ],
- "daily_focus": "立即测试MiniMax H3和DeepSeek多模态模型，评估短剧制作效率，并启动DeepSeek Harness插件开发研究。"
+ "daily_focus": "测试 MiniMax H3 和两个开源短剧工具（Toonflow/TOONOOT），评估生成质量并选定主用工具。"
 }
