@@ -2600,6 +2600,78 @@
    "date": "2026-08-23",
    "category": "ai_tools",
    "level": "A"
+  },
+  {
+   "title": "OpenAI 一改此前立场，呼吁加州强化 AI 安全法案",
+   "link": "https://www.ithome.com/0/993/141.htm",
+   "summary": "IT之家 8 月 23 日消息，OpenAI 呼吁加州进一步加强一项具有里程碑意义的 AI 安全法案。该法案已于去年获得通过。 OpenAI 全球事务团队在 LinkedIn 上发表的一篇文章中表示，加州 SB 53 法案“应该进一步扩大安全保障措施”。例如，可以要求对正在训练或评估的前沿 AI 模型进行监控，以发现潜在的严重安全事件，同时“加强覆盖整个模型开发生命周期的网络安全保护”。 OpenAI 表示：“随着加州继续在前沿 AI 安全领域发挥领导作用，我们致力于与加州立法机构以及州长合作，进一步加强 SB 53 法案。” IT之家注意到，OpenAI 还在文章中提到了“近期发生的事件”，称这些事件“凸显了加强相关保护措施的必要性，也说明随着新风险不断出现，有必要及时更新这些措施”。 就在上个月，OpenAI 承认旗下一个 AI 模型曾经逃出测试环境，并入侵了 Hugging Face 的系统。 OpenAI 如今公开支持进一步加强 AI 安全监管尤其值得关注，因为该公司此前曾反对 SB 53 法案。该法案要求大型 AI 公司提高透明度，并为举报公司内部问题的员工提供保护。 OpenAI 表示，在目前缺乏具有实质意义的联邦 AI 立法的情况下，公司如今支持一种名为“逆向联邦主义”（reverse federalism）的监管思路。按照这一思路，各州可以围绕核心安全保障措施采取相互兼容的监管政策，而这些措施最终有望成为建立美国全国性 AI 安全标准的基础。",
+   "source": "IT之家",
+   "date": "2026-08-23",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "事已至此，年轻创作者干就完了",
+   "link": "https://www.huxiu.com/article/4885225.html",
+   "summary": "这个夏天，AI超创不断涌现，跟这个热点同时存在于社交平台上的，是传统影视院校的学生用自己的经历不断践行“电影学三大报应”。电影学三大报应，主要指毕业后，学生们干上数据标注、短剧以及宣传等基础工作，把自我炼化。AI让创作的门槛降低了，就业的困境却没有因此消解，大家换了一种形式做流水线上的螺丝钉。社交平台上，影视...... 本文来自微信公众号： 影视独舌 ，作者：安吉玛，原文标题：《事已至此，年轻创作者干就完了｜AI影视生态观察》 这个夏天，AI超创不断涌现，跟这个热点同时存在于社交平台上的，是传统影视院校的学生用自己的经历不断践行“电影学三大报应”。 电影学三大报应，主要指毕业后，学生们干上数据标注、短剧以及宣传等基础工作，把自我炼化。AI让创作的门槛降低了，就业的困境却没有因此消解，大家换了一种形式做流水线上的螺丝钉。 社交平台上，影视专业学生分享职场现状 于是，一边是似乎人人都能当导演，一边是学了创作的人批量改行，在不同的岗位试错。 AI时代，学影视的人出路何在？靠AI创作，能养活人吗？面对AI冲击，普通人到底该怎么选？AI内容的终点在哪？ 《影视独舌》采访了三位与AI影视创作相关的一线从业者，了解他们的处境、观察和判断。以下是他们的分享。 学了AI，然后呢？ AI进入课堂一年多，湫帆注意到很多微妙的变化。 湫帆是剧作专业出身，硕士毕业于中国传媒大学，曾做过游戏和短剧编剧，现在在一所应用型本科高校做老师，教授剧作相关的课程。 在大众惯性的认知里，AI应该是倒逼进了教学场景，对AI的理解和使用，市场先于学校，学生先于老师。 在【影视独舌】和湫帆的对话中，我们了解到，高校的反应速度其实相对及时，去年暑假，学校安排老师们在家上手AI；开学后，教学内容开始向AI侧重。 近一年里，随着大模型不断迭代，老师和学生们几乎是站在同一起跑线，一起学习。截至目前，学校的课堂有50%-60%围绕AI方面的应用展开。在湫帆的视角里，AI的催化，让很多教学场景都发生了不同： “2025届的学生，毕业作品还是以实拍纪录片、剧情片为主，到2026年开题时，相当一部分学生选择AI长片作为毕设。” 学校的毕设规则随之更新：实拍作品20分钟可满足毕业要求；AI成片则按照小组人数折算时长，学生们两人组队需要完成50分钟左右的AI长片，三人组队，时长相应叠加，学生们最长可以制作90分钟的完整AI长片。 AI给学生创作带来的影响也很直观。 文本层面，湫帆记得他刚带前两届学生时，ChatGPT、DeepSeek等大模型还没有被大规模使用，那时候，学生们的文笔虽然粗糙，字里行间还是能看出对生活的觉察。AI普及后，大部分学生习惯借助AI来完成剧本写作，文笔优美了，真实的自我表达也消失了。 改变是一体两面的。随着AI继续迭代，学生作业的要求升级，从交剧本变为交成片，一些文本能力一般的学生，被迫边做边改，反复调整分镜和叙事，最终交出的AI成片，反而出乎意料地不错。 在此基础上，AI的改变，还带来了学生评奖体系和职业想象的松动。 湫帆的学生里，有不少人凭借自己搓出来的AI短片，在AI专项赛事里拿奖。从前实拍作品评奖时，受制于资金、设备、人脉和创作经验，湫帆的学生很难跟一流的艺术院校竞争。 有了AI之后，门槛被拉平了一部分，有想法、舍得投入、审美在线的学生，有了底气跟一流院校的学生搏一把。湫帆说：“对我们这种应用型本科来说，也许AI反而是一个弯道超车的机会。” 当然，也有学生在面对实拍和AI的二选一时，仍然选实拍。“他们说后面这样的创作机会很少了。”湫帆懂得学生的心情：“他们有一个传统电影梦。” 学生的“老派”让湫帆意识到有趣的代际差异： 湫帆毕业时，他的同学们大多怀抱着创作院线电影和上星长剧的职业理想，渴望留在传统的影视行业里深耕。 而他的学生们，大多数从一开始就不预设自己要成为编剧或导演。在AI的浪潮来临之前，他们已经是成长于短视频的一代，先天对长内容没有太多偏好。 这些年轻的孩子们，有人用AI做二次元照片；有人因为口才好在剧本杀店做DM（主持人）；有人拍政企宣传片；有人要做AI超创。 相较老师那代人，他们没有“艺术VS技术”的思想包袱；不排斥AI工具，但抗拒无意义的重复；他们重视自己的感受，讲求实用主义、活在当下，职业路径也因此变得多元。 钱省了，心理成本上去了 Veda回想自己学习影视的过程，更像是反复在经历一场场“合群测试”。 “上学时总能听到，影视圈有一条暗暗的鄙视链，电影在大家心目中是最顶尖的综合艺术，周围人似乎也会默认自己的最高职业目标是拍电影。” Veda也带着“应该做电影”的惯性进入了行业。毕业到现在的十年间，她以导演的身份，拍过电影、网剧、短视频、访谈纪录片、广告、长剧和海外短剧，还曾写过一部30万字的女性小说，做过旅游博主。对她来说，内容有趣、可以和人产",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-08-23",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "“预制娃”比“预制菜”更可怕：家长正在批量重仓一种加速贬值的能力",
+   "link": "https://www.huxiu.com/article/4885217.html",
+   "summary": "这个暑假，一些孩子收到的不是旅行计划，而是一张像生产排期一样严密的课表。早上八点开工，晚上八点收工。语文、数学、英语、历史、政治、物理、化学，一门不落。学校还没有开学，家里已经提前办起了\"第三学期\"。家长像中央厨房，负责把下学期的知识提前加工；孩子成了被封装好的半成品；开学以后，老师负责复热，考试负责验货。我...... 本文来自微信公众号： 纪中展讲决策 ，作者：纪中展讲决策，原文标题：《“预制娃”比“预制菜”更可怕：家长正在批量重仓一种加速贬值的能力｜新趋势》 这个暑假，一些孩子收到的不是旅行计划，而是一张像生产排期一样严密的课表。 早上八点开工，晚上八点收工。语文、数学、英语、历史、政治、物理、化学，一门不落。学校还没有开学，家里已经提前办起了\"第三学期\"。 家长像中央厨房，负责把下学期的知识提前加工；孩子成了被封装好的半成品；开学以后，老师负责复热，考试负责验货。 我看到这些的时候，冒出来的第一个问题不是：现在的家长为什么这么狠？ 而是：一个家庭，为什么要在两个月里，重新办一所学校？ 这问题的答案，决定了下一轮教育生意去向何处。 从学校到家庭：教育竞争的完整迁移 必须把正常预习和\"预制\"分开。正常预习是孩子自己翻开课本，遇见问题，带着不懂走进课堂；\"预制\"是把下一学期提前生产一遍，知识点提前讲、题型提前练、错误提前消灭。 它带给孩子的首先不是学习能力，而是熟练感。 熟练感最大的危险，是它看起来太像能力。 \"双减\"之后，学校和培训机构的显性供给受限了，但升学仍然是一场排序竞争。只要排序机制没有改变，家长就很难真正退出。 第一个家长让孩子提前学，孩子开学后确实占优势；第二个家长看到以后只能跟进。最后所有家庭都多投入了一个暑假，孩子之间的相对位置却未必改变，这不是简单的教育焦虑，而是一场需求迁移。 过去，家长只是教育服务的付款人；现在，父母正在成为这所\"家庭学校\"的校长、教务主任和班主任。 每个孩子背后，都站着一所不同的家庭学校 一所家庭学校需要什么？课程、工具、师资、学习管理、照看托管、过程反馈和结果验收。传统培训班只解决其中一个环节。 大部分父母既没有时间，也没有能力自己经营一所学校。 新的教育生意，就从这个缺口里长了出来。 IDC数据显示，2025年第二季度中国学习平板出货量达到154万台，同比增长44.6%。家长购买的表面上是一块屏幕，实际上是一所可以搬回家的学校。 教培公司的逃生：第一波生意已经开始 过去学习机主要卖护眼屏、题库和录播课。现在所有品牌都在讲AI精准学、AI答疑和AI一对一。 这不是简单的产品升级，而是一次入口转移。教室受到限制以后，教培公司必须找到一个新地方继续出售内容。这个地方，就是孩子的书桌。 学而思、作业帮、猿辅导这些原来的教培公司，正在把课程、题库和教研能力装进学习机。它们不是突然爱上硬件，而是在寻找家庭教育的新入口。 科大讯飞已经把学习机定义为\"家庭学习全链路智能支持体系\"，包括诊断、答疑、互动课和学习画像。这比简单说\"AI闭环\"更接近产业现实。 这就是第一波生意：更高效地生产\"预制\"。 它解决家长最急迫的需求，少走弯路、精准补弱、减轻陪学负担。增长最快，同质化也最快。几乎所有产品都能讲\"个性化\"\"一对一\"\"因材施教\"。 AI如何重估教育行业的资产 大模型已经可以调取知识、讲解题目、批改作文、生成练习。过去教培公司依靠名师、课程、题库建立的壁垒，正在被AI压低。 知识没有贬值，孩子仍然需要扎实学习。真正加速贬值的，是在已经定义好的问题里，沿着别人铺好的路径，熟练复现一个标准答案。 一个很难回避的问题随之出现：AI究竟是在帮助孩子学会思考，还是在帮助家长更高效地完成预制？ 这决定了教育公司下一步的价值在哪里。 两波生意正在分化，长期价值不在第一波 第二波生意不再以\"学到第几册\"为结果，而是看孩子能不能管理自己、提出问题、与人合作、完成作品。 它包括真人学习陪伴、项目制学习、科学营、户外教育和\"托管+成长\"的复合服务。这类生意更难标准化，规模可能不如学习机来得快，但客单价、信任壁垒和长期价值显然更高。 第一波钱多、增长快、竞争激烈。第二波钱慢、增长难、但活得更久。 家长用童年这种不可再生的资产，重仓一种加速贬值的能力：这个判断对整个产业都成立。 对不同类型的老板，机会分别在哪里 对大公司来说，机会是争夺家庭学习入口，用硬件沉淀数据，用订阅和服务延长收入周期。这个赛道需要资本、技术、内容和渠道，不适合普通创业者。 对原来的教培公司来说，机会不是简单把录播课装进机器，而是把教研能力变成诊断、规划和反馈系统。如果仍然只是帮助\"预制\"更高效，那和过去没有本质区别。 对中小教育创业者来说，真正的机会反而在线下。真人关系、社区托管、真实任务和高质量陪伴，这些事情AI可以辅助，却很难独立完成。这个赛道更容易",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-08-23",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Zero: Vercel's programming language built for AI agents",
+   "link": "https://www.producthunt.com/products/zero-15?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Zero is Vercel's experimental programming language designed for a world where AI agents write the code. Instead of editing source text, agents query and patch a semantic program graph while the compil",
+   "source": "Product Hunt",
+   "date": "2026-08-23",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] YYZGoogle: Record any Google Meet - no extension, no signup",
+   "link": "https://www.producthunt.com/products/yyzgoogle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Put in your Meet link → an invisible guest bot sneaks in to understand everything → when the meeting is over, you get both the audio and the captions. There are no extensions, no sign-ups, and no OAut",
+   "source": "Product Hunt",
+   "date": "2026-08-23",
+   "category": "other",
+   "level": "C"
+  },
+  {
+   "title": "[新品] Maccess: Your Mac, in your pocket — trackpad, screen, and AI",
+   "link": "https://www.producthunt.com/products/maccess?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Control your Mac from iPhone with touchpad, keyboard, screen mirroring, files, and Mackie AI. Pair over Wi-Fi or use Online Access from anywhere.",
+   "source": "Product Hunt",
+   "date": "2026-08-23",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Gemini for Students: Introducing 1 Year Free Google AI for College Students",
+   "link": "https://www.producthunt.com/products/gemini-for-students?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Supercharge your academic workflow. Google is offering eligible college students worldwide 1 full year of Google AI Pro or Google AI Plus at no cost, paired with an all-new Student Hub inside Gemini. ",
+   "source": "Product Hunt",
+   "date": "2026-08-23",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "[新品] Movie Maker Studio Pro 7.3: Turn a written description into a finished ad, show or movie",
+   "link": "https://www.producthunt.com/products/movie-maker-studio-pro-v7-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "You have an idea and no crew, no cast, no camera. Movie Maker Studio makes the ad, TV show or movie. Describe your idea on one screen. Press Auto-produce. It creates the reference images, writes every",
+   "source": "Product Hunt",
+   "date": "2026-08-23",
+   "category": "short_drama",
+   "level": "S"
   }
  ]
 }

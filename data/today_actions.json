@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "MiniMax H3 视频模型",
-   "what": "MiniMax 最新视频生成模型，降价且功能强，适合短剧制作。",
-   "why_today": "情报显示其降价且功能强大，直接提升短剧制作效率，且是 S 级机会。",
+   "name": "MiniMax H3视频模型",
+   "what": "MiniMax最新视频生成模型，SOTA且低价",
+   "why_today": "S级情报，直接提升短剧制作效率与质量，建议立即测试",
    "time_est": "2小时",
    "source": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了"
   },
   {
-   "name": "Toonflow",
-   "what": "开源一站式 AI 短剧创作工具，将小说/剧本快速转化为动画。",
-   "why_today": "S 级开源项目，直接降低短剧制作成本，今天下载测试工作流。",
+   "name": "DeepSeek多模态API",
+   "what": "DeepSeek新上线的多模态模型API",
+   "why_today": "S级情报，可提升短剧制作效率与质量，建议立即测试集成",
+   "time_est": "2小时",
+   "source": "突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了"
+  },
+  {
+   "name": "Toonflow-app",
+   "what": "开源一站式AI短剧创作工具，将小说/剧本转化为动画",
+   "why_today": "S级情报，直接提升制作效率降低成本，建议立即下载测试",
    "time_est": "1.5小时",
    "source": "[GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
-   "name": "TOONOOT",
-   "what": "另一款开源一站式 AI 短剧创作工具，支持分镜和生成。",
-   "why_today": "S 级开源项目，提供低成本量产短剧机会，立即测试其分镜质量。",
-   "time_est": "1.5小时",
-   "source": "[GitHub] winsentrobot008/TOONOOT"
-  },
-  {
-   "name": "veo3-workflow-agents",
-   "what": "基于 Veo3 的 AI 视频生成管道，简化短剧制作流程。",
-   "why_today": "S 级，Veo3 是高质量视频生成方案，且 Sora 关闭后替代需求上升。",
-   "time_est": "2小时",
-   "source": "[GitHub] nabobery/veo3-workflow-agents"
-  },
-  {
    "name": "Open-Sora",
-   "what": "开源视频生成模型，可定制化短剧内容。",
-   "why_today": "Sora 关闭后开源替代方案需求激增，且可低成本生成视频。",
-   "time_est": "2小时",
+   "what": "开源视频生成模型，可低成本量产短剧内容",
+   "why_today": "S级情报，部署测试生成样片评估质量",
+   "time_est": "3小时",
    "source": "[GitHub] hpcaitech/Open-Sora"
+  },
+  {
+   "name": "Sora 2",
+   "what": "OpenAI Sora升级版，功能增强",
+   "why_today": "S级情报，Sora正式上线且升级，需注册测试新功能",
+   "time_est": "1小时",
+   "source": "[HN] Sora 2"
   }
  ],
  "things_to_watch": [
   {
-   "item": "可灵后续更新",
-   "reason": "核心技术骨干离职可能影响工具迭代，需关注替代方案。"
+   "item": "可灵后续版本更新",
+   "reason": "核心骨干离职可能影响迭代，需关注竞品动态"
   },
   {
-   "item": "Wapoo 产品模式",
-   "reason": "AI 视频共创平台获融资，可能影响短剧互动趋势。"
+   "item": "Wapoo视频共创平台",
+   "reason": "新融资，可能影响短剧内容形态，值得跟踪"
   },
   {
    "item": "支付宝智能体生态",
-   "reason": "智能体商业趋势可能带来新的变现机会。"
+   "reason": "智能体商业趋势可能影响短剧分发渠道"
   }
  ],
  "research_topics": [
   {
-   "topic": "DSH 插件开发与上架流程",
-   "why": "DSH 插件生态爆发，是 AI 工具变现新机会，需立即研究。"
+   "topic": "DSH插件开发文档",
+   "why": "DSH生态爆发，插件市场有变现潜力"
   },
   {
-   "topic": "Temu 社交裂变机制",
-   "why": "可借鉴到短剧推广，提升流量。"
+   "topic": "东南亚电商AI客服需求",
+   "why": "智能客服是AI工具变现方向，东南亚有市场潜力"
   },
   {
-   "topic": "AI 视频工具替代方案对比",
-   "why": "Sora 关闭后，需评估现有替代工具（如 Veo3、开源模型）的生成质量与成本。"
+   "topic": "短剧出海本地化文化偏好",
+   "why": "文化差异影响短剧海外接受度，需针对性优化"
   }
  ],
- "daily_focus": "测试 MiniMax H3 和两个开源短剧工具（Toonflow/TOONOOT），评估生成质量并选定主用工具。"
+ "daily_focus": "今天集中测试MiniMax H3和DeepSeek多模态API，评估其在短剧制作中的实际效果，并生成测试样片。"
 }
