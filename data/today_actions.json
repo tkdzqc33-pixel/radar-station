@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "MiniMax H3视频模型+Agent产品",
-   "what": "MiniMax的视频生成模型及Agent产品，用于高效制作短剧",
-   "why_today": "S级情报显示其直接提升短剧制作效率，且建议立即注册测试",
+   "name": "MiniMax H3",
+   "what": "视频生成模型，号称视频领域的Claude Code，SOTA且低价",
+   "why_today": "S级情报明确建议立即测试，低成本高质量视频生成可直接用于短剧制作，提升效率",
    "time_est": "2小时",
    "source": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了"
   },
   {
-   "name": "DeepSeek Harness (DSH)",
-   "what": "DeepSeek的Agent Store平台，支持插件开发与变现",
-   "why_today": "S级情报指出插件生态爆发，提供开发与变现机会，建议立即研究文档并尝试开发",
-   "time_est": "3小时",
-   "source": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store"
-  },
-  {
-   "name": "Toonflow",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本转化为动画",
-   "why_today": "S级情报推荐下载测试，评估分镜与角色生成质量，直接降低制作成本",
+   "name": "Sora 2",
+   "what": "OpenAI最新视频生成模型，能力升级",
+   "why_today": "多条S级情报聚焦Sora发布，虽有关闭传闻但Sora 2仍值得测试，评估其生成质量与成本，作为短剧制作备选",
    "time_est": "2小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app"
+   "source": "[HN] Sora 2"
   },
   {
-   "name": "Open-Sora",
-   "what": "开源视频生成模型，可低成本生成短剧片段",
-   "why_today": "S级情报建议部署测试，评估生成质量，且Sora关闭后需替代方案",
-   "time_est": "3小时",
-   "source": "[GitHub] hpcaitech/Open-Sora"
-  },
-  {
-   "name": "KrillinAI",
-   "what": "AI视频翻译与配音工具，助力短剧多语言出海",
-   "why_today": "A级情报建议试用，测试中文短剧翻译成英文效果，扩大市场覆盖",
+   "name": "Toonflow v1.1.8",
+   "what": "短剧专用制作工具，最新版本更新",
+   "why_today": "S级情报标注版本更新，直接提升短剧制作效率，应下载测试新功能",
    "time_est": "1小时",
-   "source": "[GitHub] krillinai/KrillinAI"
+   "source": "[版本更新] Toonflow短剧工具 v1.1.8"
+  },
+  {
+   "name": "Open-Sora v1.3",
+   "what": "开源视频生成模型升级版",
+   "why_today": "A级情报显示版本更新，开源可定制，低成本制作短剧素材，值得测试生成质量",
+   "time_est": "1.5小时",
+   "source": "[版本更新] Open-Sora v1.3"
+  },
+  {
+   "name": "MoneyPrinter v1.3.5",
+   "what": "视频生成工具，新增TTS提供商",
+   "why_today": "A级情报显示新TTS可改善短剧配音，测试音质以优化制作流程",
+   "time_est": "1小时",
+   "source": "[版本更新] MoneyPrinter v1.3.5"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关闭后的行业动态及替代工具发展",
-   "reason": "Sora关闭引发行业动荡，需关注替代工具如Open-Sora、SoraWebui等的进展"
+   "item": "Sora的关闭/停运传闻及迪士尼合作动态",
+   "reason": "多条情报显示Sora可能关闭或调整，影响短剧制作工具链，需跟踪替代方案"
   },
   {
-   "item": "可灵AI后续更新及核心骨干离职影响",
-   "reason": "可灵研发节奏可能受影响，需评估是否影响短剧制作工具链"
+   "item": "Hugging Face收购进展",
+   "reason": "130亿美元收购可能影响模型托管生态和API价格，间接影响AI工具开发"
   },
   {
-   "item": "Hugging Face出售进展",
-   "reason": "Hugging Face是开源模型平台，出售可能影响依赖其模型的工具生态"
+   "item": "字节豆包工作整合",
+   "reason": "字节整合AI办公产品可能改变AI工具生态，需关注竞争格局变化"
   }
  ],
  "research_topics": [
   {
-   "topic": "DSH插件开发文档与变现模式",
-   "why": "S级情报显示DSH插件生态爆发，开发插件可上架销售或引流，需深入研究"
+   "topic": "爱奇艺AI短剧模式",
+   "why": "S级情报指出AI短剧占比超50%，验证商业化可行，研究其内容生产与变现策略可借鉴到出海"
   },
   {
-   "topic": "短剧出海的多语言本地化与文化适配策略",
-   "why": "A级情报指出文化差异影响AI工具出海，需调研目标市场文化以优化内容"
+   "topic": "拉美市场短剧买量策略",
+   "why": "A级情报提示拉美是潜在蓝海，研究买量计划可抢占市场先机"
   },
   {
-   "topic": "AI视频生成工具的成本对比与替代方案",
-   "why": "Sora关闭后需多元化工具链，需对比Open-Sora、MiniMax H3等工具的成本与质量"
+   "topic": "东南亚AI客服方案",
+   "why": "A级情报提到AI客服可提升短剧用户留存，调研集成方案以优化出海平台"
   }
  ],
- "daily_focus": "注册并测试MiniMax H3和DeepSeek Harness，评估其在短剧制作中的实际效果"
+ "daily_focus": "测试MiniMax H3和Sora 2，评估其生成质量与成本，确定短剧制作首选工具"
 }
