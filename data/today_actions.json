@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "MiniMax H3",
-   "what": "视频生成模型，号称视频领域的Claude Code，SOTA且低价",
-   "why_today": "S级情报明确建议立即测试，低成本高质量视频生成可直接用于短剧制作，提升效率",
+   "name": "Wan3.0",
+   "what": "阿里云推出的视频生成模型，支持文本到视频生成。",
+   "why_today": "S级情报，新上线且直接提升短剧制作效率，需立即对比现有工具效果。",
    "time_est": "2小时",
-   "source": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了"
-  },
-  {
-   "name": "Sora 2",
-   "what": "OpenAI最新视频生成模型，能力升级",
-   "why_today": "多条S级情报聚焦Sora发布，虽有关闭传闻但Sora 2仍值得测试，评估其生成质量与成本，作为短剧制作备选",
-   "time_est": "2小时",
-   "source": "[HN] Sora 2"
+   "source": "派早报：阿里云视频生成模型 Wan3.0 上线"
   },
   {
    "name": "Toonflow v1.1.8",
-   "what": "短剧专用制作工具，最新版本更新",
-   "why_today": "S级情报标注版本更新，直接提升短剧制作效率，应下载测试新功能",
+   "what": "短剧专用工具，更新版本提升制作效率。",
+   "why_today": "S级版本更新，直接针对短剧制作，需测试新功能以快速产出内容。",
    "time_est": "1小时",
    "source": "[版本更新] Toonflow短剧工具 v1.1.8"
   },
   {
-   "name": "Open-Sora v1.3",
-   "what": "开源视频生成模型升级版",
-   "why_today": "A级情报显示版本更新，开源可定制，低成本制作短剧素材，值得测试生成质量",
-   "time_est": "1.5小时",
-   "source": "[版本更新] Open-Sora v1.3"
+   "name": "Sora 2",
+   "what": "OpenAI的视频生成模型，升级后视频质量提升。",
+   "why_today": "S级情报，Sora 2升级且迪士尼合作，需测试生成短剧预告片以利用新特性。",
+   "time_est": "3小时",
+   "source": "[HN] Sora 2"
   },
   {
-   "name": "MoneyPrinter v1.3.5",
-   "what": "视频生成工具，新增TTS提供商",
-   "why_today": "A级情报显示新TTS可改善短剧配音，测试音质以优化制作流程",
+   "name": "Ninjō AI",
+   "what": "AI销售代理，可在Instagram/WhatsApp等渠道自动化推广。",
+   "why_today": "S级新品，可自动化短剧推广和知识付费营销，直接提升变现，需测试销售代理功能。",
+   "time_est": "1.5小时",
+   "source": "[新品] Ninjō AI"
+  },
+  {
+   "name": "Open-Sora v1.3",
+   "what": "开源视频生成模型，升级版本。",
+   "why_today": "A级版本更新，低成本生成短剧素材，且作为Sora替代选项，需测试生成效果。",
    "time_est": "1小时",
-   "source": "[版本更新] MoneyPrinter v1.3.5"
+   "source": "[版本更新] Open-Sora v1.3"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora的关闭/停运传闻及迪士尼合作动态",
-   "reason": "多条情报显示Sora可能关闭或调整，影响短剧制作工具链，需跟踪替代方案"
+   "item": "Sora的运营状态和替代工具",
+   "reason": "多条情报显示Sora可能停运或关闭，影响工具链稳定性，需持续关注替代方案。"
   },
   {
-   "item": "Hugging Face收购进展",
-   "reason": "130亿美元收购可能影响模型托管生态和API价格，间接影响AI工具开发"
+   "item": "迪士尼与OpenAI合作进展",
+   "reason": "合作可能改变短剧内容生态，需关注IP授权细节和合作动态。"
   },
   {
-   "item": "字节豆包工作整合",
-   "reason": "字节整合AI办公产品可能改变AI工具生态，需关注竞争格局变化"
+   "item": "豆包工作与飞书集成",
+   "reason": "字节AI产品整合可能影响工具生态，且Agent功能可提升制作效率，需跟踪功能更新。"
   }
  ],
  "research_topics": [
   {
-   "topic": "爱奇艺AI短剧模式",
-   "why": "S级情报指出AI短剧占比超50%，验证商业化可行，研究其内容生产与变现策略可借鉴到出海"
+   "topic": "迪士尼IP授权规则",
+   "why": "评估合作可能性，开发衍生短剧内容，抓住IP热度红利。"
   },
   {
-   "topic": "拉美市场短剧买量策略",
-   "why": "A级情报提示拉美是潜在蓝海，研究买量计划可抢占市场先机"
+   "topic": "东南亚AI客服市场需求",
+   "why": "借鉴AI客服出海案例，评估开发AI工具出海的可行性。"
   },
   {
-   "topic": "东南亚AI客服方案",
-   "why": "A级情报提到AI客服可提升短剧用户留存，调研集成方案以优化出海平台"
+   "topic": "AI视频生成工具的成本对比",
+   "why": "在Sora不稳定情况下，对比Wan3.0、Veo、Open-Sora等工具的成本和效果，优化选型。"
   }
  ],
- "daily_focus": "测试MiniMax H3和Sora 2，评估其生成质量与成本，确定短剧制作首选工具"
+ "daily_focus": "立即注册并测试Sora 2，生成一段短剧预告片，同时备份现有Sora素材。"
 }
