@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "SkyProduction",
-   "what": "接入阿里视频生成模型Wan 3.0的在线平台，限时3天免费。",
-   "why_today": "S级情报，免费期仅3天，需立即注册测试Wan 3.0生成效果，批量产出短剧素材以降低成本。",
-   "time_est": "2小时",
-   "source": "SkyProduction接入阿里视频生成模型Wan 3.0，限时3天免费"
-  },
-  {
    "name": "Toonflow",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本转化为动画。",
-   "why_today": "S级情报，开源且直接提升短剧制作效率，需下载测试分镜与生成质量，评估是否整合进工作流。",
-   "time_est": "3小时",
+   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画",
+   "why_today": "S级情报，直接提升短剧制作效率，且美国市场爆发，需快速产出内容",
+   "time_est": "2小时",
    "source": "[GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
-   "name": "GLM-5.3",
-   "what": "智谱开源模型，主打智能体编程与网络防御。",
-   "why_today": "S级情报，开源权重可低成本用于AI工具开发，需下载测试编程和智能体能力，探索开发插件机会。",
-   "time_est": "2小时",
-   "source": "智谱开源 GLM-5.3 模型权重"
+   "name": "Open-Sora",
+   "what": "开源视频生成模型，可低成本生成视频片段",
+   "why_today": "S级情报，Sora可能停运，Open-Sora是替代方案，且能降低制作成本",
+   "time_est": "3小时",
+   "source": "[GitHub] hpcaitech/Open-Sora"
   },
   {
-   "name": "DSH",
-   "what": "Agent平台，插件生态和Agent loop，可能改变AI工具开发方式。",
-   "why_today": "S级情报，产品两极分化但机会明确，需立即下载测试插件生态和Agent loop，评估用于开发定制化AI工具。",
-   "time_est": "2小时",
-   "source": "DSH发布两周，它成了评价最两极分化的产品"
+   "name": "Veo3-workflow-agents",
+   "what": "AI视频生成管道，单API密钥即可简化制作流程",
+   "why_today": "S级情报，Sora关停后Veo3是重要替代，需立即测试生成短剧片段",
+   "time_est": "1.5小时",
+   "source": "[GitHub] nabobery/veo3-workflow-agents"
   },
   {
    "name": "KrillinAI",
-   "what": "AI视频翻译配音工具，支持100+语言，利于短剧出海本地化。",
-   "why_today": "A级情报，低成本多语言本地化直接扩大海外市场，需测试对比现有翻译工具效率与成本。",
-   "time_est": "1.5小时",
+   "what": "AI视频翻译配音工具，助力短剧多语言出海",
+   "why_today": "美国短剧市场爆发，多语言出海是机会，且工具可直接扩展市场",
+   "time_est": "1小时",
    "source": "[GitHub] krillinai/KrillinAI"
+  },
+  {
+   "name": "混元Hy4 preview",
+   "what": "腾讯高性能AI模型，可提升内容生成质量",
+   "why_today": "A级情报，模型性能提升可能影响AI工具选择，需测试是否适合短剧制作",
+   "time_est": "1小时",
+   "source": "腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关闭后的替代工具迁移（Veo、Runway等）",
-   "reason": "S级情报显示Sora关闭且迪士尼退出，需持续跟踪替代工具动态，避免业务中断。"
+   "item": "Sora停运进展及替代工具生态",
+   "reason": "S级情报，Sora可能停运，影响现有制作流程，需持续跟踪替代方案"
   },
   {
-   "item": "OpenAI自研芯片（Jalapeño）后续定价与性能",
-   "reason": "A级情报，芯片竞争可能降低AI工具成本，影响利润空间，需关注定价变化。"
+   "item": "Anthropic版权诉讼进展",
+   "reason": "A级情报，AI版权风险加剧，可能影响工具合规性，需关注法律动态"
   },
   {
-   "item": "字节豆包Agent整合动向",
-   "reason": "A级情报，巨头Agent产品整合预示办公自动化趋势，可能影响知识付费内容方向，需跟踪功能更新。"
+   "item": "Jalapeño芯片商用时间",
+   "reason": "A级情报，芯片性能提升可能降低AI使用成本，影响利润和工具选择"
   }
  ],
  "research_topics": [
   {
-   "topic": "AI营销工具在短剧投流中的应用",
-   "why": "A级情报指出出海游戏买量成本高，AI营销可能降低短剧投流成本，直接影响利润，需研究可行工具与效果。"
+   "topic": "美国微短剧市场爆款题材与内容策略",
+   "why": "S级情报，美国市场收入预计15亿美元，需研究爆款题材以调整内容策略"
   },
   {
-   "topic": "MiniMax的Agent基建产品与合作可能",
-   "why": "A级情报显示MiniMax企业收入暴涨700%，其Agent基建需求上升，研究其产品可探索合作或借鉴模式。"
+   "topic": "快手优创计划合作规则与流量扶持机制",
+   "why": "A级情报，快手创作者计划可能带来短剧流量红利，需评估合作机会"
   },
   {
-   "topic": "印度数据合规成本与市场潜力",
-   "why": "A级情报提及印度新数据安全政策，若拓展印度市场需评估合规成本，研究低成本合规方案。"
+   "topic": "印度数据合规要求及低成本合规方案",
+   "why": "A级情报，印度新数据安全政策影响短剧出海，需研究合规路径"
   }
  ],
- "daily_focus": "立即注册SkyProduction并测试Wan 3.0生成效果，同时下载Toonflow和DSH进行初步评估，确保抓住免费期和开源机会。"
+ "daily_focus": "测试Toonflow和Open-Sora，评估能否替代Sora并提升短剧制作效率"
 }
