@@ -4355,6 +4355,114 @@
    "date": "2026-08-30",
    "category": "other",
    "level": "B"
+  },
+  {
+   "title": "谷歌、OpenAI、Meta正与日本官方机构和本土企业联手，打击激增的网络诈骗案件",
+   "link": "https://www.36kr.com/newsflashes/3961456293313924",
+   "summary": "市场消息：谷歌、OpenAI、Meta正与日本官方机构和本土企业联手，打击激增的网络诈骗案件。（新浪财经）",
+   "source": "36氪 - 快讯",
+   "date": "2026-08-30",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "日均峰值 11.3 起：报告称 2026 年已记录 1664 起 AI 失控事件，7 月环比增 93.76%",
+   "link": "https://www.ithome.com/0/996/124.htm",
+   "summary": "IT之家 8 月 30 日消息，英国长期韧性中心（CLTR）于 8 月 28 日发布报告， 称其“失控观察站”在 2026 年 7 月共记录 306 起 AI 安全事件，比 6 月（158 起）增涨 93.67%。 “失控观察站”成立于 2026 年 2 月，获英国人工智能安全研究所资助，借助开源情报追踪 AI 系统违背操作者意图的案例。 报告列举的案例包括：智能体在对话中插入伪造用户消息以模拟同意、仿照用户写作风格编造删除源代码目录的指令、伪造“人工必须批准”规则下的授权信息并执行任务。 CLTR 表示，多数记录事件尚未导致重大伤害，但呈现出无视直接指令、规避防护、误导用户或以单一目标驱动有害操作等特征。 截至 2026 年 8 月 9 日，该观察站已识别 1664 起现实世界 AI 失控事件。 截至 8 月 7 日的 30 天内，观察站记录 338 起事件，日均 11.3 起，超过 2026 年 3 月创下的日均 10.5 起此前峰值。 IT之家附上参考地址 Insight report: AI loss of control incidents are worsening",
+   "source": "IT之家",
+   "date": "2026-08-30",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "消息称百度智能云分拆平台产品事业部：MaaS 划入基础设施、Agent 独立成军",
+   "link": "https://www.ithome.com/0/996/123.htm",
+   "summary": "IT之家 8 月 30 日消息，据《晚点 LatePost》8 月 29 日报道，百度智能云近日完成一轮产研组织调整。原平台产品事业部更名为 智能体事业部 ，其下 MaaS 业务、千帆品牌及与 MaaS 相关的产品体系转入 基础设施事业部 ，数据平台部更名为数据智能部，转入由原应用产品事业部更名而来的 智能应用事业部 。 调整后，百度智能云的三个事业部分别由侯震宇、殷大伟和阮瑜负责：侯震宇负责基础设施事业部，管理 AI Infra 和 Agent Infra；殷大伟负责智能体事业部，聚焦 Agent 产品如百度搭子、秒哒和伐谋；阮瑜负责智能应用事业部，管理百度一见、Hogee、胜算以及交通、金融等行业应用。 报道称，三人均直接向百度集团执行副总裁、智能云事业群总裁沈抖汇报。 IT之家注意到，百度本月发布 2026 年第二季度财报，季度总营收 313 亿元；百度一般性业务收入 252 亿元， 其中 AI 业务收入占比 50%，已连续两季占比过半 。本季度，AI 云基础设施中 GPU 云同比增长 283%，连续四个季度实现三位数增长。公司管理层表示，将继续加大 AI 领域投入，推动公司从互联网公司向 AI-first 公司转型，AI 业务的增长为长期增长奠定基础。 同样在本月，百度已启动内部办公智能体 dodo 与百度搭子团队整合，dodo 相关研发人员、资源都将并入百度搭子，实现内外部办公智能体产品完全统一。这意味着，百度办公 Agent 业务将从多线推进改为集中作战，公司将整合优势资源全面入局 AI 办公赛道争夺。",
+   "source": "IT之家",
+   "date": "2026-08-30",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "预估为 GPT-6 AI 模型：OpenAI Astra 首批演示样本流出，1 次交互生成类 GTA 2 游戏",
+   "link": "https://www.ithome.com/0/996/120.htm",
+   "summary": "IT之家 8 月 30 日消息，科技媒体 testingcatalog 昨日（8 月 29 日）发布博文，报道称 OpenAI 正加快 Astra 模型发布进程， 新增 mozaik-alpha-fdm 测试阶段，从而扩大内部测试范围。 IT之家注：Astra 是 OpenAI 內部正在开发的新一代 AI 模型系列，代号延续其天体命名传统（Sol、Terra、Luna 之后），拉丁语意为“星辰”。 据《The Information》等报道，Astra 在数学、物理、生物、医学、化学与网络安全等领域展现重大突破，甚至据称已解决多个长期未解的高阶数学难题。 截至目前（2026 年 8 月），Astra 尚未确认为“GPT-6”，但多方媒体与业界爆料普遍认为 Astra 很可能就是外界所称的 GPT-6，或至少是 GPT-6 的候选名称之一，参数规模可能会达到 10 万亿。 根据网友分享的测试内容，Astra 模型重点提升代码编写和可视化软件创建，仅 1 次对话交互，就成功就制作出了类似《侠盗猎车手 2》（GTA 2）的游戏，以及精细的网站、3D 对象和体素环境。 该媒体认为如果这种高效的开发能力能够延续到最终发布的产品中，那么开发者、设计师和创始人等原型制作人员将成为主要受益者，但测试人员也反馈，Astra 当前处于零样本测试，使用 Max 推理强度，推理时间比 GPT-5.6 Sol 长得多。 IT之家附上相关演示视频如下：",
+   "source": "IT之家",
+   "date": "2026-08-30",
+   "category": "ai_tools",
+   "level": "S"
+  },
+  {
+   "title": "国家数据局局长刘烈宏：要围绕国民经济重大场景，研究探索词元增值订阅、按效付费等商业模式",
+   "link": "https://www.ithome.com/0/996/119.htm",
+   "summary": "IT之家 8 月 30 日消息，据央视新闻今日报道，在 2026 中国国际大数据产业博览会上，一批数据领域最新政策举措陆续发布，涵盖了词元、数据标注、数字人才培养等多个领域。国家数据局局长刘烈宏表示，要围绕国民经济重大场景， 研究探索词元增值订阅、按效付费等商业模式 。 词元，为人工智能服务的计量、定价、交易和结算提供了重要标尺。国家数据局负责人表示，将探索适配产业实际的词元商业模式。 数据标注， 相当于给原始数据打标签 ，标注好的数据可用来训练人工智能。国家数据局将在 32 个城市布局新一批数据标注先行先试，深入工业制造、医疗健康、交通运输等领域，破解数据标注产业发展瓶颈。 报道称，在数字人才培养上，多部门将加强协同，推动建立健全数据要素相关学科专业本硕博贯通衔接的人才培养机制，完善数据要素相关学科专业布局。此外，截至 29 日下午，2026 数博会已举办超 20 场行业交流活动，“数据集市”“数据之夜”等特色活动陆续进行，促进数据产品和应用场景供需对接。 IT之家注意到，截至 2026 年 6 月，我国日均词元调用量已突破 500 万亿。词元规模快速增长的背后，全球大模型的竞争进入白热化，算力需求出现爆发式增长。 6 月 25 日，中国人工智能产业发展联盟（ AIIA ）正式启动词元（Token）服务工作组的筹备工作。由中国信息通信研究院（简称“中国信通院”）牵头，联合华为云、 百度智能云 、中国移动、中国电信、中国联通等 22 家单位，面向社会公开征集有意向加入工作组的单位。",
+   "source": "IT之家",
+   "date": "2026-08-30",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "数毛社分析 14GB、70Mbps 高码率版《GTA6》加长版预告，部分游戏瑕疵依然存在",
+   "link": "https://www.ithome.com/0/996/115.htm",
+   "summary": "IT之家 8 月 30 日消息，数毛社（Digital Foundry）昨日（8 月 29 日）发布 76 分钟长视频，深度分析 Rockstar Games 的《侠盗猎车手 VI》（GTA6）游戏加长版预告高码率视频， 发现依然存在锯齿、闪烁与反射等瑕疵问题。 Rockstar Games 已低调发布《侠盗猎车手 6》“Extended Look”展示的可下载高码率版本，文件体积为 14GB，码率约 70Mbps。相比较 YouTube、Netflix 等视频平台画面，该下载高码率版本显著减少了传输压缩带来的块状、涂抹等失真。 不过数毛社分析该高质量视频后认为，此前观众在视频平台片源中观察到的一部分问题，在更高码率素材中依然可见。 报道列举的现象包括：快速运动或镜头变化时的拖影，场景元素加载时突然出现的“pop-in”，以及细小物体或边缘在移动中产生的闪烁、爬行感和不稳定细节。 IT之家注：在开放世界游戏中，pop-ins 主要是指玩家靠近或转向某个方向时，场景里的物体、贴图、人物或植被等突然“蹦”出来，而不是平滑地逐渐出现。 此外数毛社还指出在镜头移动时，细节轮廓出现不连续的边缘波动。报道指出，部分画面存在光线追踪噪点与稳定性不足，镜头移动后，一些反射会降低分辨率且看起来出现模糊。",
+   "source": "IT之家",
+   "date": "2026-08-30",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] MiniMax H3 (Hailuo 3): Create AI videos with text, images, and reference clips",
+   "link": "https://www.producthunt.com/products/minimax-h3-hailuo-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "MiniMax H3 (Hailuo 3) turns text, images, and reference clips into AI video up to 2K with synchronized sound. Explore the browser workflow at https://minimax-h3.im/ for fast visual experiments and sho",
+   "source": "Product Hunt",
+   "date": "2026-08-30",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "[新品] LemonApp: Free AI image & video generator powered by rewarded tasks",
+   "link": "https://www.producthunt.com/products/lemonapp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "LemonApp makes generative AI accessible to everyone with zero subscriptions or upfront fees. Create high-resolution AI images, cinematic videos, and scripts powered by FLUX, SDXL, and Kling. Earn free",
+   "source": "Product Hunt",
+   "date": "2026-08-30",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] YouTube to Mind Map: Convert YouTube videos and PDFs into mind maps",
+   "link": "https://www.producthunt.com/products/youtube-to-mind-map?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Create print-friendly, clear, editable, and color-coded mind maps with Youtube Transcript Summary that highlight key events, people, places, theories, themes and concepts. We focus on analysis, and pr",
+   "source": "Product Hunt",
+   "date": "2026-08-30",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Axix IDP Engine: AI-powered invoice & document processing for modern finance",
+   "link": "https://www.producthunt.com/products/axix-idp-engine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Axix IDP Engine turns invoices, POs, PDFs, emails, scans, and Excel files into validated, ERP-ready data. It uses AI extraction, validation rules, automated exception handling, human approval, and ERP",
+   "source": "Product Hunt",
+   "date": "2026-08-30",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] katagami: A library of design languages for you and your agent",
+   "link": "https://www.producthunt.com/products/katagami?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Katagami is a library of design languages. Every language has a philosophy, design tokens, compositional rules and its own art style. It also comes with a reference dashboard and landing pages. Explor",
+   "source": "Product Hunt",
+   "date": "2026-08-30",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Museling — Hear music together: Connecting people to go to local music concerts together",
+   "link": "https://www.producthunt.com/products/museling-hear-music-together?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Live music discovery in Oxford and London now, but shooting for getting global! Get matched with a small group for an upcoming concert — or go solo with a curated pick. Follow other concert-goers, com",
+   "source": "Product Hunt",
+   "date": "2026-08-30",
+   "category": "other",
+   "level": "B"
   }
  ]
 }
