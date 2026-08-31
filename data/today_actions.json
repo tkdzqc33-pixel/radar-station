@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Toonflow",
-   "what": "开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画",
-   "why_today": "S级情报，直接提升短剧制作效率，且为开源项目，可立即下载测试",
+   "name": "Open-Sora",
+   "what": "开源视频生成模型，可低成本生成短剧视频素材",
+   "why_today": "S级情报，Sora关闭后急需替代方案，Open-Sora是开源替代，可立即测试生成质量与速度",
    "time_est": "2小时",
+   "source": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video"
+  },
+  {
+   "name": "Toonflow",
+   "what": "开源一站式AI短剧创作工具，将小说/剧本转为动画",
+   "why_today": "S级情报，直接提升短剧制作效率，降低批量产出成本，今天下载测试工作流",
+   "time_est": "1.5小时",
    "source": "[GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
-   "name": "TOONOOT",
-   "what": "开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画",
-   "why_today": "S级情报，与Toonflow类似但功能可能互补，需对比测试以选择最佳工作流",
-   "time_est": "2小时",
-   "source": "[GitHub] winsentrobot008/TOONOOT"
+   "name": "Avatar Studio",
+   "what": "AI虚拟人视频生成工具，可快速生成短剧角色",
+   "why_today": "S级情报，契合短剧出海，降低演员成本，立即试用评估角色视频质量",
+   "time_est": "1小时",
+   "source": "[新品] Avatar Studio"
   },
   {
-   "name": "Open-Sora",
-   "what": "开源视频生成模型，可低成本生成高质量视频内容",
-   "why_today": "S级情报，Sora关闭风险下急需替代方案，且开源可本地部署，测试其生成质量与速度",
-   "time_est": "3小时",
-   "source": "[GitHub] hpcaitech/Open-Sora"
+   "name": "KrillinAI",
+   "what": "AI视频翻译和配音工具，用于短剧多语言本地化",
+   "why_today": "A级情报，短剧出海关键环节，测试翻译和配音效果，评估适用性",
+   "time_est": "1小时",
+   "source": "[GitHub] krillinai/KrillinAI"
   },
   {
-   "name": "MiniMax H3 (Hailuo 3)",
-   "what": "新AI视频生成工具，支持文本、图像生成2K视频",
-   "why_today": "S级新品，Sora关闭后官方建议测试的替代工具，需立即注册验证工作流",
-   "time_est": "1.5小时",
-   "source": "[新品] MiniMax H3"
-  },
-  {
-   "name": "ai0-video-creator",
-   "what": "桌面AI视频工具，支持本地工作流，可快速制作多类型短剧",
-   "why_today": "S级情报，提供本地化制作能力，降低对云端工具的依赖，适合当前Sora不确定性",
-   "time_est": "1.5小时",
-   "source": "[GitHub] ajoesoft/ai0-video-creator"
+   "name": "SoraWebui",
+   "what": "开源Sora客户端，可提前布局Sora工作流",
+   "why_today": "A级情报，尽管Sora关闭，但该工具可部署测试，熟悉类似工作流，为未来替代做准备",
+   "time_est": "1小时",
+   "source": "[GitHub] SoraWebui/SoraWebui"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora的最终命运（关闭或重大变动）",
-   "reason": "S级情报显示Sora可能关闭，直接影响现有依赖，需持续跟踪官方公告以调整策略"
+   "item": "Meta拆分Horizon Create的进展及Meta Connect大会动态",
+   "reason": "S级情报，可能带来新内容分发渠道和早期流量红利，需持续跟踪"
   },
   {
-   "item": "OpenAI Astra的正式发布与API开放",
-   "reason": "S级情报显示Astra能一次交互生成游戏，若开放将极大降低短剧制作成本，需关注进展"
+   "item": "Sora关闭后的替代工具生态变化",
+   "reason": "S级情报，行业动荡，需关注哪些工具能填补空缺，影响短剧制作流程"
   },
   {
-   "item": "MiniMax H3的后续更新与定价",
-   "reason": "作为Sora替代方案，需关注其稳定性、功能迭代及API价格，以决定长期采用"
+   "item": "腾讯混元Hy4 preview的API调用和性能表现",
+   "reason": "A级情报，性能提升可能影响AI工具选型，需关注其在短剧脚本生成中的实际效果"
   }
  ],
  "research_topics": [
   {
-   "topic": "AI视频生成工具的成本效益对比（Open-Sora vs MiniMax H3 vs 其他）",
-   "why": "Sora关闭风险下，需量化不同工具的成本与质量，以优化短剧制作预算"
+   "topic": "AI影视公司折叠的精品内容工作流",
+   "why": "A级情报，短剧红海后需转型精品，研究其AI工作流可借鉴策略"
   },
   {
-   "topic": "短剧出海本地化策略（日本、中东市场）",
-   "why": "多条A级情报指出日本和中东本地化经验可复制到短剧，需研究文化元素融入方法以拓展市场"
+   "topic": "AI营销工具在短剧投流中的应用",
+   "why": "A级情报，出海游戏买量成本高，AI营销可降低短剧投流成本，需调研工具和效果"
   },
   {
-   "topic": "AI营销工具在短剧投流中的效果评估",
-   "why": "A级情报显示AI营销可降低买量成本，需研究具体工具和策略以提升获客效率"
+   "topic": "印度数据合规要求对短剧业务的影响",
+   "why": "A级情报，印度新数据安全政策，需研究合规要求以调整数据处理流程"
   }
  ],
- "daily_focus": "今天下载并测试Toonflow和TOONOOT，对比生成质量，确定一个作为短剧批量生产的基础工具。"
+ "daily_focus": "今天下载并测试Open-Sora和Toonflow，评估生成质量与效率，为短剧制作建立替代Sora的可行工作流。"
 }
