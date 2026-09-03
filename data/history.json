@@ -5048,6 +5048,204 @@
    "date": "2026-09-02",
    "category": "ai_tools",
    "level": "A"
+  },
+  {
+   "title": "谷歌拟本周推出Gemini 3.8 Flash，内部测试显示编码能力优于Opus",
+   "link": "https://www.36kr.com/newsflashes/3967040365944065",
+   "summary": "谷歌旗下人工智能研究部门DeepMind正准备推出一款编程能力大幅升级的新模型Gemini 3.8 Flash，内部代号为“Skimaki”。该模型最早可能于当地时间周三（9月2日）上线。知情员工称，这款模型的编码能力较此前版本有显著提升，公司正试图借此补上今年以来相对Anthropic、OpenAI旗舰模型的短板。不过，对外发布窗口尚未由公司正式宣布，行业标准基准分数也尚未公开。（新浪财经）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-03",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "腾讯WorkBuddy开放平台上线 Agent向更多工作场景延伸",
+   "link": "https://36kr.com/p/3966701687905536?f=rss",
+   "summary": "文｜李炤锋 昨日，腾讯WorkBuddy开放平台正式上线。这是WorkBuddy今年3月发布以来，首次完整披露开放生态战略。 据了解·，首批已有超过100家合作伙伴进入平台，覆盖智能硬件、行业应用和开发者三个方向。腾讯将其定位为国内首个同时连接这三层生态的Agent平台。 发布会现场，智能眼镜、录音卡片、麦克风和耳机等产品集中亮相。WorkBuddy目前已连接30多个硬件品牌、十余种设备品类，此次首发的9款联名产品，也大多与语音、图像等信息采集有关。 首批合作为何集中在输入端？36氪就此向腾讯WorkBuddy开放生态负责人林佐露提问。 “大家可以在WorkBuddy的工作台发起任务，也可以通过随身设备发起任务，它只是一个发起的途径。”林佐露说。硬件让人与Agent的交互变得更随身、更高频，但在他看来，办公Agent的变化并不只发生在入口。 “我们相信Agent继续发展，对组织和企业而言，它会是一种数字生产力、一个数字员工。” 今天的办公Agent大多仍由人主动调用：用户提出需求，Agent给出回答或完成一项任务。但如果Agent长期参与一个项目，它面对的就不再是一次性的问答，而是持续变化的进度、共同使用的知识空间和多个协作者。 林佐露把这种变化放在组织协作中理解。过去，企业内部的很多协同基于即时通信工具完成；接下来，IM和AI工作台可能逐步融合，“在同一个知识空间、同一个上下文里面，产生多人和Agent的交互”。 Agent在其中扮演的角色也会发生变化。“我们相信WorkBuddy的专家未来会有更多种方式被唤醒，或者是人被Agent调用，不一定是人在调用Agent。” 至于任务从哪里发起、工作流下一步触达到哪里，不同规模的组织、不同行业的企业会形成各自的方式。WorkBuddy不会预先定义哪一种形态最好。林佐露说，团队目前要做的，是在模型、Harness和行业能力逐步连接后，把“当下最好的生产力效果”交付给用户和企业伙伴。 WorkBuddy开放平台 这也是为什么，WorkBuddy要在上线不到半年就开始加速搭建生态的背景。 “最后一个任务好不好，是从基模到Harness，到上下文、工具调用，再到场景联通性，每个环节乘起来的结果。”林佐露说。 为了承接这些能力，WorkBuddy推出了“Buddy应用”。合作伙伴可以把自己的业务场景、工具和品牌接入平台，形成面向特定行业的AI工作台。目前已有30余个行业应用加入，覆盖金融、法律、医疗、教育、公益和企业服务等20多个领域。 开发者还可以通过Skill、Expert和Connector接入专业能力。Skill为Agent提供完成特定任务的方法，Expert对应专业智能体或智能体团队，Connector用于连接外部系统，目前支持MCP和CLI两种方式。 林佐露提到，最早参与平台建设的，通常是已经在特定行业积累了专业数据、知识或流程经验的伙伴。他们过去可能通过SaaS软件服务客户，现在则尝试在Agent底座上重新组织这些能力。 一些SaaS企业此前也尝试自行开发Agent应用，但在运行环境、上下文管理等工程环节投入较大。“他们对自己领域的知识很熟悉，但对工程的部分投入非常巨大，对他来说也不是最具性价比的方式。”林佐露说。与WorkBuddy合作后，SaaS厂商可以继续专注于自己熟悉的行业场景，通用的Agent能力则由平台提供。 不过，接入WorkBuddy并不意味着合作伙伴要把原有产品完整迁移过来。 目前，部分软件在WorkBuddy中开放的功能和权限，仍少于其独立客户端。对此，林佐露认为，不是所有能力都适合放进Agent。以阅读为例，用户如果需要沉浸式阅读，一篇文章仍然更适合呈现在浏览器等专门的容器中，而不是由Agent压缩成几十字的摘要。 合作伙伴需要自行判断，哪些任务适合用自然语言发起并自动完成，哪些仍应留在原有客户端和网站中。至少在现阶段，WorkBuddy更像是原有软件和业务系统之上的任务入口与执行层，而非对独立应用的整体替代。 对于生态本身，林佐露也保持了相对克制的判断。 “生态是不太能被计划的，不是说你希望怎么样，这个生态就会长成什么样。”在他看来，有没有生态是一个结果，源头仍然是产品是否足够好、是否拥有足够多的用户，以及开放的设计是否合理。只有用户确实需要这些能力，行业伙伴和开发者才会持续投入。 因此，首批超过100家伙伴更多反映了平台开放初期的参与意愿，还不能说明生态已经形成。WorkBuddy也没有为合作伙伴数量设定明确目标。与此同时，商业机制也还在建设中。WorkBuddy正在开发面向伙伴的经营、运营和营销工具，支付能力与分发通路尚未正式推出。 在采访中，林佐露认为，用户最终会为真正解决问题、具有生产力价值的任务付费。随着更多行业技能、数据和经验进入平台，用户能",
+   "source": "36氪",
+   "date": "2026-09-03",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文",
+   "link": "http://www.geekpark.net/news/369718",
+   "summary": "作者｜苏子华 编辑｜靖宇 现场体验过 Violoop 之后，很多关于未来的「AI 助手」该长什么样、能做些什么、能力的极限究竟在哪的困惑，可能都会迎刃而解。 因为 Violoop 已经把它们变成了现实。 &nbsp; Violoop 实物图｜图片来源：Violoop &nbsp; Violoop 是一款巴掌大小的硬件，即插即用，V4 版本通过一根 Type-C 线连在电脑上，不挤占电脑的 CPU/GPU 资源。它可以通过实时读取电脑屏幕上的全局信息，获得用户全部的上下文，实现主动式的 AI 助手。 极客公园获悉，Violoop 半年内完成了亿元级天使轮及 Pre-A 轮融资。联想创投、中金保时捷、蓝驰创投、元生资本、启赋资本和 Zero2IPO Ventures 共同投资。 Violoop 的 CEO 何佳霖 是一位连续创业者，毕业于 UC San Diego 的 CS 专业，曾入选过 YC 创业营。CTO King Zhu 是一位天才学霸，曾在 MIT 的 EECS 专业用 3.5 年完成本硕，同届最快毕业，后来在微软的 Xbox、HoloLens、Surface 等多个业务线担任核心工程师。 左为何佳霖，右为 King Zhu｜图片来源：受访者 &nbsp; 何佳霖向极客公园演示了 Violoop 的一个使用场景： 你在微信里跟同事聊事，对方甩来一句：「把你上次那个简历发我一下。」 你不需要切回桌面翻文件夹&mdash;&mdash;电脑屏幕的角落，一个小框自己跳了出来： 「要帮你把张三的简历发过去吗？1.要；2.不要。」 你按下键盘上的 1。一秒钟左右，AI 已经自己打开文件夹、找到文件、把简历贴进了对话框。 没写一个字的提示词，也没打开任何 AI 软件。 这就是 Violoop 想让人们习惯的新工作方式，将整台电脑变成一个眼里有活、主动帮你干活的助手。 &nbsp; 全局主动式 AI，是如何工作的？ &nbsp; Violoop 的形态很简单，最新版本用一根 Type-C 线连上电脑，把视频采集和控制合并到一个口，再插一根电源。Mac、Windows、Linux 都能用。 它的工作方式，可以拆成三步。 第一步是「看」。硬件盒子里内置了一套自研的端侧模型，实时读取屏幕画面，读懂你此刻在干什么。 第二步是「判断」。当它觉得你可能需要帮忙，就主动弹出一个框，给你几个选项。 第三步是「动手」。你确认之后，它通过模拟真实的键盘和鼠标来操作电脑上的软件&mdash;&mdash; 这一点很关键：微信、剪映这类软件没有开放 API，别的 AI 进不去，Violoop 可以通过外接硬件的方式，像人一样直接「上手」，做到应用层零检测。 &nbsp; 这样，AI 一直「看着」你的屏幕，理解你此刻在做什么，然后在它判断你需要帮助的时候，立刻主动跳出来，给你几个选项。用户不用打开任何软件、不用找文件、不用写提示词、不用盯着进度条&mdash;&mdash;只需要按一个键确认。 除了前文提到的发送简历的场景，何佳霖也向极客公园演示了一连串场景： 有人在微信里让用户补个地址，AI 从记忆里翻出来，送到他手边；有人想约个线上会议，AI 查了日历、生成了会议链接；一封邮件里要做报价单，AI 直接接管电脑、控制软件把整套做完，把回复内容和报价单一起贴进对话框&mdash;&mdash; 但「发送」这个动作，会留给用户自己按 。 还有一个让 Violoop 团队没有想到的用户案例：有人用 Violoop 的时候，AI 发现他正在浏览某个商品，于是 AI 主动问「要不要帮你比价」，用户说好，AI 就默默比完，把结果发了回来。 「这些案例都是用户自己用出来的，有些场景我们设计都设计不出来。」何佳霖说。 &nbsp; 为什么非要做成一个独立硬件？ &nbsp; 问题来了：这些功能，一个纯 AI 软件做不了吗？ 何佳霖告诉极客公园， 除了像微信、剪映等软件没有开放 API，只能通过外接硬件读屏的方式来获取其信息。还有另外一个很重要的因素&mdash;&mdash;速度。 这套「主动式 AI」的命门，在于 AI 能不能在你「读完成一句话」的当口，就把准备工作送到你手边。慢一秒，这个体验就崩了。 何佳霖测算过：用云端最强的模型，信息上传再回来，网络再稳定也要 3.5 秒以上。「我已经切到另一个对话框了，AI 还没反馈回结果，就没意义。」 「人跟人不一样。我个人的体感：AI 反馈时间在 1.5 秒以内可用，1 秒以内是很完善的体验；超过 3 秒，人就不会等待了。」 所以，他们把算力搬到了端侧。 配置方面，Violoop 搭载了 RK3576 八核处理器及专用 AI 加速器（总算力 26 TOPS），支持双屏连接，配备 8GB LPDDR4X 内存、5GB 3D 堆叠 ",
+   "source": "极客公园",
+   "date": "2026-09-03",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+   "link": "https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "· 李飞飞发布世界模型 Atlas，用统一模型生成、重建与模拟三维世界 · 豆包工作支持多 Agents 并行，Mac 版新增操作电脑 · 加州通过律师使用生成式 AI 法案，禁止将法律执业委托给 AI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-03",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
+   "link": "https://www.ifanr.com/1678197?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "Gemini 圣质如初 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-03",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "李飞飞的 World Labs，把赛博朋克的「超梦」做出来了",
+   "link": "https://www.ifanr.com/1678150?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "世界模型的「ChatGPT 时刻」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-03",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+   "link": "https://www.ifanr.com/1678079?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "大模型理解文字，李飞飞想让 Atlas 理解空间 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-03",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "独家解读丨字节 Seed 大调整，分支背后谁在操盘？",
+   "link": "https://www.leiphone.com/category/industrynews/75DZ3yfWSLnIppDb.html",
+   "summary": "导语：谁在带队，人才流向哪里。 大模型竞争开始拼组织，这一次轮到字节。 8 月 19 日，据晚点 Late Post 报道，Seed 基础模型团队新设 Pretrain Data（预训练数据）、Horizon RL（强化学习）、Product Posttrain-Work（面向办公场景的产品后训练）和 Product Posttrain-Chat（面向对话场景的产品后训练）四个一级部门，分别由李成刚、唐晟宇、秦禹嘉、朱文佳等人负责，均向吴永辉汇报。 雷峰网了解到，四个新部门之下的分支架构与带队人选也已落定，而这些更细的调整，或许更能透露出此次组织变动背后的真实意图。 01 数据和RL开始集中 先看模型能力侧的两个部门。 有接近字节的人士称，Pretrain Data 由原先分散在文本、编程、视觉理解和语音方向的预训练数据团队合并而来，下设文本预训练（沈科）、代码预训练（Xia Xiao）、视觉预训练（林毅）和语音预训练四个分支，统一为 Omni 全模态模型和超大模型供给数据； 负责人李成刚是清华机械系本硕，曾从 0 到 1 搭建字节搜索系统，先后负责今日头条网页搜索和 TikTok 视频搜索的技术工作，其麾下沈科 2018 年从清华毕业后加入字节，是超大模型预训练数据的核心人物，Xia Xiao 则是开源代码模型 Seed-Coder 和定理证明搜索方法 BFS-prover 的核心作者之一。 相比数据条线，Horizon RL 的动作更大。Horizon RL 整合了分散在推理、视觉理解等方向的后训练团队， 下设 RL Scaling（岳宇）、Reasoning（王明轩）和视觉强化学习（吴侑彬）三个分支，负责强化学习、提升模型的基础智能上限。 其中王明轩此前在火山翻译，北航本科、中科院计算所博士，曾在腾讯任高级研究员、多次拿下 WMT 机器翻译评测冠军，2019 年加入字节后一路做到大模型研究团队负责人，岳宇（Yu Yue）则是字节与清华 AIR 联合开源的强化学习系统 DAPO 的算法作者之一。 这条路线其实已经有技术积累。Seed 此前公开过 DAPO、VAPO 等强化学习工作，其中 VAPO 聚焦于推理模型的强化学习效率与稳定性；Seed 也持续把RL用于更长链路的推理和Agent能力。 把这几个人和三个方向放在一起，Horizon RL 的意图就比较清楚了。 它并不是简单把原来的“后训练团队”换了一个名字，而是在把 Reasoning、VLM 等不同方向中的 RL 能力进一步集中。 据晚点 LatePost 报道，Seed 在调整公告中称，此次调整旨在‘合并相似工作、减少 overlap，内聚在一起’。 上述人士告诉雷峰网，本轮调整后，文本、代码、视觉这些老方向也没有真的消失，只是换了一种管法。 以视觉为例：训练前的数据归 Pretrain Data 的林毅，训练后的强化学习归 Horizon RL 的吴侑彬，两人各属一个部门、互不隶属，但视觉的数据和强化学习本是一根链条，所以吴侑彬在视觉方向上还要同时向林毅汇报。 类似的安排还有两处： 唐晟宇在执掌 Horizon RL 之外，同时管着代码预训练；此前主导多模态交互与世界模型的周畅同时管着视觉预训练。 02 Work 和 Chat 各司其职 再看产品侧的两个部门，由原先统一的应用后训练团队按用户任务一分为二。 Product Posttrain-Work 服务 B 端，下设 GUI（吴志勇）和由原有 Agent 办公团队合并而来的分支，负责 Agentic 模型的整合与发布，针对办公场景优化模型的 Agentic 能力，包括支持豆包和 Dola 的任务模式。 负责人秦禹嘉是四个新部门负责人中的 90 后，师从清华教授刘知远，曾是面壁智能核心成员、开源工具学习引擎 BMTools 的作者，2024 年 7 月才通过\"Top Seed\"人才计划加入字节，是 GUI 智能体 UI-TARS 的第一作者，两年升至一级部门负责人；GUI 分支负责人吴志勇，公开信息显示其曾参与 OS-Atlas、SeeClick 等 GUI 智能体开源工作。 原本 由朱文佳负责的 Application 团队继续保留，并更名为 Product Posttrain-Chat， 它与新成立的 Product Posttrain-Work 分别面向 C 端对话和办公任务，下设豆包和 Dola Chat 分支，负责人严林同时吸收了吴双志的原班人马，主要优化搜索问答、对话体验、个性化和安全等能力，同时控制推理成本。 严林是中科院计算所硕士，豆包大语言模型 Alignment 团队负责人，在公开信息中还担任豆包关联公司的法定代表人。 有知情人士称，吴双志则转往火山引擎，负责火山 API 支持，向吴迪汇报—",
+   "source": "雷峰网",
+   "date": "2026-09-03",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "我所知道的李博杰",
+   "link": "https://www.leiphone.com/category/industrynews/ayqK30EcYC4YCPr0.html",
+   "summary": "导语：吐槽面试上热搜，创业受挫遭质疑，但他却说自己只是个写代码的。 李博杰很不喜欢“天才少年”这个标签。 “还少年呢，我都中年了，而且它指的是一个人才项目”。他调侃道。 距离轰动全网的DeepSeek面试风波已过去30天左右。趁着这段时间，李博杰在 GitHub 上开源了自己写的《深入理解 AI Agent》一书，两周便拿到了 2.8 万颗星。 被他吐槽的DeepSeek，最近也因为V4-Flash模型发布和融资等信息，抢占大众的注意力。 被问到是否后悔当初发言时，他有点歉意地笑了笑：“也谈不上后悔，就是忍不住吐槽一下，没想到影响力这么大。” 我们在中关村附近和李博杰见了一面，在长达三小时的时间里，李博杰聊了自己创业时的懵懂，以及AI技术的认知，还有面试风波事件过后的这段时间都在做什么。 一位与李博杰相识多年的人士评价他，\"公众对李博杰的误解，第一是他真实水平，第二是他被认可的成果，但外行很难看清楚。 他给我们打比方：“这就像是一个顶级川菜厨师，突然开始做西餐。对于大多数人来说，很难判断他做得到底好不好，除非他最后拿到一家五星级西餐厅的offer。” 至于他的技术水平如何，或许只能交由时间和专业去检验；但在噪音之外，我们试图用更客观、理性地去呈现一个热搜背后的人。 01 被误读的“天才少年”项目 外界争议最大的标签，其实一开始连本人也被蒙在鼓里。 李博杰回忆，那天自己还在食堂吃午饭，同事突然告诉他“你都成天才少年了”，他当时一头雾水，对方赶紧催他查看公司内网。 打开一看，“心声社区”的头条正是老板的发文，上面列着“天才少年”的入选名单。 事后才知道，这个天才少年人才计划是公司层面直接敲定，并非各部门层层推举，就连部门HR都是在老板发文之后才得知。 “说实话，我们同批入职的几千名应届生，都是通过正常校招拿到 offer 进公司的，来之前都不知道这个人才项目。”李博杰对左林右狸频道解释。 由于那一届校招时间已过，到6月份大家都已入职，公司便直接从当届新入职的博士中进行遴选，前后共分三批，最终敲定了 24 人。 当时还发生了一个小插曲，名单公布后不久，曾有一位比他们早入职的员工，直接在公司内网里实名发帖，公开“炮轰”这一届的天才少年人员名单。 并把入选者的履历一一翻出来，在帖子里质疑这些人的含金量。由于发帖人的学术水平确实很高，且当时在内部备受关注，这场实名发帖引发不小的轰动。 评定完成后不久，这批入选者在北京研究所参加了一场与任正非的座谈会。 在李博杰的印象里，任正非说话非常富有哲理且睿智。与其他高管“问啥答啥”的就事论事不同，任正非往往能看出问题背后的弦外之音，给出更高屋建瓴的回答。 用李博杰的话来形容，这种回答就像 AI 里的概念一样是“可以泛化的”——不仅能解答当下的具体问题，其背后的思维方式同样适用于其他场景。 在座谈会上，有人向任正非抛出了设立“天才少年”计划的初衷。 任正非当场问在场的人力资源部负责人：“如果霍去病来咱们华为，你打算给他定多少级？”对方回答：“给他 19 级吧。” 在华为内部，17级是常见的博士入职起点，19到23级属于中层交界。虽然19级已经不算低，但任正非听完当场便指责了这位负责人。在他看来，华为已经发展成一个庞大的组织，年轻的高潜员工在常规体系里往往需要论资排辈，成长空间受限；而像霍去病这样的大将军，如果按照传统体系只能给到一个刚跨入中层的级别，根本无法实现快速成长。 由此，任正非解释道，设立“天才少年”的初衷正是为了吸引顶尖人才，打破内部原有的资历天花板，为高潜年轻人打开一条快速成长的通道。 不过，当得知外界因那场热搜将他直接等同于“天才少年”时，李博杰显得既惊讶又无奈。他完全没想到，自己不过是参与了一项常规人才计划，竟会被这样误读。 他调侃，可能这个项目计划名字起的太好了。 其实阿里在2011年便启动了“阿里星”计划，早于华为八年；百度则在2017年推出“少帅计划”及后来的“AIDU计划”，瞄准机器学习与深度学习方向的青年人才；腾讯以“技术大咖”计划招募全球TOP100 CS相关专业的硕博毕业生，待遇同样开出“上不封顶”的offer。 相比之下，华为的“天才少年”之所以能引爆舆论，与其宣传策略密不可分。 在早期批次中，华为不仅在内网公布名单，还通过公开渠道将部分少年的名字与百万年薪直接挂钩。这种激励方式迅速放大社会影响力，也直接将这群年轻人架在聚光灯下。 一位曾经的华为天才少年对左林右狸频道直言，从个人发展角度来看，被评为“天才少年”并非全然是一件好事。 由于天才少年的薪资往往伴随着高额曝光，周围许多资历更老、自认为贡献不逊色于人的老员工难免会产生心理落差。 在这种情绪下，一些“天才少年”成员在公司内部难免会遭遇一些无形阻力。 相比之下，李博杰自身的职场经历相对平顺。很大程度上得益于自己在微软",
+   "source": "雷峰网",
+   "date": "2026-09-03",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "遏制智能体失控，消息称 OpenAI 正开发 AI 自动终止功能",
+   "link": "https://www.ithome.com/0/997/755.htm",
+   "summary": "IT之家 9 月 3 日消息，路透社昨日（9 月 2 日）发布博文，披露一份来自 OpenAI 的内部信件，透露该公司正在为 AI 系统开发“自动终止功能”。 消息称 OpenAI 开发该功能的目的，是为了遏制 AI 智能体的失控情况，该公司此前披露的安全事件中，具备自主能力的 AI 智能体在安全测试期间脱离数字容器，联网入侵 Hugging Face。 该信件是 OpenAI 发送给两位众议院民主党议员，其工程师正在为人工智能系统开发“自动关闭功能”，已提高 AI 模型在安全测试中访问互联网的难度。 美国众议院民主党议员格雷格 · 卡萨尔（Greg Casar）和多丽丝 · 松井（Doris Matsui）在今年 8 月致函 OpenAI，要求提供有关该事件及公司安全保障措施的更多信息。 OpenAI 在回复中表示，将更密切地监控其 AI 系统在完成任务时所采取的行动，包括它们访问的数字工具以及所遵循的操作步骤。",
+   "source": "IT之家",
+   "date": "2026-09-03",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "ACEMAGIC 将推升级款 F9A 迷你主机，换装 AMD 锐龙 AI Max+ PRO 495",
+   "link": "https://www.ithome.com/0/997/754.htm",
+   "summary": "IT之家 9 月 3 日消息，根据 ACEMAGIC（阿迈奇）在品牌官网公开的新闻稿， 这家企业将推出升级至 AMD 锐龙 AI Max+ PRO 495 处理器的 F9A 迷你主机 ，内存支持也随之提升到 128GB LPDDR5X-8533。 新款 F9A 的整体规格与早些时候公布的 AMD 锐龙 AI Max+ 395 款保持一致，不过尺寸表述从 158×158×85 (mm) 调整为 158.5×158.5×81.5 (mm)。 其内置 2 个 M.2 PCIe Gen4 NVMe SSD 盘位，搭载 Wi-Fi 7 无线网卡，提供 OCuLink 4i (PCIe Gen4)、2 个 USB-C 40Gbps、3 个 USB-A 10Gbps、HDMI 2.1、DisplayPort、2 个 2.5GbE RJ-45、3.5mm 二合一音频插孔，集成 2 个 2W 扬声器、4 单元数字麦克风阵列。 ACEMAGIC 表示， 新款 F9A 支持本地运行 70B Q4 至 200B MoE 模型 ，实测兼容 DeepSeek V4 Flash 284B。",
+   "source": "IT之家",
+   "date": "2026-09-03",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "小米 18 Fold 中折叠手机官宣首发澎湃 OS 4，宣称“效率倍增、体验行云流水”",
+   "link": "https://www.ithome.com/0/997/750.htm",
+   "summary": "IT之家 9 月 3 日消息，小米官方今日继续预热小米 18 Fold“中折叠”手机。据介绍，新机支持新形态折叠，同时性能全面突破。 首发搭载玄戒 O3，首款超 500 万分的 AI 旗舰 SoC 支持新一代 LPDDR6 内存，带宽高达 113.8GB/s 首发小米澎湃 OS 4，效率倍增，体验行云流水 大屏 1 小时重载挑战，帧率稳定，全程冷静 据IT之家了解，玄戒 O3 是小米为最高端产品打造的「AI 旗舰 SoC」，安兔兔跑分高达 522 万分，是首个突破 500 万分的旗舰 SoC。CPU 采用十核全大核设计，多核跑分首次突破 15000 分，性能提升 60%。GPU 首发 G2-Ultra NX 图形处理器，前所未有的跨代式升级，性能大幅提升 85%，功耗降低 64%。 玄戒 O3 还是全球首个支持 LPDDR6 的移动处理器，带宽高达 113.8GB/s，相比玄戒 O1 提升 48%。 官方称，玄戒 O3 NPU 架构全面重构，专为 Xiaomi MiMo 端侧大模型而生，拥有夸张的 200TOPS 张量算力、3.13TFLOPS 向量算力，端侧 AI 性能大幅提升 45%。 不仅拥有强大的 NPU，玄戒 O3 更将全模块 All in AI。CPU 增加双 SME2 加速单元、GPU 新增 8 颗 NX 神经网络加速器、ISP 内置 AINR 单元、DPU 内置硬件 AI 超分辨率单元、ADSP 内置 AI 引擎，不论端侧 AI 性能、硬件级超分插帧、还是夜景视频降噪，玄戒 O3 都将全面进化。 另外， 今年 8 月 13 日，小米澎湃 OS 4 宣布开启第一批机型开启用户招募 ，覆盖小米 17、 REDMI K90 系列等机型。小米官方表示，今年的澎湃 OS 4，则希望完成三大升级： 一气呵成，流畅到底的基础体验。不止稳定顺畅，体感也丝滑流畅，任何事都能一口气轻松做完。 一气呵成，直达所需的功能升级。不仅好看好用，跨设备也轻松方便。 一气呵成，与你协作的全生态 AI。持续探索全生态 AI，让 AI 可以跨应用、跨设备，将你的需求一口气做完，让生活松一口气。 相关阅读： 《 小米澎湃 OS 4 Beta 版明日起陆续推送，柔光玻璃、超级小爱 2.0 等升级亮点公布 》",
+   "source": "IT之家",
+   "date": "2026-09-03",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "Anthropic、OpenAI 将超越谷歌成为博通 AI ASIC 业务前两大客户",
+   "link": "https://www.ithome.com/0/997/749.htm",
+   "summary": "IT之家 9 月 3 日消息，Broadcom（博通）总裁兼首席执行官陈福阳 (Hock Tan) 在公司 FY2026Q3 财报电话会议上预测称，两大人工智能初创企业 Anthropic、OpenAI 将超越 Google（谷歌）成为其 AI ASIC 业务的前两大客户 。 博通 FY2026Q3 向 Anthropic 和谷歌批量交付了 TPU v7 \"Ironwood\"，并领先联发科技一步向谷歌生产交付第 8 代 TPU（博通负责推理优化的 TPU v8i，联发科技负责训练优化的 TPU v8t），也启动交付 OpenAI 定制芯片 \"Jalapeño\" 的交付。总体而言， 博通该季度 AI 半导体业务达到 167 亿美元 （IT之家注：现汇率约合 1,124.99 亿元人民币） ，同比增长 221%、环比增长 54%。 而在 FY2026Q4，博通预计将加快向 Anthropic 交付 TPU v7 \"Ironwood\"，大幅提升向谷歌交付 TPU v8i 的量产速度，启动向 Meta 交付 MTIA 系列加速器。博通预计 FY2026Q4 的 AI 收入将达到 217 亿美元 （现汇率约合 1,461.81 亿元人民币） ，同比增长 236%；FY2026 全财年累计 580 亿美元 （现汇率约合 3,907.15 亿元人民币） ，同比增长 186%。 博通与 Anthropic 计划在 2026 年部署 1GW TPU v7 \"Ironwood\"，2027 年部署 5GW TPU v8i，到 2028 年再新增 10GW 部署规模。陈福阳称 Anthropic 有望在 2027~2028 年成为博通最大 XPU 客户 。 另一方面，OpenAI 计划在 2027 年部署 1.3GW 的 \"Jalapeño\"，2028 年部署超过 5GW 的 \"Jalapeño\" 及其即将完成流片的继任者，OpenAI 第三代 XPU 的开发工作也在进行。 OpenAI 有望成为博通第二大 XPU 客户 。 此外，从现在到 2027 年底的 16 个月中，博通将向 Meta 交付 3 代 MTIA 加速器。这些产品到 2028 年底的总规模将达 3GW。 从全局来看， 博通预计 2027、2028 年的 AI 半导体收入将分别达到约 1150 亿美元和 2300 亿美元 ， 持续实现翻倍增长 。博通已确保达成上述目标所需的上游供应。 相关阅读： 《 博通 2026 财年第三财季归母净利润 130.88 亿美元，同比增长 216% 》",
+   "source": "IT之家",
+   "date": "2026-09-03",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
+   "link": "https://sspai.com/post/114113",
+   "summary": "World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。 查看全文",
+   "source": "少数派",
+   "date": "2026-09-03",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "[版本更新] MoneyPrinter v1.3.6: v1.3.6",
+   "link": "https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.6",
+   "summary": "2026-09-02 发布 | [English](#en-v1.3.6) | [中文](#cn-v1.3.6)\n\n<h2 id=\"en-v1.3.6\">Highlights</h2>\n\n- Added native Volcano Engine Ark Seedance video generation for generating source clips directly from script segments.\n- A",
+   "source": "GitHub版本",
+   "date": "2026-09-03",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] KAI - Agentic AI Platform: Agentic AI Platform for Seamless Enterprise Automation",
+   "link": "https://www.producthunt.com/products/kai-agentic-ai-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Experience KAI by Kellton—an intelligent Agentic AI platform that automates enterprise workflows with smart agents, boosting speed, accuracy, and scale.",
+   "source": "Product Hunt",
+   "date": "2026-09-03",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Safemenu - Digital Menu, Allergen Filter: Digital Food Safety & QR Menus for Modern Kitchens",
+   "link": "https://www.producthunt.com/products/safemenu-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "SafeMenu simplifies food safety compliance. Manage 14 allergens, generate instant QR menus, and protect guests with smart allergen profiles that hide unsafe meals. Built for food trucks and pop-ups—no",
+   "source": "Product Hunt",
+   "date": "2026-09-03",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Jellylink: Understand your software stack across every project",
+   "link": "https://www.producthunt.com/products/jellylink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Jellylink brings your software stack into one connected view across every project, account, subscription, renewal, and cost. Connect GitHub, Vercel, Supabase, and OpenAI to bring in multiple projects ",
+   "source": "Product Hunt",
+   "date": "2026-09-03",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] AI Text & CSV Cleaner: Clean, format, and prep raw text or CSVs for ChatGPT",
+   "link": "https://www.producthunt.com/products/ai-text-csv-cleaner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Clean, format, and normalize text and CSV files for AI models. Remove extra line breaks, invalid characters, trim spaces, and fix layout issues.",
+   "source": "Product Hunt",
+   "date": "2026-09-03",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] TradeOS Vietnam: AI Export Compliance Agent",
+   "link": "https://www.producthunt.com/products/tradeos-vietnam?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Classify HS codes, detect FTA savings gaps, generate C/O forms. Built for Vietnamese exporters.",
+   "source": "Product Hunt",
+   "date": "2026-09-03",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Happy Shrimp AI: Create playful visuals and character ideas with AI",
+   "link": "https://www.producthunt.com/products/happy-shrimp-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Happy Shrimp AI is a playful browser tool for creating imaginative visuals and experimenting with character ideas. Discover it at https://happyshrimp.online/.",
+   "source": "Product Hunt",
+   "date": "2026-09-03",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] WrapSheet: Snap gifts. Track them. Send every thank-you",
+   "link": "https://www.producthunt.com/products/wrapsheet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "WrapSheet is the iOS gift tracker for baby showers, weddings, birthdays, and housewarmings. Snap photos as you open gifts. AI logs the item and giver, then drafts a personal thank-you. Start free. One",
+   "source": "Product Hunt",
+   "date": "2026-09-03",
+   "category": "other",
+   "level": "B"
   }
  ]
 }

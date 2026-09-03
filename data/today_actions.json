@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Qwen3.8-27B",
-   "what": "开源大模型，可本地部署，降低API成本",
-   "why_today": "登顶全球开源榜第一，且可本地部署，直接降低AI工具开发成本，适合测试在短剧生成和工具开发中的性能",
-   "time_est": "2小时",
-   "source": "Qwen3.8-27B 登顶全球开源榜第一"
-  },
-  {
    "name": "Toonflow-app",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本转化为动画",
-   "why_today": "S级情报，直接降低短剧制作成本，提升批量产出效率，需评估分镜与角色生成质量",
-   "time_est": "1.5小时",
-   "source": "HBAI-Ltd/Toonflow-app"
+   "what": "开源一站式 AI 短剧创作工具，将小说/剧本快速转化为动画短剧",
+   "why_today": "S级情报，直接提升短剧制作效率，且刚发布v1.1.8更新，值得立即下载测试新功能并评估集成到工作流",
+   "time_est": "2小时",
+   "source": "[S] [GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
-   "name": "Open-Sora",
-   "what": "开源视频生成模型，可低成本生成视频",
-   "why_today": "S级情报，开源视频生成直接降低短剧制作成本，需生成样片测试质量",
-   "time_est": "1.5小时",
-   "source": "hpcaitech/Open-Sora"
-  },
-  {
-   "name": "Sora 2",
-   "what": "OpenAI最新视频生成模型，功能更强",
-   "why_today": "S级情报，Sora 2升级，功能更强，需测试新功能评估短剧应用，同时注意Sora可能停服的风险",
-   "time_est": "1小时",
-   "source": "Sora 2"
+   "name": "Open-Sora v1.3",
+   "what": "开源视频生成模型，可低成本制作短剧素材",
+   "why_today": "S级情报（Sora 2/关停）凸显开源替代的重要性，且v1.3刚发布，需测试生成质量与速度以评估替代方案",
+   "time_est": "3小时",
+   "source": "[S] [HN] Sora 2 / [S] Disney Exits OpenAI Deal / [A] [版本更新] Open-Sora v1.3"
   },
   {
    "name": "KrillinAI",
-   "what": "AI视频翻译与配音工具，支持多语言",
-   "why_today": "A级情报，助力短剧出海本地化，快速扩大海外受众，需测试其对短剧配音的适配性",
+   "what": "AI视频翻译与配音工具，助力短剧多语言出海",
+   "why_today": "A级情报，直接支持短剧出海分发，需测试翻译配音效果以对比现有方案",
+   "time_est": "1.5小时",
+   "source": "[A] [GitHub] krillinai/KrillinAI"
+  },
+  {
+   "name": "StoryGen-Atelier",
+   "what": "AI辅助分镜和视频生成工具",
+   "why_today": "A级情报，可加速短剧制作周期，需测试是否适配现有短剧流程",
    "time_est": "1小时",
-   "source": "krillinai/KrillinAI"
+   "source": "[A] [GitHub] 0xsline/StoryGen-Atelier"
+  },
+  {
+   "name": "Vibe-Workflow",
+   "what": "开源节点式工作流，可整合视频生成与处理",
+   "why_today": "A级情报，可构建自动化内容流水线，提升制作效率，需安装测试探索集成",
+   "time_est": "2小时",
+   "source": "[A] [GitHub] SamurAIGPT/Vibe-Workflow"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora服务稳定性（停服风险）",
-   "reason": "情报显示Sora可能停服，需持续关注，避免依赖，同时备份素材"
+   "item": "Sora 2 发布进展及替代方案生态",
+   "reason": "S级情报显示Sora关停是重大风险信号，需持续跟踪Sora 2动态及开源替代品成熟度"
   },
   {
-   "item": "快手AI创作工具和创作者政策",
-   "reason": "快手AI策略影响内容平台生态，可能影响短剧分发渠道，需关注投放机会"
+   "item": "DeepSeek Harness 插件治理与安全动态",
+   "reason": "S级情报指出官方缺乏治理机制，存在安全风险，需关注后续治理措施及安全工具机会"
   },
   {
-   "item": "DeepSeek V4 Pro与Harness生态",
-   "reason": "V4 Pro性能提升，可能成为短剧制作新工具，但插件生态混乱，需关注官方治理机制"
+   "item": "谷歌 Gemini 3.8 Flash 发布及实测表现",
+   "reason": "A级情报称编码能力优于Opus，可能影响AI工具开发效率，需关注发布后实测"
   }
  ],
  "research_topics": [
   {
-   "topic": "B2B AI Agent产品化思路（参考找钢网案例）",
-   "why": "找钢网联合腾讯发布B2B AI Agent，可研究其Agent矩阵设计，迁移到知识付费场景"
+   "topic": "AI营销工具在短剧投流中的应用案例与效果",
+   "why": "A级情报指出AI营销可能降低投流成本，直接关系利润，需调研具体工具和案例"
   },
   {
-   "topic": "印度数据安全政策合规要求",
-   "why": "印度新政策影响短剧数据存储与隐私，需研究低成本合规方案，避免出海风险"
+   "topic": "印度新数据安全政策对AI工具出海的影响及合规方案",
+   "why": "A级情报提及低成本数据合规，需研究政策细节以评估对现有工具的影响"
   },
   {
-   "topic": "Temu社交裂变策略在短剧推广中的应用",
-   "why": "Temu在欧洲的裂变玩法可借鉴到短剧推广，低成本获客，需研究具体策略"
+   "topic": "日本市场本地化策略（文化元素融入）",
+   "why": "A级情报显示国产游戏本地化经验可借鉴到短剧出海，需研究具体融入方法"
   }
  ],
- "daily_focus": "下载并测试Qwen3.8-27B和Toonflow，评估其在短剧生成中的性能，同时备份Sora素材以防停服。"
+ "daily_focus": "下载并测试Toonflow v1.1.8，评估其生成短剧的效率和质量，并对比现有工作流"
 }
