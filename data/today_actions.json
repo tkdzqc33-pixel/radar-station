@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Toonflow-app",
-   "what": "开源一站式 AI 短剧创作工具，将小说/剧本快速转化为动画短剧",
-   "why_today": "S级情报，直接提升短剧制作效率，且刚发布v1.1.8更新，值得立即下载测试新功能并评估集成到工作流",
+   "name": "GPT-6 Astra",
+   "what": "OpenAI 最新旗舰模型，具备 AGI 级性能和电脑操控能力",
+   "why_today": "多个 S 级情报显示其能力跃升，直接影响短剧制作效率，需立即实测其在脚本生成和自动化流程中的表现",
    "time_est": "2小时",
-   "source": "[S] [GitHub] HBAI-Ltd/Toonflow-app"
+   "source": "GPT-6 Astra 正式发布：性能 AGI，贵到要负债"
   },
   {
-   "name": "Open-Sora v1.3",
-   "what": "开源视频生成模型，可低成本制作短剧素材",
-   "why_today": "S级情报（Sora 2/关停）凸显开源替代的重要性，且v1.3刚发布，需测试生成质量与速度以评估替代方案",
-   "time_est": "3小时",
-   "source": "[S] [HN] Sora 2 / [S] Disney Exits OpenAI Deal / [A] [版本更新] Open-Sora v1.3"
-  },
-  {
-   "name": "KrillinAI",
-   "what": "AI视频翻译与配音工具，助力短剧多语言出海",
-   "why_today": "A级情报，直接支持短剧出海分发，需测试翻译配音效果以对比现有方案",
-   "time_est": "1.5小时",
-   "source": "[A] [GitHub] krillinai/KrillinAI"
-  },
-  {
-   "name": "StoryGen-Atelier",
-   "what": "AI辅助分镜和视频生成工具",
-   "why_today": "A级情报，可加速短剧制作周期，需测试是否适配现有短剧流程",
+   "name": "Toonflow",
+   "what": "开源一站式 AI 短剧创作工具，可将小说/剧本快速转化为动画",
+   "why_today": "S 级情报推荐，直接提升短剧制作效率，需下载测试功能",
    "time_est": "1小时",
-   "source": "[A] [GitHub] 0xsline/StoryGen-Atelier"
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
-   "name": "Vibe-Workflow",
-   "what": "开源节点式工作流，可整合视频生成与处理",
-   "why_today": "A级情报，可构建自动化内容流水线，提升制作效率，需安装测试探索集成",
+   "name": "Open-Generative-AI",
+   "what": "无限制的开源替代视频生成方案",
+   "why_today": "S 级情报指出可大幅降低制作成本，需部署测试视频生成质量",
+   "time_est": "1.5小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
+  },
+  {
+   "name": "ai0-video-creator",
+   "what": "专为短剧设计的桌面 AI 视频创作工具，兼容 ComfyUI",
+   "why_today": "S 级情报认为直接相关，需下载测试功能与集成",
+   "time_est": "1小时",
+   "source": "[GitHub] ajoesoft/ai0-video-creator"
+  },
+  {
+   "name": "World Labs Atlas（世界模型）",
+   "what": "李飞飞团队发布的多模态世界模型，可生成 3D 场景",
+   "why_today": "S 级情报显示可大幅降低短剧制作成本，需研究 API 并测试生成背景场景",
    "time_est": "2小时",
-   "source": "[A] [GitHub] SamurAIGPT/Vibe-Workflow"
+   "source": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora 2 发布进展及替代方案生态",
-   "reason": "S级情报显示Sora关停是重大风险信号，需持续跟踪Sora 2动态及开源替代品成熟度"
+   "item": "Sora 关闭后的替代方案与行业动态",
+   "reason": "Sora 关闭影响短剧制作流程，需关注替代工具和行业反应"
   },
   {
-   "item": "DeepSeek Harness 插件治理与安全动态",
-   "reason": "S级情报指出官方缺乏治理机制，存在安全风险，需关注后续治理措施及安全工具机会"
+   "item": "腾讯 WorkBuddy 开放平台进展",
+   "reason": "Agent 平台生态开放可能影响工具开发方向，需跟踪接入机会"
   },
   {
-   "item": "谷歌 Gemini 3.8 Flash 发布及实测表现",
-   "reason": "A级情报称编码能力优于Opus，可能影响AI工具开发效率，需关注发布后实测"
+   "item": "AI 安全与自主行为风险（如 OpenAI 内部 AI 文明）",
+   "reason": "影响 AI 工具使用安全性评估，需持续关注"
   }
  ],
  "research_topics": [
   {
-   "topic": "AI营销工具在短剧投流中的应用案例与效果",
-   "why": "A级情报指出AI营销可能降低投流成本，直接关系利润，需调研具体工具和案例"
+   "topic": "智谱 vs MiniMax API 价格与能力对比",
+   "why": "情报指出大模型商业化路径分化，需优化模型调用成本"
   },
   {
-   "topic": "印度新数据安全政策对AI工具出海的影响及合规方案",
-   "why": "A级情报提及低成本数据合规，需研究政策细节以评估对现有工具的影响"
+   "topic": "AI 营销工具在短剧投流中的应用",
+   "why": "出海游戏买量成本问题与短剧相似，AI 营销可能降低投流成本"
   },
   {
-   "topic": "日本市场本地化策略（文化元素融入）",
-   "why": "A级情报显示国产游戏本地化经验可借鉴到短剧出海，需研究具体融入方法"
+   "topic": "GENiEX 的 IP+AI 硬件众筹模式",
+   "why": "AI 对讲机众筹成功，验证市场，可评估复制到短剧 IP 的可能性"
   }
  ],
- "daily_focus": "下载并测试Toonflow v1.1.8，评估其生成短剧的效率和质量，并对比现有工作流"
+ "daily_focus": "今天优先测试 GPT-6 Astra 在短剧脚本生成和自动化流程中的实际效果，并部署 Toonflow 进行小规模短剧制作验证。"
 }
