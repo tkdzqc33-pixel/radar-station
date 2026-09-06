@@ -2,67 +2,67 @@
  "tools_to_test": [
   {
    "name": "GPT-6 Astra",
-   "what": "OpenAI最新旗舰模型，具备AGI级性能和电脑操控能力",
-   "why_today": "今日多条S级情报聚焦GPT-6发布及Astra上线，且已面向Plus/Pro用户推出，是评估其在短剧制作中提升效率与质量的关键时机",
-   "time_est": "2-3小时",
-   "source": "GPT-6 Astra 正式发布：性能 AGI，贵到要负债"
+   "what": "OpenAI最新发布的旗舰模型，性能接近AGI，能力大幅提升。",
+   "why_today": "今日多条S级情报显示GPT-6已全量上线，且能力提升直接影响短剧制作效率，需立即实测其在短剧脚本生成和视频生成中的表现，并对比成本。",
+   "time_est": "2小时",
+   "source": "GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱"
   },
   {
-   "name": "Open-Sora v1.3",
-   "what": "开源视频生成模型的最新版本",
-   "why_today": "S级版本更新，直接提升短剧制作效率，且开源可立即下载测试，是降低制作成本的重要机会",
-   "time_est": "1-2小时",
-   "source": "[版本更新] Open-Sora v1.3: Open-Sora V1.3 Release"
+   "name": "Toonflow",
+   "what": "开源一站式AI短剧创作工具，可将小说/剧本快速转化为动画短剧。",
+   "why_today": "S级情报推荐，直接降低短剧制作成本、提升产能，适合今天下载测试完整流程。",
+   "time_est": "1.5小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
-   "name": "ToonFlow v1.1.8",
-   "what": "短剧专用工作流工具的最新版本",
-   "why_today": "S级更新，针对短剧制作优化，直接提升工作流效率，值得立即下载体验新功能",
+   "name": "Open-Sora",
+   "what": "开源视频生成模型，可自建短剧生产线。",
+   "why_today": "S级情报建议立即部署测试，对比Sora效果，且Sora可能关停，需寻找替代方案。",
+   "time_est": "2小时",
+   "source": "[GitHub] hpcaitech/Open-Sora"
+  },
+  {
+   "name": "StoryGen-Atelier",
+   "what": "AI辅助分镜与视频生成工具，可优化短剧制作流程。",
+   "why_today": "A级情报，但直接关联短剧制作效率提升，值得今天测试其分镜生成效率。",
    "time_est": "1小时",
-   "source": "[版本更新] Toonflow短剧工具 v1.1.8: ToonFlow v1.1.8"
+   "source": "[GitHub] 0xsline/StoryGen-Atelier"
   },
   {
-   "name": "Sora 2",
-   "what": "视频生成重大突破模型，可快速生成高质量短剧内容",
-   "why_today": "HN情报显示Sora 2是重大突破，尽管Sora有不确定性，但测试其生成效果对短剧制作有直接价值",
-   "time_est": "1-2小时",
-   "source": "[HN] Sora 2"
-  },
-  {
-   "name": "MoneyPrinter v1.3.6",
-   "what": "自动化视频生成工具，新增视频生成功能",
-   "why_today": "版本更新新增Seedance生成功能，可降低短剧素材制作成本，值得测试新功能",
-   "time_est": "30分钟",
-   "source": "[版本更新] MoneyPrinter v1.3.6: v1.3.6"
+   "name": "Veo3 workflow agents",
+   "what": "基于Veo3的AI视频生成流水线，可快速生成高质量视频。",
+   "why_today": "A级情报，但Veo3是当前视频生成的重要工具，测试其API生成短剧片段可评估质量与成本。",
+   "time_est": "1小时",
+   "source": "[GitHub] nabobery/veo3-workflow-agents"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora 官方动态及迪士尼合作进展",
-   "reason": "Sora可能关闭与迪士尼合作并存，直接影响视频生成工具选择和IP改编短剧机会，需持续跟踪"
+   "item": "Sora是否关停及替代方案进展",
+   "reason": "S级情报提示Sora可能关停，需持续关注官方动态，并跟踪Open-Sora等替代品的成熟度。"
   },
   {
-   "item": "GPT-6 API 定价与开放情况",
-   "reason": "GPT-6性能强大但成本高，需关注其API价格和可用性，以评估在短剧制作中的性价比"
+   "item": "GPT-6 API定价与额度变化",
+   "reason": "GPT-6性能强大但成本可能高，需关注价格调整，以便优化成本效率。"
   },
   {
-   "item": "Agent OS 生态发展（如WorkBuddy）",
-   "reason": "Agent OS可能成为AI工具集成的新平台，关注其开放生态可探索插件开发机会"
+   "item": "版权诉讼进展（西雅图时报等起诉OpenAI）",
+   "reason": "A级情报，可能影响AI生成内容的合法性，需跟踪以规避风险。"
   }
  ],
  "research_topics": [
   {
-   "topic": "阿拉伯语短剧市场与本地化策略",
-   "why": "沙特AI公司推出阿拉伯语大模型，中东短剧需求大，需调研平台和受众偏好以开拓市场"
+   "topic": "GPT-6与Gemini 3.8 Flash在内容创作上的成本效率对比",
+   "why": "A级情报提到Gemini更新，需对比多模型组合优化工作流，降低API成本。"
   },
   {
-   "topic": "智谱与MiniMax的API价格与能力对比",
-   "why": "了解大模型商业化趋势，选择性价比高的模型用于短剧内容生成"
+   "topic": "智谱和MiniMax的API价格与性能对比",
+   "why": "A级情报指出大模型商业化模式分化，需选择性价比高的模型服务以优化成本。"
   },
   {
-   "topic": "迪士尼IP改编短剧的潜在市场与合作模式",
-   "why": "迪士尼与OpenAI合作预示IP内容与AI结合趋势，研究IP改编短剧的蓝海机会"
+   "topic": "日本市场本地化运营经验（文化元素融入）",
+   "why": "A级情报显示国产游戏融入日本文化成功，对短剧出海日本有直接参考价值。"
   }
  ],
- "daily_focus": "立即申请并测试GPT-6 Astra，评估其在短剧脚本生成和制作流程中的实际效果"
+ "daily_focus": "立即申请GPT-6 API并测试其在短剧脚本生成中的效果，同时部署Toonflow和Open-Sora，评估替代Sora的可行性。"
 }

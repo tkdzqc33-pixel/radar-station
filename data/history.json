@@ -5642,6 +5642,240 @@
    "date": "2026-09-05",
    "category": "ai_tools",
    "level": "B"
+  },
+  {
+   "title": "OpenAI称需要扩大对齐失范事件的披露范围",
+   "link": "https://www.36kr.com/newsflashes/3970189273248260",
+   "summary": "OpenAI：针对模型能力发展的新阶段，我们需要扩大对齐失范事件的披露范围。目前，我们以及更广泛的人工智能行业，尚未建立明确标准，用以报告在训练、评估以及部署阶段出现的对齐失范问题。其中既包含不属于传统安全事件，但有助于理解人工智能行为、预判未来风险的各类案例。我们正在搭建一套相关框架，将在未来数周对外公布；与此同时，我们正就上述问题与全球数十家政府监管机构开展协作。（新浪财经）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-06",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "《西雅图时报》和《新闻日报》起诉OpenAI和微软，指控其侵犯版权",
+   "link": "https://www.36kr.com/newsflashes/3970187296141832",
+   "summary": "当地时间9月4日，据报道，《西雅图时报》和《新闻日报》于周五向OpenAI和微软提起诉讼，指控这两家科技公司在未经许可的情况下，擅自复制两家报纸的新闻报道内容，用于训练其人工智能系统，该诉讼已提交至美国纽约南区联邦地区法院。这两家分别位于西雅图和纽约长岛的报纸表示，被告的人工智能产品能够复制其报道中的段落、对文章进行高度概括，并向用户提供答案，从而降低了用户访问其网站或购买订阅的必要性。报道称，《西雅图时报》和《新闻日报》正寻求法院发布命令，要求销毁其作品的副本，以及包含这些作品的训练数据集或人工智能模型。（界面新闻）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-06",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "Kimi、MiniMax即将在天猫开店",
+   "link": "https://www.36kr.com/newsflashes/3970153928651273",
+   "summary": "智谱电商平台首店落地天猫后，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售Token订阅套餐产品。（上证报）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-06",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱",
+   "link": "https://www.ifanr.com/1678195?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "GPT-6 Astra 的真正野心，是接管人类的电脑 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-06",
+   "category": "industry",
+   "level": "S"
+  },
+  {
+   "title": "一台 3D 打印机，为什么藏着 GPT-6 最大的野心？｜硬哲学",
+   "link": "https://www.ifanr.com/1678515?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "简化过程，直抵结果 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-06",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "努比亚倪飞：NaviX Ultra 手机全系 512GB 起步，信得过国产存储之光长鑫",
+   "link": "https://www.ithome.com/0/998/880.htm",
+   "summary": "IT之家 9 月 6 日消息，中兴通讯终端事业部总裁、努比亚技术有限公司总裁倪飞发文宣布， 努比亚 NaviX Ultra 手机全系 512GB 起步 。 他表示， 信得过国产存储之光长鑫 ，更信得过用户值得极速存力、充沛容量。 据IT之家此前报道，努比亚 NaviX Ultra 由中兴通讯与字节跳动联合研发，搭载豆包手机助手，被称为“豆包手机二代”，定位全球首款 AI 智能体手机， 计划于 9 月上市开售 。 努比亚官方 9 月 4 日与长鑫存储共同宣布， 努比亚 NaviX Ultra 将搭载长鑫存储速率达 10667Mbps 的 LPDDR5X 内存 。长鑫存储官方强调， 这是国产 10667Mbps 高速率 LPDDR5X 芯片首次量产应用 ，标志着国产移动 DRAM 正式迈入顶级速率商用阶段。",
+   "source": "IT之家",
+   "date": "2026-09-06",
+   "category": "other",
+   "level": "C"
+  },
+  {
+   "title": "绿联发布家庭 AIoT 中枢 HomeAgent，至高可选 Jetson Thor T5000",
+   "link": "https://www.ithome.com/0/998/879.htm",
+   "summary": "IT之家 9 月 6 日消息，绿联 (UGREEN) 在 IFA 2026 上宣布正式进军 AIoT 领域，并 发布了集成存储、计算、控制功能的 HomeAgent 智能体 AI 本地控制中心 。 ▲ HomeAgent HA100 HomeAgent 系列首批包括 3 款产品，分别是基于瑞芯微 RK3588 的 HomeAgent HA100、基于此芯 CP8180 的 HomeAgent HA100 Pro、基于 NVIDIA Jetson Thor T5000 的 MasterAgent MA100。 ▲ HomeAgent HA100 Pro HomeAgent 家庭 AIoT 中枢可连接至绿联摄像头、智能音箱、电子纸相框，同时 能利用 Matter 协议与第三方设备兼容通信 。用户可查看实时状态或历史记录、设定语音通知、识别精彩画面、构建自动化警报。 ▲ MasterAgent MA100 HomeAgent HA100 配备 16GB LPDDR5 和 64GB eMMC，提供 3 个 SATA、1 个 PCIe Gen3 ×1 的 M.2、1 个 2.5GbE、3 个 100MbE PoE、1 个 HDMI 2.0、1 个 UHS-I SD ，预购价 899 美元 （IT之家注：现汇率约合 6,054 元人民币） 。 HomeAgent HA100 Pro 配备 32GB LPDDR5 和 128GB M.2 NVMe SSD，提供 3 个 SATA、1 个 PCIe Gen4 ×4 的 M.2、1 个 10GbE、4 个 100MbE PoE、1 个 HDMI 2.0、1 个 UHS-II SD，预购价 2,999 美元 （现汇率约合 20,196 元人民币） 。 MasterAgent MA100 配备 128GB LPDDR5X 和 256GB M.2 NVMe SSD，提供 4 个 SATA、2 个 PCIe Gen3 ×4 的 M.2、1 个 10GbE、4 个 1GbE PoE、1 个 HDMI 2.1、1 个 UHS-II SD，预购价 9,999 美元 （现汇率约合 67,337 元人民币） 。 相关众筹将于 10 月 27 日在 Kickstarter 平台正式启动。",
+   "source": "IT之家",
+   "date": "2026-09-06",
+   "category": "other",
+   "level": "C"
+  },
+  {
+   "title": "联通反诈大模型揪出涉诈 VOIP 黑盒，如有可疑人员不请自来“维修网络”要警惕",
+   "link": "https://www.ithome.com/0/998/877.htm",
+   "summary": "IT之家 9 月 6 日消息，中国联通官方昨日在公众号平台披露，中国联通抚顺市分公司近日依托自主研发的反诈大模型系统，联合当地公安机关，精准识别并捣毁被用于电信诈骗的非法 VOIP 通信设备，守护群众财产安全。 8 月 24 日上午 9 时，中国联通反诈大模型发出紧急预警，监测到某辖区存在疑似涉诈线索。中国联通抚顺市分公司收到信息后第一时间安排工作人员，以线路巡检方式赴现场开展实地核查。 经排查， 该场所隐蔽位置带有非法私装的涉诈 VOIP 通信设备 ，一名可疑人员在现场出现并试图实施异常行为。工作人员第一时间拨打 110 报警，同时联动物业管理人员临时管控楼栋出入口有效稳住现场局面，民警随后抓捕了嫌疑人。经初步核实，该人员涉嫌电信网络诈骗，相关诈骗事实已基本查清。 据IT之家了解，“VOIP”设备是一种网络通讯设备，通常是一个黑色的小盒子， 能将境外诈骗电话伪装成国内电话号码 。境外诈骗分子通常会以“上门安装提网速设备”为由，在家里或者单位悄悄安装“VOIP”设备，将境外诈骗电话转换成国内电话号码， 让受害群众降低防范心理 ，实施电信网络诈骗。 此前，北京、上海、青岛、绵阳等地均出现诈骗团伙，以到家中维修宽带网络为名安装“黑盒子”。 警方多次提醒， 一定要警惕以“上门维修、网络提速、补发赠品”等理由提供的免费上门服务 ，遇到这种情况，群众务必核实对方身份和相关信息，及时拨打官方电话核实。如果发现家里多了奇怪的“黑盒子”，请立即打 110 报警。 此外， 中国联通工程师上门安装或维修时 ， 会根据工单提前跟用户取得联系 ，并约好上门时间，工程师也会穿好工服佩戴好工卡，用户可以此为据识别诈骗人员。",
+   "source": "IT之家",
+   "date": "2026-09-06",
+   "category": "other",
+   "level": "C"
+  },
+  {
+   "title": "铭凡预热 MS-S1 MAX-P495：价格达 7000 美元",
+   "link": "https://www.ithome.com/0/998/876.htm",
+   "summary": "IT之家 9 月 6 日消息，MINISFORUM（铭凡）在 IFA 2026 上正式公布了基于 AMD 锐龙 AI Max+ PRO 495 处理器的 MS-S1 MAX-P495。 IT之家注意到，品牌官网对这款迷你主机形态 AI 工作站的价格标注为 \"$7???\"，这意味着 其价格将达到乃至突破 7,000 美元 （IT之家注：现汇率约合 47,141 元人民币） 。 MS-S1 MAX-P495 支持 192GB LPDDR5X 内存， 能满足 300B 模型本地部署需求 。其内置 320W 电源，相变 TIM 搭配 6 热管 2 风扇的散热系统支持 120W 持续性能释放、160W 峰值性能释放，提供全长 PCIe Gen4 ×4、USB4 v2、双 10GbE、Wi-Fi 7，还支持集群部署。 ▲ MS-S1 MAX-P495 铭凡还带来了另一款搭载同处理器的设备： N5 MAX-P495 。该系统则号称“AI 智能体 NAS”，可作为本地 AI 基础设施处理知识库、智能体持久性 AI 工作负载。 ▲ N5 MAX-P495",
+   "source": "IT之家",
+   "date": "2026-09-06",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "SoundPEATS 泥炭 GoFree 2s 开放式耳机发售：15.4 mm 动圈双磁声学单元、30 小时续航，389 元",
+   "link": "https://www.ithome.com/0/998/873.htm",
+   "summary": "IT之家 9 月 6 日消息，SoundPEATS 泥炭 GoFree 2s 开放式耳机现已在京东发售，该耳机主打 15.4 mm 动圈双磁声学单元、30 小时续航， 首发价 389 元 。 京东 SoundPEATS 泥炭 GoFree 2S 389 元 直达链接 该耳机采用 C 形桥及 140 度人体工学结构。其内部骨架选用 0.7 mm 钛合金记忆钢丝，外部包裹全液态硅胶材质，机身具备 IPX5 级的防水防汗性能，可有效抵御日常使用中的泼溅与汗水。 该耳机搭载 15.4 mm 动圈双磁声学单元与复合生物纤维振膜，频响范围覆盖 20Hz 至 40kHz。耳机获得了 Hi-Res 金标认证，支持 LDAC、AAC 与 SBC 音频解码格式，内置双 MIC AI 与 ENC 通话降噪系统，提供动态 EQ 优化以及 360 度空间音效功能。 该耳机采用了蓝牙 6.0 技术，可实现 0.06s 延迟，支持双设备同时连接。耳机单次满电可提供 8.5 小时的使用时长，搭配充电盒的综合续航时间达 30 小时，同时支持“充电 10 分钟播放 2 小时”快充。 IT之家附产品参数：",
+   "source": "IT之家",
+   "date": "2026-09-06",
+   "category": "other",
+   "level": "C"
+  },
+  {
+   "title": "国漫《斗破苍穹》年番官宣复播：总集数增至 219 集，将迎双帝之战终章",
+   "link": "https://www.ithome.com/0/998/870.htm",
+   "summary": "IT之家 9 月 6 日消息，阅文集团旗下超级 IP《斗破苍穹》官方微博昨晚宣布， 动漫《斗破苍穹》年番复播，双集连更 。 根据腾讯视频动漫频道官方微博此前通知，《斗破苍穹》复播安排如下： 正片安排：第 207 集（7 月 12 日）更新后，将连续七周上线总集篇，正片内容暂停更新。 恢复更新： 9 月 6 日正式恢复正片播出，复播当周将连更 2 集 。 集数调整： 年番 4 的总集数由原定的 209 集增加至 219 集 。 IT之家附《斗破苍穹》追番日历如下： 国漫《斗破苍穹》开播已近十年（第一季于 2017 年 1 月 7 日播出），即将迎来大结局， 电影《斗破苍穹剧场版：双帝之战》已首曝 PV 。动漫改编自天蚕土豆同名小说，原著讲述了天才少年萧炎因斗气消失沦为废柴，在药老帮助下重获修炼能力，立下三年之约洗刷退婚之耻，后闯荡斗气大陆，最终为护众生迎战魂天帝的故事。",
+   "source": "IT之家",
+   "date": "2026-09-06",
+   "category": "short_drama",
+   "level": "B"
+  },
+  {
+   "title": "CASETiFY 联合漫威推出蜘蛛侠联名外设：含苹果 iPhone 手机壳 / 磁吸支架等，国行 259 元起",
+   "link": "https://www.ithome.com/0/998/867.htm",
+   "summary": "IT之家 9 月 6 日消息，CASETiFY 宣布联合漫威推出 Spider-Man（蜘蛛侠）联名 iPhone 外设，号称让超级英雄文化与日常使用场景进一步结合。 其中，Spider-Man Silicone Suit Case 手机壳以蜘蛛侠经典战衣为设计灵感，通过立体化纹理还原战衣细节，让手机背板呈现出更强的视觉层次感，国行定价 519 元。 而 Spider-Man Mask Metal Case 手机壳则采用蜘蛛侠面罩元素作为设计核心，通过金属质感材质搭配经典角色符号，带来更加硬朗的视觉效果，国行定价为 659 元。 官方还围绕蜘蛛侠 IP 打造了多款配套产品，不过目前国行仅有磁吸支架上市，定价为 259 元，其采用磁吸设计，能够快速吸附到 iPhone 手机背面作为支架使用。",
+   "source": "IT之家",
+   "date": "2026-09-06",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "CDPR 全新 IP “Project Hadar”仍处概念阶段，开发团队年内扩编至多 50 人",
+   "link": "https://www.ithome.com/0/998/866.htm",
+   "summary": "IT之家 9 月 6 日消息，据游戏媒体 GamesRadar 本周（9 月 2 日）报道，CD Projekt RED 投资者关系副总裁 Karolina Gnaś 近日透露，公司旗下全新 IP“Project Hadar”仍在概念阶段。 IT之家从原报道获悉，“Project Hadar”最初公布于 2022 年，目前仍是 CDPR 的高度机密。 Karolina Gnaś 表示，这一全新 IP 已拥有超 30 人的开发团队。公司计划继续扩大团队规模， 年底前招聘最多 50 名开发者 。相比之下，《巫师 4》的开发团队已接近 500 人。 从当前情况看，“Project Hadar”项目正在稳步推进开发工作，CDPR 也在继续扩大团队规模。该公司曾在今年夏季发布招聘信息，意图为一款“注重情感体验的开放世界游戏”招兵买马。 不过这名投资者关系副总裁表示，Hadar 团队当前主要专注于测试不同想法，并进行部分原型开发。 这意味着该项目距离正式进入全面制作阶段仍有一定距离 。 考虑到 CDPR 旗下游戏的开发周期通常比较漫长， 这款全新 IP 很有可能会在《巫师 4》很久以后才正式发售 ，玩家们仍需要保持耐心。",
+   "source": "IT之家",
+   "date": "2026-09-06",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "霸王茶姬的创业爽文，到底写到哪一页了？",
+   "link": "https://www.huxiu.com/article/4888864.html",
+   "summary": "据称10岁起开始流浪、17岁前后才进入茶饮行业，张俊杰从门店里摇奶茶，一路成为霸王茶姬创始人，再把公司送上纳斯达克。这个90后，几乎拿到了中国新消费创业史上最标准的一份男主剧本。如今，剧本里突然出现了一个颇像结局的情节。工商信息显示，9月2日，霸王茶姬境内运营主体茶姬（上海）商业管理有限公司更名为茶姬企业管理...... 本文来自微信公众号： 智见 Time ，作者：李浩 据称10岁起开始流浪、17岁前后才进入茶饮行业，张俊杰从门店里摇奶茶，一路成为霸王茶姬创始人，再把公司送上纳斯达克。这个90后，几乎拿到了中国新消费创业史上最标准的一份男主剧本。 如今，剧本里突然出现了一个颇像结局的情节。 工商信息显示，9月2日，霸王茶姬境内运营主体茶姬（上海）商业管理有限公司更名为茶姬企业管理（集团）有限公司，张俊杰卸任法定代表人、董事长和经理，由尹登峰接任。 这场看起来颇像“大结局”的人事变动，并不意味着男主角离场。 张俊杰仍是上市公司董事长兼CEO，并通过AB股架构掌握控制权。据多家媒体援引接近霸王茶姬人士的说法，此次调整只是正常的工商登记变更，不涉及业务和组织架构调整。 尹登峰此前已经接手中国市场，开始负责加盟模式、门店效率和同店修复等具体问题。张俊杰仍然决定霸王茶姬“往哪里走”，但一家拥有7000多家门店的公司，正在把“具体怎么走”交给组织。 接下来，浪漫退后一步。摆到了桌面上的，是账本。 五倍利润，停留在会计上的复苏 那么，尹接手的是一个什么样的茶姬呢？ 财报数据显示，今年第二季度，霸王茶姬净收入34.15亿元，同比增长2.5%；营业利润5.25亿元，同比增长387.6%；GAAP净利润从去年同期的7720万元增加至4.65亿元，涨了约五倍。 尹登封在财报会上说道：“我们相信这一回暖趋势具备可持续性。” 但魔鬼藏在细节里。GAAP利润的爆发式增长，或许只是会计意义上的残酷玩笑。 简单来说，GAAP是按照通用会计准则计算的利润，Non-GAAP则是在此基础上剔除部分特殊或一次性项目后得到的调整后利润。 去年第二季度，霸王茶姬刚刚上市，集中确认了约5.53亿元股权激励费用，同时承担IPO相关专业服务费用。其中，股权激励按照GAAP口径进入利润表，于是公司当季Non-GAAP净利润为6.30亿元，GAAP净利润却只剩7720万元。 到了今年，同类股权激励费用降至2390万元，压在利润上的大石头被搬走，GAAP利润自然反弹。 如果换成剔除股权激励等因素，更能反映主线持续经营的Non-GAAP口径，故事则正好相反。 今年第二季度Non-GAAP调整后净利润为4.89亿元，比去年同期的6.30亿元大幅下降22.4%；调整后净利率也从18.9%降至14.3%。 （图源：霸王茶姬财报） 收入微涨，利润骤降，增收不增利对任何企业来说都不是好消息。 所以，霸王茶姬也在主动给利润表减负。财报显示第二季度霸王销售及营销费用同比下降21.7%，一般及行政费用下降64.6%。当然，这么大比例的降幅吗，其中固然包含股权激励和上市费用退出的影响。 省钱没有问题，甚至是一种必要能力。但减少广告、精简人员可以修复一个季度的利润率，却不能直接把消费者重新请回门店。 （图源：霸王茶姬财报） 数据显示，大中华区GMV从78.68亿元降至71.56亿元，活跃会员也从一季度的5000万降至4710万。 这是尹登峰接手中国市场后，必须面对的第一笔冷账。 边际效应开始斩杀新店 只不过，任何加盟公司手上，都不只有一本账。 总部可以依靠一次性费用退出和成本收缩，让利润迅速反弹；加盟商的账，却只能靠一杯杯奶茶重新赚回来。而霸王茶姬过去最动人的数字，是加盟商短得近乎不可思议的回本周期。 在2024年的现代东方茶创新论坛上，张俊杰就曾当众表示，霸王茶姬的加盟门店去年平均5.5个月就能回收前期的一次性投入。 然而一年之后，加盟商的甜蜜时刻就草草结束。 （图源：海通国际） 据海通国际2025年7月发布的研究报告显示，霸王茶姬主推的3.0门店，开店前期投入预估在101万左右。在GMV约为40万左右的水平下，回本周期被拉长到13.3月。 那么张俊杰口中5.5个月的回本周期是怎么一回事？ 如果其他条件保留海通国际的预设，将门店爆火后霸王2023年Q4的GMV高峰57.4万带入，可得出回本周期是6.8月。但彼时已经开张的门店多为2.0门店，固定费用较3.0更少。 也就是说，开的够早的霸王茶姬，想要在半年内回本，确实存在理论上的可能。 但是，站在今天的水平上，想快速回本可以说并不简单。同样沿用海通国际的经营假设，仅将单店月均GMV调整至当前的33.8万元，回本周期便会拉长至约23.9个月，与近期媒体采访及社交平台样本中常见的18至24个月大致吻合。如果再考虑4.0大店更高的装修、租金和前期投入，实际回",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-09-06",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "“国民品牌”珍视明，爆出滴眼液产品大面积不合格",
+   "link": "https://www.huxiu.com/article/4888850.html",
+   "summary": "一家以“护眼”为立身之本的药企，偏偏在眼药水上出了质量问题。9月4日，国家药监局通报37批次不符合规定药品，其中23批次为妥布霉素地塞米松滴眼液，涉及珍视明和成都青山利康两家企业。其中珍视明药业10个不同批号、不同销售渠道的产品均被北京市药监局检查出不同程度的质量问题；青山利康则有13个批号出问题。多个批次产...... 本文来自微信公众号： 健识局 ，编辑：江芸贾亭，作者：王丽 一家以“护眼”为立身之本的药企，偏偏在眼药水上出了质量问题。 9月4日，国家药监局通报37批次不符合规定药品，其中23批次为妥布霉素地塞米松滴眼液，涉及珍视明和成都青山利康两家企业。其中珍视明药业10个不同批号、不同销售渠道的产品均被北京市药监局检查出不同程度的质量问题；青山利康则有13个批号出问题。 多个批次产品出现问题，这在以往的药品检查中比较罕见。青山利康是一家以肾病透析药物为主的企业，眼科并非擅长；但珍视明则不同，这是一家以“眼部健康专家”品牌形象示人的企业，产品线几乎全部围绕眼科，核心产品珍视明滴眼液在1988年就上市了，前身工厂可以追溯到1968年。 一家历史悠久的明星药企，出现这样的问题很不正常。 就在两天前，国家药监局刚刚正式启动滴眼剂仿制药一致性评价，药审中心同步发布两项技术指导原则。新规意味着滴眼剂今后将在质量和疗效上全面与参比制剂对齐，大量眼科药品将从“有批文、能生产”进入“拼工艺、拼质量、拼持续稳定性”的阶段。 靠眼药起家的老牌企业珍视明，如今被查出滴眼液的质量都不过关，还能不能守住自己最核心的眼科专业标签？ 先丢的是信任 妥布霉素地塞米松滴眼液主要治疗细菌性眼部感染，是药店里常会推荐的眼药水之一。原研药由爱尔康生产，国内共有9个仿制药批文，齐鲁、杭州民生、杭州国光、珍视明等多家企业竞争。 共研产业咨询数据显示，2022年这个品种国内市场规模约5.58亿元，算是眼科药里的大品种。按照国家药监局的要求，珍视明和青山利康两家的妥布霉素地塞米松滴眼液要暂停销售使用，意味着可能短期内退出市场。 因此，珍视明的损失不只是召回几批货，而是重新进入医院需要付出的信任成本。尤其是中山万汉今年已经拿到该品种国内首家一致性评价批文，医院采购的天平更容易发生倾斜。 药监部门查出珍视明产品的问题大多涉及性状和粒度。混悬型滴眼液颗粒大小和重新分散能力，会影响每次给药是否均匀。性状、粒度出现问题意味着产品疗效可能受到影响。多批次产品同时出现这些问题，表明事情并非偶然发生，可能指向系统性缺陷。 粒度属于“检查”项目，检查项并非单一指标。国家药监局曾发布过《不符合规定项目的小知识》，其中提到：检查项包括药品安全性、有效性、均一性、纯度等内容。如果“检查”项不合格，通常意味着生产工艺不稳定。 药监部门查出10个批次产品的问题，表明类似问题并非偶然发生，这可能就要考验珍视明的生产质控了。如果进一步指向无菌保障、设备清洁、生产线管理等系统性缺陷，其他共线滴眼剂以及未来集采申报都可能受到波及。 国家医保局今年已明确，国家集采中选药品因GMP或抽检不符合规定，可触发退出机制；截至4月，已有15个国家集采药品因此被取消中选资格。第十二批国采文件进一步要求，申报药品生产线近两年不得存在GMP不符合要求的情形。 珍视明2021年收入曾达到11亿元，2025年降至7.58亿元；2026年上半年收入3.65亿元、净利润5901万元，均较上年同期小幅下滑。产品竞争激烈，集采步步逼近，质量控制又出现问题，珍视明如今走到了死胡同里。 更大的压力，来自游戏规则的改变 珍视明曾是康恩贝控股的子公司。2023年，康恩贝以37亿元的整体估值，转让珍视明部分股权，并提出独立上市计划。到2025年，康恩贝已对珍视明长期股权投资计提2504万元减值准备，而IPO计划则是遥遥无期。 眼科药品曾是市场上的冷门，也比较容易出现“网红公司”、“网红产品”，康恩贝这一招拆分上市的确是符合当时资本市场偏好的。但如今行业局面有很大变化，特别是9月2日国家药监局启动滴眼液一致性评价后，眼科用药这个集采照顾不到的小角落今后会有“特殊照顾”，这就要求眼科药物企业必须参与残酷竞争。 康恩贝2023年披露的股权转让公告显示，珍视明当时拥有50个药品品种，其中滴眼液40个。过去，品种多意味着覆盖面广；一致性评价启动后，这些产品的价值可能就要重新评估。 一方面是一致性评价成本。按照新规，滴眼剂仿制药需要与参比制剂进行系统对比。对于混悬型、乳状型等特殊滴眼剂，监管还特别关注原料粒度及粒度分布、生产工艺和无菌保证，必要时需要进一步开展非临床甚至临床研究。这个成本就不会低。 作为参照，国药现代今年获批的玻璃酸钠滴眼液累计研发投入约521万元；马应龙盐酸莫西沙星滴眼液累计投入约822万元。若仅以10个品种做静态量级测算，一致性评价的",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-09-06",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "AI 编程，正在变成甲方压价的新武器",
+   "link": "https://www.huxiu.com/article/4888847.html",
+   "summary": "大家发现没有？随着AI越来越强大，内卷也越来越严重。最近一位FDE朋友，帮助一家大型软件企业，把软件编程成本降低了50%（包含旧软件项目的迭代）。但真正有意思的是：这家企业降低研发成本的驱动力，是来自客户的硬性要求。他们的一个大客户明确表示：你们必须证明自己具备AI编程的能力，才能参与我们的项目投标。其暗含的...... 本文来自微信公众号： ToB老人家 ，作者：王戴明 大家发现没有？随着AI越来越强大，内卷也越来越严重。 最近一位FDE朋友，帮助一家大型软件企业，把软件编程成本降低了50%（包含旧软件项目的迭代）。但真正有意思的是：这家企业降低研发成本的驱动力，是来自客户的硬性要求。 他们的一个大客户明确表示：你们必须证明自己具备AI编程的能力，才能参与我们的项目投标。其暗含的意思是：供应商必须具备AI编程能力，从而显著降低人天报价。 不能AI编程=不能参与投标，能够AI编程=必须降低报价。 这就是软件行业越来越普遍的现象：AI编程，正在变成甲方压价的新武器。 以前，一家软件公司利用新技术提效，是自己的竞争优势。现在，它正在变成一张准入证。 精通新技术，不代表你能多赚钱。相反，甲方会拿着这件事要求你降低人天报价。 说白了，软件公司辛苦提升的效率，成果全被客户拿走了。 一、AI提效越多，为什么越内卷 大模型刚出来时，很多人都乐观预期：由于AI提效，我们的工作时间有望从8小时变成5小时。 但真实情况是怎样的呢？工作效率确实提升了，但随之而来的是更多任务，而薪酬还在稳步下降，甚至还有人要自费购买AI上班。 对只按人天卖项目的软件公司来说，情况更残酷：研发成本是降了，可客户也会要求报价跟着降。 如果一家公司的收入主要来自人天，AI就会把它推入一个很尴尬的位置。 不用AI，成本比竞争对手高，拿不到项目。 用了AI，客户又要求你把省下来的钱让出来，收入反而更薄。 为什么会这样呢？核心在于，决定价格的从来不是“价值”，而是“供求关系”。 AI提高了供给端的效率，但是市场需求并没有增加，结果就是“供大于求”，“供应端”不断内卷，软件公司赚不到钱，打工人的收入也在下滑。 结果就是：AI编程确实带来了更高的效率，但是公司的收入反而降低了，需要的员工也变少了，大裁员无可避免。 二、为什么AI会变成内卷工具 那在欧美，这种情况为什么相对好得多？ 除了完善的劳工保护制度，重点在于：欧美的生意是全球化的，有更为广阔的市场空间，不用在一个狭小的市场内卷。 更重要的是，欧美企业更倾向于用创新、高质量的产品来构建核心竞争力。相比之下，中国企业更倾向于同质化竞争，用更低的成本来赢得竞争优势。 在欧美，AI提升的是创新能力；在中国，AI提升的却是内卷能力。 三、打工人怎么办 大环境问题，短期无法改变。 我觉得关键在于搞清楚：AI提高了哪部分的效率，没有提高哪部分的效率。 对于“AI提高了效率的部分”，我们保持不落伍就行了，因为这部分不会有任何溢价。但是对于“AI没有提高效率”的部分，则需要投入主要精力，把它建设成为我们的核心竞争力。 比如，AI提高了画原型的效率，但并没有提高商业决策和产品规划的效率。 对于这些关键决策，有大量私有信息和模糊地带，AI很难具备充分的上下文。加上AI不会承担决策责任，所以具备较强决策能力的人，并不会随着AI的增强而贬值。 当然，在决策时，AI可以辅助资料收集和方案编写，但产品到底该不该做，应该先服务哪类客户，哪些需求要拒绝，最终仍然要由人决定。 四、软件公司怎么办 实际上，AI提高了代码编写的效率，却并没有提高业务问题诊断、组织变革的效率。 企业AI转型真正卡住的时候，往往不是技术问题，而是找到合适的场景、收集和整理数据、克服组织惰性等。 所以对于软件公司来说，帮助企业AI转型的经验和能力，仍然是稀缺品。 实际上，细想一下，我们有很多能力是AI无法替代的。 举个例子，现在我所有的文章和视频文案，都是通过我自己研发的一个Agent来完成的。 我不否认Agent确实提高了效率，也不否认Agent在很多细节上确实做出了有价值的决策，但文章的灵魂：行业洞见——仍然高度依赖我自己。 不管AI产生内容的能力再强，它始终无法具备我所有的上下文，也无法100%复制我的思考逻辑，那么它就不可能产出和我同等质量的内容。 所以，我担心的从来都不是“AI会不会替代我”，而是“我如何才能保持洞察力”。 回到软件行业，对于一个软件产品来说，真正值钱的从来不是那一堆代码，而是产品背后的思考：应该做什么，不应该做什么。 而这些最值钱的部分，恰恰是AI无法替代的，也是避免AI内卷的重要途径。",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-09-06",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "实测GPT-6 Astra：曾经的那个OpenAI，回来了。",
+   "link": "https://www.huxiu.com/article/4888844.html",
+   "summary": "今天凌晨，GPT-6 Astra正式向所有订阅用户开始推送。不过这几天通宵的有点狠，我2点多就睡了，然后完美的错过了。。。一觉睡醒，已经是下午2点了，然后微信就炸了，一堆人还有群里都在问我，GPT-6 Astra上了，你咋文章还没发。我：==不过我还是很兴奋的，以为这玩意来的时间比我预期的还是早了一点，我以为...... 本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克 今天凌晨，GPT-6 Astra正式向所有订阅用户开始推送。 不过这几天通宵的有点狠，我2点多就睡了，然后完美的错过了。。。 一觉睡醒，已经是下午2点了，然后微信就炸了，一堆人还有群里都在问我，GPT-6 Astra上了，你咋文章还没发。 我：== 不过我还是很兴奋的，以为这玩意来的时间比我预期的还是早了一点，我以为下周一才能用上，结果才过了一天，就用上了，一个周末可以在家爽蹬了。 甚至，还攒了三张重置卡，我就没打过这么富裕的仗。 在一下午并行了N个会话，在用了不知道多少额度之后，我对GPT-6 Astra有了一些基础的感觉。 如果让我用一句话来评价的话，那就是： 这一次，GPT-6 Astra成了，绝对的追平Claude Fable 5，OpenAI好像也回到了属于3年前，他们的黄金时代。 这个评价我是完全站在客观中立的角度，心中不对Anthropic这个脏东西有任何偏见的情况下做出的。 整体能力我觉得是完全可以称得上是Fable级，开发能力差不多，但是额度更高，毕竟OpenAI不跟你搞什么Fable 5只能占总额度的50%这种XX操作。 我就跟你实打实的，100%的额度。 而且我自己体验下来，速度比GPT-5.6 Sol大幅提升，综合能力更全面，什么都有，全方位的水桶级模型。 最关键的是，GPT-6 Astra我们能用上，可以随便用，这个太重要了。 大家现在每个人打开你们的ChatGPT，应该都可以看到GPT-6 Astra了。 因为有过Claude Opus 4.8切换到Fable 5的经验，所以其实这种智力飞升的高级模型，有一个最先要做的事，就是拆掉限制和规则。 因为之前GPT-5.6 Sol的问题，比如过度设计、很多东西做不对、用不对，所以我在Codex里面写了很多的限制。 但是GPT-6 Astra上线了之后，这种聪明和智能的模型，其实就远远不需要那么多的限制了，过去的很多规则，反而会开始限制它，让它变得更蠢，不敢发挥。 这就像你为了让一个小学生在干活的时候靠谱，所以给它写了1万字的行动和限制手册，但是后面，你又招了一个博士生，还是同一份工作，你还用这1万字的行动来限制他，那就太蠢了。 所以，我也把我的全局规则AGENT.md文档，做了很多的简化，只留下了一些偏好和实际情况，甚至我会鼓励让它，更加自由的去干活。 这份AGENT.md，我也放在下面了，有需要的朋友可以借鉴。 #AGENT.md ##沟通 -面向用户的叙述默认使用简体中文；代码、命令和技术标识保持英文。-先给影响与结论，再给行动、待决策和必要证据；没有对应内容就省略。-技术细节只保留对理解结论、判断风险或复现结果有帮助的部分。 ##指令优先级 -遵守系统、平台和安全约束。-用户当前明确指令优先于Skill、历史记忆和默认偏好。-项目目录中的`AGENTS.md`只在该项目范围内补充或覆盖全局规则。 ##执行方式 -用户表示要开始新工作或修复现有问题时，持续推进，直到用户的目标完成，在目标方向上自主推进。-向用户提问之前，先完成上下文里已经授权、并且能把下一步变成可审查结果的工作。用户批准的应该是具体、可检查的结果。-用户建议不适合目标时直接说，不要迎合。-不要因为假想风险，主动加警告、免责声明、审批流程或安全/合规清单。 ##测试与验证 -不要为可逆、影响小、只是复述实现的改动写测试。-跑与本次改动相称的测试，并完成必要检查。这些通过之后，只有出现新改动、新失败或尚未解决的疑点时，才扩大或重复测试；否则继续把任务做完。-收尾删掉本次产生、之后用不上的临时文件。 ##工具与并行 -网页控制台无CLI/API时用已登录的Chrome浏览器；飞书优先`lark-cli`。-只有存在真正独立的工作流，且委派能节省时间或提升质量时才使用子Agent。-共享状态、连续决策和简单任务由当前Agent直接完成；委派任务必须有明确输入、输出和完成判据，最终结论由主Agent汇总并验证。 ##规则来源 -全局规则维护在当前生效的canonical`AGENTS.md`；`CLAUDE.md`只作兼容入口，不复制规则正文。-项目事实、生产状态、历史决策和对外契约以项目级`AGENTS.md`及其指定的脚本、探针、决策记录和合同文件为准。 使用方式也很简单，直接复制粘贴，扔到Codex的个性化里面",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-09-06",
+   "category": "industry",
+   "level": "S"
+  },
+  {
+   "title": "[GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video",
+   "link": "https://github.com/gongxings/ai-creator",
+   "summary": "⭐90星 | 语言:Python | 更新:2026-09-03 | A powerful AI content creation platform with AI writing, image generation, video generation, PPT generation tools, and one-click multi-platform publishing.AI创作者平台，一个功能强大的AI创作平台，提供AI写作、图片生成、视频生成、PPT生成等",
+   "source": "GitHub开源",
+   "date": "2026-09-06",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Reflexio: Behavioral learning that makes AI agents better over time",
+   "link": "https://www.producthunt.com/products/reflexio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Reflexio makes AI agents better with every interaction. When users correct an agent, a path fails, or something works particularly well, Reflexio turns that experience into behavior the agent can reus",
+   "source": "Product Hunt",
+   "date": "2026-09-06",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Hyperprobe: Lets your AI agents debug production without redeploying",
+   "link": "https://www.producthunt.com/products/hyperprobe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "HyperProbe is how backend teams debug production issues they can't reproduce locally. Instead of adding a log line and waiting on a deploy, we let Claude Code, Codex, or Cursor drop read-only probes i",
+   "source": "Product Hunt",
+   "date": "2026-09-06",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] DotCheck: AI Media Detector: Live AI scores on images, video, text, and audio",
+   "link": "https://www.producthunt.com/products/dotcheck-ai-media-detector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Most AI checkers are not with you when needed. Leave the feed, upload a file, wait, come back. DotCheck scores images, video frames, and text live in Chrome. Colored dots and underlines on the page. M",
+   "source": "Product Hunt",
+   "date": "2026-09-06",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] Gift Card Zone: Discover Gift Cards, Deals & Rewards in One Place",
+   "link": "https://www.producthunt.com/products/usa-gift-cards?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Gift Card Zone is a simple platform for discovering gift cards, special offers, deals, and rewards in one convenient place. We help users explore different gift card options and find relevant offers b",
+   "source": "Product Hunt",
+   "date": "2026-09-06",
+   "category": "other",
+   "level": "C"
+  },
+  {
+   "title": "[新品] Cabinet Scan: Scan it. It files itself — and remembers what's due.",
+   "link": "https://www.producthunt.com/products/cabinet-scan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Cabinet Scan turns the letters, invoices, and contracts piling up on your iPhone document scanner that names, summarizes and files your paperwork by itself; then builds a private, on-device picture of",
+   "source": "Product Hunt",
+   "date": "2026-09-06",
+   "category": "other",
+   "level": "C"
+  },
+  {
+   "title": "[新品] StalkMoo: Stalk the competition. Moo-ve ahead.",
+   "link": "https://www.producthunt.com/products/stalkmoo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Most creators are flying blind — no idea what's working for competitors, what hooks are trending, or why their content flops. StalkMoo gives you 12 AI-powered tools to research, create, and publish sm",
+   "source": "Product Hunt",
+   "date": "2026-09-06",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[新品] DocSanitizer: Censor private PII & shrink docs to fit any AI prompt",
+   "link": "https://www.producthunt.com/products/docsanitizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "DocSanitizer is a zero-cloud, privacy-first document sanitizer. Censor private data & shrink docs to fit into any AI prompt. 100% on-device, no telemetry, no cloud.",
+   "source": "Product Hunt",
+   "date": "2026-09-06",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Magic Eraser & Retouch: Omit: Tap the object, not around it. AI erases the rest.",
+   "link": "https://www.producthunt.com/products/magic-eraser-retouch-omit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Omit is a photo eraser with no brush. Tap the object you want gone — AI selects the whole thing and rebuilds the background behind it. Messy fill? One tap escalates to a stronger model, so you never h",
+   "source": "Product Hunt",
+   "date": "2026-09-06",
+   "category": "ai_tools",
+   "level": "B"
   }
  ]
 }
