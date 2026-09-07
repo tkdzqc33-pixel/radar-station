@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Toonflow",
-   "what": "开源一站式 AI 短剧创作工具，将小说/剧本快速转化为动画",
-   "why_today": "S级情报，直接针对短剧制作，可低成本批量产出内容，今日下载测试完整流程，验证能否融入现有工作流",
-   "time_est": "2小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app"
-  },
-  {
    "name": "GPT-6",
-   "what": "OpenAI最新模型，性能接近AGI，具备电脑操控等能力",
-   "why_today": "S级情报，全量上线且额度重置，立即测试其在短剧脚本生成和视频制作中的实际效果，评估成本与效率",
-   "time_est": "1小时",
+   "what": "OpenAI最新旗舰模型，性能大幅提升，号称AGI",
+   "why_today": "GPT-6全量上线且额度重置，是测试其在短剧脚本生成中效果的最佳时机，直接影响内容产出效率",
+   "time_est": "2小时",
    "source": "GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱"
   },
   {
-   "name": "Sora 2",
-   "what": "可能大幅降低视频生成成本的新一代视频生成模型",
-   "why_today": "S级情报，但OpenAI已关停Sora，需立即搜索Sora 2的系统卡和视频，评估其可用性与质量，作为替代方案",
-   "time_est": "1小时",
-   "source": "[HN] Sora 2"
-  },
-  {
-   "name": "StoryGen-Atelier",
-   "what": "AI辅助故事板和视频生成工具",
-   "why_today": "A级情报，可加速短剧前期制作，今日测试其分镜生成效果，看能否提升制作效率",
-   "time_est": "1小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier"
+   "name": "Toonflow",
+   "what": "开源一站式AI短剧创作工具，可将小说/剧本转化为动画",
+   "why_today": "S级情报推荐，直接匹配短剧制作需求，可降低制作成本，值得立即下载测试",
+   "time_est": "1.5小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
    "name": "Open-Sora",
-   "what": "开源视频生成工具，可低成本制作短剧素材",
-   "why_today": "A级情报，开源且免费，今日测试生成短剧片段，评估质量与速度，作为Sora替代方案之一",
-   "time_est": "1.5小时",
+   "what": "开源视频生成模型，可低成本生成短剧片段",
+   "why_today": "Sora关闭后，开源替代方案成为焦点，Open-Sora可大幅降低视频生成成本，需立即验证生成质量",
+   "time_est": "2小时",
    "source": "[GitHub] hpcaitech/Open-Sora"
+  },
+  {
+   "name": "ai0-video-creator",
+   "what": "专为短剧设计的桌面AI视频创作工具，支持本地ComfyUI",
+   "why_today": "S级情报，专为短剧设计且支持本地部署，可能成为核心工具，需立即下载评估",
+   "time_est": "1.5小时",
+   "source": "[GitHub] ajoesoft/ai0-video-creator"
+  },
+  {
+   "name": "SceneFlow",
+   "what": "AI工作台，支持智能对话、AI生图/视频、AI短剧/漫剧",
+   "why_today": "直接支持AI短剧生成，可能快速制作原型，值得试用评估其短剧生成能力",
+   "time_est": "1小时",
+   "source": "[GitHub] TorresLi608/SceneFlow"
   }
  ],
  "things_to_watch": [
   {
-   "item": "OpenAI与西雅图时报等版权诉讼进展",
-   "reason": "可能影响AI训练数据获取和内容生成工具的合规性，需持续关注以调整自身内容策略"
+   "item": "GPT-6 Astra的电脑操控能力",
+   "reason": "S级情报提示其可能改变工作流，需持续关注实际应用案例"
   },
   {
-   "item": "GPT-6 Astra的电脑操控能力在短剧制作中的应用",
-   "reason": "S级情报显示其能力飞跃，但实际应用场景需跟踪社区实测反馈，以决定是否深度集成"
+   "item": "Sora关闭后的行业连锁反应",
+   "reason": "迪士尼退出等事件影响AI视频工具生态，需跟踪替代方案和行业动态"
   },
   {
-   "item": "Agent OS生态（如WorkBuddy）发展",
-   "reason": "可能成为AI工具新平台，影响未来工具开发方向，需关注其集成机会"
+   "item": "Agent OS趋势（如腾讯WorkBuddy）",
+   "reason": "可能改变AI工具使用方式，影响未来工具选型"
   }
  ],
  "research_topics": [
   {
-   "topic": "虚拟人广告合规边界",
-   "why": "S级情报显示虚拟人商单变现已验证但合规风险高，需研究合规要求以评估自家IP接商单可行性"
+   "topic": "GPT-6 vs GPT-6 Astra的成本效益对比",
+   "why": "Astra性能强大但成本高，需明确在短剧制作中哪种更划算"
   },
   {
-   "topic": "印度数据安全政策的具体合规要求及成本",
-   "why": "A级情报指出数据合规影响短剧出海印度市场决策，需调研具体规定以规划出海策略"
+   "topic": "本地化AI盒子产品（合规AI方案）",
+   "why": "可解决企业数据安全痛点，可能拓展B端客户，需调研集成可能性"
   },
   {
-   "topic": "日本市场本地化运营经验（文化元素融入）",
-   "why": "A级情报显示国产游戏本地化经验可借鉴，需研究日本文化元素融入短剧的案例以开发本地化内容"
+   "topic": "中东和日本市场的短剧本地化策略",
+   "why": "出海游戏本地化经验可迁移，需研究文化元素融入以开拓新市场"
   }
  ],
- "daily_focus": "下载并测试Toonflow，跑通一个从小说到动画短剧的完整制作流程，评估其效率与质量。"
+ "daily_focus": "立即下载并测试Toonflow和Open-Sora，评估其在短剧制作中的实际效果，同时用GPT-6生成一段短剧脚本对比质量。"
 }
