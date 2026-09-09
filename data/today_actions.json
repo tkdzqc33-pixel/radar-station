@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "GPT-6",
-   "what": "OpenAI最新旗舰模型，能力大幅提升，支持文本生成与电脑操控。",
-   "why_today": "全量上线且额度重置，直接影响短剧内容创作质量与效率，需立即实测其在剧本生成和视频制作中的表现。",
-   "time_est": "2小时",
-   "source": "GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱"
-  },
-  {
    "name": "Toonflow-app",
-   "what": "开源一站式AI短剧创作工具，可将小说/剧本快速转化为动画。",
-   "why_today": "直接提供短剧生产工具，S级情报，可大幅降低制作成本，需下载测试其剧本转动画效果。",
-   "time_est": "1.5小时",
+   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画短剧",
+   "why_today": "S级情报，直接匹配短剧制作需求，开源可低成本测试，能快速评估工作流集成价值",
+   "time_est": "2小时",
    "source": "[GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
    "name": "Open-Sora",
-   "what": "开源视频生成模型，可低成本生成视频素材。",
-   "why_today": "S级情报，直接降低短剧制作成本，需立即测试生成样片评估质量。",
-   "time_est": "1.5小时",
+   "what": "开源视频生成模型，可本地部署生成短剧片段",
+   "why_today": "S级情报，开源且高效，是Sora关闭后的替代方案，需实测生成质量与效率",
+   "time_est": "3小时",
    "source": "[GitHub] hpcaitech/Open-Sora"
   },
   {
-   "name": "MoneyPrinter v1.3.6",
-   "what": "自动化视频生成工具，新增火山引擎视频生成能力。",
-   "why_today": "版本更新，可直接从脚本生成素材，提升效率，需升级并测试火山引擎集成功能。",
-   "time_est": "1小时",
-   "source": "[版本更新] MoneyPrinter v1.3.6"
+   "name": "ai0-video-creator",
+   "what": "桌面AI视频创作工具，支持短剧制作",
+   "why_today": "S级情报，桌面端工具可能更易集成到现有流程，需试用评估效率",
+   "time_est": "1.5小时",
+   "source": "[GitHub] ajoesoft/ai0-video-creator"
   },
   {
-   "name": "AICRON",
-   "what": "参与韩国主流剧集《金特务》制作的AI影视级内容生成工具。",
-   "why_today": "S级情报，验证了AI影视级制作可行性，短剧可借鉴，需研究其工作流和定价。",
+   "name": "GPT-6 (API)",
+   "what": "OpenAI最新模型，能力大幅提升，可用于脚本生成与图像生成",
+   "why_today": "S级情报，GPT-6全量上线，需立即测试其在短剧脚本和图像生成上的实际效果",
+   "time_est": "2小时",
+   "source": "GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱"
+  },
+  {
+   "name": "SceneFlow",
+   "what": "AI工作台，集成对话、生图/视频、短剧/漫剧功能",
+   "why_today": "A级情报但功能集成度高，可能简化制作流程，值得快速测试其短剧制作能力",
    "time_est": "1小时",
-   "source": "AICRON参与《金特务》制作，韩国主流剧集首次引入AI生成内容"
+   "source": "[GitHub] TorresLi608/SceneFlow"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora停运风险",
-   "reason": "HN情报显示Sora可能停运，需持续关注官方动态，并准备替代方案。"
+   "item": "Sora关闭后的替代工具动态（Runway、Pika等）",
+   "reason": "S级情报显示Sora关闭，需持续跟踪替代工具的功能更新和定价，以选择最佳方案"
   },
   {
-   "item": "GPT-6后续能力更新",
-   "reason": "GPT-6刚上线，后续可能有更多功能披露，影响内容创作策略。"
+   "item": "GPT-6 Astra的API定价与推理等级策略",
+   "reason": "A级情报指出推理等级影响Token消耗，需关注官方定价调整，优化成本"
   },
   {
-   "item": "Agent OS生态发展",
-   "reason": "AI工具集成趋势可能改变短剧制作工具链，需跟踪腾讯WorkBuddy等生态。"
+   "item": "Open-Generative-AI项目更新",
+   "reason": "S级情报，免费无限制视频生成，但需关注其稳定性和合规性，持续评估是否可长期使用"
   }
  ],
  "research_topics": [
   {
-   "topic": "AICRON工作流与定价模式",
-   "why": "借鉴其AI影视级制作经验，评估用于高质感短剧的成本与可行性。"
+   "topic": "AI视频生成工具的成本与质量对比（Open-Sora vs Runway vs Pika）",
+   "why": "Sora关闭后需确定替代方案，对比成本和质量以优化短剧制作流程"
   },
   {
-   "topic": "AI营销工具在短剧买量中的应用",
-   "why": "出海游戏买量成本高，AI营销或可提效，需研究工具与策略。"
+   "topic": "GPT-6在短剧剧本生成中的最佳实践与Token优化",
+   "why": "GPT-6能力跃升，但Token成本高，需研究如何高效利用以控制成本"
   },
   {
-   "topic": "日本市场本地化短剧内容策略",
-   "why": "日本文化元素融入经验可迁移至短剧出海，需研究题材与运营方法。"
+   "topic": "AI短剧出海的法律合规风险（尤其是不正当竞争与内容版权）",
+   "why": "A级情报提到AI内容法律风险，需确保短剧制作和营销合规，避免法律纠纷"
   }
  ],
- "daily_focus": "今天注册并实测GPT-6在短剧剧本生成中的表现，同时下载Toonflow和Open-Sora生成样片，评估质量与效率。"
+ "daily_focus": "今天下载并测试Toonflow和Open-Sora，评估它们生成短剧片段的质量与效率，确定是否纳入制作流程。"
 }
