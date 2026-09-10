@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
+   "name": "vivago R1",
+   "what": "全球上线的AI视频生成工具，可快速生成短剧片段",
+   "why_today": "S级情报，实测可打造赛博西游记短片，直接降低短剧制作成本，机会信号强烈",
+   "time_est": "1-2小时",
+   "source": "实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片"
+  },
+  {
+   "name": "DeepSeek V4.1 Flash",
+   "what": "多模态大模型，支持识图和生成，成本更低",
+   "why_today": "S级情报，最快今日发布，多模态能力可批量生成短剧素材，直接降本",
+   "time_est": "1小时",
+   "source": "DeepSeek 快速、专家、识图模式合并升级，V4.1 Flash 最快今日发布"
+  },
+  {
    "name": "Toonflow-app",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画短剧",
-   "why_today": "S级情报，直接匹配短剧制作需求，开源可低成本测试，能快速评估工作流集成价值",
-   "time_est": "2小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app"
+   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画",
+   "why_today": "S级GitHub项目，可低成本批量产漫剧投海外，直接匹配短剧出海需求",
+   "time_est": "2-3小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具"
+  },
+  {
+   "name": "Open-Generative-AI",
+   "what": "600+模型无内容过滤的自托管AI平台",
+   "why_today": "S级GitHub项目，可省大量API费用且无过滤，适合擦边题材短剧，立即部署测试替代付费API",
+   "time_est": "3-4小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
   },
   {
    "name": "Open-Sora",
-   "what": "开源视频生成模型，可本地部署生成短剧片段",
-   "why_today": "S级情报，开源且高效，是Sora关闭后的替代方案，需实测生成质量与效率",
-   "time_est": "3小时",
-   "source": "[GitHub] hpcaitech/Open-Sora"
-  },
-  {
-   "name": "ai0-video-creator",
-   "what": "桌面AI视频创作工具，支持短剧制作",
-   "why_today": "S级情报，桌面端工具可能更易集成到现有流程，需试用评估效率",
-   "time_est": "1.5小时",
-   "source": "[GitHub] ajoesoft/ai0-video-creator"
-  },
-  {
-   "name": "GPT-6 (API)",
-   "what": "OpenAI最新模型，能力大幅提升，可用于脚本生成与图像生成",
-   "why_today": "S级情报，GPT-6全量上线，需立即测试其在短剧脚本和图像生成上的实际效果",
-   "time_est": "2小时",
-   "source": "GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱"
-  },
-  {
-   "name": "SceneFlow",
-   "what": "AI工作台，集成对话、生图/视频、短剧/漫剧功能",
-   "why_today": "A级情报但功能集成度高，可能简化制作流程，值得快速测试其短剧制作能力",
-   "time_est": "1小时",
-   "source": "[GitHub] TorresLi608/SceneFlow"
+   "what": "开源视频生成模型，可零成本批量产短剧素材",
+   "why_today": "S级GitHub项目，Sora关停后急需替代方案，Open-Sora可部署测试生成质量",
+   "time_est": "3-4小时",
+   "source": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关闭后的替代工具动态（Runway、Pika等）",
-   "reason": "S级情报显示Sora关闭，需持续跟踪替代工具的功能更新和定价，以选择最佳方案"
+   "item": "GPT-6 Astra的API和自动化能力",
+   "reason": "S级情报，GPT-6可操控电脑，将颠覆AI工具开发和短剧制作流程，需持续关注API开放进度"
   },
   {
-   "item": "GPT-6 Astra的API定价与推理等级策略",
-   "reason": "A级情报指出推理等级影响Token消耗，需关注官方定价调整，优化成本"
+   "item": "Sora关停后续影响及替代工具链",
+   "reason": "S级情报，Sora关停导致依赖它的短剧生产链需紧急切换，迪士尼退出OpenAI Deal，需跟踪替代方案成熟度"
   },
   {
-   "item": "Open-Generative-AI项目更新",
-   "reason": "S级情报，免费无限制视频生成，但需关注其稳定性和合规性，持续评估是否可长期使用"
+   "item": "AI营销工具在短剧投流中的效果",
+   "reason": "S级情报，出海游戏买量成本高，AI营销可降低短剧投流成本，需关注实际ROI数据"
   }
  ],
  "research_topics": [
   {
-   "topic": "AI视频生成工具的成本与质量对比（Open-Sora vs Runway vs Pika）",
-   "why": "Sora关闭后需确定替代方案，对比成本和质量以优化短剧制作流程"
+   "topic": "中东短剧市场本地化策略",
+   "why": "A级情报指出中东是短剧出海蓝海，本地化经验可直接复用，需研究文化适配和题材选择"
   },
   {
-   "topic": "GPT-6在短剧剧本生成中的最佳实践与Token优化",
-   "why": "GPT-6能力跃升，但Token成本高，需研究如何高效利用以控制成本"
+   "topic": "日本市场短剧本地化运营",
+   "why": "A级情报显示国产RPG/SLG融入日本文化元素成功，可借鉴到短剧出海日本，需研究具体策略"
   },
   {
-   "topic": "AI短剧出海的法律合规风险（尤其是不正当竞争与内容版权）",
-   "why": "A级情报提到AI内容法律风险，需确保短剧制作和营销合规，避免法律纠纷"
+   "topic": "AI token成本控制与自托管方案",
+   "why": "A级情报警示单人一月烧19万，需核算短剧制作AI成本，研究自托管替代云API的可行性"
   }
  ],
- "daily_focus": "今天下载并测试Toonflow和Open-Sora，评估它们生成短剧片段的质量与效率，确定是否纳入制作流程。"
+ "daily_focus": "立即注册并测试vivago R1，生成一段短剧片段，评估其成本和质量是否满足出海短剧需求"
 }
