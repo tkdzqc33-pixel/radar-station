@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
+   "name": "DeepSeek V4.1 Flash API",
+   "what": "全新架构的大模型API，显存占用大幅降低，API成本暴降10倍",
+   "why_today": "S级情报，成本暴降直接降低短剧剧本/字幕/翻译的批量生成成本，是今天最值得验证的降本杠杆",
+   "time_est": "1-2小时",
+   "source": "深度解读 DeepSeek V4.1 Flash 全新架构，如何成为显存杀手"
+  },
+  {
+   "name": "Toonflow v1.1.8",
+   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画短剧",
+   "why_today": "S级版本更新且是核心业务工具，直接关系短剧出海生产效率，今天测新版本流程可快速判断能否接入产线",
+   "time_est": "2-3小时",
+   "source": "[版本更新] Toonflow短剧工具 v1.1.8"
+  },
+  {
    "name": "vivago R1",
-   "what": "全球上线的AI视频生成工具，可快速生成短剧片段",
-   "why_today": "S级情报，实测可打造赛博西游记短片，直接降低短剧制作成本，机会信号强烈",
+   "what": "全球上线的AI视频生成工具，可用于短剧片段制作",
+   "why_today": "S级实测情报，Sora关停后出现工具真空期，今天注册测试可抢占替代工具先机",
    "time_est": "1-2小时",
    "source": "实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片"
   },
   {
-   "name": "DeepSeek V4.1 Flash",
-   "what": "多模态大模型，支持识图和生成，成本更低",
-   "why_today": "S级情报，最快今日发布，多模态能力可批量生成短剧素材，直接降本",
-   "time_est": "1小时",
-   "source": "DeepSeek 快速、专家、识图模式合并升级，V4.1 Flash 最快今日发布"
-  },
-  {
-   "name": "Toonflow-app",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画",
-   "why_today": "S级GitHub项目，可低成本批量产漫剧投海外，直接匹配短剧出海需求",
-   "time_est": "2-3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具"
-  },
-  {
    "name": "Open-Generative-AI",
-   "what": "600+模型无内容过滤的自托管AI平台",
-   "why_today": "S级GitHub项目，可省大量API费用且无过滤，适合擦边题材短剧，立即部署测试替代付费API",
-   "time_est": "3-4小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
+   "what": "2.8万星无审查自托管AI生成平台，600+模型免费生成图/视频",
+   "why_today": "S级GitHub项目，零成本替代付费AI视频平台，在Sora关停和成本敏感期价值极高",
+   "time_est": "2-4小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
   },
   {
-   "name": "Open-Sora",
-   "what": "开源视频生成模型，可零成本批量产短剧素材",
-   "why_today": "S级GitHub项目，Sora关停后急需替代方案，Open-Sora可部署测试生成质量",
-   "time_est": "3-4小时",
-   "source": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video"
+   "name": "GPT Images 2.5",
+   "what": "OpenAI最新图像生成模型，可批量生成短剧分镜和封面图",
+   "why_today": "A级但突发上线，图像质量升级可直接提升短剧素材制作效率，测试成本低",
+   "time_est": "1小时",
+   "source": "GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱"
   }
  ],
  "things_to_watch": [
   {
-   "item": "GPT-6 Astra的API和自动化能力",
-   "reason": "S级情报，GPT-6可操控电脑，将颠覆AI工具开发和短剧制作流程，需持续关注API开放进度"
+   "item": "Sora关停后的AI视频工具替代格局",
+   "reason": "Sora关停导致迪士尼撤资，赛道洗牌期工具选择直接影响短剧产线稳定性，需持续跟踪替代工具成熟度"
   },
   {
-   "item": "Sora关停后续影响及替代工具链",
-   "reason": "S级情报，Sora关停导致依赖它的短剧生产链需紧急切换，迪士尼退出OpenAI Deal，需跟踪替代方案成熟度"
+   "item": "AEO（Agent Engine Optimization）趋势",
+   "reason": "Agent用500 Token判断是否调用你的工具，率先做AEO优化可获得Agent流量红利，但需观察生态成熟节奏"
   },
   {
-   "item": "AI营销工具在短剧投流中的效果",
-   "reason": "S级情报，出海游戏买量成本高，AI营销可降低短剧投流成本，需关注实际ROI数据"
+   "item": "OpenAI放缓前沿AI开发及行业跟进情况",
+   "reason": "头部放缓可能拖慢工具迭代，但也给垂直AI短剧工具留出抢先布局窗口，需跟踪后续模型发布节奏"
   }
  ],
  "research_topics": [
   {
-   "topic": "中东短剧市场本地化策略",
-   "why": "A级情报指出中东是短剧出海蓝海，本地化经验可直接复用，需研究文化适配和题材选择"
+   "topic": "WorkBuddy生态Skill上架规则和分成模式",
+   "why": "Skill按调用量计费验证了AI插件变现可行性，研究后可评估开发垂直短剧Skill的商业路径"
   },
   {
-   "topic": "日本市场短剧本地化运营",
-   "why": "A级情报显示国产RPG/SLG融入日本文化元素成功，可借鉴到短剧出海日本，需研究具体策略"
+   "topic": "中东短剧市场本地化要点",
+   "why": "中东SLG出海本地化案例显示该市场蓝海且竞争少，提炼内容适配要点可直接指导短剧选题和投放"
   },
   {
-   "topic": "AI token成本控制与自托管方案",
-   "why": "A级情报警示单人一月烧19万，需核算短剧制作AI成本，研究自托管替代云API的可行性"
+   "topic": "AI营销工具在短剧投流中的降本效果",
+   "why": "出海游戏买量成本高企，AI营销降本逻辑可迁移到短剧投流，直接影响投放ROI"
   }
  ],
- "daily_focus": "立即注册并测试vivago R1，生成一段短剧片段，评估其成本和质量是否满足出海短剧需求"
+ "daily_focus": "立即测试DeepSeek V4.1 Flash API，用同一批短剧剧本对比现有模型的成本和质量，确认能否将批量生成成本降低10倍并接入产线"
 }
