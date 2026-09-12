@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
+   "name": "Toonflow-app",
+   "what": "开源一站式 AI 短剧创作工具，将小说/剧本快速转化为动画短剧",
+   "why_today": "1.5万星开源项目，直接匹配漫剧出海量产需求，可低成本批量产出投海外平台赚分账",
+   "time_est": "2-3小时（下载部署+跑通小说转动画短剧全流程）",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具"
+  },
+  {
    "name": "DeepSeek V4.1 Flash API",
-   "what": "全新架构的大模型API，显存占用大幅降低，API成本暴降10倍",
-   "why_today": "S级情报，成本暴降直接降低短剧剧本/字幕/翻译的批量生成成本，是今天最值得验证的降本杠杆",
-   "time_est": "1-2小时",
-   "source": "深度解读 DeepSeek V4.1 Flash 全新架构，如何成为显存杀手"
+   "what": "DeepSeek 新架构模型，显存占用大幅降低，API 成本暴降",
+   "why_today": "成本暴降直接降低短剧脚本批量生成与翻译成本，且 DeepSeek 已确认 9月14日后继续提供 V4 Pro API，供应稳定",
+   "time_est": "1-2小时（接入 API，测试长文本脚本生成与多语言翻译）",
+   "source": "[S] 深度解读 DeepSeek V4.1 Flash 全新架构，如何成为显存杀手"
   },
   {
-   "name": "Toonflow v1.1.8",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画短剧",
-   "why_today": "S级版本更新且是核心业务工具，直接关系短剧出海生产效率，今天测新版本流程可快速判断能否接入产线",
-   "time_est": "2-3小时",
-   "source": "[版本更新] Toonflow短剧工具 v1.1.8"
+   "name": "Open-Sora",
+   "what": "开源视频生成模型，可低成本批量产短剧视频素材",
+   "why_today": "Sora 已关停，依赖 Sora 的短剧制作流程需紧急寻找替代，Open-Sora 可自托管替代付费工具大幅降本",
+   "time_est": "3-4小时（部署+测试生成短剧片段质量）",
+   "source": "[GitHub] hpcaitech/Open-Sora + [HN] Goodbye to Sora"
   },
   {
-   "name": "vivago R1",
-   "what": "全球上线的AI视频生成工具，可用于短剧片段制作",
-   "why_today": "S级实测情报，Sora关停后出现工具真空期，今天注册测试可抢占替代工具先机",
-   "time_est": "1-2小时",
-   "source": "实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片"
+   "name": "StoryGen-Atelier",
+   "what": "Gemini+Veo+ffmpeg 全流程分镜生成到成片的开源管线",
+   "why_today": "可直接集成到短剧生产管线，从分镜到成片全流程自动化，降低制作成本",
+   "time_est": "2-3小时（克隆仓库+测试分镜生成到成片全流程效率）",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
   },
   {
-   "name": "Open-Generative-AI",
-   "what": "2.8万星无审查自托管AI生成平台，600+模型免费生成图/视频",
-   "why_today": "S级GitHub项目，零成本替代付费AI视频平台，在Sora关停和成本敏感期价值极高",
-   "time_est": "2-4小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
-  },
-  {
-   "name": "GPT Images 2.5",
-   "what": "OpenAI最新图像生成模型，可批量生成短剧分镜和封面图",
-   "why_today": "A级但突发上线，图像质量升级可直接提升短剧素材制作效率，测试成本低",
-   "time_est": "1小时",
-   "source": "GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱"
+   "name": "awesome-nano-banana-pro-prompts",
+   "what": "10000+ Gemini 图像提示词库，用于短剧分镜和角色生成",
+   "why_today": "可立即下载筛选，快速提升 AI 短剧画面质量和生产效率，零部署成本",
+   "time_est": "1小时（下载+筛选适合短剧分镜和角色设计的提示词）",
+   "source": "[GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的AI视频工具替代格局",
-   "reason": "Sora关停导致迪士尼撤资，赛道洗牌期工具选择直接影响短剧产线稳定性，需持续跟踪替代工具成熟度"
+   "item": "Sora 关停后的 AI 视频赛道格局变化及替代工具崛起",
+   "reason": "迪士尼退出 OpenAI 合作，Sora 关停导致赛道生变，需持续跟踪哪些替代平台（vivago R1、Seedance 2.0 等）能填补空白"
   },
   {
-   "item": "AEO（Agent Engine Optimization）趋势",
-   "reason": "Agent用500 Token判断是否调用你的工具，率先做AEO优化可获得Agent流量红利，但需观察生态成熟节奏"
+   "item": "AEO（Agent 引擎优化）趋势——工具被 Agent 调用的分发新渠道",
+   "reason": "Agent 只需 500 Token 判断是否使用你的软件，这可能是插件/工具的新分发入口，需持续观察 Agent 生态的调用规则演变"
   },
   {
-   "item": "OpenAI放缓前沿AI开发及行业跟进情况",
-   "reason": "头部放缓可能拖慢工具迭代，但也给垂直AI短剧工具留出抢先布局窗口，需跟踪后续模型发布节奏"
+   "item": "AI 成本管控趋势与 API 中转站安全风险",
+   "reason": "硅谷倒查 AI 账单、中转站 6TB 泄露事件，需持续关注团队 API 使用安全与成本优化，避免断供或密钥泄露"
   }
  ],
  "research_topics": [
   {
-   "topic": "WorkBuddy生态Skill上架规则和分成模式",
-   "why": "Skill按调用量计费验证了AI插件变现可行性，研究后可评估开发垂直短剧Skill的商业路径"
+   "topic": "中东短剧出海市场本地化策略",
+   "why": "中东是短剧出海蓝海市场，SLG 手游本地化成功经验可直接复用，先发优势明显"
   },
   {
-   "topic": "中东短剧市场本地化要点",
-   "why": "中东SLG出海本地化案例显示该市场蓝海且竞争少，提炼内容适配要点可直接指导短剧选题和投放"
+   "topic": "WorkBuddy 等 AI 办公生态 Skill 上架与按调用量分成规则",
+   "why": "Skill 按调用量计费模式可参考做插件变现，是工具商业化的新路径"
   },
   {
-   "topic": "AI营销工具在短剧投流中的降本效果",
-   "why": "出海游戏买量成本高企，AI营销降本逻辑可迁移到短剧投流，直接影响投放ROI"
+   "topic": "《后西游记》AI 长剧使用的 Seedance 2.0 工具链与工业化制作流程",
+   "why": "AI 长剧工业化路径已验证，技术下放到短剧可提升内容质量溢价，需研究其工具链"
   }
  ],
- "daily_focus": "立即测试DeepSeek V4.1 Flash API，用同一批短剧剧本对比现有模型的成本和质量，确认能否将批量生成成本降低10倍并接入产线"
+ "daily_focus": "立即排查现有短剧项目是否依赖 Sora，同时部署 Toonflow 跑通小说转动画短剧全流程，确认替代方案可行性"
 }
