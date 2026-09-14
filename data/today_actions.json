@@ -2,67 +2,67 @@
  "tools_to_test": [
   {
    "name": "DeepSeek V4.1 Flash API",
-   "what": "全新架构的大模型API，API成本暴降10倍",
-   "why_today": "S级情报，成本暴降10倍直接改变短剧制作成本模型，需立即验证实际效果和成本",
+   "what": "全新架构大模型API，KV缓存暴降437倍，Agent成本大幅降低",
+   "why_today": "S级情报，显存和成本双降，直接决定短剧剧本和分镜批量生成的可行性，今天不测明天就可能落后",
    "time_est": "1-2小时",
    "source": "深度解读 DeepSeek V4.1 Flash 全新架构，如何成为显存杀手"
   },
   {
-   "name": "Toonflow-app",
+   "name": "Toonflow v1.1.8",
    "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画短剧",
-   "why_today": "S级情报，1.5万星开源短剧工具，可直接降低漫剧制作成本，需测试小说转动画短剧流程",
+   "why_today": "S级情报且刚发新版本，直接匹配短剧出海核心需求，今天部署可立即评估全流程效率",
    "time_est": "2-3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具"
+   "source": "Toonflow短剧工具 v1.1.8"
   },
   {
    "name": "Open-Generative-AI",
-   "what": "无内容过滤的开源AI视频生成工具，集成600+模型",
-   "why_today": "S级情报，28379星，可免费无限制生成短剧素材，省大量API费用，需自部署测试Flux/Kling/Sora等模型",
+   "what": "2.8万星无审查开源视频生成替代方案，600+模型可自托管",
+   "why_today": "S级情报，Sora关停后急需备选，自托管省API费用且无审查可做更大胆题材，今天部署验证Flux/Kling/Sora模型质量",
    "time_est": "3-4小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
-  },
-  {
-   "name": "Open-Sora",
-   "what": "开源视频生成模型，旨在民主化高效视频生成",
-   "why_today": "S级情报，开源视频生成模型可能大幅降低短剧制作成本，需测试视频生成质量与速度",
-   "time_est": "2-3小时",
-   "source": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video"
+   "source": "Anil-matcha/Open-Generative-AI"
   },
   {
    "name": "ai0-video-creator",
-   "what": "全功能Tauri v2桌面端AI视频创作工具，支持短剧和翻译视频制作",
-   "why_today": "S级情报，本地化短剧生产工具可省云API成本，需下载安装测试评估短剧制作全流程覆盖度",
+   "what": "Tauri v2桌面端AI视频创作工具，支持短剧和翻译视频，本地ComfyUI零API成本",
+   "why_today": "S级情报，明确支持短剧和翻译，本地零成本批量产出，今天下载测试可快速判断能否替代现有付费管线",
+   "time_est": "2-3小时",
+   "source": "ajoesoft/ai0-video-creator"
+  },
+  {
+   "name": "StoryGen-Atelier",
+   "what": "Gemini+Veo自动分镜生成视频工具",
+   "why_today": "A级情报，自动化分镜可补充短剧制作管线，今天测试分镜生成效果并对比现有工作流",
    "time_est": "1-2小时",
-   "source": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI"
+   "source": "0xsline/StoryGen-Atelier"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代工具迁移与多平台分发策略",
-   "reason": "Sora关停导致依赖它的短剧生产链需紧急迁移，迪士尼退出OpenAI交易显示AI视频平台风险极高，需持续关注替代方案和分散工具依赖"
+   "item": "Sora关停后续影响及AI视频平台政策风险",
+   "reason": "迪士尼退出OpenAI合作验证平台断供风险极高，需持续跟踪替代方案成熟度和迁移成本"
   },
   {
-   "item": "微信Agent生态与AEO（Agent Engine Optimization）趋势",
-   "reason": "微信Agent可能成为AI工具分发新渠道，AEO概念直接关系AI工具能否被Agent发现和调用，早期红利值得跟踪"
+   "item": "中东短剧市场本地化机会",
+   "reason": "中东市场供给稀缺且SLG手游已验证本地化打法，需跟踪文化适配细节和先入者红利窗口"
   },
   {
-   "item": "AI成本管控与合规政策动态",
-   "reason": "硅谷倒查AI账单、AI蒸馏指控、OpenAI智能体失控等事件可能影响工具合规与出海政策，需关注后续政策变化"
+   "item": "AI成本管控趋势与Agent调用优化",
+   "reason": "单人月烧19万账单和AEO概念兴起，影响工具定价和API文档优化策略，需持续关注"
   }
  ],
  "research_topics": [
   {
-   "topic": "AEO（Agent Engine Optimization）优化方法论与知识付费选题设计",
-   "why": "S级情报指出AEO直接关系AI工具能否被Agent发现和调用，帮别人做AEO优化可成新知识付费选题，需研究具体优化策略和变现模式"
+   "topic": "短剧出海投流AI降本方案",
+   "why": "出海游戏买量成本高企，短剧投流同样面临获客成本痛点，需调研AI营销工具实际降本效果"
   },
   {
-   "topic": "中东短剧出海市场本地化策略",
-   "why": "中东是短剧出海蓝海市场，竞争少，但文化差异大，需研究成功SLG手游的本地化运营策略并评估短剧适配性"
+   "topic": "WorkBuddy生态Skill接入与分成规则",
+   "why": "Skill按调用量计费模式已验证，研究接入规则可评估上架垂直Skill插件变现可行性"
   },
   {
-   "topic": "AI营销工具在短剧投流中的应用与ROI优化",
-   "why": "出海游戏企业买量成本居高不下，AI营销可能降低短剧投流成本，需调研具体工具和打法迁移到短剧投流素材优化"
+   "topic": "开源视频生成模型（Open-Sora/Open-Generative-AI）质量与成本对比",
+   "why": "Sora关停后需建立多工具备份方案，需系统对比开源模型与付费工具的生成质量、速度和总拥有成本"
   }
  ],
- "daily_focus": "立即测试DeepSeek V4.1 Flash API，重算短剧制作成本模型，并同步排查现有工作流是否依赖Sora，制定迁移方案"
+ "daily_focus": "立即部署Toonflow v1.1.8并跑通小说转动画短剧全流程，同时用DeepSeek V4.1 Flash API测试剧本批量生成成本，验证低成本短剧出海管线的可行性"
 }

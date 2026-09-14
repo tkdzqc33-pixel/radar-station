@@ -7550,6 +7550,114 @@
    "date": "2026-09-13",
    "category": "other",
    "level": "B"
+  },
+  {
+   "title": "苹果的折叠屏等了十五年，体验还差临门一脚",
+   "link": "http://www.geekpark.net/news/370231",
+   "summary": "折叠屏七年没解决的问题，从来不在铰链上。 作者｜张勇毅 编辑｜靖宇 2011 年 9 月 30 日，苹果递交了一份名叫「Flexible electronic devices」的专利申请。它描述的是一台屏幕可以对折的设备，合起来能揣进口袋，靠传感器判断自己是开着还是合着。 这份专利 2015 年 1 月获授，发明人一共六位，其中一位叫特努斯（John P. Ternus）。 十五年之后的 2026 年 9 月 9 日，当年署名的那位工程师，第一次以苹果 CEO 的身份站上发布会，发布了 iPhone Duo。 虽然对这位新任 CEO 来讲，这是首次发布会上最重磅的产品，但中间这十五年，苹果关于折叠屏的大量预研工作，已经在水面之下进行了许久。 按彭博社马克&middot;古尔曼在发布会前一天的报道，苹果工程师大约到 2016 年才开始认真做折叠 iPhone，项目由特努斯的前任、硬件工程主管丹&middot;里奇奥发起。方向也一直没定下来，前几年试的是一台能展开成大平板的 iPad mini。 2019 年 2 月，三星和华为前后隔了四天发布了各自的第一台折叠屏：Galaxy Fold 合上超过 15 毫米厚，Mate X 干脆把屏幕折在外面，折痕都是肉眼可见的一道沟。苹果比这两家早八年想到这件事，此时什么也没拿出来。 转折在 2020 年。库克从亚洲出差回来，看到三星和华为的折叠机在那边到处都是，把方向掰向了折叠 iPhone。彭博的报道里引了一句话：库克是这个项目最早也是最大的支持者。 真正卡住工程团队的是四件事：折痕看不看得见、铰链能不能扛住反复开合、内屏的柔性盖板玻璃怎么做、摄像头怎么藏到屏幕底下。盖板玻璃最后和康宁一起定制，铰链用了钛和铝。这四件事全是硬件问题。 从 2019 年那两台机器算起，七年过去。华为 Mate X7 做到了 9.5 毫米、235 克，小米 18 Fold 把书本式折叠卖到 10999 元。苹果最后一个进场，交出的 iPhone Duo 合上 11.3 毫米、254 克、国行 15999 元起，是同尺寸折叠屏里最厚、最重、也最贵的一台。 TrendForce 在发布会当天给出的预测是，这台机器今年能卖出大约 500 万台，第一年就拿走全球折叠屏市场的 24.8%；Counterpoint 7 月的估算是 25%。一台硬件参数几乎每项都落后的折叠屏，分析师却一致认为它一上来就能切走四分之一。 用「苹果品牌溢价」解释这件事，在这个问题上无疑是一种偷懒的做法：折叠屏七年没解决的问题，一直也不在铰链上。硬件问题是可以用钱和时间堆出来的，而华为、三星、小米这七年里唯一没有堆出来的东西，是让手机里的 App 老老实实为折叠屏改一遍。 01 安卓 折叠屏 过去七年的回答 折叠屏的软件问题只有一句话：App 是按一块竖着的长方形屏幕写的，展开之后屏幕变成了近似正方形，App 不知道该怎么办。 谷歌的解法在 2022 年的 Android 12L 里定型：不会适配的 App，就在屏幕中间显示成一个竖条，两边留黑，称为兼容模式。这是一个兜底方案，前提是开发者会尽快跟上。四年过去，这个前提没有成立。谷歌今年 7 月给开发者的宽折叠适配指引里，列出的问题仍然是展开之后画面被拉伸、裁切、横过来。 谷歌在安卓开发规范中，很早就有关于折叠屏的适配内容，但进度缓慢｜图片来源 Google 从 Android 16 起，Android 系统在大屏设备上默认无视 App 自己声明的方向和尺寸限制，开发者可以临时申请豁免；到 Android 17，豁免取消，只有游戏例外。一个手握安卓的平台方，从「求」走到「逼」用了四年，走到「逼」之后的效果，还要再等一年才看得到。 开发者不跟的原因，首先体现在量上：折叠屏至今只占全球智能手机出货的不到 2%，一个开发者为它改界面，收益覆盖不了成本。 其次是形态不统一：三星过去几代的外屏是 21 比 9 的窄长条，国产厂商做的是接近直板机的宽外屏，华为 Pura X 又做成了 16 比 10 的阔折叠，展开之后每一家的比例都不一样。开发者适配了一家，不等于适配了折叠屏。 在中国，这个问题被华为的份额掩盖了一半 。IDC 的数据里，今年一季度中国折叠屏出货 280 万台，同比涨 65%，华为一家占 60%，Pura X 上市一年累计出货超过 150 万台。即便如此，它也没能让所有 App 为一块 3.5 英寸的方屏改一遍。 硬件那一侧，反倒早就没有秘密可言：Duo 的折叠面板由三星显示独家供应，韩国媒体 The Elec 今年 4 月报道的合同期是三年；蓝思科技、领益智造这些同时给国产手机供货的厂商，在发布会当天先后回应媒体，说自己供的是 UTG 超薄玻璃、屏幕支撑板和铰链精密件。 也就是说，苹果第一台",
+   "source": "极客公园",
+   "date": "2026-09-14",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+   "link": "https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "· 集邦咨询预计 iPhone Duo 今年出货 500 万台，占折叠屏市场近四分之一 · Kimi K2.8 Preview 全量上线，所有会员开放 100 万上下文 · Grok 4.7 延期，马斯克称模型会在难题上过早放弃 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-14",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "谷歌云：两年即可回收 AI 服务器投资，自研芯片回收期仅为 GPU 一半",
+   "link": "https://www.ithome.com/1/001/923.htm",
+   "summary": "IT之家 9 月 14 日消息，Google Cloud 首席执行官 Thomas Kurian 本月早些时候在高盛通信 + 技术大会上表示，谷歌云的平均 AI 服务器投资回收用时不到 2 年，而 自研芯片的投资回收期更是仅有 GPU 方案的一半 。 Thomas Kurian 表示， 其自研 AI 加速器业务规模是第二大超大规模数据中心运营商的 2 倍以上 。谷歌云的大部分基础设施合同都是为期五年的长期合同。 而对从芯片到模型的全链路控制 让谷歌能仅以友商一半乃至更低的价格提供 Gemini Flash 3.8 这样的产品 。这位主管宣称谷歌云在 AI 训练、AI 推理、CPU 三个细分领域分别能提供 2.7 倍、80%、30% 的性价比优势。 谷歌的企业级 AI 平台 Gemini Enterprise 的机器学习模型运行开销仅有友商的 40%，同时能提供更高的准确度。这两者都是九成以上《财富》100 强企业选择使用该平台的原因之一。",
+   "source": "IT之家",
+   "date": "2026-09-14",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "苹果 iOS 27 正式版前瞻：升级 Siri AI、优化液态玻璃设计、隔空投送提速 80%",
+   "link": "https://www.ithome.com/1/001/921.htm",
+   "summary": "IT之家 9 月 14 日消息，苹果公司官网显示， 将于北京时间 9 月 15 日周二凌晨 1 点推送 iOS 27、iPadOS 27、macOS 27 和 watchOS 27 等正式版 ， 用户届时可在“设置”应用中的“通用” → “软件更新”下查看。 IT之家援引科技媒体 MacRumors 报道，汇总梳理下 iOS 27 将会带来的 8 项主要改进： 一、Siri AI 本次更新的核心是“智能 Siri”（Siri AI），类似 ChatGPT ，可通过独立应用或长按侧边按钮调用。 该功能可调用手机内的个人信息，识别屏幕内容，并在更多兼容应用内执行操作，但仅支持 iPhone 15 Pro 及更新机型。 苹果公司表示，Siri AI 初期仅支持英语，且每日使用次数有限制，未来将以付费方式提供更多功能。 二、更多 Apple Intelligence 功能 在此基础上，苹果智能（Apple Intelligence）新增多项内容生成工具： 照片应用加入“扩展”和“重新构图”； 图乐园（Image Playground）可生成“照片级真实感”图像； 快捷指令（Shortcuts）可通过文字描述创建新流程； HomeKit 安全视频摄像头可生成视频描述。 三、优化液态玻璃设计 苹果在 iOS 26 中引入了全新的 Liquid Glass 设计，并在 iOS 27 中进一步改进了界面。苹果表示，Liquid Glass 现在具有“更均匀的折射和更高的对比度”，应用程序图标也“更清晰、更精致”，并加入透明度与着色滑块。 四、优化性能 iOS 27 提升了多项日常操作速度。苹果称，应用启动最高快 30%，照片图库中新照片的载入最高快 70%，隔空投送（AirDrop）传输最高快 80%。 五、iPhone Handoff（初期仅限部分美国运营商） 用户可以在两部兼容 iPhone 之间共享号码，并选择当前处于激活状态的设备。符合条件的套餐还支持在两部设备上使用通话、短信、移动数据、个人热点、Scam Shield 和 T-Satellite 等功能。 iPhone Handoff 与传统的一号（一卡）多终端不同，它依赖运营商的 eSIM 支持，让两部 iPhone 共享同一个手机号，无需实体 SIM 卡。 六、Apple Cash 账单分摊 美国用户支持分摊 Apple Cash 账单。系统可在 Apple 钱包、信息或相机内的 Siri 模式识别收据商品，并计算税费和小费。 苹果公司表示：“当用户使用 Siri 将 iPhone 对准收据时，系统会显示使用 Apple Cash 分摊账单的相关操作，并识别收据上的商品。用户选择商品后，系统会自动计算总付款额，包括税费和小费，以便用户使用 Apple Cash 精确支付应付金额。” 七、在“Find My”中隐藏位置 在“Find My”应用中，用户现在可以自定义位置共享时长，例如四天六小时，用户可以设置位置共享的到期日期和时间。 此外，用户现在还可以暂停与特定联系人的位置共享，直到当天结束，而他们不会察觉。隐藏位置的功能非常适合诸如为您的伴侣策划惊喜生日派对之类的活动。 八、CarPlay 视频应用 CarPlay 将允许开发者制作视频浏览应用。用户可将支持 AirPlay 视频串流的 iPhone 应用投放至兼容新车的车载屏幕，但仅限车辆停稳时播放。",
+   "source": "IT之家",
+   "date": "2026-09-14",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[版本更新] MoneyPrinter v1.3.7: v1.3.7",
+   "link": "https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.7",
+   "summary": "2026-09-13 发布 | [English](#en-v1.3.7) | [中文](#cn-v1.3.7)\n\n<h2 id=\"en-v1.3.7\">Highlights</h2>\n\n- Added word-by-word subtitles and a pop-up spring animation, with independent controls for display mode and animation in ",
+   "source": "GitHub版本",
+   "date": "2026-09-14",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[新品] PermitCore: Software licensing infrastructure built for developers",
+   "link": "https://www.producthunt.com/products/permitcore-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "PermitCore helps developers add licensing without building and maintaining a second product. Issue and revoke keys, limit device activations, configure entitlements, and support offline, floating, and",
+   "source": "Product Hunt",
+   "date": "2026-09-14",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] MARVIS: Know your rights. Track what moves. Protect what’s yours.",
+   "link": "https://www.producthunt.com/products/marvis-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "MARVIS is Music Artist Rights Virtual Intelligence: a private operating system for publishing, PRO registrations, DSP policy, royalties, copyright, neighboring rights, sync, and AI-music rules.",
+   "source": "Product Hunt",
+   "date": "2026-09-14",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Pirate Markdown: Turn any webpage into clean, LLM-ready Markdown. ",
+   "link": "https://www.producthunt.com/products/pirate-markdown?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Turn any webpage into clean, LLM-ready Markdown. Send it straight to an AI or extract entities for GEO/SEO. - aipiratesMunich/pirate-markdown",
+   "source": "Product Hunt",
+   "date": "2026-09-14",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] baoer_signal_grep: A tiny local librarian for AI agents",
+   "link": "https://www.producthunt.com/products/baoer_signal_grep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Give AI agents a clearer way to search local code, docs, notes, and logs. Get focused passages or compact file maps, stable continuation cursors, and explicit coverage limits. Hybrid search separates ",
+   "source": "Product Hunt",
+   "date": "2026-09-14",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Spenco AI: Expense Tracker: The expense tracker that shows you what’s coming next",
+   "link": "https://www.producthunt.com/products/spenco-ai-expense-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Spenco AI forecasts your burn rate, EMIs, SIPs and month-end balance from the bank alerts you forward. Available on iPhone, Android, and web.",
+   "source": "Product Hunt",
+   "date": "2026-09-14",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] AgentArk: Personal AI Assistant, secure first, self learning",
+   "link": "https://www.producthunt.com/products/agentark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Personal AI Assistant, secure first, self learning and self defending",
+   "source": "Product Hunt",
+   "date": "2026-09-14",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] TradeMate · 外贸获客与客户跟进工作台: TradeMate: One Workspace for Smarter Global Trade",
+   "link": "https://www.producthunt.com/products/trademate-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "TradeMate 是本机优先的外贸获客工作台：用 AI 发现潜在客户、整理线索、生成个性化邮件，并通过自己的邮箱受控发送与持续跟进。",
+   "source": "Product Hunt",
+   "date": "2026-09-14",
+   "category": "ai_tools",
+   "level": "A"
   }
  ]
 }
