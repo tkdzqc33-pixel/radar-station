@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Toonflow",
-   "what": "开源一站式 AI 短剧创作工具，可将小说/剧本快速转化为动画短剧",
-   "why_today": "S 级情报，直接服务核心业务，开源可降本增效，今天部署测试小说转动画短剧流程，评估产能提升空间",
+   "name": "Toonflow v1.1.8",
+   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画短剧",
+   "why_today": "S级情报，专门做短剧且刚更新v1.1.8，直接关系核心业务生产效率，可立即测试从小说到动画短剧全流程",
    "time_est": "2-3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具"
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app + [版本更新] Toonflow短剧工具 v1.1.8"
   },
   {
-   "name": "Open-Sora",
-   "what": "开源视频生成模型，旨在民主化高效视频生成",
-   "why_today": "S 级情报，Sora 关停后急需替代工具，开源模型可大幅降低短剧制作成本，今天部署测试生成短剧片段质量",
+   "name": "SoL-Pi",
+   "what": "英伟达开源的自我进化工作流优化工具，每小时省13.5刀，Token砍半成本降50%",
+   "why_today": "S级情报，直接降低AI短剧制作API开销，可部署优化现有短剧生成Agent工作流，立竿见影降本",
    "time_est": "3-4小时",
-   "source": "[GitHub] hpcaitech/Open-Sora: Democratizing Efficient Video"
+   "source": "[S] 工作流可以自我进化了，英伟达开源 SoL-Pi"
   },
   {
    "name": "Open-Generative-AI",
-   "what": "无审查开源自托管视频生成工具，支持 600+ 模型",
-   "why_today": "S 级情报，自托管省成本且无审查可做擦边题材，是短剧制作利器，今天部署测试评估替代付费视频生成工具",
-   "time_est": "2-3小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
+   "what": "2.8万星无审查开源视频生成替代方案，可自托管600+模型",
+   "why_today": "S级情报，Sora关停后急需替代方案，自托管可零成本批量生成短剧素材，抢占替代工具窗口期",
+   "time_est": "3-4小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI + [HN] Goodbye to Sora"
   },
   {
-   "name": "Kimi K2.8",
-   "what": "支持 100 万上下文的 AI 模型，可批量生成长篇内容",
-   "why_today": "A 级情报，长上下文可提升 AI 剧本/文案生成效率，今天登录测试用 100 万上下文批量生成多集短剧脚本",
-   "time_est": "1-2小时",
-   "source": "早报｜iPhone 18 Pro首批售罄...Kimi K2.8开放100万上下文"
+   "name": "WatermarkRemover-AI",
+   "what": "AI驱动的视频水印去除工具",
+   "why_today": "S级情报，可去除AI生成视频水印，直接提升短剧素材可用性，去水印后素材可商用省重制成本",
+   "time_est": "1小时",
+   "source": "[GitHub] D-Ogi/WatermarkRemover-AI"
   },
   {
-   "name": "Meshy",
-   "what": "AI 生成 3D 资产的工具，可降低场景制作成本",
-   "why_today": "A 级情报，AI 3D 生成可降低短剧/漫剧场景制作成本，今天测试文生 3D 功能，评估用于短剧场景搭建",
-   "time_est": "1-2小时",
-   "source": "童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」"
+   "name": "automate-for-growth",
+   "what": "Sora 2自动化批量生成+多平台发布完整指南",
+   "why_today": "S级情报，直接匹配短剧出海打法，可落地批量生成和多平台分发流程，精读后立即实践",
+   "time_est": "2小时",
+   "source": "[GitHub] cporter202/automate-for-growth"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora 关停及 Sora 2 发布进展",
-   "reason": "Sora 关停是重大风险信号，依赖单一工具危险，需持续关注替代方案和 Sora 2 测试机会，及时迁移现有项目"
+   "item": "Sora关停后的替代工具生态演变",
+   "reason": "Sora关停致迪士尼撤资，AI视频工具风险暴露，需持续跟踪替代方案成熟度和稳定性，避免依赖单一工具"
   },
   {
-   "item": "微信 AI 社交 Agent 生态开放接口",
-   "reason": "微信 Agent 生态开放后可开发 AI 社交类插件变现，需关注小微 Agent 开放接口动态，评估开发约饭/行程类插件"
+   "item": "豆包手机SAEP协议及微信Agent生态开放接口",
+   "reason": "AI跨App操作可能改变短剧投放和用户触达路径，微信Agent生态可能成为短剧推广新渠道，早期红利值得关注"
   },
   {
-   "item": "AEO（AI 引擎优化）趋势",
-   "reason": "AEO 决定 AI 工具能否被 Agent 推荐，直接影响获客，需持续关注优化方法和检测工具发展"
+   "item": "vivo蓝心Harness和华为小艺Work的原子技能接口",
+   "reason": "端侧大模型+系统级AI能力为AI工具开发提供新平台入口，可能催生短剧创作辅助工具新机会"
   }
  ],
  "research_topics": [
   {
-   "topic": "TikTok Shop 佣金新规对短剧投流 ROI 的影响",
-   "why": "投流成本走高，短剧出海依赖投流，需研究新规对 ROI 的影响，转向信任沉淀降低长期获客成本"
+   "topic": "Sora替代方案对比评估：Open-Sora、Open-Generative-AI、Seedance 2.0等",
+   "why": "Sora关停后需立即评估现有AI视频工具链，寻找稳定替代方案，确保短剧制作流程不中断"
   },
   {
-   "topic": "中东短剧市场本地化策略",
-   "why": "中东是短剧出海蓝海，本地化经验可复用，需拆解成功 SLG 手游本地化细节并套用到短剧"
+   "topic": "AI营销工具在短剧投流中的实际效果与ROI",
+   "why": "出海游戏买量成本居高不下，短剧投流同样面临高成本痛点，需调研AI精准投流能否降低获客成本"
   },
   {
-   "topic": "AI 营销工具在短剧投流中的实际降本效果",
-   "why": "出海游戏企业买量成本居高不下，AI 营销可能解决痛点，需调研实际降本效果以优化短剧投流"
+   "topic": "日本短剧市场本地化策略（借鉴国产手游日本本地化经验）",
+   "why": "日本市场本地化红利，国产RPG/SLG手游融入日本文化元素的成功经验可直接迁移至短剧出海日本"
   }
  ],
- "daily_focus": "立即排查现有短剧项目是否依赖 Sora，并部署测试 Open-Sora 或 Open-Generative-AI 作为替代方案，确保制作流程不中断"
+ "daily_focus": "立即部署Toonflow v1.1.8并测试从小说到动画短剧全流程，同时部署SoL-Pi优化现有短剧生成Agent工作流以降本50%"
 }
