@@ -1,11 +1,12 @@
 {
- "top_story": "Sora关停，迪士尼撤资，AI视频生成赛道大洗牌，替代工具窗口期打开。",
- "judgment": "Sora关停是标志性事件，巨头退场，开源工具和低成本方案将快速补位。短剧出海制作成本会进一步下降，但工具选型风险加大，别把宝押在一家。红利窗口期约3-6个月，趁乱抢流量。",
+ "top_story": "Sora关停且迪士尼退出合作，单一AI工具依赖风险彻底暴露。",
+ "judgment": "Sora一倒，依赖它的短剧团队直接断供。但开源替代（Open-Sora、Toonflow）已成熟，现在正是从付费SaaS迁移到自托管产线的窗口期，红利大概3-6个月，等大厂Agent生态补齐就没了。",
  "actions": [
-  "立刻测试Open-Sora和Toonflow，替代Sora做短剧素材，省API钱。",
-  "用WatermarkRemover-AI去水印，把旧素材翻新投TikTok。",
-  "研究豆包Agent和微信Agent，提前布局短剧推广自动化。"
+  "立刻用Toonflow或Open-Sora搭一条本地短剧产线，跑通从小说到成片全流程",
+  "把SoraWebui套壳成视频生成SaaS，卖给还没反应过来的小团队",
+  "用clipturbo批量生成投流素材，测试TikTok短剧投放ROI",
+  "整理nano-banana-pro提示词库，做成中文付费包挂知识星球"
  ],
- "risk_alert": "Sora关停警示：依赖单一AI视频平台风险极高，务必多工具备份。",
- "mood": "谨慎乐观，快速试错，别等。"
+ "risk_alert": "别再把核心产线绑在任何一家闭源AI工具上，Sora就是前车之鉴。",
+ "mood": "谨慎乐观——开源红利在，但平台风险随时爆雷。"
 }

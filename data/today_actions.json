@@ -3,66 +3,66 @@
   {
    "name": "Toonflow v1.1.8",
    "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画短剧",
-   "why_today": "S级情报，专门做短剧且刚更新v1.1.8，直接关系核心业务生产效率，可立即测试从小说到动画短剧全流程",
+   "why_today": "S级情报且刚发布v1.1.8版本，是当前最匹配'AI短剧出海'核心业务的工具，需立即验证从小说到成片的完整流程",
    "time_est": "2-3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app + [版本更新] Toonflow短剧工具 v1.1.8"
+   "source": "HBAI-Ltd/Toonflow-app + Toonflow短剧工具 v1.1.8"
   },
   {
-   "name": "SoL-Pi",
-   "what": "英伟达开源的自我进化工作流优化工具，每小时省13.5刀，Token砍半成本降50%",
-   "why_today": "S级情报，直接降低AI短剧制作API开销，可部署优化现有短剧生成Agent工作流，立竿见影降本",
-   "time_est": "3-4小时",
-   "source": "[S] 工作流可以自我进化了，英伟达开源 SoL-Pi"
+   "name": "Open-Sora",
+   "what": "开源视频生成模型，可低成本批量生成短剧分镜视频",
+   "why_today": "Sora关停造成平台断供风险，Open-Sora是当前最可行的开源替代方案，需今天验证生成质量能否接替Sora",
+   "time_est": "3-4小时（含部署）",
+   "source": "hpcaitech/Open-Sora + Goodbye to Sora"
   },
   {
-   "name": "Open-Generative-AI",
-   "what": "2.8万星无审查开源视频生成替代方案，可自托管600+模型",
-   "why_today": "S级情报，Sora关停后急需替代方案，自托管可零成本批量生成短剧素材，抢占替代工具窗口期",
-   "time_est": "3-4小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI + [HN] Goodbye to Sora"
+   "name": "ai0-video-creator",
+   "what": "Tauri v2桌面AI视频创作工具，直接支持短剧创作+视频翻译",
+   "why_today": "S级情报，功能与'短剧出海一站式工作流'高度匹配，且自带翻译功能可解决出海语言本地化问题",
+   "time_est": "1-2小时",
+   "source": "ajoesoft/ai0-video-creator"
   },
   {
-   "name": "WatermarkRemover-AI",
-   "what": "AI驱动的视频水印去除工具",
-   "why_today": "S级情报，可去除AI生成视频水印，直接提升短剧素材可用性，去水印后素材可商用省重制成本",
+   "name": "MoneyPrinter v1.3.7",
+   "what": "自动化短视频生成工具，新版本增加逐字字幕和弹出动画",
+   "why_today": "新版本字幕功能直接提升海外短剧完播率，是低成本验证投放效果优化的最快路径",
    "time_est": "1小时",
-   "source": "[GitHub] D-Ogi/WatermarkRemover-AI"
+   "source": "MoneyPrinter v1.3.7"
   },
   {
-   "name": "automate-for-growth",
-   "what": "Sora 2自动化批量生成+多平台发布完整指南",
-   "why_today": "S级情报，直接匹配短剧出海打法，可落地批量生成和多平台分发流程，精读后立即实践",
+   "name": "veo3-workflow-agents",
+   "what": "Veo3自动化视频生成管线，单API key即可接入",
+   "why_today": "Sora关停后需快速建立多模型备选管线，Veo3是当前质量最高的商用替代之一，需测试其短剧片段生成质量",
    "time_est": "2小时",
-   "source": "[GitHub] cporter202/automate-for-growth"
+   "source": "nabobery/veo3-workflow-agents"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代工具生态演变",
-   "reason": "Sora关停致迪士尼撤资，AI视频工具风险暴露，需持续跟踪替代方案成熟度和稳定性，避免依赖单一工具"
+   "item": "Sora关停后的替代方案生态（Runway/Pika/Veo3/Open-Sora）",
+   "reason": "Sora关停+迪士尼退出验证了单一AI平台的高风险，需持续跟踪替代工具的质量、价格和稳定性，建立多供应商冗余"
   },
   {
-   "item": "豆包手机SAEP协议及微信Agent生态开放接口",
-   "reason": "AI跨App操作可能改变短剧投放和用户触达路径，微信Agent生态可能成为短剧推广新渠道，早期红利值得关注"
+   "item": "豆包WorkBuddy和飞书Agent插件生态",
+   "reason": "大厂Agent平台处于早期，插件/技能开发者有先发红利，短剧团队协作Agent可能是差异化切入点"
   },
   {
-   "item": "vivo蓝心Harness和华为小艺Work的原子技能接口",
-   "reason": "端侧大模型+系统级AI能力为AI工具开发提供新平台入口，可能催生短剧创作辅助工具新机会"
+   "item": "蚂蚁APASS的KYA标准及Agent支付信任基础设施",
+   "reason": "Agent支付信任是AI工具商业化的关键瓶颈，影响未来短剧SaaS的变现路径设计"
   }
  ],
  "research_topics": [
   {
-   "topic": "Sora替代方案对比评估：Open-Sora、Open-Generative-AI、Seedance 2.0等",
-   "why": "Sora关停后需立即评估现有AI视频工具链，寻找稳定替代方案，确保短剧制作流程不中断"
+   "topic": "TikTok/YouTube Shorts短剧出海的分成规则与投流ROI模型",
+   "why": "所有工具最终服务于变现，需明确平台分成比例、投流成本结构，才能判断批量产短剧的经济模型是否成立"
   },
   {
-   "topic": "AI营销工具在短剧投流中的实际效果与ROI",
-   "why": "出海游戏买量成本居高不下，短剧投流同样面临高成本痛点，需调研AI精准投流能否降低获客成本"
+   "topic": "AI营销工具在短剧投流中的实际降本效果",
+   "why": "出海游戏行业已验证AI营销降本逻辑，需调研其在短剧投流场景的迁移可行性和实际ROI提升幅度"
   },
   {
-   "topic": "日本短剧市场本地化策略（借鉴国产手游日本本地化经验）",
-   "why": "日本市场本地化红利，国产RPG/SLG手游融入日本文化元素的成功经验可直接迁移至短剧出海日本"
+   "topic": "印度数据安全政策对工具上架的影响",
+   "why": "印度是短剧出海重要市场，若工具需上架印度区，数据合规是避免下架的前置条件"
   }
  ],
- "daily_focus": "立即部署Toonflow v1.1.8并测试从小说到动画短剧全流程，同时部署SoL-Pi优化现有短剧生成Agent工作流以降本50%"
+ "daily_focus": "立即部署Toonflow v1.1.8并跑通'小说→动画短剧'完整流程，同时备份所有Sora项目素材并部署Open-Sora作为替代方案"
 }
