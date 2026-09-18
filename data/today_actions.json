@@ -2,67 +2,67 @@
  "tools_to_test": [
   {
    "name": "Toonflow v1.1.8",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画短剧",
-   "why_today": "S级情报且刚发布v1.1.8版本，是当前最匹配'AI短剧出海'核心业务的工具，需立即验证从小说到成片的完整流程",
-   "time_est": "2-3小时",
+   "what": "开源一站式 AI 短剧创作工具，把小说/剧本快速转成动画短剧",
+   "why_today": "15727 星且刚发布 v1.1.8 版本更新，是今天最直接命中核心业务的开源工具，值得立刻跑通『小说→动画短剧』全流程验证产能",
+   "time_est": "2-3 小时",
    "source": "HBAI-Ltd/Toonflow-app + Toonflow短剧工具 v1.1.8"
   },
   {
    "name": "Open-Sora",
-   "what": "开源视频生成模型，可低成本批量生成短剧分镜视频",
-   "why_today": "Sora关停造成平台断供风险，Open-Sora是当前最可行的开源替代方案，需今天验证生成质量能否接替Sora",
-   "time_est": "3-4小时（含部署）",
+   "what": "开源视频生成模型，可自建短剧视频生成管线",
+   "why_today": "Sora 关停导致依赖它的生产链需紧急迁移，Open-Sora 是当前最可行的自建替代方案，今天必须验证生成质量与速度",
+   "time_est": "3-4 小时（含部署）",
    "source": "hpcaitech/Open-Sora + Goodbye to Sora"
   },
   {
-   "name": "ai0-video-creator",
-   "what": "Tauri v2桌面AI视频创作工具，直接支持短剧创作+视频翻译",
-   "why_today": "S级情报，功能与'短剧出海一站式工作流'高度匹配，且自带翻译功能可解决出海语言本地化问题",
-   "time_est": "1-2小时",
-   "source": "ajoesoft/ai0-video-creator"
+   "name": "Vidu S2",
+   "what": "支持『边看边改』的 AI 视频生成与编辑工具",
+   "why_today": "情报明确指出其边看边改能力可提升短剧制作效率，属于可直接降本增效的新工具，今天下载测试生成+编辑闭环",
+   "time_est": "1-2 小时",
+   "source": "我用 Vidu S2 找来了「乔布斯」，跟他聊了聊 iPhone Duo"
   },
   {
-   "name": "MoneyPrinter v1.3.7",
-   "what": "自动化短视频生成工具，新版本增加逐字字幕和弹出动画",
-   "why_today": "新版本字幕功能直接提升海外短剧完播率，是低成本验证投放效果优化的最快路径",
-   "time_est": "1小时",
-   "source": "MoneyPrinter v1.3.7"
+   "name": "StoryGen-Atelier",
+   "what": "AI 辅助分镜与视频生成工具，走 Gemini 分镜 + Veo 转视频流程",
+   "why_today": "Sora 关停后 Veo 是重要迁移方向，该开源项目直接给出 Gemini+Veo 的分镜转视频实现，今天研究其技术方案可快速接入现有管线",
+   "time_est": "1-2 小时",
+   "source": "0xsline/StoryGen-Atelier"
   },
   {
-   "name": "veo3-workflow-agents",
-   "what": "Veo3自动化视频生成管线，单API key即可接入",
-   "why_today": "Sora关停后需快速建立多模型备选管线，Veo3是当前质量最高的商用替代之一，需测试其短剧片段生成质量",
-   "time_est": "2小时",
-   "source": "nabobery/veo3-workflow-agents"
+   "name": "GLM-5.3-Flash / DeepSeek-V4-Flash API",
+   "what": "低价国产大模型 API，可用于短剧脚本生成与 Agent 工具开发",
+   "why_today": "情报显示国产模型成本大降、Agent 工具窗口期打开，今天实测 API 成本可直接决定后续短剧脚本生成和垂直 Agent 的选型",
+   "time_est": "1 小时",
+   "source": "腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代方案生态（Runway/Pika/Veo3/Open-Sora）",
-   "reason": "Sora关停+迪士尼退出验证了单一AI平台的高风险，需持续跟踪替代工具的质量、价格和稳定性，建立多供应商冗余"
+   "item": "Sora 关停后的素材备份与迁移进展",
+   "reason": "依赖 Sora 的短剧生产链需紧急迁移，需持续跟踪 Veo/Open-Sora 等替代方案的稳定性与产出质量"
   },
   {
-   "item": "豆包WorkBuddy和飞书Agent插件生态",
-   "reason": "大厂Agent平台处于早期，插件/技能开发者有先发红利，短剧团队协作Agent可能是差异化切入点"
+   "item": "欧盟拟禁止 13 岁以下儿童使用社交媒体的立法进展",
+   "reason": "若禁令落地，TikTok 等平台欧洲流量和投放策略将受冲击，直接影响欧洲短剧投放布局"
   },
   {
-   "item": "蚂蚁APASS的KYA标准及Agent支付信任基础设施",
-   "reason": "Agent支付信任是AI工具商业化的关键瓶颈，影响未来短剧SaaS的变现路径设计"
+   "item": "GPT-5.5 下线时间表",
+   "reason": "现有 AI 工具链若依赖 GPT-5.5 需提前迁移，避免生产中断"
   }
  ],
  "research_topics": [
   {
-   "topic": "TikTok/YouTube Shorts短剧出海的分成规则与投流ROI模型",
-   "why": "所有工具最终服务于变现，需明确平台分成比例、投流成本结构，才能判断批量产短剧的经济模型是否成立"
+   "topic": "巨量引擎 AI 增长大会的投流与内容策略",
+   "why": "情报指出 AI 在消费决策中渗透加深，短剧投流和知识付费可借鉴其 AI 搜索优化与投放素材策略，直接提升 ROI"
   },
   {
-   "topic": "AI营销工具在短剧投流中的实际降本效果",
-   "why": "出海游戏行业已验证AI营销降本逻辑，需调研其在短剧投流场景的迁移可行性和实际ROI提升幅度"
+   "topic": "APASS 的 KYA 机制与 Agent 支付信任基础设施",
+   "why": "Agent 支付信任是 AI 工具变现的关键卡点，研究 KYA 机制可评估为自家 Agent 工具接入身份验证中间件的可行性"
   },
   {
-   "topic": "印度数据安全政策对工具上架的影响",
-   "why": "印度是短剧出海重要市场，若工具需上架印度区，数据合规是避免下架的前置条件"
+   "topic": "SLG 手游在日本与中东市场的本地化运营策略",
+   "why": "出海游戏本地化经验可移植到短剧出海，尤其日本和中东市场的文化元素融入方法，能直接优化短剧内容与投放"
   }
  ],
- "daily_focus": "立即部署Toonflow v1.1.8并跑通'小说→动画短剧'完整流程，同时备份所有Sora项目素材并部署Open-Sora作为替代方案"
+ "daily_focus": "部署 Toonflow v1.1.8 并跑通『小说→动画短剧』全流程，同时备份 Sora 产出素材并测试 Open-Sora 作为替代管线"
 }

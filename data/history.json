@@ -8198,6 +8198,258 @@
    "date": "2026-09-17",
    "category": "ai_tools",
    "level": "B"
+  },
+  {
+   "title": "四大AI编程代理曝相同安全漏洞，“技能”更新机制遭劫持风险",
+   "link": "https://www.36kr.com/newsflashes/3988271860956160",
+   "summary": "网络安全初创公司Air独家披露，Anthropic Claude Code、OpenAI Codex、Google Gemini CLI及GitHub Copilot四款主流AI编程代理存在相同逻辑缺陷：其“技能”（Skills）自动更新机制未校验内容变更，攻击者可伪装同名恶意更新绕过扫描，静默窃取企业代码或知识产权。该漏洞源于各厂商验证机制设计雷同，凸显行业共性盲区。目前除GitHub外其余三家已修复；GitHub称平台机制可阻断此类攻击，但未确认补丁状态。（新浪财经）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-18",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "北交所IPO储备再扩充，年内223家挂牌公司进入创新层",
+   "link": "https://www.36kr.com/newsflashes/3988260361370626",
+   "summary": "北交所IPO后备力量再壮大，12家新三板挂牌公司进入创新层。根据全国股转公司公告，9月17日，谷登机械、云上科技等12家新三板挂牌公司调入创新层。截至当日，新三板共有挂牌企业5786家，包括基础层3501家、创新层2285家。根据安排，新三板每年有6次调层安排，此次为年内第四次调层。加上本批进层企业，年内已有223家挂牌公司调入创新层。根据北交所上市规则，发行人应是连续挂牌满12个月的创新层企业。（第一财经）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-18",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "OpenAI推出法律人工智能平台Astra for Law",
+   "link": "https://www.36kr.com/newsflashes/3988227654679297",
+   "summary": "当地时间9月17日，OpenAI宣布推出面向法律行业的AI平台Astra for Law，该平台基于OpenAI最新模型GPT-6 Astra，专门为律师事务所和法律科技公司设计。（新浪财经）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-18",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "Meta关联数据中心首次涉足美国垃圾债市场",
+   "link": "https://www.36kr.com/newsflashes/3988223250562049",
+   "summary": "CleanSpark Inc. 正寻求通过首次垃圾债发行筹集约22.3亿美元，用于建设与 Meta Platforms Inc. 相关联的人工智能基础设施。据知情人士透露，这批五年期票据的初步定价讨论收益率约为8.5%，比彭博社追踪的BB评级公司发债平均收益率高出约2个百分点，因为投资者对数据中心融资要求更高的风险溢价。在该交易周四启动时，投资者的订单规模已与发行规模相当。据汇编的数据，这是首笔与 Meta 数据中心相关的垃圾债发行。（新浪财经）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-18",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "恒指开盘0.49%，恒生科技指数0.41%",
+   "link": "https://www.36kr.com/newsflashes/3988238236252934",
+   "summary": "36氪获悉，恒指开盘0.49%，恒生科技指数0.41%；半导体、AI大模型概念涨幅居前，MNIMAX涨近4%，智谱涨3.6%，华虹宏力涨2.8%；汽车与零配件、石油石化板块跌幅居前，吉利汽车跌超2%，中海油田服务跌0.53%。",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-18",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "增长的时差：消费品牌该如何拥抱AI",
+   "link": "https://36kr.com/p/3988218121222920?f=rss",
+   "summary": "消费者开始把难以归类的生活，写进一个对话框。 “预算有限，送给父母，希望用得上，也希望表达关心。”一份礼物的选择，可以从这样几个短语的描述开始。商品名称尚未出现，消费者先给出了预算、对象、场景与情感期待，AI再帮助他比较、排除，逐步找到合适的选择。 筛选、比较与排序，这段过去由消费者亲自完成的心智劳动，正在被部分交出去。对品牌来说，这是一个陌生的位置。曝光可以被购买，但“一个商品为何值得推荐”，需要更具体的解释。 更微妙的是另一重错位。AI已经进入消费品企业的许多岗位：写脚本、出图、剪素材，效率提升肉眼可见。但局部提效，不等于整门生意增长。很多人的体感是另一回事：AI似乎无处不在，增长依旧原地打转。问题不只在工具，也在数据是否打通、流程是否重排、组织是否围绕新的决策链协同。 消费者换一种方式做决定，企业也要换一种方式做生意。从争夺注意力到理解意图，从依靠人的经验调度到由AI参与分析与执行，两端同时移动。技术的进展与经营的进展之间，却隔着数据、流程与组织。 这段距离，就是增长的时差。 怎样把技术的进展，换算成生意的进展？这也是 9月17日的2026 CAEG 巨量引擎消费品AI增长大会 试图回答的问题。 消费者开始提问，品牌需要更具体的回答 大众获取信息的方式，正在发生变化。 “刷”让内容激发兴趣，“搜”让人主动比对验证，“问”则容纳尚未成形的需求，让消费者直接向AI索取判断。 三种方式同时存在，也在一次消费中相互接续。消费者可以先被视频打动，再搜索商品，也可以在拿不定主意时向AI求助。 巨量引擎将这种变化概括为从“人找信息”到“AI代劳”。公开数据显示，AI应用总消费时长增长100%，拍照搜、语音搜分别增长175%和338%，尤其是，83%的用户会用AI搜索辅助消费决策。这代表着用户投入AI的时间在增加，需求表达也在向图片、语音等方式延伸。 AI影响着商品如何被发现，也参与消费者购买理由的形成。 一个宽泛的人群标签，解释不了一个具体的人。预算、用途与情感期待共同构成购买意图，商品参数、材质、适用场景和服务说明，则提供了判断的依据。品牌把这些信息讲得更准确、更完整，AI才有条件把商品与具体需求联系起来。 商家同样处在这场变化之中。据公开调研数据，91%的受访零售与消费品企业表示正在使用或评估AI。从选品、货架管理，到内容生成、客服与门店运营，AI已经进入消费与零售行业的多种场景，覆盖供货、卖货和服务的日常工作。 AI应用的广度已经可见，经营收益仍需逐项验证。然而，节省的时间，能否带来更多成交？更快的决策，又能否留下更好的利润？品牌需要打通从效率到收益的路径，让AI的巨大回报潜力落实为可衡量的经营成果。 机会，在内容、交易与真实生活中展开 一件商品，正在获得更多被需要的理由。 价格敏感与价值敏感，可以发生在同一个人身上。日用品算单价，为兴趣、情绪和体验付溢价，也可以是同一份购物清单里的选择。巨量引擎将这种取舍概括为“质价比与热爱共生”。 商品价值，也藏在细小的生活顾虑里。以时下火热的255ml迷你啤酒为例，对应的是年轻女性想要小酌，却担心啤酒度数高、大瓶喝不完。而这一新规格，把低度微醺与轻量包装结合起来。 一件成熟品类里的商品，就此对应上了更具体的生活需要。 新需求，也在内容里生长 而有些新需求，还要在内容中长出来。抖音最近比较火热的“粉彩妆”“降温妆”等趋势，往往是先给出一种大众想拥有的状态，再带出实现它的商品。消费者为色号、质地买单，也在为它们带来的气质和感受做选择。 一款彩妆怎样进入日常，一种穿搭怎样表达自己，都通过具体的人与经验变得可感知，内容因而参与了商品价值的形成。 AI扩大了创意尝试的空间。品牌可以结合商品特征与人群偏好检验不同表达，再从内容反馈中调整。抖音对优质创作与创作者生态的强调，涉及的恰是这层稀缺性：真实经验、审美与信任，决定了哪些内容值得被留下。AI扩大了表达的可能，取舍仍需理解人的生活。 创作可以提速，信任仍要由具体的人、经验和表达积累。 新增长，要到具体位置里寻找 而在交易场，这些机会的涌现，会更明显。 抖音电商平台上，内容与商品的供需都在加速增长，消费人群也呈现出“更年轻、买更贵、更多样”的变化。 今年618，抖音电商消费券带动直播成��额超百万元商家数同比增长152%，近3万个新商家首次参与618大促成交额突破百万元。大盘提供的是一种平均感受，品牌的生意却发生在更细微的地方。 商品被看到的入口在延展：红果连接短剧用户与服饰、日用等商品；AI对话助手也把“问、逛、买”装进里面。值得注意的是，AI对话助手的相关数据正逐步与抖店后台打通，同一个增长数字，背后可能是人群进出与商品结构的重排。AI对信息的理解与分析，正在帮助商家理解入口里的变化，让品牌有能力更早辨认并抓住消费趋势。 不止于在营销触点上的巨大影",
+   "source": "36氪",
+   "date": "2026-09-18",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "重生后的钟薛高，先给自己“砍一刀” | 最前线",
+   "link": "https://36kr.com/p/3987192212683781?f=rss",
+   "summary": "作者 | 钟艺璇&nbsp; 钟薛高又“复活”了。 9月16日，钟薛高参展第28届中国冰淇淋及冷冻食品产业博览会，宣布品牌正式重启。 在经历破产结算后，钟薛高迎来了新的操盘手。天眼查显示，今年6月，钟雪高品牌管理（上海）有限公司（以下简称钟雪高公司）成立，8月由其全资持股的长沙钟薛高食品有限公司成立。 钟雪高公司由自然人王亚青持有60%股份，剩余40%股份则由长沙虎家食品科技有限公司（以下简称虎家食品）持有，虎家食品也是速冻食品品牌皇家小虎的母公司。皇家小虎是速冻食品头部品牌，2025年全渠道终端零售额超40亿元，线下入驻超十万个零售终端，零食很忙、永辉、步步高、天虹等连锁渠道都是其深度渠道合作方。 值得关注的是，重生后的钟薛高，选择先给自己的定价砍一刀。钟薛高首批上市三个口味，轻牛乳建议零售价为6.9元/支，丝绒可可、半半巧巧建议零售价为7.9元/支。对比过去终端13元至20元的零售价，直接半折。 这也是钟薛高最经典的三个口味，据了解，新钟薛高依旧与过去的代工厂合作，其产品名称、规格、配方、经典瓦片造型与此前基本保持一致，新产品预计会在四季度批量上市。但36氪从首批试吃未上市的产品包装袋上看到，新钟薛高的保质期在15个月以上。而此前钟薛高保质期明显保质期短于其他雪糕，最长12个月，最短的甚至只有90天，压货风险较高。 重启后的钟薛高 作为核心股东，钟薛高是否会进入皇家小虎合作的渠道？钟薛高相关负责人称，现在双方相当于独立团队独立运营，属于财务投资和被财务投资的关系，还未开展公司对公司的合作，钟薛高四季度上市后，会先做线上渠道以及部分线下试点渠道。 但钟薛高重新进入线下渠道的难度，要比过去大得多。以往的钟薛高售价贵、毛利高，自然能吸引经销商为其销售，曾有北京地区的经销商告诉媒体，“卖一根钟薛高的利润顶得上卖一百支小布丁”。 据钟薛高相关负责人介绍，现在钟薛高的降价空间，调的是零售价，而非出厂价，重启的新产品与过去的出厂价是相近的。此前有乳业分析师在接受媒体采访时，拆解过每片钟薛高基础款雪糕的成本构成，“平均在3元至5元”。调价后的钟薛高，对经销商的吸引力究竟还有多少，或许在于它的产品力究竟能否带来复购。 以及重新锁定6-10元的价格带，相比对手，钟薛高的优势在哪里？钟薛高相关负责人并没有直接回答这个问题，而是认为，6-10元价格带拥有一个充足的市场空间，“我们认为这个规模其实足够，比如一个钟薛高，数个或者数十个钟薛高都能容纳。” 过去4年，雪糕、冰淇淋类目一直处在下行期，今年的旺季销售额同比增速甚至呈现双位数下滑。具体到6-10元价格带，其市场份额约占总类目的10%，但销售额从2024年开始，下滑幅度不断收窄，今年的下滑幅度也要略好于整体类目。相比其他价格带，6-10元价格带竞争或许还不算最激烈。但钟薛高的对手，远不止雪糕老玩家，几年过去，认养一头牛在做牛乳雪糕，还覆盖了3-12元的多个细分价格带，霸王茶姬等现制茶饮公司也在下场做冰淇淋，以及包括野人先生等现制冰淇淋品牌的出现，都在抢占它的空间。 另外，在此次宣布重启钟薛高的发布会上，新CEO陈大成也正式亮相。陈大成称，自己是一名90后，拥有10年食品流通、生产从业经历，也是一位食品安全科普博主，全网粉丝超过百万。 当被问及，此后是否会以钟薛高CEO身份打造企业家IP时，陈大成称自己做自媒体是作为消费者角度的分享，“企业IP、企业家IP我不会去做，而且我个人账号跟企业也不会有任何关联。测评的话，消费者让我测评什么我就测评什么，但是为了避嫌，冰品我就不测评。” 而对于刚刚重启的钟薛高而言，新的规划和目标又是什么？ “公司的短期目标就是重新开始，重新亮相，参展面向市场，重新开始活动。”钟薛高相关负责人称。目前来看，新钟薛高的这次亮相，更像是一次对市场反应的试探。",
+   "source": "36氪",
+   "date": "2026-09-18",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "36氪项目开麦：来开麦，把项目聊明白",
+   "link": "https://36kr.com/p/3987097781861383?f=rss",
+   "summary": "项目推荐 一个项目到底有没有机会，很多时候聊上十分钟就能看出端倪。 但现实是，很多早期团队并不缺产品，也不缺故事，缺的是一次真正把业务讲清楚的机会。 讲技术，容易把人带进专业细节； 讲愿景，又很容易落到“未来市场有多大”。 聊到最后，投资人和客户还是会问： 产品到底解决谁的问题？为什么客户愿意买？替代了原来的哪一步？这笔账又怎么算？ 所以，「36氪项目推荐」推出深度视频专访栏目—— 「36氪项目开麦」 。我们邀请业务一线的负责人走到镜头前，不讲套话，从产品、客户和真实经营场景出发，把一个项目 为什么做、怎么做、做到哪一步 聊清楚。 比起再增加几个漂亮的项目标签，我们更希望通过一次真实的对话，让一个正在成形的生意，被更多人真正看懂。 &nbsp; 01 看完一场专访，大家到底能带走什么？ 「项目开麦」不是情怀自白，也不做假大空的形象宣传。每一场专访，都必须回答三类决策人群最实际的问题：&nbsp; 早期投资人： 看创始人的商业常识与业务边界 投资人不需要再从排版精美的 BP 里挑刺。在连续的专业质询下，创始人的临场反应能说明一切：你对客户需求的理解是否客观？哪些假设已经得到证实，哪些还在交学费摸索？一个对自己业务边界极其诚实的团队，比一张画满千亿市场的图表更有说服力。&nbsp; B端客户与产业伙伴： 看方案到底能不能“进场干活” 采购新兴团队的方案，企业最怕试错成本。专访不谈虚的，直接核对细节：接入现有产线需要改什么？现场由谁负责运维？收益到底是省了人工、降了废品率，还是提升了周转速度？把账算细，双方才能进入实质性的商务沟通。&nbsp; 受访团队自己： 沉淀一套通用的“视频版业务说明书” 早期创始人最疲惫的，就是向不同的人反复口述最基础的业务起源。专访上线后，链接可以直接发给投资人、潜在客户或政府园区。对方花上几分钟，就能对你的业务本质、落地进展和团队成色建立立体认知，让下一次交流直奔核心合作条款。&nbsp; &nbsp; 02 镜头前，我们如何把一个项目“问透”？ 很多创始人担心业务垂直、有技术门槛，访谈容易浮在表面。「项目开麦」依托 36氪十余年沉淀的创投常识，沿着一条扎实的八步推演路径层层拆解：&nbsp; 人与契机：寻找创业的第一性原理 拒绝背诵简历。我们追问的是：你过去的产业经历与今天做的事情有何必然联系？是哪一次交付受阻、哪一个反复出现的现场痛点，逼得你非要自己跳出来做一款产品？&nbsp; 结构机会：讲清“为什么是现在” 如果这个需求一直都在，为什么过去没人做成？是核心元器件的成本跌破了临界点，底层算法有了突破，还是产业链上下游终于愿意改变老旧的流程了？把宏观变化接回具体业务，“现在做”才有逻辑依据。&nbsp; 项目解法：把产品放回工作现场去“算账” 介绍产品时，最忌讳只给一张功能列表。必须把新方案和老办法放在同一个场景里算替代账：&nbsp; 以一套工厂视觉质检系统为例： &nbsp;光讲“识别率高达 99%”没有意义。系统到底装在产线的哪一段？原来是几个工人用肉眼看？漏检怎么处理？安装时要不要停产停线？现场工人需要培训多久？ 客户买一套新设备，算的是设备、工时、停工与维护的综合总账。 核心壁垒：锁定一两个打不穿的硬指标 拒绝“技术领先、团队很拼”这类空话。从底层专利、工艺良率、算法适配效率到大客户生态中，锁定一到两个关键优势。在这个细分切口上，同行半年内为什么很难轻易抄走你的壁垒？&nbsp; 真实验证：区分“意向协议”与“实测数据” 商业世界只看事实凭证。样机测试、客户试点、批量交付与实际回款，分别代表着完全不同的阶段。我们拒绝夸大成果：一份框架意向只代表双方在接触，实打实的产线测试记录才代表方案接受了检验。&nbsp; 难点与踩坑：复盘逆境中的认知纠偏 实验室效果极佳，进了车间却频频报错；客户试用很满意，一谈采购却迟迟不签。这些至暗时刻团队是如何挺过来的？什么事实迫使你推翻了最初的假设，从而重构了产品或定价策略？敢于直面踩坑的团队，最具商业心力。&nbsp; 融资与诉求：将资源与 12 个月的里程碑咬合 有融资计划的团队，讲清资金投向（研发占多少、产线占多少、获客占多少），并明确未来一年要达成的硬指标；没有融资需求的团队，讲清自己需要对接的标杆客户、试点场景或关键人才。&nbsp; 现实约束：愿景与地心引力的平衡 既要看三年后的行业生态位，更要清醒看待眼前的现实约束——供应链产能、量产良率或市场教育周期，哪一个是当下最拖慢进度的瓶颈？如果当下资源只够攻克一个难点，你优先保哪一个？&nbsp; &nbsp; 03 阵地：专注早期创投的高信噪比发声 早期团队不需要虚浮的泛娱乐流量，需要的是在垂直产业与创投圈层里的有效连接：&nbsp; 核心首发阵地：「36氪项目推荐」微信公众号 每周五推送完整专访视频与",
+   "source": "36氪",
+   "date": "2026-09-18",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "我用 Vidu S2 找来了「乔布斯」，跟他聊了聊 iPhone Duo",
+   "link": "https://www.ifanr.com/1680700?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "体验真正的「边看边改」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-18",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+   "link": "https://www.ifanr.com/1680321?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "「个人化」智能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-18",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "独家丨BAT 天价挖 Gemini 大牛，可惜都挖错了",
+   "link": "https://www.leiphone.com/category/industrynews/dXtXNwFL1snjR35X.html",
+   "summary": "导语：从硅谷到伦敦，这次大厂押对了吗？ 据雷峰网独家获悉，一位 Google Gemini 的预训练专家，于近期已加入国内某互联网大厂。 该研究员在 Google 的职级或是 L7- L8，接近总监级别，长期在英国工作，入职后主要从事预训练相关工作，也经常往返国内出差。 一位知情人士看来，这可能是国内大厂这一轮争抢 Gemini 人才以来，第一次真正“找对了人”。 上述人士告诉雷峰网，此前多家大厂均从 Gemini 引入过人才，但部分人选并未触及核心。他们之中，或只参与预/后训练边缘环节，或是只从事管理工作，职责却并不覆盖预训练最为核心的内容。 01 BAT 挖角 Gemini 人才，害怕在预训练上犯错 去年底，国内基模团队对海外 AI 人才的关注，明显向“预训练”靠拢。 一位业内人士告诉雷峰网，以前国内大模型的主线是追赶规模——堆算力、堆数据；但堆数字的做法很快就碰到了 Scaling law 的天花板，性能提升变得愈发困难。而真正拉开差距的，是预训练阶段的技术路线选择、数据分布策略以及一二阶优化器的应用方法。 每一个策略上的微小失误，都会在时间和算力资源上造成巨大浪费。譬如，各大厂及Kimi、智谱等明星大模型公司，光在预训练优化器选型上，内部就有诸多分歧，各家的优化策略也截然不同。而这类“提升”和“避坑”经验，很多并不写在论文里。 比如，一种优化方法理论上有效，但放到真实的大模型训练中，究竟什么时候用、怎么调整，可能需要经历完整的训练过程才能知道。不同训练方案之间怎么取舍，也很少会被完整公开。 多位大厂基模专家曾向雷峰网提到，在大模型团队内部，类似的技术路线选择，往往会受到团队过往经验影响。 他解释道，此前参与 Scaling 相关工作时，就曾接触过多种训练技术，但一些方法最终并没有被完整采用，原因并不只是“技术行不行”，还包括对稳定性、风险和实际收益的判断。于是，能把模型训到前沿水平的海外实验室，成了国内公司挖猎人才的首选目标。 Gemini 是其中最典型的目标。部分公司人员认为，Gemini 的技术底子够厚、人才密度够高，而 Google 庞大的组织和频繁的调整，恰好留出了挖人的窗口。 当时一些公司的思路很直接：既然自己的预训练遇到了瓶颈，那就去找已经把前沿模型训练出来的人。但在真正接触之后，他们才发现，能掌握 Gemini 核心预训练的人少之又少。 02为什么去 Gemini 硅谷大本营，挖人的策略是错的？&nbsp; 一开始，不少人的第一反应是去 Google 的硅谷大本营找。 毕竟 Google 的核心 AI 业务长期与美国科技产业中心紧密相连，OpenAI、Anthropic、Meta 等公司的核心团队也主要集中在美国。 但实际情况有点特殊，硅谷的 AI 预训练研究员告诉雷峰网，Google 有意把最核心的预训练人才留在 Deepmind 英国办公室，与硅谷的高曝光区隔开，以降低被“挖墙角”的风险。 再看国内。从今年7月入职腾讯的田永龙，到此前加入字节的吴永辉、乔思远，再到阿里的周浩等等，越来越多有 DeepMind 或 Gemini 背景的人，开始进入中国大厂。 外界看来，这样的履历足够有分量。但 Gemini 员工向雷峰网 (公众号：雷峰网) 坦言，很多科学家都来自硅谷办公室，而非英国，因此并没有真正掌握 Gemini 预训练的核心方法，所以各家公司只能在预训练上摸着石头过河。 这也让一些国内公司意识到：如果目标是寻找掌握关键方法的 DeepMind 预训练人才，不能只盯着硅谷，天高皇帝远的英国办公室，才是藏龙卧虎之地。 而近期该互联网大厂的动作，从硅谷到伦敦，让高招目标正变得越来越具体。（作者持续追踪大厂 AI 人才争夺战，相关选题正在写作中。欢迎从业者加微信 Who123start，聊聊你知道的行业一线。） 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
+   "source": "雷峰网",
+   "date": "2026-09-18",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "独家丨前腾讯混元预训练负责人姚星丞，加入Thinking Machines Lab",
+   "link": "https://www.leiphone.com/category/industrynews/xfxXxO3233YuLZEJ.html",
+   "summary": "导语：鹅厂再失预训练人才 雷峰网独家获悉，腾讯混元大语言模型预训练负责人姚星丞，近日已加入北美创业公司Thinking Machines Lab。 据知情人士透露，Thinking Machines Lab此次给姚星丞开出的薪资，明显高于其在腾讯的收入。而姚星丞在腾讯的年薪包，大约在数千万元人民币区间。 此前，姚星丞曾被传将加入Meta，如今靴子落地，他最终选择了这家由OpenAI前CTO Mira Murati创办的AI公司。 姚星丞今年7月从腾讯离职，主要负责腾讯混元大语言模型的预训练工作，是过去一年腾讯重点引入的年轻AI研究人才之一，与姚顺雨均来自清华姚班，是师兄弟。 对国内大厂而言，顶尖预训练人才正成为稀缺资源，此前雷峰网独家报道国内大厂从Gemini挖角预训练人才的消息，如今也轮到腾讯的人才流向海外实验室。（关于姚星丞离开的更多细节，以及这背后的人才流动，欢迎添加作者微信Who123start 交流。） （雷峰网雷峰网雷峰网 (公众号：雷峰网) ） 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
+   "source": "雷峰网",
+   "date": "2026-09-18",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "苹果增强辅助功能：iOS 27.2 Beta 1 开放 FaceTime 手语 API 接口",
+   "link": "https://www.ithome.com/1/003/939.htm",
+   "summary": "IT之家 9 月 18 日消息，科技媒体 macobserver 昨日（9 月 17 日）发布博文，报道称在 iOS 27.2 Beta 1 更新中， 苹果公司开放 FaceTime 手语口译应用编程接口（API）。 IT之家援引博文介绍，兼容的 App 可以调用该 API 服务，通话参与者无需退出当前通话，也无需为口译服务另行协调独立视频房间，可以在统一通话会话内实现手语服务。 该媒体指出苹果 FaceTime 本身并不具备自动手语翻译能力，也不会替代专业人工手语译员，只是提供了 API 接口，方便第三方辅助功能应用接入通话，具体服务仍由支持该接口的应用和口译服务商提供。 相关功能于 2026 年进入预览阶段，在 iOS 27.2 Beta 1 中开放 API 接口后，口译服务商可据此开发适配应用。",
+   "source": "IT之家",
+   "date": "2026-09-18",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "吉利第四代博越 L 车型 9 月 24 日上市：燃油混动双线齐发，搭载千里浩瀚 H5 辅助驾驶",
+   "link": "https://www.ithome.com/1/003/934.htm",
+   "summary": "IT之家 9 月 18 日消息，吉利汽车官方确认，全新第四代博越 L 将于 9 月 24 日正式上市。新车将同步推出燃油版与 i-HEV 智擎混动版，并配备千里浩瀚 H5 辅助驾驶系统。 燃油版基于 CMA 架构打造，首搭吉利全新一代 1.5TD Pro 高功发动机，最大功率 148kW，最大扭矩 315N·m，功率提升 11.3%，扭矩提升 8.6%。0-30km/h 加速时间 1.82s，0-100km/h 加速时间 8.60s，WLTC 综合油耗低至 6.69L/100km。 外观方面，燃油版延续山河美学设计理念，新增丹霞红、雪山金两款车色，并提供 20 寸星刃轮毂可选。新车实现 84.27% 得房率，提供 32 处储物空间，前排座椅集成加热、通风、按摩、腿托功能，后排全系配备座椅加热及隐私玻璃。 智能化方面，新车搭载千里浩瀚 H5 辅助驾驶方案，由 1 个激光雷达、3 个毫米波雷达、11 个高清摄像头、12 个超声波雷达组成 27 颗传感器融合感知方案。系统基于端到端大模型架构，支持城市 NOA 领航辅助、高速 NOA 高快领航及 HPA 跨层记忆泊车。 智能座舱配备 Flyme Auto 2.5 AI 座舱，15.4 寸 2.5K 中控屏与 25.6 寸 AR-HUD 搭配，星睿 AI 大模型赋能语音交互，支持情感对话、复杂意图车控和行程规划。 i-HEV 智擎混动版延续“山河气韵”设计理念。前格栅采用 16 道 32 片直瀑式结构，鎏光星河前贯穿灯长度达 2.4 米。车身长宽高为 4730×1910×1710mm，轴距 2785mm。尾部搭载璀璨西子后贯穿灯，采用 190 颗 LED 灯珠矩阵排列，灯带长 2.9 米。 混动版内饰全系标配 Flyme Auto 智能座舱系统，搭载 15.4 英寸 2.5K 超清大屏，内置国产首颗车规级 7nm 龙鹰一号芯片，配备 16+128GB 存储空间，AI 算力为 8155 芯片的 2 倍。新车还搭载 25.6 英寸 AR-HUD 及四音区语音交互。 动力方面，i-HEV 智擎混动版搭载吉利自研混动专用发动机，热效率达 48.4%。电驱最大功率 230kW，比传统油电混动高 1.72 倍。",
+   "source": "IT之家",
+   "date": "2026-09-18",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "美国政府也部署阿里千问：《联邦公报》网站被发现使用中国 AI 模型提供搜索服务",
+   "link": "https://www.ithome.com/1/003/929.htm",
+   "summary": "北京时间 9 月 18 日，据路透社报道，美国政府的一个网站采用了一家中国公司的 AI 模型，供用户搜索拟议中的联邦法规。 美国国家档案馆运营的《联邦公报》网站，周三在提供其他搜索选项的同时，还提供了使用阿里巴巴千问模型驱动的搜索工具。目前尚不清楚该工具是何时部署的。 根据路透社查阅的截图和该网站源代码的存档版本，使用千问模型的搜索工具在周三被下线。就在大约同一时间，社交媒体上开始出现有关该工具的帖子。 《联邦公报》网站使用千问驱动的搜索 AI 专家表示，在《联邦公报》网站上使用这款中国工具可能并未构成国家安全风险。《联邦公报》网站每天发布新提出的拟议法规清单，并提供千问模型作为浏览公众评论的工具。 千问是一款开放权重模型，这意味着该系统的关键组成部分可以公开获取。开发者可以下载并修改这一模型，以满足特定用途，而且其成本通常低于 Anthropic 和 OpenAI 等公司的闭源模型。 截至发稿，美国国家档案馆以及白宫没有回应置评请求。",
+   "source": "IT之家",
+   "date": "2026-09-18",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "打官司最佳 AI 助手：OpenAI 推出 Astra for Law，提高案件胜诉率",
+   "link": "https://www.ithome.com/1/003/927.htm",
+   "summary": "IT之家 9 月 18 日消息，OpenAI 公司昨日（9 月 17 日）发布博文，宣布推出 Astra for Law 服务，定位法律专用人工智能基础平台， 其法律搜索索引覆盖超过 2.3 亿个 URL，并纳入覆盖 99.9% 以上已发布美国判例法的 CourtListener 案例库。 IT之家附上相关截图如下： OpenAI 使用 Vals AI 法律研究基准私有验证集中的 200 道美国法律问题测试系统。在最高推理强度下，Astra for Law 整体正确率为 54.0%，而仅使用网页搜索的 GPT-6 Astra 为 38.7%。 在案例法导向问题中，Astra for Law 找到的参考案例数量多 24%。在经审计的目标段落集合中，其从正确法院意见书中检出的相关段落最高多 54%。 该服务并非“AI 律师”，主要服务于律师和法律软件公司，帮助其区分法院判决中的核心裁判理由与附带评论，寻找不利判例，分析合同条款如何分配风险等，从而在庭审中提高案件胜诉率。",
+   "source": "IT之家",
+   "date": "2026-09-18",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
+   "link": "https://sspai.com/post/114699",
+   "summary": "少数派的近期动态口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解八月买了什 ... 查看全文",
+   "source": "少数派",
+   "date": "2026-09-18",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "[新品] EZLink: One link for everything you make",
+   "link": "https://www.producthunt.com/products/ezlink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "A fast, free link-in-bio page for creators. Claim your username, add your links, and share one address everywhere. Free analytics, no forced branding.",
+   "source": "Product Hunt",
+   "date": "2026-09-18",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] ApexGrid UI: React 19 & Tailwind CSS Dashboard Suites for Startups",
+   "link": "https://www.producthunt.com/products/apexgrid-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "ApexGrid is an elite software asset studio delivering production-ready, high-fidelity frontend dashboard suites for funded SaaS startups and enterprise tech agencies. We specialize in modular, clean-c",
+   "source": "Product Hunt",
+   "date": "2026-09-18",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] 120+ Free Web Tools: Discover, Compare, Create & Connect in One Place",
+   "link": "https://www.producthunt.com/products/tittoostools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Axevora is evolving beyond a collection of online tools into an all-in-one discovery platform. Explore useful AI and web tools, discover and compare products, find shopping opportunities, join Communi",
+   "source": "Product Hunt",
+   "date": "2026-09-18",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Aithos Agent Cards: Host your A2A Agent Cards on Aithos",
+   "link": "https://www.producthunt.com/products/aithos-agent-cards?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Publish signed A2A Agent Cards to a public registry via API. Verify associated domains with DNS TXT records. Free to use; design partners welcome.",
+   "source": "Product Hunt",
+   "date": "2026-09-18",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] LAIGEND: Find businesses. Discover what to sell them faster.",
+   "link": "https://www.producthunt.com/products/laigend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "LAIGEND turns business discovery into sales opportunity intelligence. Instead of another list of leads, it analyzes each business and identifies what service is most worth selling first — Website, Mes",
+   "source": "Product Hunt",
+   "date": "2026-09-18",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Aphex CMS: Aphex is a fully open source CMS built on SvelteKit",
+   "link": "https://www.producthunt.com/products/aphex-cms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Aphex is a fully open source CMS built on SvelteKit. One codebase, one deploy, with content stored in your own database. Developers get schema-as-code and typed APIs. Editors get a polished Studio.",
+   "source": "Product Hunt",
+   "date": "2026-09-18",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Reference Draft: design discovery and community platform",
+   "link": "https://www.producthunt.com/products/reference-draft?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Reference Draft is a community and design discovery platform created specifically for designers. It serves as a hub for finding creative inspiration, exploring new design assets, and sharing professio",
+   "source": "Product Hunt",
+   "date": "2026-09-18",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] nobg: Free, open-source background remover in your browser",
+   "link": "https://www.producthunt.com/products/nobg-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "A free, open-source background remover that runs entirely in your browser. Nothing gets uploaded, and of course an amazing UX.",
+   "source": "Product Hunt",
+   "date": "2026-09-18",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] Puffdoro: Tactile 3D silicone focus pet & gentle Pomodoro companion",
+   "link": "https://www.producthunt.com/products/puffdoro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Puffdoro combines a real-time WebGL silicone fidget toy with a calm, buzzer-free Pomodoro companion right inside your browser toolbar. Real-time mass-spring deformation physics, procedural ambient Web",
+   "source": "Product Hunt",
+   "date": "2026-09-18",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] DelbarMe. Find your people: A voice-first community for Afghans in the diaspora",
+   "link": "https://www.producthunt.com/products/delbarme-find-your-people?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "DelbarMe is a voice-first community for Afghans in the diaspora. Discover people, join Halqas around shared interests, explore events, share posts and photos, and connect through voice. Create a profi",
+   "source": "Product Hunt",
+   "date": "2026-09-18",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] NutriLife: NutriLife — Tes repas réglés. Ta vie allégée.",
+   "link": "https://www.producthunt.com/products/nutrilife?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "NutriLife réunit dans une seule application tout ce qu’il faut pour mieux manger sans alourdir son quotidien : planification personnalisée des repas, plus de 1 000 recettes, liste de courses automatiq",
+   "source": "Product Hunt",
+   "date": "2026-09-18",
+   "category": "other",
+   "level": "B"
   }
  ]
 }
