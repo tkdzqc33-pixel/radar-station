@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Toonflow v1.1.8",
-   "what": "开源一站式 AI 短剧创作工具，将小说/剧本快速转化为动画短剧，1.5万星",
-   "why_today": "S级情报且刚发布 v1.1.8 新版本，直接关系核心业务效率，是当前最成熟的短剧生产管线",
-   "time_est": "2-3小时（部署+跑通一个完整短剧demo）",
+   "name": "Toonflow-app v1.1.8",
+   "what": "开源一站式 AI 短剧创作工具，将小说/剧本快速转化为动画短剧",
+   "why_today": "S 级情报，1.5 万星，且今日发布 v1.1.8 版本更新，可直接降本提效，是短剧出海的核心生产工具",
+   "time_est": "2-3 小时",
    "source": "HBAI-Ltd/Toonflow-app + Toonflow短剧工具 v1.1.8"
   },
   {
-   "name": "Seedance 2.0",
-   "what": "字节视频生成模型，被短剧客户疯抢，画面质量高",
-   "why_today": "情报显示短剧客户疯抢，是当前短剧AI制作关键工具，需立即申请试用/白名单抢占先机",
-   "time_est": "1小时（申请+测试生成几个短剧镜头）",
-   "source": "BAT的「AI云销售」，困在MaaS内卷战中"
+   "name": "Open-Generative-AI",
+   "what": "无审查 600+ 模型自托管平台，可生成短剧分镜素材",
+   "why_today": "S 级情报，无审查素材工厂可批量产出投流视频，规避平台内容限制，今天部署测试 Flux/Kling 生成短剧分镜",
+   "time_est": "3-4 小时",
+   "source": "Anil-matcha/Open-Generative-AI"
   },
   {
-   "name": "Open-Sora",
-   "what": "开源视频生成模型，可零成本批量产短剧素材",
-   "why_today": "Sora关停导致视频生成工具链需紧急调整，Open-Sora是零成本替代方案，需立即验证质量",
-   "time_est": "3-4小时（部署+生成测试片段）",
-   "source": "hpcaitech/Open-Sora + Goodbye to Sora"
-  },
-  {
-   "name": "Qwen3.8-LiveTranslate",
-   "what": "同声传译大模型，延迟降至2.3秒，可做短剧多语言配音/字幕",
-   "why_today": "A级新发布，短剧出海核心痛点是多语言本地化，2.3秒延迟已可实用",
-   "time_est": "1-2小时（测试短剧字幕翻译+配音流程）",
-   "source": "同声传译大模型Qwen3.8-LiveTranslate正式发布"
+   "name": "WatermarkRemover-AI",
+   "what": "AI 视频水印去除工具，支持 Sora/Runway 等 AI 视频",
+   "why_today": "S 级情报，直接提升短剧出海素材可用性，去水印后二次创作可规避平台 AI 内容标记，今天测试对 AI 生成视频的去水印效果",
+   "time_est": "1-2 小时",
+   "source": "D-Ogi/WatermarkRemover-AI"
   },
   {
    "name": "Vidu S2",
-   "what": "支持边看边改的AI视频生成工具，可提升短剧制作效率",
-   "why_today": "Sora关停后需快速建立多平台备份方案，Vidu S2的边看边改特性适合短剧迭代",
-   "time_est": "1-2小时（测试视频生成与编辑功能）",
-   "source": "我用 Vidu S2 找来了「乔布斯」，跟他聊了聊 iPhone Duo"
+   "what": "视频生成模型升级版，可快速产出短剧片段",
+   "why_today": "A 级情报，Vidu S2 升级可提升短剧制作效率，在 Sora 关停背景下是重要替代方案，今天测试生成短剧片段效果",
+   "time_est": "1-2 小时",
+   "source": "我用 Vidu S2 找来了「乔布斯」"
+  },
+  {
+   "name": "StoryGen-Atelier",
+   "what": "Gemini+Veo 分镜视频生成工具，AI 辅助故事板和视频生成",
+   "why_today": "A 级情报，可提升分镜效率降低制作成本，与 Toonflow 形成互补，今天测试分镜生成质量",
+   "time_est": "1-2 小时",
+   "source": "0xsline/StoryGen-Atelier"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代工具迁移优惠与竞品动态",
-   "reason": "Sora关停致迪士尼撤资，AI视频平台稳定性成核心风险，竞品真空期可能推出迁移优惠，需持续跟踪"
+   "item": "Sora 关停后的替代工具迁移进展",
+   "reason": "Sora 被关停、迪士尼退出 OpenAI 合作，依赖 Sora 的短剧工作流面临断供风险，替代工具迁移期可能有先发红利，需持续跟踪哪些替代方案成熟"
   },
   {
-   "item": "GPT-5.5下线时间表与API迁移窗口",
-   "reason": "GPT-5.5即将下线，现有AI工具链可能依赖，需提前适配新版本避免业务中断"
+   "item": "欧盟拟禁止 13 岁以下儿童使用社交媒体",
+   "reason": "该禁令将影响 TikTok 等平台流量和投放策略，短剧出海欧洲市场需关注政策落地时间和对投放 ROI 的冲击"
   },
   {
-   "item": "欧盟拟禁止13岁以下儿童使用社交媒体的立法进展",
-   "reason": "将影响TikTok等平台用户结构与投放策略，短剧出海欧洲市场需提前调整"
+   "item": "Agent 支付信任基础设施 APASS 的接入方式",
+   "reason": "Agent 支付是未来 AI 工具商业化的重要链路，提前关注接入方式可评估自有 SaaS 工具是否需要集成，抢占先机"
   }
  ],
  "research_topics": [
   {
-   "topic": "Seedance 2.0 短剧客户使用案例与接入方式",
-   "why": "被短剧客户疯抢说明是当前关键工具，需研究其接入门槛、定价和最佳实践"
+   "topic": "中东短剧市场文化敏感点与本地化策略",
+   "why": "中东市场文化独特，短剧出海需注意本地化以避免风险，同时是蓝海市场，调研文化敏感点可抢占先机"
   },
   {
-   "topic": "中东市场短剧本地化成功案例（SLG手游本地化细节）",
-   "why": "中东是短剧蓝海市场，成功SLG本地化案例可复制到短剧内容策划"
+   "topic": "印度新数据安全政策对短剧和 AI 工具运营的合规要求",
+   "why": "数据合规影响短剧和 AI 工具在印度市场的运营成本，需评估数据存储和处理流程调整方案"
   },
   {
-   "topic": "AI视频工具多平台备份方案与成本对比",
-   "why": "Sora关停暴露单点依赖风险，需建立多平台视频生成备份方案"
+   "topic": "Seedance 2.0 在短剧制作中的应用与提示词工程",
+   "why": "Seedance 多模态需求爆发，短剧客户抢购，研究其提示词库和生成质量可提升短剧画面质量和产出效率"
   }
  ],
- "daily_focus": "立即部署 Toonflow v1.1.8 并跑通一个小说转动画短剧的完整demo，验证其作为核心生产管线的可行性"
+ "daily_focus": "立即排查现有短剧工作流是否依赖 Sora，并部署 Toonflow v1.1.8 作为替代生产管线，测试小说转动漫短剧全流程"
 }

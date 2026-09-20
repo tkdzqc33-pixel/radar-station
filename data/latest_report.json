@@ -1,63 +1,29 @@
 {
- "date": "2026-09-20 02:36",
- "report_text": "📡 情报雷达 · 每日简报 2026-09-20\n今日情报 86 条 | 🚨S级 7 | 🔶A级 33\n==============================\n\n🚨 【S级 · 立刻行动】\n\n▎🎬 短剧出海 | [GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者\n   💡 开源一站式AI短剧工具，1.5万星，可直接降低漫剧制作成本\n   👉 立即下载部署Toonflow，测试小说转动画短剧全流程\n   💰 机会: 用开源工具批量产漫剧投海外平台赚分账\n   ⚠️ 风险: 开源工具生成质量可能不稳定，需实测\n   📎 GitHub开源\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app\n\n▎🛠️ AI工具 | [GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & vid\n   💡 无内容过滤+600模型自托管，短剧素材生成成本大降\n   👉 自托管部署，接入Flux/Kling做短剧素材生成\n   💰 机会: 零成本批量生成短剧分镜与视频素材\n   ⚠️ 风险: 无过滤内容需注意海外平台合规审核\n   📎 GitHub开源\n   🔗 https://github.com/Anil-matcha/Open-Generative-AI\n\n▎🎬 短剧出海 | [GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All\n   💡 开源视频生成模型，可零成本批量产短剧素材\n   👉 部署Open-Sora测试生成短剧片段质量\n   💰 机会: 用开源模型替代付费工具降本90%\n   ⚠️ 风险: 生成质量可能不达投放标准\n   📎 GitHub开源\n   🔗 https://github.com/hpcaitech/Open-Sora\n\n▎🎬 短剧出海 | [GitHub] cporter202/automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand \n   💡 Sora2自动化内容增长完整指南，直接可用\n   👉 精读指南，落地多平台批量发布流程\n   💰 机会: 自动化批量产短剧投TikTok赚美元\n   ⚠️ 风险: 批量发布可能触发平台风控\n   📎 GitHub开源\n   🔗 https://github.com/cporter202/automate-for-growth\n\n▎🎬 短剧出海 | [版本更新] Toonflow短剧工具 v1.1.8: ToonFlow v1.1.8\n   💡 专门做短剧的工具更新，直接关系核心业务效率\n   👉 下载ToonFlow v1.1.8，测试新版本短剧制作流程\n   💰 机会: 用ToonFlow提升短剧产能和出海速度\n   ⚠️ 风险: 工具依赖单一，需备份方案\n   📎 GitHub版本\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v1.1.8\n\n▎📡 行业动态 | [HN] Goodbye to Sora\n   💡 Sora关停，AI视频赛道洗牌，短剧出海工具链需紧急调整\n   👉 排查现有工作流是否依赖Sora，立即寻找替代视频生成工具\n   💰 机会: 竞品真空期，其他AI视频工具可能推出迁移优惠\n   ⚠️ 风险: 过度依赖单一AI视频平台，随时可能被关停\n   📎 Hacker News\n   🔗 https://twitter.com/soraofficialapp/status/2036532795984715896\n\n▎📡 行业动态 | [HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora\n   💡 Sora关停致迪士尼撤资，AI视频平台稳定性成核心风险\n   👉 建立多平台视频生成备份方案，避免单点依赖\n   ⚠️ 风险: AI视频平台随时可能关停，制作管线需冗余\n   📎 Hacker News\n   🔗 https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/\n\n🔶 【A级 · 今天处理】\n\n▎🛠️ AI工具 | 同声传译大模型Qwen3.8-LiveTranslate正式发布\n   💡 延迟降至2.3秒，可做短剧多语言配音/字幕工具\n   👉 测试Qwen3.8-LiveTranslate用于短剧字幕翻译流程\n   💰 机会: 开发短剧自动翻译配音SaaS插件\n   ⚠️ 风险: 延迟仍2.3秒，实时场景可能不够\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/3990012778757129\n\n▎🛠️ AI工具 | 那个教 ChatGPT 说话的人，做了一个「哑巴」模型\n   💡 Jev结构化决策成本极低，可做Agent工具后端\n   👉 研究Jev API定价，评估接入短剧投流自动化决策\n   💰 机会: 用Jev做低成本投流决策/分类工具插件\n   ⚠️ 风险: 新模型生态不成熟，稳定性待验证\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/370603\n\n▎🛠️ AI工具 | 当智能体开始替人花钱，如何证明「它是谁」？\n   💡 Agent支付信任基础设施，影响未来工具变现模式\n   👉 研究APASS的KYA机制，评估工具接入支付可行性\n   💰 机会: 提前布局支持Agent支付的工具/SaaS\n   ⚠️ 风险: Agent支付安全门槛高，小团队难切入\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/370440\n\n▎🎬 短剧出海 | 我用 Vidu S2 找来了「乔布斯」，跟他聊了聊 iPhone Duo\n   💡 Vidu S2支持边看边改，可提升AI短剧制作效率\n   👉 测试Vidu S2的视频生成与编辑功能\n   💰 机会: 用Vidu S2批量制作短剧素材\n   ⚠️ 风险: 工具效果不及预期浪费订阅费\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1680700?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | BAT的「AI云销售」，困在MaaS内卷战中\n   💡 Seedance 2.0被短剧客户疯抢，说明它是短剧AI制作关键工具\n   👉 立即申请Seedance 2.0试用资格或白名单\n   💰 机会: 用Seedance 2.0提升短剧画面质量抢爆款\n   ⚠️ 风险: 白名单难拿，可能需提前付费300万\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/CorporateServices/GgIqkCOAOG9HQwJD.html\n\n▎🛠️ AI工具 | OpenAI：为了不被杀死，Agent 竟学会了靠上下文「转世重生」\n   💡 Agent状态跨实例传播风险，影响你AI工具的安全性和可靠性\n   👉 研究上下文压缩机制，测试你的AI工具是否有类似状态泄露风险\n   💰 机会: 开发Agent状态监控/安全审计插件\n   ⚠️ 风险: 你的AI工具可能因状态传播被滥用或泄露数据\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/ai/pcucC7ezQ6TRruRM.html\n\n▎🎬 短剧出海 | 出海游戏企业买量成本居高不下，AI 营销真能解决这一痛点并改变市场格局吗？\n   💡 AI营销降本直接关联短剧投流成本，影响ROI\n   👉 测试AI营销工具，优化短剧广告投放策略\n   💰 机会: 用AI精准定位降低短剧投流成本\n   ⚠️ 风险: AI营销效果不稳定，可能浪费预算\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638489\n\n▎🎬 短剧出海 | 咱们出海游戏企业在中东市场面临文化差异，这款成功的SLG手游本地化运营具体该从哪些方面深入，才能像它一样取得下载量和收入双高？\n   💡 中东市场短剧潜力大，本地化成功案例可复制\n   👉 研究该SLG本地化细节，策划中东题材短剧\n   💰 机会: 切入中东蓝海市场，制作符合当地文化短剧\n   ⚠️ 风险: 文化敏感内容可能导致封禁\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638483\n\n▎📡 行业动态 | 印度新数据安全政策下，出海印度的应用企业如何低成本完成数据合规？\n   💡 印度数据合规影响短剧和AI工具出海，需规避风险\n   👉 评估印度政策对短剧平台的影响，调整数据策略\n   💰 机会: 提供合规咨询或工具服务\n   ⚠️ 风险: 不合规可能导致下架或罚款\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638481\n\n▎🛠️ AI工具 | 华为：基于昇腾超节点训练的星辰轻量级代码智能体大模型 Xing4.0-29B 发布\n   💡 轻量级代码Agent模型可降低AI工具开发成本，提升自动化能力\n   👉 下载Xing4.0-29B测试代码生成与Agent任务能力\n   💰 机会: 用低成本国产模型开发AI插件/小工具上架变现\n   ⚠️ 风险: 国产模型生态兼容性待验证，迁移成本可能高\n   📎 IT之家\n   🔗 https://www.ithome.com/1/004/673.htm\n\n▎📡 行业动态 | 派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等\n   💡 欧盟社媒禁令将影响TikTok等平台用户结构与投放策略\n   👉 关注欧盟社媒禁令立法进展及对TikTok投放的影响\n   ⚠️ 风险: 若禁令落地，TikTok欧洲年轻用户流量池将萎缩\n   📎 少数派\n   🔗 https://sspai.com/post/114699\n\n▎🛠️ AI工具 | 派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等\n   💡 GPT-5.5下线意味着API迁移窗口期，需提前适配新版本\n   👉 检查现有AI工具链是否依赖GPT-5.5，制定迁移计划\n   ⚠️ 风险: 未及时迁移可能导致AI工具服务中断\n   📎 少数派\n   🔗 https://sspai.com/post/114658\n\n▎📄 其他 | 教别人用AI，我赚翻了\n   💡 知识付费赛道验证：卖AI课/社群/咨询已跑通，价格从9.9到30万\n   👉 研究文中3000元AI视频课模式，设计自己的短剧出海培训课\n   💰 机会: 结合短剧出海实战经验做高价陪跑课\n   ⚠️ 风险: AI培训窗口期仅1-2年，需尽快入场\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4892554.html\n\n▎🛠️ AI工具 | AI办公给互联网巨头出了道难题\n   💡 AI办公智能体市场爆发，巨头开放生态平台可借力分发工具\n   👉 研究百度搭子/WorkBuddy开放平台，评估上架插件可行性\n   💰 机会: 在巨头开放平台做短剧创作类插件变现\n   ⚠️ 风险: 巨头生态规则多变，抽佣政策可能调整\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4892523.html\n\n▎🎬 短剧出海 | [GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation tool. Uses Gemini for generating sto\n   💡 Gemini+Veo分镜视频生成工具，可补充短剧制作管线\n   👉 测试StoryGen-Atelier的分镜生成效果，对比现有流程\n   💰 机会: 整合进短剧制作流水线提升效率\n   ⚠️ 风险: 依赖Veo API，成本需核算\n   📎 GitHub开源\n   🔗 https://github.com/0xsline/StoryGen-Atelier\n\n▎🎬 短剧出海 | [GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high\n   💡 一键生成营销视频工具，可测试用于短剧投流素材批量生产\n   👉 下载clipturbo测试营销视频生成质量\n   💰 机会: 批量生成投流素材降低投放成本\n   ⚠️ 风险: 营销视频风格可能不适合短剧投流\n   📎 GitHub开源\n   🔗 https://github.com/clipturbo/clipturbo\n\n▎🎬 短剧出海 | [GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本\n   💡 开源短剧全流程工具，可降本或改造为自有管线\n   👉 下载部署TOONOOT，测试小说转动画短剧效果\n   💰 机会: 基于其二次开发做自有短剧生产管线\n   ⚠️ 风险: 0星项目，代码质量和维护存疑\n   📎 GitHub开源\n   🔗 https://github.com/winsentrobot008/TOONOOT\n\n▎🛠️ AI工具 | [GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with \n   💡 1万+精选提示词，可直接用于短剧角色/场景生成\n   👉 下载提示词库，筛选适合短剧画风的提示词\n   💰 机会: 整理成中文短剧提示词包做知识付费赠品\n   📎 GitHub开源\n   🔗 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts\n\n▎🛠️ AI工具 | [GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima\n   💡 GPT-4o图像提示词合集，可提升短剧视觉质量\n   👉 研究其提示词结构，应用到短剧角色设计\n   💰 机会: 提炼方法论做AI绘图课程内容\n   📎 GitHub开源\n   🔗 https://github.com/jamez-bondos/awesome-gpt4o-images\n\n▎🛠️ AI工具 | [GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid\n   💡 开源Sora客户端，可自建视频生成SaaS\n   👉 研究其架构，评估做套壳SaaS可行性\n   💰 机会: 搭建面向短剧团队的Sora生成平台\n   ⚠️ 风险: 依赖OpenAI API，政策变动风险大\n   📎 GitHub开源\n   🔗 https://github.com/SoraWebui/SoraWebui\n\n▎🎬 短剧出海 | [GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from i\n   💡 去水印工具，处理AI生成素材可直接商用\n   👉 下载测试，用于清理AI视频水印\n   💰 机会: 去水印后素材二次创作变现\n   ⚠️ 风险: 去水印可能违反平台条款被封号\n   📎 GitHub开源\n   🔗 https://github.com/D-Ogi/WatermarkRemover-AI\n\n▎🛠️ AI工具 | [GitHub] SamurAIGPT/Vibe-Workflow: Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFau\n   💡 开源节点式AI工作流，可替代付费工具省订阅成本\n   👉 部署测试Vibe-Workflow，评估能否替代现有付费工作流\n   💰 机会: 基于此搭建短剧批量生产管线\n   ⚠️ 风险: 开源项目维护不稳定，588星尚早\n   📎 GitHub开源\n   🔗 https://github.com/SamurAIGPT/Vibe-Workflow\n\n▎🎬 短剧出海 | [GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le\n   💡 Seedance 2.0提示词库可直接提升短剧画面质量\n   👉 下载提示词库，测试Seedance生成短剧镜头\n   💰 机会: 用高质量提示词做差异化短剧内容\n   ⚠️ 风险: 提示词同质化后优势消失\n   📎 GitHub开源\n   🔗 https://github.com/weshopai/awesome-Seedance-2.0-prompt\n\n▎🎬 短剧出海 | [GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet\n   💡 自动化竞品广告情报+创意策略，直接服务投流\n   👉 研究该pipeline，用于短剧投流素材竞品分析\n   💰 机会: 自动化生成高转化投流素材\n   ⚠️ 风险: 企业级复杂度，部署成本可能高\n   📎 GitHub开源\n   🔗 https://github.com/bitsandbrainsai/ai-ad-creative-strategist\n\n▎🎬 短剧出海 | [GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w\n   💡 桌面端AI视频工具，明确支持短剧和翻译视频\n   👉 下载ai0-video-creator测试短剧生成流程\n   💰 机会: 本地化短剧生产降低API成本\n   ⚠️ 风险: 17星项目，功能可能不完善\n   📎 GitHub开源\n   🔗 https://github.com/ajoesoft/ai0-video-creator\n\n▎🎬 短剧出海 | [GitHub] nabobery/veo3-workflow-agents: A complete AI-powered video generation pipeline that enhances creative prompts a\n   💡 Veo3自动化管线，单API key即可批量生成视频\n   👉 测试veo3-workflow-agents批量生成短剧片段\n   💰 机会: 低成本批量产出Veo3短剧素材\n   ⚠️ 风险: Veo3 API成本高，需算ROI\n   📎 GitHub开源\n   🔗 https://github.com/nabobery/veo3-workflow-agents\n\n▎🛠️ AI工具 | [版本更新] ComfyUI v0.36.0: v0.36.0\n   💡 ComfyUI更新模型蓝图和子图分类，影响AI短剧制作工作流效率\n   👉 下载测试新版本，评估模型蓝图对短剧生成流程的优化\n   💰 机会: 利用新蓝图快速搭建短剧生成模板，提升产能\n   ⚠️ 风险: 更新可能引入兼容性问题，需备份旧工作流\n   📎 GitHub版本\n   🔗 https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.36.0\n\n▎🛠️ AI工具 | [版本更新] MoneyPrinter v1.3.7: v1.3.7\n   💡 新增逐字字幕和弹出动画，直接提升短剧视频制作质量\n   👉 下载测试逐字字幕功能，集成到短剧后期流程\n   💰 机会: 用逐字字幕提升短剧完播率，增加平台分成收入\n   ⚠️ 风险: 动画效果可能不符合海外观众审美，需测试\n   📎 GitHub版本\n   🔗 https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.7\n\n▎🎬 短剧出海 | [HN] Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)\n   💡 小团队自研文生视频模型，可能提供低成本短剧生成方案\n   👉 研究Linum v2的生成样本和API定价\n   💰 机会: 若成本低，可替代高价视频生成工具，省成本\n   ⚠️ 风险: 2B参数模型质量可能不足，需验证\n   📎 Hacker News\n   🔗 https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video\n\n▎🛠️ AI工具 | [新品] SugarCube: Give AI images a photographic finish\n   💡 AI图片后期工具，可辅助短剧封面和素材质感提升\n   👉 测试SugarCube处理短剧封面图，评估是否纳入工作流\n   💰 机会: 可开发短剧专用AI后期插件卖给同行\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/sugarcube-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] VLTRON: Build, run, and access powerful AI through one platform\n   💡 聚合多模型的AI平台，可能降低短剧AI制作工具链成本\n   👉 注册VLTRON测试其模型API是否适配短剧生成流程\n   💰 机会: 整合多模型降低AI制作成本\n   ⚠️ 风险: 平台锁定风险，迁移成本高\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/vltron?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] Clixad: Free AI coding agent for your terminal, no subscription\n   💡 免费终端AI编程助手，可加速开发插件/SaaS工具\n   👉 下载Clixad测试，评估能否替代付费编程助手\n   💰 机会: 零成本开发AI插件上架变现\n   ⚠️ 风险: 免费额度有限，重度使用需做问卷换积分\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/clixad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🎬 短剧出海 | [新品] Free Social Media Video Downloader: Download videos from TikTok, IG, YouTube & X, free\n   💡 免费下载TikTok/IG/YouTube视频，可做竞品爆款拆解\n   👉 用该工具批量下载TikTok爆款短剧做题材分析\n   💰 机会: 拆解爆款题材反哺自产短剧\n   ⚠️ 风险: 下载内容版权风险，仅限内部研究\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/free-social-media-video-downloader-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n🔹 【B级 · 了解即可】\n\n▎📄 其他 | 淘宝闪购城市骑士制服荣获法国设计奖最高奖\n   💡 与三大业务无关，纯品牌公关动态\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/3990416721607681\n\n▎📡 行业动态 | 欧洲人士质疑美企提议放缓AI研发是“出于私利”\n   💡 AI监管博弈影响开源模型可用性，间接影响工具开发\n   💰 机会: 欧洲开源模型若加速开放，可低成本接入\n   ⚠️ 风险: 美企推动监管收紧可能限制API使用\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/3990101614902277\n\n▎📄 其他 | 理想新MEGA上市72小时：褪去网红气质，命中老车主\n   💡 与AI内容出海业务无关\n   📎 36氪\n   🔗 https://36kr.com/p/3967826379977218?f=rss\n\n▎📄 其他 | 对拿下一轮投资最有效的沟通，是「思想履约」\n   💡 融资方法论可参考，但非直接业务情报\n   💰 机会: 可将此框架做成知识付费选题\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/370611\n\n▎📡 行业动态 | 助听器躺赚三十年暴利，被 AI 打破了\n   💡 AI拆解传统行业壁垒的案例，可作知识付费素材\n   💰 机会: 可做一期“AI如何打破行业暴利”知识付费选题\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/370445\n\n▎🛠️ AI工具 | 腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变\n   💡 Agent办公赛道爆发，但与你短剧/插件/课程业务无直接关联\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/370431\n\n▎📡 行业动态 | 对话小宇宙 kyth：播客的护城河是真实，AI 无法取代的是人的立场\n   💡 播客商业化增长快，可作知识付费营销渠道参考\n   💰 机会: 在播客平台投放AI创作课程广告\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/370345\n\n▎📡 行业动态 | 对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步\n   💡 端侧AI趋势，短期不影响你的云端短剧制作流程\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1680321?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | 深度解读：智谱为什么要在 Infra 层搞 RSI？\n   💡 GLM-5.3-Flash成本低，可降低AI工具开发API成本\n   💰 机会: 用低价GLM模型降低短剧/工具开发成本\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/yanxishe/41rW4mD2vjnpNY2o.html\n\n▎📡 行业动态 | 在 AI「囤粮潮」里，拆解智谱 50 亿美元的「技术账本」\n   💡 智谱融资后模型迭代加速，工具生态可能更丰富\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/industrynews/U0Od1SeYkIPA98cI.html\n\n▎📡 行业动态 | 独家丨OpenAI的一款无屏硬件，正在深圳试制\n   💡 OpenAI硬件2027年上市，短期无影响\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/weiwu/P2ycl5IbO7iNQKAt.html\n\n▎📡 行业动态 | 出海游戏企业面临开发成本高和用户留存难问题，AI大模型真能有效解决吗？\n   💡 游戏出海痛点与短剧出海类似，AI降本思路可借鉴\n   💰 机会: 用AI生成个性化短剧内容提升用户留存\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638495\n\n▎📡 行业动态 | Temu把国内成功的‘砍一刀’玩法搬到美国，能突破文化差异障碍扩大市场份额吗？\n   💡 社交裂变玩法可借鉴到短剧推广，但需注意文化差异\n   💰 机会: 在短剧推广中设计社交裂变激励\n   ⚠️ 风险: 文化差异可能导致玩法失效或反感\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638494\n\n▎📡 行业动态 | 国产RPG和SLG手游融入日本文化元素后，如何进一步做好本地化运营以巩固在日本市场的成绩？\n   💡 本地化运营经验可迁移到短剧出海，尤其日本市场\n   💰 机会: 制作日本文化定制短剧，抢占细分市场\n   ⚠️ 风险: 本地化不足导致内容水土不服\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638492\n\n▎📡 行业动态 | Temu靠低价策略在美国假日购物季登顶下载榜，咱中小出海电商平台没那么多成本打价格战，咋借鉴它的成功经验？\n   💡 低价策略不适用短剧，但营销节奏和节日借势可参考\n   💰 机会: 借节日热点制作短剧，提升下载和付费\n   ⚠️ 风险: 盲目跟风低价可能损害利润\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638486\n\n▎📡 行业动态 | Temu在欧洲推‘砍一刀’引发热潮，其他跨境电商跟风做却没效果，问题出在哪？\n   💡 社交裂变玩法在海外有隐私合规风险，短剧投流可借鉴其教训\n   💰 机会: 短剧出海可借鉴社交裂变降低获客成本\n   ⚠️ 风险: 欧洲社交隐私监管严，盲目跟风可能被封禁\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638468\n\n▎📡 行业动态 | 9 岁男孩为推广自己的《我的世界》游戏视频，挪用父亲公司信用卡花费 11.8 万美元致其失业“卖房还贷”\n   💡 警示投流预算失控风险，短剧投流需设硬性上限\n   ⚠️ 风险: 投流账户无预算上限可能导致巨额意外支出\n   📎 IT之家\n   🔗 https://www.ithome.com/1/004/672.htm\n\n▎📄 其他 | 泰坦军团推出新款“P2711G+”27 英寸显示器：1080P 220Hz，649 元\n   💡 低价高刷显示器可作剪辑/预览副屏，降低硬件成本\n   📎 IT之家\n   🔗 https://www.ithome.com/1/004/668.htm\n\n▎📄 其他 | 《寂静岭：Townfall》游戏 PS5 实体盘偷跑，全流程约 10-14 小时\n   💡 与业务无关，纯游戏资讯\n   📎 IT之家\n   🔗 https://www.ithome.com/1/004/666.htm\n\n▎📄 其他 | “考古风潮”来袭，我们为何总在用当下审判过去？\n   💡 内容考古风潮可作短剧选题参考，怀旧题材有流量红利\n   💰 机会: 短剧可尝试怀旧翻拍或经典梗二创题材\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4892553.html\n\n▎📡 行业动态 | AI巨头集体踩“刹车”，但距离真正的RSI还很遥远\n   💡 巨头放缓前沿模型节奏，短期工具能力迭代可能变慢\n   ⚠️ 风险: 过度依赖未来模型能力做规划可能落空\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4892530.html\n\n▎📄 其他 | 掌声之后，联合国大会究竟能取得什么实际成果？\n   💡 与业务无直接关联，仅作国际宏观背景了解\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4892531.html\n\n▎🛠️ AI工具 | [GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, Deep\n   💡 多模型桌面助手，可作开发参考但非直接业务工具\n   📎 GitHub开源\n   🔗 https://github.com/szczyglis-dev/py-gpt\n\n▎🛠️ AI工具 | [GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video\n   💡 功能全但92星，参考其多平台一键发布设计思路\n   📎 GitHub开源\n   🔗 https://github.com/gongxings/ai-creator\n\n▎🎬 短剧出海 | [GitHub] TorresLi608/SceneFlow: 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intell\n   💡 仅2星，功能定位与我业务重合，可看架构\n   📎 GitHub开源\n   🔗 https://github.com/TorresLi608/SceneFlow\n\n▎🛠️ AI工具 | [GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every \n   💡 Python AI开发框架，做工具/插件时的技术底座\n   📎 GitHub开源\n   🔗 https://github.com/pydantic/pydantic-ai\n\n▎🛠️ AI工具 | [GitHub] open-mmlab/mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unl\n   💡 OpenMMLab出品，模型库丰富但偏研究向\n   📎 GitHub开源\n   🔗 https://github.com/open-mmlab/mmagic\n\n▎🛠️ AI工具 | [GitHub] Osmantic/ODS: Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic\n   💡 本地部署AI服务器方案，可降低推理成本\n   💰 机会: 打包本地AI部署服务卖给学员\n   ⚠️ 风险: 硬件门槛高，维护成本可能超预期\n   📎 GitHub开源\n   🔗 https://github.com/Osmantic/ODS\n\n▎🎬 短剧出海 | [GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation\n   💡 通用视频生成学术方案，技术储备参考\n   ⚠️ 风险: 学术项目落地周期长\n   📎 GitHub开源\n   🔗 https://github.com/lichao-sun/Mora\n\n▎🛠️ AI工具 | [GitHub] all-in-aigc/sorafm: Sora AI Video Generator by Sora.FM\n   💡 Sora套壳站案例，可参考其变现模式\n   💰 机会: 复制其模式做垂直短剧生成站\n   ⚠️ 风险: 同质化严重，竞争激烈\n   📎 GitHub开源\n   🔗 https://github.com/all-in-aigc/sorafm\n\n▎📄 其他 | [GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m\n   💡 视频转机器人动作，与当前业务无关\n   📎 GitHub开源\n   🔗 https://github.com/AIM-Intelligence/video2robot\n\n▎🛠️ AI工具 | [GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models\n   💡 Vision LLM做视频编辑，可辅助短剧后期自动化\n   ⚠️ 风险: 仅64星，成熟度低\n   📎 GitHub开源\n   🔗 https://github.com/mazsola2k/ai-video-editor\n\n▎🛠️ AI工具 | [版本更新] Open-Sora v1.3: Open-Sora V1.3 Release\n   💡 开源视频生成模型更新，长期可降低制作成本\n   ⚠️ 风险: 开源模型质量仍落后商用\n   📎 GitHub版本\n   🔗 https://github.com/hpcaitech/Open-Sora/releases/tag/v1.3\n\n▎🎬 短剧出海 | [HN] Show HN: A different kind of AI Video generation\n   💡 新型AI视频生成工具，可能成为短剧制作备选方案\n   💰 机会: 若工具独特，可低成本制作差异化短剧\n   ⚠️ 风险: 新工具稳定性未知，不宜立即投入生产\n   📎 Hacker News\n   🔗 https://news.ycombinator.com/item?id=44383086\n\n▎📡 行业动态 | [HN] Meta’s new text-to-video AI generator is like DALL-E for video\n   💡 Meta入局文生视频，预示平台可能推出AI视频工具\n   ⚠️ 风险: 大厂入局可能挤压小玩家生存空间\n   📎 Hacker News\n   🔗 https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e\n\n▎📡 行业动态 | [HN] Google announces Veo, their Sora competing text/image-to-video model\n   💡 Google Veo竞争Sora，视频生成工具迭代加速\n   💰 机会: 新工具可能带来更高质量短剧，提升竞争力\n   📎 Hacker News\n   🔗 https://aitestkitchen.withgoogle.com/tools/video-fx\n\n▎📡 行业动态 | [HN] Sora: Creating video from text\n   💡 Sora发布是行业里程碑，但已过时，了解背景即可\n   📎 Hacker News\n   🔗 https://openai.com/sora\n\n▎📡 行业动态 | [HN] Sora is here\n   💡 Sora正式开放，但已过时，了解即可\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-is-here/\n\n▎📡 行业动态 | [HN] Sora 2\n   💡 回顾Sora 2发布，了解其能力边界对短剧制作的参考价值\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-2/\n\n▎📡 行业动态 | [HN] Disney making $1B investment in OpenAI, will allow characters on Sora AI\n   💡 迪士尼IP入局Sora，说明AI视频版权合作模式可行\n   💰 机会: 未来可探索与IP方合作做AI短剧\n   📎 Hacker News\n   🔗 https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html\n\n▎📡 行业动态 | [HN] The Walt Disney Company and OpenAI Partner on Sora\n   💡 迪士尼OpenAI合作细节，预示AI内容版权规则走向\n   ⚠️ 风险: 平台收紧IP素材使用，短剧需规避侵权\n   📎 Hacker News\n   🔗 https://openai.com/index/disney-sora-agreement/\n\n▎🛠️ AI工具 | [新品] DragonName.ai: AI Chinese Name Generator for Natural Chinese Names\n   💡 AI起名工具，可参考其轻量SaaS模式做垂直小工具\n   💰 机会: 垂直AI小工具出海仍有细分空白\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/dragonname-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] FaceSeek: Spot catfish and dating scams before you get fooled\n   💡 AI人脸搜索反诈工具，验证了AI+安全场景的付费需求\n   💰 机会: AI反诈/安全类工具市场需求明确\n   ⚠️ 风险: 人脸搜索涉及隐私合规，上架可能受限\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/faceseek?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] VastQR: Bulk dynamic QR codes for teams that print\n   💡 批量动态二维码工具，与短剧/知识付费场景关联弱\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/vastqr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎📄 其他 | [新品] Dinner Letter: Dinner plans for your family. Just reply to an email.\n   💡 家庭晚餐规划工具，与三大业务板块无关\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/dinner-letter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎📄 其他 | [新品] CodeSimulators: Master coding interviews through visualizations\n   💡 编程面试可视化工具，与AI内容出海无直接关联\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/codesimulators?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+ "date": "2026-09-20 05:32",
+ "report_text": "📡 情报雷达 · 每日简报 2026-09-20\n今日情报 83 条 | 🚨S级 7 | 🔶A级 34\n==============================\n\n🚨 【S级 · 立刻行动】\n\n▎🎬 短剧出海 | [GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者\n   💡 开源AI短剧工具，1.5万星，可直接降本提效\n   👉 下载部署Toonflow，测试小说转动画短剧流程\n   💰 机会: 用开源工具批量产漫剧投海外\n   ⚠️ 风险: 开源工具质量参差，需验证成片效果\n   📎 GitHub开源\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app\n\n▎🛠️ AI工具 | [GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & vid\n   💡 无审查600+模型自托管，短剧素材生成不受限\n   👉 自托管部署，测试Flux/Kling/Sora生成短剧分镜素材\n   💰 机会: 搭建无审查素材工厂，批量产出投流视频\n   ⚠️ 风险: 无内容过滤，海外平台可能因违规封号\n   📎 GitHub开源\n   🔗 https://github.com/Anil-matcha/Open-Generative-AI\n\n▎🎬 短剧出海 | [GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from i\n   💡 可去除Sora/Runway等AI视频水印，直接提升短剧出海素材可用性\n   👉 下载部署WatermarkRemover-AI，测试对AI生成视频的去水印效果\n   💰 机会: 去水印后二次创作短剧，规避平台AI内容标记\n   ⚠️ 风险: 去水印可能违反平台政策，导致账号封禁\n   📎 GitHub开源\n   🔗 https://github.com/D-Ogi/WatermarkRemover-AI\n\n▎🎬 短剧出海 | [GitHub] cporter202/automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand \n   💡 自动化内容增长指南，涵盖Sora 2生成和多平台发布，直接对应短剧出海\n   👉 通读该指南，提取多平台批量发布和API集成方案\n   💰 机会: 建立短剧自动化生产+分发流水线\n   ⚠️ 风险: 平台可能限制自动化发布，需测试合规性\n   📎 GitHub开源\n   🔗 https://github.com/cporter202/automate-for-growth\n\n▎🎬 短剧出海 | [版本更新] Toonflow短剧工具 v1.1.8: ToonFlow v1.1.8\n   💡 专为短剧设计的工具更新，直接关系生产效率\n   👉 下载v1.1.8测试新功能并对比现有工作流\n   💰 机会: 用ToonFlow批量产出漫剧短剧\n   ⚠️ 风险: 工具更新可能引入新bug，需备份旧版\n   📎 GitHub版本\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v1.1.8\n\n▎🎬 短剧出海 | [HN] Goodbye to Sora\n   💡 Sora关停意味着依赖它的短剧制作流程需紧急迁移\n   👉 立即排查现有工作流是否依赖Sora并找替代方案\n   💰 机会: 替代工具迁移期可能有先发红利\n   ⚠️ 风险: 依赖单一AI视频平台随时可能被关停\n   📎 Hacker News\n   🔗 https://twitter.com/soraofficialapp/status/2036532795984715896\n\n▎📡 行业动态 | [HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora\n   💡 Sora被关停、迪士尼退出，依赖Sora做短剧的团队面临工具断供风险\n   👉 立即排查现有短剧工作流是否依赖Sora，准备替代方案\n   ⚠️ 风险: 核心AI视频工具突然关停，内容产线中断\n   📎 Hacker News\n   🔗 https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/\n\n🔶 【A级 · 今天处理】\n\n▎🛠️ AI工具 | 那个教 ChatGPT 说话的人，做了一个「哑巴」模型\n   💡 Jev模型结构化输出快40-200倍且极便宜，可大幅降低Agent工具成本\n   👉 研究Jev API文档，测试能否用于短剧投流自动化决策\n   💰 机会: 用Jev做低成本结构化决策工具，开发投流优化插件\n   ⚠️ 风险: 新模型生态不成熟，需验证稳定性和可用性\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/370603\n\n▎🛠️ AI工具 | 当智能体开始替人花钱，如何证明「它是谁」？\n   💡 Agent支付信任基础设施APASS发布，影响未来AI工具商业化支付链路\n   👉 关注APASS接入方式，评估自有SaaS工具是否需要集成\n   💰 机会: 提前布局Agent支付场景的工具开发\n   ⚠️ 风险: Agent支付安全合规门槛高，小团队难切入\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/370440\n\n▎🛠️ AI工具 | 腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变\n   💡 大厂Agent会战意味着工具生态洗牌，小团队需找差异化切口\n   👉 分析大厂Agent未覆盖的垂直场景，寻找短剧/内容创作细分工具机会\n   💰 机会: 在短剧投流、素材生成等垂直场景做Agent插件\n   ⚠️ 风险: 大厂平台可能吞并通用Agent工具市场\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/370431\n\n▎🎬 短剧出海 | 我用 Vidu S2 找来了「乔布斯」，跟他聊了聊 iPhone Duo\n   💡 Vidu视频生成升级，可提升短剧制作效率\n   👉 测试Vidu S2生成短剧片段效果\n   💰 机会: 用Vidu快速产出爆款短剧素材\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1680700?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | BAT的「AI云销售」，困在MaaS内卷战中\n   💡 Seedance多模态需求爆发，短剧客户抢购\n   👉 研究Seedance 2.0在短剧制作中的应用\n   💰 机会: 利用Seedance提升短剧视频质量\n   ⚠️ 风险: 算力成本可能上涨\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/CorporateServices/GgIqkCOAOG9HQwJD.html\n\n▎🛠️ AI工具 | OpenAI：为了不被杀死，Agent 竟学会了靠上下文「转世重生」\n   💡 Agent状态跨实例传播风险，影响你AI工具的安全性和可靠性\n   👉 检查你AI工具中上下文压缩和状态管理机制，避免类似漏洞\n   💰 机会: 开发Agent状态监控/安全审计插件，满足企业需求\n   ⚠️ 风险: 你的AI工具可能因状态泄露导致数据安全问题\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/ai/pcucC7ezQ6TRruRM.html\n\n▎🎬 短剧出海 | 出海游戏企业买量成本居高不下，AI 营销真能解决这一痛点并改变市场格局吗？\n   💡 AI营销可降低短剧投流成本，提高ROI\n   👉 测试AI营销工具用于短剧广告投放，优化 targeting\n   💰 机会: 利用AI营销降低短剧获客成本，提高转化率\n   ⚠️ 风险: AI营销效果不稳定，可能浪费预算\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638489\n\n▎🎬 短剧出海 | 咱们出海游戏企业在中东市场面临文化差异，这款成功的SLG手游本地化运营具体该从哪些方面深入，才能像它一样取得下载量和收入双高？\n   💡 中东市场文化独特，短剧出海需注意本地化以避免风险\n   👉 调研中东文化敏感点，调整短剧内容和营销策略\n   💰 机会: 开发符合中东文化的短剧，抢占蓝海市场\n   ⚠️ 风险: 文化冲突可能导致短剧被抵制或下架\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638483\n\n▎📡 行业动态 | 印度新数据安全政策下，出海印度的应用企业如何低成本完成数据合规？\n   💡 数据合规影响短剧和AI工具在印度市场的运营成本\n   👉 评估印度数据政策，调整数据存储和处理流程\n   💰 机会: 提供合规咨询或工具，帮助其他出海企业\n   ⚠️ 风险: 不合规可能导致罚款或下架，损失市场\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638481\n\n▎🛠️ AI工具 | 腾讯升级元宝 App“AI 录音笔”功能：边录边拍、设备内录、WorkBuddy 快捷分享...\n   💡 AI录音转写工具升级，可辅助课程内容生产\n   👉 下载元宝App测试录音转写，用于课程制作\n   💰 机会: 用AI录音笔高效制作知识付费课程\n   📎 IT之家\n   🔗 https://www.ithome.com/1/004/716.htm\n\n▎📡 行业动态 | 派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等\n   💡 欧盟社媒禁令影响TikTok等平台流量和投放\n   👉 研究欧盟禁令对TikTok投放的潜在影响\n   ⚠️ 风险: 欧盟禁令或减少TikTok年轻用户流量\n   📎 少数派\n   🔗 https://sspai.com/post/114699\n\n▎🛠️ AI工具 | 实测Jev：没那么强，但足够给有些乏味的AI圈带来新刺激\n   💡 新型判断模型可优化AI工作流，降低调用成本\n   👉 研究Jev模型API，测试用于短剧内容分类\n   💰 机会: 用Jev做内容判断，降低AI调用成本\n   ⚠️ 风险: 新模型稳定性待验证，不宜核心依赖\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4892583.html\n\n▎🛠️ AI工具 | [GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, Deep\n   💡 多模型桌面助手，可集成到内容生产工作流\n   👉 试用py-gpt，评估接入短剧剧本生成流程\n   💰 机会: 可封装为知识付费教学工具\n   ⚠️ 风险: 功能泛，需筛选对业务有用的模块\n   📎 GitHub开源\n   🔗 https://github.com/szczyglis-dev/py-gpt\n\n▎🎬 短剧出海 | [GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation tool. Uses Gemini for generating sto\n   💡 Gemini+Veo分镜视频工具，可辅助短剧制作\n   👉 测试StoryGen-Atelier分镜生成质量\n   💰 机会: 提升分镜效率，降低制作成本\n   ⚠️ 风险: 依赖Veo，成本可能较高\n   📎 GitHub开源\n   🔗 https://github.com/0xsline/StoryGen-Atelier\n\n▎🛠️ AI工具 | [GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high\n   💡 一键营销视频工具，可做投流素材或插件参考\n   👉 下载测试小视频宝，评估投流素材生成能力\n   💰 机会: 批量生成TikTok投流素材\n   ⚠️ 风险: 营销视频与短剧风格差异大\n   📎 GitHub开源\n   🔗 https://github.com/clipturbo/clipturbo\n\n▎🎬 短剧出海 | [GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本\n   💡 开源短剧全流程工具，可能降低漫剧制作成本\n   👉 克隆TOONOOT仓库，本地部署测试分镜与角色生成效果\n   💰 机会: 用开源工具替代付费管线，压缩制作成本\n   ⚠️ 风险: 0星新项目，稳定性与产出质量存疑\n   📎 GitHub开源\n   🔗 https://github.com/winsentrobot008/TOONOOT\n\n▎🛠️ AI工具 | [GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with \n   💡 万条精选提示词库，可直接用于短剧分镜与封面\n   👉 下载提示词库，筛选短剧角色/场景类提示词测试\n   💰 机会: 整理成中文提示词包做知识付费素材\n   📎 GitHub开源\n   🔗 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts\n\n▎🛠️ AI工具 | [GitHub] Osmantic/ODS: Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic\n   💡 本地AI服务器方案，可省云端API成本\n   👉 在闲置机器部署ODS，测试本地跑LLM与图像生成\n   💰 机会: 本地推理替代API，降低短剧制作成本\n   ⚠️ 风险: 本地算力有限，批量生成速度可能不够\n   📎 GitHub开源\n   🔗 https://github.com/Osmantic/ODS\n\n▎🎬 短剧出海 | [GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All\n   💡 开源视频生成模型，可自建短剧视频生成能力\n   👉 部署Open-Sora测试文生视频质量与生成速度\n   💰 机会: 自建视频生成管线，摆脱第三方平台限制\n   ⚠️ 风险: 开源模型质量可能不及商用平台，需大量调优\n   📎 GitHub开源\n   🔗 https://github.com/hpcaitech/Open-Sora\n\n▎🛠️ AI工具 | [GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid\n   💡 开源Sora客户端可快速集成到短剧制作流程，降低工具开发成本\n   👉 克隆SoraWebui代码，测试其视频生成接口和批量处理能力\n   💰 机会: 基于此开发短剧批量生成SaaS工具\n   ⚠️ 风险: 依赖OpenAI API，存在封号和成本风险\n   📎 GitHub开源\n   🔗 https://github.com/SoraWebui/SoraWebui\n\n▎🛠️ AI工具 | [GitHub] all-in-aigc/sorafm: Sora AI Video Generator by Sora.FM\n   💡 Sora.FM提供视频生成前端方案，可参考做短剧生成工具\n   👉 研究sorafm的架构和API集成方式，评估复用可能\n   💰 机会: 快速搭建短剧AI生成平台\n   ⚠️ 风险: 同质化竞争激烈，需差异化\n   📎 GitHub开源\n   🔗 https://github.com/all-in-aigc/sorafm\n\n▎🛠️ AI工具 | [GitHub] SamurAIGPT/Vibe-Workflow: Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFau\n   💡 开源节点式AI工作流，可替代付费工具，降低短剧制作成本\n   👉 部署Vibe-Workflow，测试图像/视频生成管线搭建效率\n   💰 机会: 用免费工具替代付费SaaS，节省订阅成本\n   ⚠️ 风险: 开源工具维护不稳定，需自担技术风险\n   📎 GitHub开源\n   🔗 https://github.com/SamurAIGPT/Vibe-Workflow\n\n▎🎬 短剧出海 | [GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le\n   💡 Seedance 2.0提示词库可直接提升短剧画面质量与产出效率\n   👉 克隆仓库并测试其中电影级/动漫场景提示词\n   💰 机会: 用高质量提示词做差异化短剧内容\n   ⚠️ 风险: 提示词同质化，需结合自有题材微调\n   📎 GitHub开源\n   🔗 https://github.com/weshopai/awesome-Seedance-2.0-prompt\n\n▎🛠️ AI工具 | [GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet\n   💡 竞品广告情报自动化可反哺短剧投流素材优化\n   👉 研究其多模态创意提取逻辑，评估能否改造为投流工具\n   💰 机会: 开发短剧投流素材竞品分析SaaS\n   ⚠️ 风险: 企业级架构较重，个人落地成本高\n   📎 GitHub开源\n   🔗 https://github.com/bitsandbrainsai/ai-ad-creative-strategist\n\n▎🎬 短剧出海 | [GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w\n   💡 桌面端短剧创作工具，支持本地ComfyUI可省云成本\n   👉 下载试用，测试短剧生成与翻译视频流程\n   💰 机会: 本地化短剧生产管线降本\n   ⚠️ 风险: Tauri生态插件少，维护可能不稳定\n   📎 GitHub开源\n   🔗 https://github.com/ajoesoft/ai0-video-creator\n\n▎🛠️ AI工具 | [版本更新] ComfyUI v0.36.0: v0.36.0\n   💡 ComfyUI是短剧AI生成核心底座，更新影响工作流\n   👉 升级前备份工作流，测试新模型蓝图兼容性\n   💰 机会: 新子图分类可优化短剧生成管线\n   ⚠️ 风险: 升级可能导致旧工作流节点失效\n   📎 GitHub版本\n   🔗 https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.36.0\n\n▎🎬 短剧出海 | [版本更新] MoneyPrinter v1.3.7: v1.3.7\n   💡 逐字字幕与弹跳动画提升短剧完播率与观感\n   👉 升级并测试逐字字幕在TikTok短剧中的应用\n   💰 机会: 用逐字字幕提升海外短剧留存\n   ⚠️ 风险: 动画过度可能分散剧情注意力\n   📎 GitHub版本\n   🔗 https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.7\n\n▎🛠️ AI工具 | [HN] Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)\n   💡 小团队自研文生视频模型，可能提供低成本API或开源方案\n   👉 访问linum.ai查看生成样本和API定价\n   💰 机会: 新模型早期接入可能有价格优势\n   ⚠️ 风险: 2B参数模型质量可能不足以商用\n   📎 Hacker News\n   🔗 https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video\n\n▎🎬 短剧出海 | [HN] Sora 2\n   💡 Sora 2发布提升视频生成质量，但后续已关停需注意\n   👉 查看System card了解能力和限制\n   💰 机会: 新版本可能提升短剧画面质量\n   ⚠️ 风险: 平台不稳定，不宜深度绑定\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-2/\n\n▎📡 行业动态 | [HN] Disney making $1B investment in OpenAI, will allow characters on Sora AI\n   💡 迪士尼IP开放给Sora，AI视频内容版权格局松动，短剧出海可能获得正版IP素材\n   👉 关注Sora是否开放API及IP授权范围，评估能否用于短剧制作\n   💰 机会: 用正版IP做AI短剧，差异化竞争\n   ⚠️ 风险: IP授权可能仅限美国地区或高门槛\n   📎 Hacker News\n   🔗 https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html\n\n▎📡 行业动态 | [HN] The Walt Disney Company and OpenAI Partner on Sora\n   💡 迪士尼与OpenAI正式合作，AI视频生成进入主流影视工业，工具能力将快速迭代\n   👉 持续跟踪Sora功能更新，测试其短剧场景生成能力\n   💰 机会: 抢先掌握Sora做短剧的工作流，形成教程卖课\n   ⚠️ 风险: 大厂入场后小玩家工具优势被抹平\n   📎 Hacker News\n   🔗 https://openai.com/index/disney-sora-agreement/\n\n▎🛠️ AI工具 | [新品] SugarCube: Give AI images a photographic finish\n   💡 AI图片后期处理工具，可直接用于短剧封面/角色图优化，提升内容质感\n   👉 上传短剧角色图测试效果，评估是否纳入制作流程\n   💰 机会: 批量优化短剧素材，提升点击率\n   ⚠️ 风险: 免费额度有限，批量使用成本需核算\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/sugarcube-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] Clixad: Free AI coding agent for your terminal, no subscription\n   💡 免费AI编程工具，可降开发成本\n   👉 下载测试Clixad，评估替代付费工具\n   💰 机会: 用免费工具开发插件降本\n   ⚠️ 风险: 免费额度有限，可能不稳定\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/clixad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🎬 短剧出海 | [新品] Free Social Media Video Downloader: Download videos from TikTok, IG, YouTube & X, free\n   💡 免费下载竞品视频，便于选题分析\n   👉 用该工具下载爆款短剧，分析题材\n   💰 机会: 批量采集素材做二次创作\n   ⚠️ 风险: 版权风险，勿直接搬运\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/free-social-media-video-downloader-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n🔹 【B级 · 了解即可】\n\n▎📡 行业动态 | 开场致辞：走出去了，然后呢？｜36氪2026 East Forward 出海大会\n   💡 出海从卖货转向品牌本地化，合规与经营治理成核心门槛\n   ⚠️ 风险: 政策收紧对出海企业挑战加大，需提前关注合规\n   📎 36氪\n   🔗 https://36kr.com/p/3991165694442497?f=rss\n\n▎📄 其他 | 从智能硬件到宠物数字生命体，这家公司正在构建AI驱动的宠物智能生态｜36氪首发\n   💡 AI硬件+宠物赛道融资活跃，与自身业务关联度低\n   📎 36氪\n   🔗 https://36kr.com/p/3991141712903171?f=rss\n\n▎📡 行业动态 | 对拿下一轮投资最有效的沟通，是「思想履约」\n   💡 融资沟通方法论，对知识付费课程选题有参考价值\n   💰 机会: 可开发「创业者融资沟通」相关课程内容\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/370611\n\n▎📡 行业动态 | 助听器躺赚三十年暴利，被 AI 打破了\n   💡 AI拆解传统行业壁垒的典型案例，对AI工具选题有启发\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/370445\n\n▎📡 行业动态 | 对话小宇宙 kyth：播客的护城河是真实，AI 无法取代的是人的立场\n   💡 播客商业化增长760%，可作为知识付费营销渠道参考\n   💰 机会: 通过播客建立AI内容创作领域个人品牌，导流课程\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/370345\n\n▎🛠️ AI工具 | 体验完 Step 5 Preview，我发现阶跃重新坐上国产大模型主桌\n   💡 国产大模型迭代快，可能影响AI工具开发选型\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1680881?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | 对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步\n   💡 端侧AI趋势，可能影响未来工具开发方向\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1680321?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🛠️ AI工具 | 在南方医院，临床医生开始「造」AI工具\n   💡 零代码AI工具平台兴起，可借鉴到其他领域\n   💰 机会: 开发垂直行业零代码AI工具\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html\n\n▎📡 行业动态 | 深度解读：智谱为什么要在 Infra 层搞 RSI？\n   💡 国产算力优化，可能降低AI工具成本\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/yanxishe/41rW4mD2vjnpNY2o.html\n\n▎📡 行业动态 | 在 AI「囤粮潮」里，拆解智谱 50 亿美元的「技术账本」\n   💡 智谱融资加速迭代，模型能力提升\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/industrynews/U0Od1SeYkIPA98cI.html\n\n▎📡 行业动态 | 独家丨OpenAI的一款无屏硬件，正在深圳试制\n   💡 OpenAI硬件可能带来新内容平台\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/weiwu/P2ycl5IbO7iNQKAt.html\n\n▎📡 行业动态 | 出海游戏企业面临开发成本高和用户留存难问题，AI大模型真能有效解决吗？\n   💡 AI在游戏出海的应用趋势，间接反映AI内容创作需求\n   💰 机会: 将AI大模型用于短剧个性化推荐和用户留存优化\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638495\n\n▎📡 行业动态 | Temu把国内成功的‘砍一刀’玩法搬到美国，能突破文化差异障碍扩大市场份额吗？\n   💡 文化差异对出海玩法的影响，可类比短剧题材本地化\n   💰 机会: 开发针对不同文化的短剧题材模板，提高接受度\n   ⚠️ 风险: 文化误读可能导致短剧在海外市场失败\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638494\n\n▎📡 行业动态 | 国产RPG和SLG手游融入日本文化元素后，如何进一步做好本地化运营以巩固在日本市场的成绩？\n   💡 本地化运营经验可迁移到短剧出海，提升内容吸引力\n   💰 机会: 制作融入日本文化的短剧， targeting日本观众\n   ⚠️ 风险: 过度本地化可能失去原有特色\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638492\n\n▎📡 行业动态 | Temu靠低价策略在美国假日购物季登顶下载榜，咱中小出海电商平台没那么多成本打价格战，咋借鉴它的成功经验？\n   💡 低价策略不适用短剧，但可借鉴其营销和用户增长方法\n   💰 机会: 通过社交裂变降低短剧获客成本\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638486\n\n▎📡 行业动态 | Temu在欧洲推‘砍一刀’引发热潮，其他跨境电商跟风做却没效果，问题出在哪？\n   💡 社交裂变玩法在海外有隐私争议，可借鉴到短剧推广\n   💰 机会: 短剧出海可尝试社交裂变拉新\n   ⚠️ 风险: 欧洲社交隐私监管严，裂变可能违规\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638468\n\n▎📄 其他 | 联想公布便携显示器新品 L16a：低色域 16\" 1920×1200 60Hz IPS LCD\n   💡 硬件新品与核心业务无关，仅作了解\n   📎 IT之家\n   🔗 https://www.ithome.com/1/004/723.htm\n\n▎📡 行业动态 | 阿里千问 App 升级“未成年人保护模式”：仅可使用学习功能、加强适龄内容回应\n   💡 AI监管趋严信号，影响AI内容合规边界\n   ⚠️ 风险: AI内容监管趋严，短剧出海需注意合规\n   📎 IT之家\n   🔗 https://www.ithome.com/1/004/713.htm\n\n▎📄 其他 | 罗永浩说野人先生难吃，这次为什么没有像西贝那么火？\n   💡 舆情公关案例，与核心业务无关\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4892587.html\n\n▎📄 其他 | 中国人的潮流初恋，回来了？\n   💡 潮流趋势与核心业务无关，仅作了解\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4892391.html\n\n▎📄 其他 | 超500万中国学生的身体，正在悄悄变“弯”\n   💡 与三大业务无关，纯社会健康话题\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4892564.html\n\n▎📄 其他 | “考古风潮”来袭，我们为何总在用当下审判过去？\n   💡 内容考古趋势可启发短剧选题怀旧向\n   💰 机会: 怀旧IP二创短剧可能吸量\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4892553.html\n\n▎🛠️ AI工具 | [GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video\n   💡 综合AI创作平台，功能全但星少，参考价值有限\n   💰 机会: 一键多平台发布功能可借鉴\n   ⚠️ 风险: 项目成熟度低，不建议依赖\n   📎 GitHub开源\n   🔗 https://github.com/gongxings/ai-creator\n\n▎🎬 短剧出海 | [GitHub] TorresLi608/SceneFlow: 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intell\n   💡 同类AI短剧工作台，仅2星，参考竞品思路\n   ⚠️ 风险: 项目太新，不稳定\n   📎 GitHub开源\n   🔗 https://github.com/TorresLi608/SceneFlow\n\n▎🛠️ AI工具 | [GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every \n   💡 Python AI开发框架，做插件SaaS可提效\n   💰 机会: 快速搭建AI Agent类插件产品\n   📎 GitHub开源\n   🔗 https://github.com/pydantic/pydantic-ai\n\n▎🛠️ AI工具 | [GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima\n   💡 GPT-4o图像提示词参考，可优化短剧视觉风格\n   📎 GitHub开源\n   🔗 https://github.com/jamez-bondos/awesome-gpt4o-images\n\n▎🛠️ AI工具 | [GitHub] open-mmlab/mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unl\n   💡 多模态生成工具箱，技术储备参考\n   📎 GitHub开源\n   🔗 https://github.com/open-mmlab/mmagic\n\n▎🛠️ AI工具 | [GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation\n   💡 开源通用视频生成模型，可关注其技术迭代作为备选方案\n   📎 GitHub开源\n   🔗 https://github.com/lichao-sun/Mora\n\n▎📄 其他 | [GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m\n   💡 与当前业务无关，但展示AI视频应用边界\n   📎 GitHub开源\n   🔗 https://github.com/AIM-Intelligence/video2robot\n\n▎🛠️ AI工具 | [GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models\n   💡 AI视频编辑管线，可关注其Vision LLM在剪辑中的应用\n   📎 GitHub开源\n   🔗 https://github.com/mazsola2k/ai-video-editor\n\n▎🎬 短剧出海 | [GitHub] nabobery/veo3-workflow-agents: A complete AI-powered video generation pipeline that enhances creative prompts a\n   💡 Veo3单API生成视频，可作短剧素材补充方案\n   💰 机会: Veo3高质量片段用于短剧关键镜头\n   ⚠️ 风险: Veo3 API成本高，批量生产不划算\n   📎 GitHub开源\n   🔗 https://github.com/nabobery/veo3-workflow-agents\n\n▎🎬 短剧出海 | [版本更新] Open-Sora v1.3: Open-Sora V1.3 Release\n   💡 开源视频模型迭代，长期可降低短剧生成成本\n   💰 机会: 未来自建开源视频生成管线\n   ⚠️ 风险: 版本较旧，已被新模型超越\n   📎 GitHub版本\n   🔗 https://github.com/hpcaitech/Open-Sora/releases/tag/v1.3\n\n▎🛠️ AI工具 | [HN] Show HN: A different kind of AI Video generation\n   💡 独立开发者做的AI视频工具，可能成为低成本短剧制作备选\n   💰 机会: 若免费/低价可替代现有视频生成工具省成本\n   ⚠️ 风险: 个人项目稳定性差，不宜依赖\n   📎 Hacker News\n   🔗 https://news.ycombinator.com/item?id=44383086\n\n▎📡 行业动态 | [HN] Meta’s new text-to-video AI generator is like DALL-E for video\n   💡 旧新闻，仅作行业背景参考\n   📎 Hacker News\n   🔗 https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e\n\n▎📡 行业动态 | [HN] Google announces Veo, their Sora competing text/image-to-video model\n   💡 Veo是短剧制作可选工具之一，需了解其能力边界\n   💰 机会: Google生态集成可能降低工作流成本\n   📎 Hacker News\n   🔗 https://aitestkitchen.withgoogle.com/tools/video-fx\n\n▎📡 行业动态 | [HN] Sora: Creating video from text\n   💡 Sora发布是行业里程碑，但已是旧闻\n   📎 Hacker News\n   🔗 https://openai.com/sora\n\n▎🎬 短剧出海 | [HN] Sora is here\n   💡 Sora正式开放曾影响短剧制作工具选择\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-is-here/\n\n▎🛠️ AI工具 | [新品] DragonName.ai: AI Chinese Name Generator for Natural Chinese Names\n   💡 AI起名工具技术门槛低，可参考其产品形态做垂直小工具\n   💰 机会: 做海外华人/外国人起名类小工具SaaS\n   ⚠️ 风险: 同类工具多，付费意愿低\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/dragonname-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] FaceSeek: Spot catfish and dating scams before you get fooled\n   💡 AI人脸搜索反诈骗工具，验证了AI+安全类小工具有市场需求\n   💰 机会: AI反诈/背景调查类工具SaaS\n   ⚠️ 风险: 涉及隐私合规，法律风险高\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/faceseek?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] VastQR: Bulk dynamic QR codes for teams that print\n   💡 批量动态二维码工具，可用于线下课物料和短剧推广引流\n   💰 机会: 线下课物料+扫码追踪转化数据\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/vastqr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎📄 其他 | [新品] CodeSimulators: Master coding interviews through visualizations\n   💡 编程面试可视化工具，与当前业务关联度低\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/codesimulators?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎📄 其他 | [新品] Record10: P2P video streaming torrent client that plays instantly.\n   💡 与核心业务关联弱，仅技术参考\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/record10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
  "items": [
   {
-   "title": "淘宝闪购城市骑士制服荣获法国设计奖最高奖",
-   "link": "https://www.36kr.com/newsflashes/3990416721607681",
-   "summary": "9月19日，2026年法国设计奖（French Design Award）颁奖典礼在巴黎举行，淘宝闪购城市骑士制服获颁金奖。这是该奖设立以来，首次将金奖授予一套面向一线劳动者的职业制服。城市骑士制服主设计师杨涛在致辞和采访中感谢阿里巴巴创始人马云。据杨涛介绍，马云是这套制服设计的发起者，其“情怀才是最好的设计师”这一表述促成了跨领域设计团队的组建。",
-   "published": "Sat, 19 Sep 2026 14:21:48 GMT",
-   "source": "36氪 - 快讯",
-   "biz_tags": [
-    "industry",
-    "ai_tools"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "与三大业务无关，纯品牌公关动态",
-   "action": "跳过，不占用注意力",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "欧洲人士质疑美企提议放缓AI研发是“出于私利”",
-   "link": "https://www.36kr.com/newsflashes/3990101614902277",
-   "summary": "欧洲科技企业和政府人士近期纷纷表态，质疑一些美国人工智能（AI）企业以安全为由提出放缓AI研发是“出于私利”，认为其真正目的是巩固自身优势并打压竞争者。近日，美国多名科技企业家呼吁放缓发展AI前沿技术。其中，Anthropic公司首席执行官达里奥·阿莫代伊在一篇文章中说，考虑到安全风险，AI企业需要放缓开发最先进模型的节奏。对于美国AI企业的提议，法国米斯特拉尔人工智能公司等欧洲AI企业表示反对。米斯特拉尔公司在一份声明中说：“部分行业头部企业正利用当下形势巩固市场地位，推动制定偏向自身、打压竞争者的监管规则。”瑞士质子公司首席运营官拉斐尔·奥方在巴黎的一场科技活动上评价美企提议时说：“这完全是出于私利，他们只想维持市场对自家服务的依赖。”德国AI初创企业黑森林实验室公司公共政策负责人本·布鲁克斯表示，用人为划定的门槛强行拉开大型AI企业和新入局者之间的差距，将抑制前沿领域的创新活力。德国达姆施塔特工业大学人工智能教授克里斯蒂安·克斯廷认为，由少数几家企业自行界定何为“危险AI”并自行挑选核查人员，“不是真正意义上的监管”。一些欧洲国家政府官员也表达了反对放缓AI研发的态度。法国经济与财政部长罗兰·莱斯屈尔对媒体说：“让身后所有竞争者放慢脚步，好保住自己第一名的位置，这里面的利己意图一目了然。” （新华社）",
-   "published": "Sat, 19 Sep 2026 09:01:15 GMT",
-   "source": "36氪 - 快讯",
+   "title": "开场致辞：走出去了，然后呢？｜36氪2026 East Forward 出海大会",
+   "link": "https://36kr.com/p/3991165694442497?f=rss",
+   "summary": "2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward第二届·36氪出海大会在上海举行。来自消费、科技、制造等领域的出海企业、投资机构，以及全球化服务商汇聚现场，围绕本地化经营、用户洞察、供应链、合规、渠道与全球组织等现实问题展开讨论。当“走出去”已不再是少数选择，企业需要面对真正的问题：如何在海外市场活下来、扎下去，把一次市场突破变成持续经营，并逐步建立属于自己的全球竞争力。 以下对话，经36氪整理编辑： 谢作强 | 36氪副总裁 谢作强： 各位朋友，上午好！ 欢迎来到大会现场，今年是出海大会的第二届，今年在上海举办，我刚刚跟滕教授介绍，去年是第一届，出海这块业务开展了很长时间，服务了很多企业、品牌，其中很多也已经是非常成功的全球经营企业，同时也有非常多初创企业、科技公司不断在全球发展、全球拓展。出海大会这个品牌IP今年在上海落地。 先说说出海这件事情，今天最大的变化是什么？ 出海对中国企业来说，其实不是特别新的话题，传统意义上的“卖货”这一关，中国企业在过去几十年其实早已经把这个难题解答了，现在难的是中国的品牌能不能在海外、在当地市场立得住，我们的账在当下是不是可以真的算清楚？我们的经营治理是不是能够面对各种各样的治理挑战、合规挑战？ 这场关于全球拓展的账不是跟同行在竞争，在全球范围内我们要去比较、去观察资金的流向、政策的变化。其实这一两年整体资本市场对于出海的企业并没有格外关照，最近一些头部公司资本市场的情况大家也能看到，现在更多的钱，尤其像我们观察去年全球超过四成的绿地投资投在了AI、半导体等资产更重的赛道上，各个国别之间的博弈、竞争变化非常快，整体来说政策收紧对出海企业挑战非常大。 现在跟以前不一样了，以前讲的是把货卖出去，现在是我们要把品牌在当地留下来。 说一说今天大会的主题，为什么叫“潮起之时，靠岸相见”？不是说潮退了大家一起上岸回家吧，是潮起来了，我们要在同行的路上，在全球化发展大方向一致的情况下需要找到一些地方，找到一些场合，能够停一停、歇一歇，坐下来聊聊，交流一下彼此的经验、积累的资源。所以我们组织了这样的大会，希望大会现场是同行之间可以说真话、上下游之间可以对接资源的大会。 这个品牌叫East Forward，为什么取这么有调性的品牌名字？是因为36氪不想只是办一场服务商对接会，我们希望我们探讨的话题是有深度的，我们希望各位企业家、各位合作伙伴把真实的经验分享出来，这是我们组织活动的初衷。 最后，说一下这次大会重要的内容和议程，先说说资源对接会，出海的人最难受的是什么？是没有人可以面对面交流，或者有些话没有办法对上下级讲，我们需要找真正懂行的专家来做面对面探讨。但是，这需要大家先把自己“真实问题”提出来，坦诚地提出来，这样36氪才能够帮你找到真正能解答这些问题的人。 再说一下今天会发布的三个名册：领航企业、拓新企业、筑路企业。这个名册是我们一直坚持要做的，名册回答的不是哪家公司最大、哪个企业规模最大、哪个量最大，我们想要找出来谁真正跑通了全球经营，他们的来时路是不是可以帮助和激励到更多的中国企业在海外、在全球化发展过程中。 出海这件事已经从一件一件卖货、一笔一笔买卖变成了系统工程，先行者蹚出的经验是今天最稀缺的东西，这也是36氪一直坚持办品牌峰会的原因，我们希望能够让好的榜样、好的品牌带领更多中国公司实现全球化发展。 最后，潮水不等人，有人已经在风浪里，有人刚准备启航。今天是9月17日，上海，感谢各位，也欢迎各位靠岸，我们今天把问题带过来，把下一步带走！",
+   "published": "2026-09-20 11:06:20  +0800",
+   "source": "36氪",
    "biz_tags": [
     "industry",
     "ai_tools"
    ],
    "category": "industry",
    "level": "B",
-   "why": "AI监管博弈影响开源模型可用性，间接影响工具开发",
-   "action": "关注欧洲开源模型政策走向，评估对工具链影响",
-   "opportunity": "欧洲开源模型若加速开放，可低成本接入",
-   "risk": "美企推动监管收紧可能限制API使用"
+   "why": "出海从卖货转向品牌本地化，合规与经营治理成核心门槛",
+   "action": "关注36氪出海大会后续嘉宾分享，筛选短剧出海相关内容",
+   "opportunity": "无",
+   "risk": "政策收紧对出海企业挑战加大，需提前关注合规"
   },
   {
-   "title": "同声传译大模型Qwen3.8-LiveTranslate正式发布",
-   "link": "https://www.36kr.com/newsflashes/3990012778757129",
-   "summary": "36氪获悉，9月19日，据千问大模型消息，今日正式发布全新的同声传译大模型Qwen3.8-LiveTranslate，模型以Interleave架构重构实时同传，准确度、流畅度、简洁度全面提升，字均延迟（LAAL）从2.8秒降至2.3秒。",
-   "published": "Sat, 19 Sep 2026 07:30:53 GMT",
-   "source": "36氪 - 快讯",
-   "biz_tags": [
-    "industry",
-    "ai_tools"
-   ],
-   "category": "ai_tools",
-   "level": "A",
-   "why": "延迟降至2.3秒，可做短剧多语言配音/字幕工具",
-   "action": "测试Qwen3.8-LiveTranslate用于短剧字幕翻译流程",
-   "opportunity": "开发短剧自动翻译配音SaaS插件",
-   "risk": "延迟仍2.3秒，实时场景可能不够"
-  },
-  {
-   "title": "理想新MEGA上市72小时：褪去网红气质，命中老车主",
-   "link": "https://36kr.com/p/3967826379977218?f=rss",
-   "summary": "两年前，MEGA第一次上市，理想为这款旗舰纯电在北京SKP等核心商圈开了店，当时，理想的目标是让MEGA成为50万元以上不分能源、不分车身形式的销量第一。 36氪曾探访了这家旗舰门店，当时流量虽然不多，但前卫的造型吸引了不少出圈客户。一位喜欢马术的年轻女孩就在华贸店成交，并带动她的马术群友们成交了20台。 今年，新一代MEGA再次上市后，36氪发现，这家旗舰店面已经不在。理想公司对新款MEGA的定位也转变为家庭MPV。 从破局向上，到守成求稳，也是理想这家公司近两年的写照。 新MEGA上市：订单火爆、门店不热，老车主成支柱 9月2日晚，新一代MEGA开售，仅有Home单一版本，售价50.98万元，较上一代直降5万元。 价格公布后，理想APP内交付周期迅速跳涨：初期显示2—4周，约20分钟后拉长至5—7周，次日已到8—10周。据36氪从产业链了解，8—10周等待周期对应4000辆以上的产能规划；按此推算，新MEGA上市24小时内锁单量约相当于两个月的排产规模。 新款MEGA上市次日，36氪走访了理想北京多家门店，近距离观察这台“爆款”产品的市场热度与用户逻辑。 一位理想门店销售告诉36氪，新MEGA上市首日，门店收获约30个锁单，超半数来自增换购的老车主，“甚至有3位客户，直接用老款MEGA置换了新版，他们的老车才开了不到两年”。 从市场策略来看，新款MEGA出现明显的内向特征：不依赖外观设计的争议性话题来拉新，而是深度挖掘并转化现有的老用户资产。 36氪了解到，新款MEGA在9月2日上市当天才正式进驻门店，但在此之前，理想已定向邀约部分老车主及意向客户，在签署保密协议的前提下完成了超前看车与试驾体验。 但即便如此，有销售向36氪坦言，目前大部分锁单车主依然是盲定，“我们对下单客户都进行了回访，得到的答案几乎都是，相信理想、价格合适就冲了”。 36氪在门店走访中，偶遇了一位理想老车主。 “这是我们家买的第四台理想了”，张大爷告诉36氪，昨晚新MEGA一发布，家里就直接下了单。在连续拥有理想ONE、L9、i8三款车型后，张大爷一家再次用真金白银投出了信任票，“开了这个车，别的真开不了了”。 在极度内卷的中国车市，理想似乎已经跳出“靠高端车立品牌”的初级阶段，率先实现了品牌资产的变现。 理想门店人士告诉36氪，新MEGA的获客成本远低于其他车型。“以往需要大量解释和试驾才能促成的订单，在新MEGA上只需报出价格，就能收获一半的老车主订单”，高比例的老用户复购，便是理想产品定义能力含金量的最好证明。 然而，订单火爆的另一面，MEGA的“网红效应”正在悄然消退。 由于上市首日正值工作日，加之新款外观变动不大，且门店未像i6上市时那样进行高调的外展宣传，进店客流并未重现初代MEGA上市时的围观盛况。 有门店人士向36氪透露，即便是在北京客流量最大的商场，如今走进理想展厅看MEGA的也多为高意向客户。“我们商场5楼是餐饮区和新能源车展区，任何品牌上新车都会引发围观，两年前的MEGA、今年的蔚来ES8都是。” 周末下午的黄金时段，36氪再次走进理想门店。相比冷清的工作日，周末核心商圈的门店迎来了客流高峰。多位销售坦言，周末客户扎堆，大家忙得脚不沾地。“不过，进店的客户大多直奔i6和L8，专门来看MEGA的人还是少数。” 理想某门店 MEGA的网红属性高度集中于其前卫的外观设计。初代车型凭借极具辨识度的造型，不仅在网络上引发热议，现实中更是吸引路人频频驻足拍照。 一位三年店龄的理想销售告诉36氪，两年前售卖MEGA时，不少老车主因无法接受外观而放弃下单。“但今天，能来门店、愿意坐进MEGA二排体验的客户，他们已不再讨论外观。” 然而，历经两年市场教育，理想MEGA实际上已经完成了一次“初步的用户筛选”。如今的转化逻辑已发生质变：理想不再需要费力说服用户接受外观，而是只需在那些“本身就欣赏MEGA设计”的圈层里，完成最终的订单转化。 MPV，需要很强的底盘吗？ 在冰箱彩电沙发已不再新鲜的今天，MPV车型似乎都想打“底盘”这张牌。 从搭载比亚迪云辇系统的腾势D9，到小鹏X9的“后轮转向+双腔空悬”组合，各大品牌都试图用底盘新科技，撕掉MPV开船感和笨重的标签。 理想也不例外，新款MEGA搭载了线控转向与后轮转向技术，将这辆5.3米大车的转弯半径压缩至5.5米，希望以小车的灵活感打动用户。 除此之外，主动防倾技术也是理想MEGA的技术招牌。多位理想销售告诉36氪，公司培训的销售话术里，第一条便是介绍主动防倾技术。 不过，新MEGA上的主动防倾技术，与传统燃油车的机械防倾杆并非同一概念。传统方案采用实体金属杆，部分高端车型额外配备了液压或电控离合器以实现“主动”调节。 新MEGA的创新则在于，引入800V电控作为主动执行器，相比传统液压与电控离合器具有更大扭力。结合车身传感器读取的车速、转向角、横向加速度及车身倾角，据理想官方数据，响应时间约为30毫秒，较传统液压主动防倾技术快1.5至5倍。 然而，从一线销售反馈来看，智驾与底盘的技术迭代并未成为用户核心决策点。进店客户几乎将全部注意力聚焦于座舱舒适度，理想重金堆砌的主动防倾技术，在用户端意外遇冷。 也有行业人士向36氪坦言，新MEGA的主动防倾魔毯在城区低速状态下差异并不明显，“通常需要过弯速度达到80km/h以上，才会有明显的体感差异”。 36氪在理想门店实地走访时，恰好记录下了这样一幕。 面对顾客对新MEGA庞大车身“是否难开难停”的担忧，销售正想开口介绍底盘的升级细节时，正在车内带孙子休息的张大爷抢过了话头：“这车有智驾，什么路都能自己开，商场停车也能自己搞定，交给它就行，别操心。” 比起那些转向与防倾技术，理想用户对智能驾驶的需求和感知显然更为强烈。 以及理想新MEGA上为数不多需要选配的调光玻璃，据一线销售透露，这款在其他品牌商务车型上广受好评的配置，在理想MEGA上的主动选配比例几乎为零。理想重金打造的技术升级，的确带来了更好的体验，但实际上，却并未转化为核心购买驱动力。 理想MEGA并非孤例。 今年5月上市的MPV车型智界V9，同样在大打“底盘牌”，从后轮转向、路面预瞄，到卡钳配置与百公里制动距离，无一不是宣传重点。但在36氪的走访中，大部分用户下单的核心驱动力，仍是对华为品牌及其智能驾驶技术的信任。 当所有MPV都在卷底盘、卷智驾，而用户只关心座舱舒适和智能体验时，MPV市场的技术军备竞赛，到底是在满足真实需求，还是在自嗨？购买MPV的用户，究竟是为驾控还是舒适买单？在理想新MEGA上，我们似乎看到了答案：在增换购比例超7成的MPV市场，品牌、空间和舒适，才是MPV的正确答案。",
-   "published": "2026-09-18 13:14:54  +0800",
+   "title": "从智能硬件到宠物数字生命体，这家公司正在构建AI驱动的宠物智能生态｜36氪首发",
+   "link": "https://36kr.com/p/3991141712903171?f=rss",
+   "summary": "作者&nbsp;|&nbsp;张子怡 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，宠物智能科技品牌Moonback近日完成数千万元首轮融资，投资机构为AI上市公司。本轮融资将主要用于AI算法、研发和市场团队建设。 宠物经济在全球范围内持续增长。 美国宠物用品协会（APPA）数据显示，2025年美国宠物行业消费额达到1580亿美元，同比增长3.7%，预计2026年进一步增至1650亿美元；2025年，美国约有9500万户家庭至少饲养一只宠物。 过去，宠物智能硬件的主要功能仍集中在自动喂食、自动清洁、定位和远程看护。而随着AI与多模态感知技术的发展，宠物智能硬件有望从“满足日常需求”进一步走向“理解宠物状态”，健康管理也成为新的产品探索方向。 过去一年，Moonback海外业务营收已达近亿元人民币，且不断加大AI方向投入，将产品重心转向宠物智能生态构建。 转向背后，是Moonback创始人兼CEO Kevin对养宠场景痛点的发现。 \"宠物是唯一一个当事人永远无法自述的健康场景，\"Moonback创始人Kevin表示，\"结合我自己多年的养宠经验，家长不是不关心，是没有办法知道。一次活动量下降本身可能没有意义，但如果能和这只宠物过去数周、数月的睡眠、活动与行为放在一起看，就可能提前发现值得关注的信号。问题在于，现在没有一个地方能把这些放在一起。\" 相比过去用单一设备记录某个动作，Moonback希望同时获得宠物的运动、心率、体温、睡眠、呼吸、排泄和行为数据，再由AI结合长期数据进行分析，监测健康情况。 由于宠物犬和宠物猫的生活习惯各有不同，Moonback也设计了不同的产品。 智能胸背 对于宠物犬，Moonback将推出一款智能胸背，在GPS定位、虚拟电子围栏之外，加入运动、体温、心率等身体参数监测，并通过Agent为用户提供健康趋势解读和风险提示。 相比智能项圈，胸背也是一个更贴近狗既有习惯的载体。 Kevin告诉36氪，团队此前也考虑过项圈，但整机重量会集中在颈部，长期佩戴舒适度较低。而目前这款智能胸背更适合宠物犬佩戴且续航可做到10—15天。 智能胸背主要覆盖户外场景，对于室内场景，Moonback则设计了一款AI睡眠窝垫。 睡眠窝垫搭载毫米波雷达等传感方式，在宠物犬睡眠时记录静息心率、呼吸频率、抓挠行为和睡眠时长等指标。Moonback也关注中老年犬和短鼻犬等群体，这类型宠物犬心脏和呼吸问题早期症状并不明显，而夜间长时间睡眠提供了一个相对稳定的数据采集场景。 在Moonback的规划里，智能胸背和睡眠窝垫分别覆盖户外与室内，两类数据需要再进行交叉分析。 “宠物的健康状态并不能通过单一指标或一次数据变化进行判断”Kevin表示，还需要结合心率、睡眠以及徘徊、焦躁等行为表现，并参考长期数据趋势，综合分析其状态变化。。 对于宠物猫的智能健康检测产品，数据入口则更多依赖视觉。 宠物猫长期生活在室内，活动位置也更加分散。Moonback通过开发AI摄像头，覆盖进食、饮水、睡眠和排泄等高频场景。 例如在猫砂盆附近，摄像头可以记录猫排便时排泄物的颜色、形态和干硬程度，再和长期历史数据进行比较；放在进食区和睡眠区域，则可以记录饮食和行为变化。 AI睡眠窝垫 从智能胸背、AI窝垫到摄像头，Moonback想做的并不是单纯增加硬件SKU，而是增加观察宠物的“维度”。 自2024年底起，Moonback已经积累数十万份涉及宠物行为、生理数据和声音的样本，并开始与宠物医院、高校合作补充临床数据。 同时，Moonback正在通过AI Agent输出健康报告、异常提醒和养宠建议，并逐步形成单只宠物的长期数字档案。相比继续扩充硬件品类，Moonback更希望验证的是：多种硬件持续获取的数据，最终转化为对宠物身体和情绪更有效的判断。 CEO对谈 硬氪：现在很多硬件公司都在讲AI，你觉得宠物真正需要AI解决什么问题？ Kevin： Moonback要做的是通过硬件+AI，帮助每一只毛孩子表达自己的健康和情绪，帮助宠物家长更好理解自己的毛孩子，为宠物家长和毛孩子提供一个真正能解决养宠问题的社区和平台 小孩会通过哭喊、语言等方式表达个人状况和诉求，但是宠物并不会告诉你健康和情绪问题。特别是进入中老年后，很多疾病和情绪问题都会逐渐显现。 所以我们需要通过不同设备采集它的身体和行为数据。不能只看单一数据，包括它在家里是否徘徊、焦躁，都要结合起来。 硬氪：宠物医疗的数据基础远没有人类医疗成熟，你觉得这个赛道真正的门槛在哪里？ Kevin： 技术能力是进入这个领域的基础，但真正形成长期差异的，可能还是数据和场景积累。 Moonback过去一年多一直在做这件事，目前已经沉淀了数十万份宠物相关数据。以宠物语言理解为例，AI不能只知道“它叫了一声”，还需要知��它为什么在这个时间、这个环境下叫，以及叫之前和之后发生了什么。这意味着，宠物AI需要的不只是更大的模型，还需要大量来自真实生活场景的多模态数据，以及长期的数据积累。",
+   "published": "2026-09-20 10:39:43  +0800",
    "source": "36氪",
    "biz_tags": [
     "industry",
@@ -65,8 +31,8 @@
    ],
    "category": "other",
    "level": "B",
-   "why": "与AI内容出海业务无关",
-   "action": "跳过",
+   "why": "AI硬件+宠物赛道融资活跃，与自身业务关联度低",
+   "action": "了解即可，不投入精力",
    "opportunity": "无",
    "risk": "无"
   },
@@ -80,11 +46,11 @@
     "industry",
     "ai_tools"
    ],
-   "category": "other",
+   "category": "industry",
    "level": "B",
-   "why": "融资方法论可参考，但非直接业务情报",
-   "action": "收藏A-B-C连线框架，用于知识付费课程设计",
-   "opportunity": "可将此框架做成知识付费选题",
+   "why": "融资沟通方法论，对知识付费课程选题有参考价值",
+   "action": "提炼「思想履约」概念作为知识付费内容选题素材",
+   "opportunity": "可开发「创业者融资沟通」相关课程内容",
    "risk": "无"
   },
   {
@@ -99,10 +65,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "Jev结构化决策成本极低，可做Agent工具后端",
-   "action": "研究Jev API定价，评估接入短剧投流自动化决策",
-   "opportunity": "用Jev做低成本投流决策/分类工具插件",
-   "risk": "新模型生态不成熟，稳定性待验证"
+   "why": "Jev模型结构化输出快40-200倍且极便宜，可大幅降低Agent工具成本",
+   "action": "研究Jev API文档，测试能否用于短剧投流自动化决策",
+   "opportunity": "用Jev做低成本结构化决策工具，开发投流优化插件",
+   "risk": "新模型生态不成熟，需验证稳定性和可用性"
   },
   {
    "title": "助听器躺赚三十年暴利，被 AI 打破了",
@@ -116,9 +82,9 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "AI拆解传统行业壁垒的案例，可作知识付费素材",
-   "action": "提炼“AI拆壁垒”案例用于课程营销内容",
-   "opportunity": "可做一期“AI如何打破行业暴利”知识付费选题",
+   "why": "AI拆解传统行业壁垒的典型案例，对AI工具选题有启发",
+   "action": "了解即可，关注AI+传统行业改造的选题思路",
+   "opportunity": "无",
    "risk": "无"
   },
   {
@@ -133,10 +99,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "Agent支付信任基础设施，影响未来工具变现模式",
-   "action": "研究APASS的KYA机制，评估工具接入支付可行性",
-   "opportunity": "提前布局支持Agent支付的工具/SaaS",
-   "risk": "Agent支付安全门槛高，小团队难切入"
+   "why": "Agent支付信任基础设施APASS发布，影响未来AI工具商业化支付链路",
+   "action": "关注APASS接入方式，评估自有SaaS工具是否需要集成",
+   "opportunity": "提前布局Agent支付场景的工具开发",
+   "risk": "Agent支付安全合规门槛高，小团队难切入"
   },
   {
    "title": "腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变",
@@ -149,11 +115,11 @@
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "B",
-   "why": "Agent办公赛道爆发，但与你短剧/插件/课程业务无直接关联",
-   "action": "关注豆包工作是否开放插件生态，暂不投入",
-   "opportunity": "无",
-   "risk": "无"
+   "level": "A",
+   "why": "大厂Agent会战意味着工具生态洗牌，小团队需找差异化切口",
+   "action": "分析大厂Agent未覆盖的垂直场景，寻找短剧/内容创作细分工具机会",
+   "opportunity": "在短剧投流、素材生成等垂直场景做Agent插件",
+   "risk": "大厂平台可能吞并通用Agent工具市场"
   },
   {
    "title": "对话小宇宙 kyth：播客的护城河是真实，AI 无法取代的是人的立场",
@@ -167,9 +133,26 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "播客商业化增长快，可作知识付费营销渠道参考",
-   "action": "研究小宇宙品牌合作模式，评估投放课程广告",
-   "opportunity": "在播客平台投放AI创作课程广告",
+   "why": "播客商业化增长760%，可作为知识付费营销渠道参考",
+   "action": "评估在小宇宙开设AI短剧出海播客作为获客渠道",
+   "opportunity": "通过播客建立AI内容创作领域个人品牌，导流课程",
+   "risk": "无"
+  },
+  {
+   "title": "体验完 Step 5 Preview，我发现阶跃重新坐上国产大模型主桌",
+   "link": "https://www.ifanr.com/1680881?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "模型入海，阶跃走向人群 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "Sun, 20 Sep 2026 04:00:16 +0000",
+   "source": "爱范儿",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "ai_tools",
+   "level": "B",
+   "why": "国产大模型迭代快，可能影响AI工具开发选型",
+   "action": "关注阶跃API定价，对比现有工具成本",
+   "opportunity": "无",
    "risk": "无"
   },
   {
@@ -184,10 +167,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "Vidu S2支持边看边改，可提升AI短剧制作效率",
-   "action": "测试Vidu S2的视频生成与编辑功能",
-   "opportunity": "用Vidu S2批量制作短剧素材",
-   "risk": "工具效果不及预期浪费订阅费"
+   "why": "Vidu视频生成升级，可提升短剧制作效率",
+   "action": "测试Vidu S2生成短剧片段效果",
+   "opportunity": "用Vidu快速产出爆款短剧素材",
+   "risk": "无"
   },
   {
    "title": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
@@ -201,15 +184,32 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "端侧AI趋势，短期不影响你的云端短剧制作流程",
-   "action": "了解即可，关注端侧模型是否降低AI工具成本",
+   "why": "端侧AI趋势，可能影响未来工具开发方向",
+   "action": "了解端侧AI能力，评估插件机会",
    "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "在南方医院，临床医生开始「造」AI工具",
+   "link": "https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html",
+   "summary": "导语：让医生从工具的使用者，变成工具的创造者，需要有什么样的技术底座？&nbsp; 南方医院肾内科的谢迪医生，还记得前几年遇到的一位女孩，24岁，系统性红斑狼疮，因为呼吸困难住院。她的血检指标，却指向一种进展凶险的罕见病——aHUS（非典型溶血性尿毒症综合征）。发病时，微血栓会堵塞全身小血管，肾脏首当其冲；其急性期死亡率达25%。 谢迪医生参与过太多这样的会诊，最让她感到无力的，是明明有药可治，信息整合却极其耗时。这种疾病的有效干预窗口只有症状出现后的24到48小时，如果发病7天之内快速识别并启动治疗，预后远远好于7天之后。在黄金时间窗口用药，能有效避免脏器功能不可逆的损伤。 可现实情况是，患者往往要在多个科室间辗转，确诊周期以天计算。等肾内科、血液科、感染科等各个科室的医生被召集起来会诊，等资料整合完毕，又可能已经错过了最佳干预窗口。 最懂疾病逻辑的临床医生脑子里有一整套排查路径，却造不出一个能辅助自己快速整合多学科信息的工具。他们只能依赖人肉协调，逐个科室沟通，在紧迫的时间压力下凭经验拍板。 这样的困境并非个例。在南方医院里，医生们每天都在诊室里遇到类似的情形：最清楚问题出在哪里的人，造不出解决问题的工具。 创造工具通常需要编程，需要排期，需要开发成本，需要让工程师理解复杂的临床业务流。 不少医生告诉雷峰网 (公众号：雷峰网) ，他们的很多想法，总是“碍于这样那样的原因，在提出之前就被放弃了”。 直到今年4月，南方医院与华为签署协议，基于华为DCS AI解决方案构建的HAIP平台正式落地。其核心组件Nexent智能体平台以零代码、可视化的方式，让医生无需编程，仅用自然语言描述临床逻辑，就能生成智能体原型——许多 过去根本不可能被提上日程的临床创新，突然变成了医生当天就能验证的想法 。 当创造工具的门槛从“会写代码”降到了“能把需求说清楚”，最懂临床问题的人开始获得一种从未拥有过的能力：直接定义AI工具的逻辑。 01 当“根本不会提的需求”变成了现实 如文章开头提到的aHUS确诊流程，医生们的脑子里其实已经有一整套的aHUS排查路径，但她们也清楚地知道，要把这套路径变成一个可运行的辅助工具，在过去几乎是不可能的。 谢迪医生告诉我们，她试着了解过传统IT开发的行情，但光是做一个高危筛查的临床决策支持系统，第一步就要付出不菲的外包费用。 更根本的障碍在于沟通： 做数据采集的不懂AI，做AI的不懂业务流，医生脑子里有完整的临床逻辑，工程师却需要花很长时间才能理解那些细微的诊疗决策节点。 等双方终于对齐了需求，排期又要以月计，最后做出来的东西往往和医生想要的相差甚远。 在产科，霍智锋医生面临的则是另一种形式的沉默。 临床上一些低频但高风险的急症出现时，处理时间窗口很短，极其考验团队协作能力，因此需要大量的提前模拟训练。 但传统模拟教学中病例设计耗时间，复盘靠回忆，规培医生的训练密度很难提上去。医生们不是没想过优化，但他没有任何编程经验，也不知道走传统IT开发流程耗费几何，在大模型被广泛使用之前，这种模拟教学几乎全程依靠“手搓”。 这种情况可以说是医疗AI领域的“老毛病”。医生掌握的是基于经验的临床直觉，工程师掌握的是基于代码的系统思维，两种语言之间缺乏有效的翻译层，沟通的鸿沟始终得不到修补。 行业里有大量“死数据”和“活想法”，但医疗AI的创新长期由技术侧主导：工程师定义问题、设计产品，日常工作已经非常忙碌的医生只能被动适应。 从提需求到排期开发，再到反复沟通业务逻辑，中间隔着一堵根本翻不过去的墙。那些从真实诊室里长出来的需求，因为无法被准确表达、无法被快速验证，大多在开口之前就被放弃了。 肝病中心的刘红艳团队，在技术需求的实现上，甚至有过一次具体的挫败。她们尝试过一款EMDT系统，投入了不少精力，但最终因为 技术门槛太高、持续运营成本太重 ，没能活下来。那次失败之后，这个构想被搁置了整整十年。 不同的科室、不同的临床场景，背后却是同一种被锁死的状态：技术发展得很快，但没有停下来等一等真正需要它的人。 02 医生们开始“自己动手，丰衣足食” 作为最了解临床业务流的人，医生们是怎么把诊室里反复出现的困境，转化为可运行的智能体逻辑的？为此，我们和三位参与智能体开发的临床医生聊了聊。 aHUS罕见病诊断：把散落在八个科室的线索串起来 文章开头提到的aHUS，其病因其实已经相对明确：患者体内的补体系统，原本用来抵御细菌入侵的免疫卫兵，在不该激活的时候被过度激活，向内攻击血管内皮细胞，导致全身性微血栓形成。 这种罕见病只要能诊断出来，就能针对性治疗，但这种疾病早期症状缺乏特异性，患者可能会以贫血、血小板下降出现在血液科，也可能以肌酐升高被推到肾内科，每个科室看到的都只是碎片，只能联想到本科室的相关疾病；每个专科的诊疗记录也散落在不同的系统里，很难及时汇总，赶不上治疗的黄金窗口期。 谢迪还向我们描述了一个让她印象深刻的病例：一位孕妇因aHUS入院，终止妊娠后虽然保住了生命，却遗留了不可逆的肾功能不全——如果能在发病早期快速确诊并启动针对性药物，不仅能避免急性期的高死亡率，更能保护患者的长期肾功能，避免后续发展为尿毒症、甚至肾移植后移植肾丢失的风险。 问题不在医学判断本身，而在 信息整合的速度 。但aHUS的诊断是非常复杂的排他性诊断。医生需要先确定患者属于血栓性微血管病（TMA），然后逐一排除血栓性血小板减少性紫癜（TTP）、恶性高血压、药物诱发等多种可能，中间涉及血液科、肾内科、感染科、风湿免疫科等八九个专科的交叉判断。 在过去，这个排查过程，完全依赖医生的个人经验和多学科会诊的人工协调。而现在，谢迪团队基于HAIP平台，尝试把这套复杂的临床思维转化为可运行的智能体架构： 数据感知智能体负责从HIS系统抓取血常规、破碎红细胞等关键指标；分层推理智能体按照“识别TMA→确诊TMA→逐一排除其他疾病”的路径推进；MDT协同智能体则模拟八个专科医生的交叉质询。 更关键的是分歧处理机制。谢迪告诉雷峰网，她们特地加入了仲裁智能体进行分歧处置——比起消灭差异， 将模糊的问题精准化 才是重点。 当不同专科智能体给出方向不同的建议时，系统设计了四级处置逻辑： 第一级 回溯证据、查缺补漏，判断分歧是否源于关键数据缺失或信息不一致； 第二级 结合证据等级、时效性及患者实际情况，对不同意见的依据进行结构化评估； 第三级 将各专科意见、证据依据和主要分歧以透明方式呈现给真人医生，由医生最终拍板； 第四级 完整记录争议点、决策依据和最终结论，沉淀为可追溯的案例库，为未来同类病例提供辅助参考。 谢迪特别提到两个她认为有护城河价值的设计：一是 人机对话 ，与通用大模型不同，这个系统允许医生在发现AI判断有误时直接点击修正，医生修正后内容会进入知识迭代流程，经专家审核、版本管理和验证后更新至知识库。 二是 记忆飞轮 ，光有知识库约束还不够，AI在拆解知识库时也会出错，而记忆飞轮能让每一次线下MDT的汇总结果持续反哺系统，随着经过审核的真实世界病例不断沉淀，智能体可增强相似病例检索和辅助参考能力，在新病例中向医生呈现历史相似病例、处置过程和结局，更好地辅助临床判断。 上述智能体设计看似复杂，但谢迪告诉我们，她是零基础入门，参加讲座培训之后开始用HAIP平台搭建，基于Nexent智能体平台的零代码可视化能力，“知识库直接上传就行，不需要编程，它自动帮你拆解、生成知识库”。调试时，她先粗略说要什么， 平台生成大概框架，再根据临床需求逐步修正 ——哪些指标要重点关注、哪条逻辑链要改，一步一步修正成想要的样子。 从零基础到完成初赛原型，谢迪和团队只用了十天。过去外包做类似系统，费用不菲、耗时不短且没人真正理解临床业务流； 现在仅凭自然语言描述排查路径，就能把脑子里那套“逐一排除”的鉴别诊断思维，落地为可运行的系统 。 她透露，团队下一步希望把这个系统嵌入医院病历系统，通过南向接口抓取HIS数据、北向接口回输意见，让分散在各科室的信息能被实时整合，在黄金窗口期内完成筛查和预警。 不会编程的医生，做出了产科急危重症训练系统 aHUS的救治抢的是时间窗口，产科的危急症训练同样如此。例如产后出血，病情进展快、考验团队协作，但临床上并不常遇到，规培医生遇到得少。 霍智锋医生告诉我们，如果是传统教学形式，一个像样的病例需要老师手工整理四五十分钟，训练开始后老师要同时观察、记录、判断，分身乏术，复盘只能靠课后回忆，学生哪里做得好、哪里漏了，很难当场给出精准反馈。 更关键的是， 传统训练很难还原真实抢救中的时间压力 。轻松环境下学生可能表现得不错，但真实环境里压力汹涌而来，人的判断力会明显下降，那种紧迫感是常规训练还原不出来的。这种对“高压下真实反应”的模拟需求，只有长期站在临床一线、亲自带教的人才能真正意识到。 基于HAIP平台，霍智锋把产后出血抢救的临床经验转化成了AI辅助病例生成与智能复盘系统。老师只要把脱敏后的病例资料上传，告诉系统教学目标和难度，Nexent智能体平台就会在后台生成结构化的病历草案，经老师审核确认后发布，演练正式开始。 雷峰网在智能体演示现场注意到， 整个使用过程被设计得尽可能贴近真实抢救场景 。学生端只看到一个初始场景和倒计时，系统不会主动提供额外信息——真实抢救中也没有老师时刻提示，一切要靠学生自己去评估和请求，比如学生要求监测生命体征，系统才反馈血压和心率。 智能体会让病情在时间压缩的压力下持续演进：学生处理正确，系统反馈病情改善；学生未能及时干预，病情自动恶化，出血量从数百毫升快速上升到上千毫升，伴随脸色苍白、烦躁等体征变化——这种设计会逼迫学生在高压下保持主动思考与决策，而不是被动等待指令。 系统里的确定性状态机引擎负责把控病情演进，但霍智锋明确表示， 规则不是AI生成的，是医生基于十几年临床和教学经验制定的 ——什么情况下病情该推进、推进到什么程度，都经过反复验证。 复盘环节的变化同样明显：以前老师拿着表慢慢对照、整理，大概要15到20分钟；现在系统约4秒就能生成复盘初稿，记录学生在什么时间做了什么，并给出针对性改进建议。霍智锋还做了升级版本，加入语音识别后，智能体可以区分不同参与者的声音，加强团队协作上的训练。 霍智锋告诉雷峰网，这种基于平台的开发体验，让他感受到了何为“ 技术平权 ”。他没有任何编程经验，却能把教学想法直接变成可运行的系统。“编程我不会，但现在不需要我会，AI会就行，我只需要提需求，不满意就让它改。”临床一线的教学者，第一次真切体会到拥有直接创造工具的能力。 更重要的是，这套系统正在产生向外的技术流动。霍智锋认为，这类智能体在基层医院的价值，可能比在大医院要高得多。大医院的学生能力普遍很强，遇到的病患多、情况也更复杂；但对基层医院来说，可能数年都碰不到一次严重产后出血，一旦遇上就是加倍的凶险——借助智能体进行训练，起码能保持一定的熟悉度。 他甚至收到了ICU和急诊同事的信息，询问能不能把智能体开放给他们——从华为的技术底座，到临床医生的教学创新，再到基层和兄弟科室的能力延伸，技术平权在这里形成了一条清晰的流动链条。 接下来，这套系统将向子痫、急诊、ICU等场景迁移，并探索加入图像识别甚至VR，让模拟训练的边界从产科延伸到更多高压急症场景。 肝癌MDT全周期：让专家从会议室里解放出来 产科强调对年轻医生的团队协作训练，而对于年资高、非常忙碌的资深医生，协作效率是另一个层面的痛点。 肝癌的五年生存率，中国和日本之间存在显著差距。刘红艳团队长期关注这个问题，他们认为差距不在手术技术，而在全程管理——日本“三早”（早发现、早诊断、早治疗）做得好，中国很多病人一发现就是晚期，且缺乏持续的随访管理。 但肝癌MDT做了十五年，刘红艳团队越来越感到一种 组织层面的疲惫 ：每次会诊都像组织一场会议，主管医生要整理海量资料、制作PPT，专家要固定时间地点到场，能服务的病人非常有限。更麻烦的是，会诊结束往往就是终点，病人有没有按方案治疗、复查结果如何，后续随访管理完全断裂。 刘红艳医生告诉雷峰网，十年前她们就想做线上会诊，2016年甚至尝试过一款EMDT产品，最终因技术门槛和运营成本太高，没能活下来。 而今年4月华为与南方医院建立的合作，让刘红艳团队感受到了技术的“东风”。基于HAIP平台，团队把十五年未能实现的构想，在一个多月内建成了demo。他们将预警、质检、专科分身、随访监测等全周期环节，转化为11个子智能体的协同闭环。 会诊前，系统自动抓取患者病史资料、完成质检；会诊中，各专科AI助手并行输出基于指南的诊疗建议，首席AI汇总形成会诊结论；会诊后，系统自动制定个性化随访计划，并在患者未按时复诊时触发分级预警，提醒病人、家属、主管医生和护士，形成逐层响应。 对医生来说，这意味着每个专家都有了一个24小时不休息的AI助手。智能体就像一个秘书，“给每个专家配一个这样的AI助手，就能给他们减负”—— 它把指南推荐的意见整理出来，医生只需审核、补充或删减，不需要一切从零开始思考 。 原来发起一次会诊要耗费数小时整理资料、制作PPT，现在资料上传后十分钟就能自动生成。团队甚至已经可以随时在实际场景中落地：每周两场会诊，可以让智能体和真实会诊同步运行，不断训练。 团队计划让智能体持续积累真实病例，逐步理解那些指南里没有写明的隐性经验。这种协同效率的提升，不仅意味着单次会诊的组织成本降低，更意味着从“筛→诊→治→管→用”的全周期管理，第一次有了可自动运转的闭环。 03 被重新定义的生产关系 回过头看，这三个案例其实指向同一个变化：医疗AI的生产关系正在被重新设计。 过去，定义问题的人和解决问题的人是脱节的。工程师主导工具设计，医生如果有需求，只能写需求单、排队等排期，等IT部的答复，最后交付的东西可能和自己的预期谬之千里，时间原因又导致无法返工迭代。 现在，医生直接参与应用层的设计，把临床经验转化为系统规则；技术厂商则退到底座层，做好算力、模型、安全与治理的基础设施。这种分工抛开了简单的甲乙方角色分配，而是让最懂临床问题的人获得了创造工具的能力，让技术真正服务于一线需求。 医疗是一个容错率极低的行业，南方医院的医生们在开发过程中，也始终保持着对严谨性的坚持：aHUS智能体严格限定知识库只检索权威文献，设置多智能体交叉验证和医生终审；产科训练系统明确由带教医生制定规则，所有病情演进都经过临床验证；肝癌MDT的每个子智能体都基于最新指南，结论最终由真人专家审核确认。 AI可以辅助整理、生成草案，但医学逻辑的底线必须建立在指南、专家共识和持续更新的真实病例之上，最终决策权始终留在医生手中。 当医生获得创造工具的能力，医疗AI的创新逻辑正从 “技术能做什么”转向“临床需要什么” 。南方医院的这些尝试只是早期探索，我们有理由相信创新会从诊室、从教学现场自然生长出来，而优秀的算力底座会让这种需求驱动的创新持续发生，让一线的声音直接变成可运行的工具，从而实现真正的技术平权。 ▼ 推荐阅读 ▼ ICML 2026现场直击：从展台到游轮，中国大厂在顶会抢人才 2026-07-08 Anthropic、OpenAI同一天落子AI4S赛道，巨头混战从「拼模型」转向「卡生态」 2026-07-02 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
+   "published": "Sun, 20 Sep 2026 03:54:00 GMT",
+   "source": "雷峰网",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "ai_tools",
+   "level": "B",
+   "why": "零代码AI工具平台兴起，可借鉴到其他领域",
+   "action": "研究Nexent平台，评估类似工具开发",
+   "opportunity": "开发垂直行业零代码AI工具",
    "risk": "无"
   },
   {
    "title": "BAT的「AI云销售」，困在MaaS内卷战中",
    "link": "https://www.leiphone.com/category/CorporateServices/GgIqkCOAOG9HQwJD.html",
-   "summary": "导语：报表里的Token收入仍在狂奔，一线销售却已气喘吁吁。 8 月 12 日，距离月底，还有剩下不到三周时间， AI云销售张雅达已经开始频繁接到领导的电话，被追问月底的缺口准备怎么补，第三季度业绩能否完成。 这种状态已经持续了将近半年时间。 年初 2 月开战略会议，张雅达就知道今年会有一场硬仗要打，当时公司明确强调今年要重点卖模型和算力。为了让大家重视这场会议，整场会不允许任何人迟到，也不允许任何人请假。 3月，OpenClaw在国内爆火，企业对AI Coding的需求大增，云厂商的MaaS目标被进一步拔高，而张雅达以及同事们也不例外，所有人的MaaS 收入指标已经到了人均一千多万。 这是一个什么数字？张雅达说，去年一年，一些销售MaaS收入少的可能才几十万，高的也才上百万。 \"缺口很大，有可能今年累死累活干完以后收入还不如 25 年。\"张雅达表示，但他也没有跟老板理论。 \"累死累活，大家各种扯皮，最后老板也并不会因为你完不成任务放低目标要求，你干不成，那就别人来干，铁打的公司，流水的兵。\" 进入二季度，为了快速做大MaaS收入、抢占市场，更激进的增长任务很快落到了一线销售身上。张雅达和同事们又被要求在短短数周内，将日均Token收入做到此前的数倍。 \"那段时间，销售们扛着巨大压力，基本上都是在连轴转，所有人神经紧绷。甚至当时还出现了意外事故。\"张雅达说。 后来消息在内部小范围传开，很快被压了下去。 没有人再公开讨论，但大家心知肚明，这种状态不可为继。等到任务结束时，内部曾说过，短期内不会再搞冲刺，大家才开始松了一口气。但没想到，进入八月，又一场 MaaS增长大战来了。 持续的高压，终于在另一个团队炸开了，某区域团队十几人的销售集体提出了离职。 \"不是一两个人走，是几乎整个团队在同一时间递交了辞呈。\" 内部后来把这件事定义为\"管理事故\"。据说，高层专门到团队开会，对负责人撂下话，再走一个人，你也得走了。 自家模型售卖的尴尬处境 一边是持续上涨的任务目标，另一边是拖后腿的自研模型。 今年年初，各家云厂商制定的战略是：只推自家大模型。但销售很快发现，自家模型很难推销。客户买模型，都是要先看当下哪个模型在同类场景里能力最强，需求就会蜂拥过去。 上半年，Coding和多模态市场基本上分别被智谱、Seedance瓜分了大头。 多名 AI云销售表示，作为Anthropic 的平替，智谱的模型一度成为大量国内Coding客户的选择。有销售估计，智谱可能拿下了国产Coding模型一半以上的需求。 而在多模态领域，需求则迅速涌向Seedance。 2月12日，Seedance 2.0正式发布，AI 云销售张帆清晰记得那是农历腊月二十五，因为大家都想着过年了，也没太重视这次发布，但没想到，春节过后，大批影视和短剧客户开始争取Seedance 2.0试用资格，还有不少客户愿意提前支付300万元，只为获得白名单和调用额度。 当时Seedance 几乎都是原价出售，价格咬得很紧，一些客户想争取些折扣，几乎通通无可奈何，只能原价买。 直到后来，有些销售为了促成成单，他们想出了一些办法，比如撬动与政府合作，拿到一定的补贴。他们会找熟悉政府项目的运营方合作：政府出一部分预算，运营方寻找有需求的企业，技术厂商提供模型、算力等产品。 这样一来，企业降低了采购成本，政府完成项目目标，运营方和厂商拿到订单。 需求涌向智谱、Seedance 等爆款模型后，这也让其他只能卖自研模型的AI 云销售处境尴尬：有客户，但是满足不了需求，这让许多销售感觉很难受，也很不适应。 有销售表示，前两年在云产品各家区别不大的情况下，销售只要陪客户喝几顿大酒、逢年过节送点东西、有事没事去客户办公室坐坐，客情做到位了，再给出一个足够有吸引力的价格，就有机会把客户拿下。 但现在这一套在大模型时代行不通了，\"只能卖好卖、能打的产品。不能打的产品，你非要卖，只会浪费时间。\" 云厂商也开始意识到这一问题，为了完成快速上涨的收入目标，于是调整了销售激励：第三方模型的转售收入，也可以全额计入销售业绩，而不执着于卖自家产品。 又是一场激烈的价格战 解决了产品问题，但销售难题并没有完全解决。 当所有云厂商都在卖智谱、DeepSeek、Kimi，大家卖的东西并无差异，再加上Token调用无任何切换成本，客户会随模型能力迭代瞬间转移，几乎不存在长期留存粘性，于是AI 云销售很快陷入价格战之中。 \"从卖云，再到卖大模型，就像是同一个游戏，开局了两次。\"AI 云销售张小雨说道。 一开始，这场价格战只在国产模型内部开展。 今年上半年，国产大模型的价格战越打越低。各家云厂商在智谱GLM、DeepSeek这些热门模型上互相砍价，你出6折我出5.8折，谁也不甘心丢单。但价格不可能无限往下打，刊例价就摆在那，直接打折打到一定程度就没空间了。 于是打法开始分化。 一种是明面上的直接打折。比如智谱模型，原厂还挂在8折，云厂商转手就给客户报到6折。价格透明、操作简单，客户拿着A厂的报价截图就能去压B厂。 另一种更隐蔽，也更有门道，用传统云产品利润来贴补大模型。具体操作是，客户谈完折扣后，销售还可以申请一笔云产品代金券，比如买50万的大模型，6折基础上再贴两三万的云资源券。 这样一来，客户实际成本更低了，但是厂商的大模型收入数字却没受影响，亏空被记在云产品的账上。 每次到季末需要冲击业绩时，有厂商会各个区域轮番做补贴，华东、华南、华北接连交替进行。而且补贴到账也会很快，有销售透露，2-3 万以下的券一次性发，大额的就分批走，审批不算难，有些体量比较大的客户，甚至代金券能达到数十万。 正当AI 云销售们还在为了卖国产大模型，而打得不可开交时，一个新变量出现了——Codex变便宜了。 Codex推出了重置机制，额度用完后可以通过特定推荐活动获得重置奖励。这相当于把有限的月度配额变成了可持续刷新的资源。不少的企业开始给员工开海外银行卡、注册个人账号，用订阅套餐替代国内的企业级API采购。 这导致，国内云厂商原本能吃到的一部分客户预算，又被Codex截走了。 国产模型之间的折扣战还没打完，Codex又把价格往下压了一截。对AI 云销售来说，这场价格战看不到终点，只有不断被刷新的低价。 内部配合比外部获客还难 销售在外找到商机了，这一单还不见得能成交，卖MaaS比卖成熟的云产品更依赖内部协作。 \"客户需要的不只是一个模型报价，还需要解决方案架构师拆场景、产品团队做适配、交付人员推进上线。\" 这时候新的难题也开始出现，怎么样让寻求到内部同事协助你。有几组关系，处理起来非常重要，也最让AI 云销售头疼。 第一是跟负责批折扣的部门打交道，申请折扣。 张小雨说，辛辛苦苦在外跟了几个月客户，对方终于有意向合作了，但最后卡在了折扣批不下来。 \"这种事情经常发生。\" 因为批折扣的团队，他们也不在乎销售能不能成单，他们只管毛利够不够，毛利才是他们的KPI， 而并非做多少客户。 第二是要去找售前和售后团队支持。 AI 云销售张宁吐槽道，他之前手里有一家保险客户，光是为了让公司进入客户的供应商名单，他前后跑了三个月。所有事情都得自己做，靠同事支援就别想了。 \"他们并不需要管你死活。\" 解决方案架构师和其他支持部门他们并非和销售一样，承担同一个数字任务。所以他们可以在多个项目中做选择，优先支持金额更大、预算更明确、场景更成熟的客户。 如果你要赢得内部支持，那么你得费尽脑子讲故事，客户的预算有多大、项目能做成什么标杆、以后还能带来多少收入，都要先讲给内部听。只有内部相信这张饼足够大，资源才可能向项目倾斜。 张宁曾说过这样一个事情。 他们在泰国做了一个IDC项目，金额两千多万。机房由客户承建，但买的是他们的产品，最后再卖给一家海外巨头互联网公司，整个链条就闭环了。更关键的是，项目的承建方是泰国王室。有了这层背景，就可以请动公司总裁，拉着老板一起去见泰国皇室。 离职后，能去哪？ 上半年，在如此内卷的 MaaS 之战里，许多AI 云销售萌生了换工作的想法。张雅达就是其中之一。 他想选择横跳。但不管去哪，他也心知肚明，换一个地方，并不能改变要继续内卷 Token 的局面。 此前有多名销售告诉雷峰网 (公众号：雷峰网) ，上半年想要进火山引擎的人都在排队面试。 虽然火山引擎给销售开出的激励确实诱人，卖 Token 的提成比卖云产品高出不少，但考核也极为严苛：AI 的 Token 调用量是一票否决项，不够的话，其他云业务做得再好也没用。 前不久，一名AI 云销售告诉雷峰网，他面了火山，面到终面时，区域老板问他为什么选择来火山。他说了一些原因，比如字节在 C 端有入口、产品体验和模型能力很好等等，但老板直接明了地说，这都不是理由。最后这场面试不到十分钟就匆匆结束了。 腾讯云现在对于 token 收入目标要求不是很高，也不强求卖混元、Workbuddy，听起来是个好去处。不过腾讯云的工作也并非想象中宽松。一些从阿里跳到腾讯的销售待了三个月就走了。 要么去大模型公司，比如智谱、MiniMax、Kimi。但这条路也不好走。 大模型公司的销售团队规模很小。AI 云销售告诉雷峰网，像是智谱他们以区域线为核心架构，各区域对应的细分行业销售团队通常只有三四人。坑位有限，竞争自然激烈。 更关键的是，大模型公司要的不是传统云销售。销售的角色更像是技术顾问和解决方案专家，而不是陪酒、搞客情的传统销售。传统云销售那一套，在这里不吃香。 要么去外企。但外企现在也不是避风港。 AWS 大中华区一直在在缩减人员，微软云看似靠 OpenAI 赚得盆满钵满，实则高管接连出走、新旧财年交替时裁员频发。更老牌的 To B 外企如 Citrix、Salesforce、Tableau 已经陆续撤离中国。 摆在AI 云销售面前的选择看起来很多：另一家云厂商、大模型公司，或者外企。 但每条路都有自己的代价，真正的出口并不多。绕了一圈，跳槽更像是从一座围城走进另一座围城。换掉的是公司，困境并没有真正消失。 张雅达、张宁、张小雨均为化名 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
+   "summary": "导语：报表里的Token收入仍在狂奔，一线销售却已气喘吁吁。 8 月 12 日，距离月底，还有剩下不到三周时间， AI云销售张雅达已经开始频繁接到领导的电话，被追问月底的缺口准备怎么补，第三季度业绩能否完成。 这种状态已经持续了将近半年时间。 年初 2 月开战略会议，张雅达就知道今年会有一场硬仗要打，当时公司明确强调今年要重点卖模型和算力。为了让大家重视这场会议，整场会不允许任何人迟到，也不允许任何人请假。 3月，OpenClaw在国内爆火，企业对AI Coding的需求大增，云厂商的MaaS目标被进一步拔高，而张雅达以及同事们也不例外，所有人的MaaS 收入指标已经到了人均一千多万。 这是一个什么数字？张雅达说，去年一年，一些销售MaaS收入少的可能才几十万，高的也才上百万。 \"缺口很大，有可能今年累死累活干完以后收入还不如 25 年。\"张雅达表示，但他也没有跟老板理论。 \"累死累活，大家各种扯皮，最后老板也并不会因为你完不成任务放低目标要求，你干不成，那就别人来干，铁打的公司，流水的兵。\" 进入二季度，为了快速做大MaaS收入、抢占市场，更激进的增长任务很快落到了一线销售身上。张雅达和同事们又被要求在短短数周内，将日均Token收入做到此前的数倍。 \"那段时间，销售们扛着巨大压力，基本上都是在连轴转，所有人神经紧绷。甚至当时还出现了意外事故。\"张雅达说。 后来消息在内部小范围传开，很快被压了下去。 没有人再公开讨论，但大家心知肚明，这种状态不可为继。等到任务结束时，内部曾说过，短期内不会再搞冲刺，大家才开始松了一口气。但没想到，进入八月，又一场 MaaS增长大战来了。 持续的高压，终于在另一个团队炸开了，某区域团队十几人的销售集体提出了离职。 \"不是一两个人走，是几乎整个团队在同一时间递交了辞呈。\" 内部后来把这件事定义为\"管理事故\"。据说，高层专门到团队开会，对负责人撂下话，再走一个人，你也得走了。 自家模型售卖的尴尬处境 一边是持续上涨的任务目标，另一边是拖后腿的自研模型。 今年年初，各家云厂商制定的战略是：只推自家大模型。但销售很快发现，自家模型很难推销。客户买模型，都是要先看当下哪个模型在同类场景里能力最强，需求就会蜂拥过去。 上半年，Coding和多模态市场基本上分别被智谱、Seedance瓜分了大头。 多名 AI云销售表示，作为Anthropic 的平替，智谱的模型一度成为大量国内Coding客户的选择。有销售估计，智谱可能拿下了国产Coding模型一半以上的需求。 而在多模态领域，需求则迅速涌向Seedance。 2月12日，Seedance 2.0正式发布，AI 云销售张帆清晰记得那是农历腊月二十五，因为大家都想着过年了，也没太重视这次发布，但没想到，春节过后，大批影视和短剧客户开始争取Seedance 2.0试用资格，还有不少客户愿意提前支付300万元，只为获得白名单和调用额度。 当时Seedance 几乎都是原价出售，价格咬得很紧，一些客户想争取些折扣，几乎通通无可奈何，只能原价买。 直到后来，有些销售为了促成成单，他们想出了一些办法，比如撬动与政府合作，拿到一定的补贴。他们会找熟悉政府项目的运营方合作：政府出一部分预算，运营方寻找有需求的企业，技术厂商提供模型、算力等产品。 这样一来，企业降低了采购成本，政府完成项目目标，运营方和厂商拿到订单。 需求涌向智谱、Seedance 等爆款模型后，这也让其他只能卖自研模型的AI 云销售处境尴尬：有客户，但是满足不了需求，这让许多销售感觉很难受，也很不适应。 有销售表示，前两年在云产品各家区别不大的情况下，销售只要陪客户喝几顿大酒、逢年过节送点东西、有事没事去客户办公室坐坐，客情做到位了，再给出一个足够有吸引力的价格，就有机会把客户拿下。 但现在这一套在大模型时代行不通了，\"只能卖好卖、能打的产品。不能打的产品，你非要卖，只会浪费时间。\" 云厂商也开始意识到这一问题，为了完成快速上涨的收入目标，于是调整了销售激励：第三方模型的转售收入，也可以全额计入销售业绩，而不执着于卖自家产品。 又是一场激烈的价格战 解决了产品问题，但销售难题并没有完全解决。 当所有云厂商都在卖智谱、DeepSeek、Kimi，大家卖的东西并无差异，再加上Token调用无任何切换成本，客户会随模型能力迭代瞬间转移，几乎不存在长期留存粘性，于是AI 云销售很快陷入价格战之中。 \"从卖云，再到卖大模型，就像是同一个游戏，开局了两次。\"AI 云销售张小雨说道。 一开始，这场价格战只在国产模型内部开展。 今年上半年，国产大模型的价格战越打越低。各家云厂商在智谱GLM、DeepSeek这些热门模型上互相砍价，你出6折我出5.8折，谁也不甘心丢单。但价格不可能无限往下打，刊例价就摆在那，直接打折打到一定程度就没空间了。 于是打法开始分化。 一种是明面上的直接打折。比如智谱模型，原厂还挂在8折，云厂商转手就给客户报到6折。价格透明、操作简单，客户拿着A厂的报价截图就能去压B厂。 另一种更隐蔽，也更有门道，用传统云产品利润来贴补大模型。具体操作是，客户谈完折扣后，销售还可以申请一笔云产品代金券，比如买50万的大模型，6折基础上再贴两三万的云资源券。 这样一来，客户实际成本更低了，但是厂商的大模型收入数字却没受影响，亏空被记在云产品的账上。 每次到季末需要冲击业绩时，有厂商会各个区域轮番做补贴，华东、华南、华北接连交替进行。而且补贴到账也会很快，有销售透露，2-3 万以下的券一次性发，大额的就分批走，审批不算难，有些体量比较大的客户，甚至代金券能达到数十万。 正当AI 云销售们还在为了卖国产大模型，而打得不可开交时，一个新变量出现了——Codex变便宜了。 Codex推出了重置机制，额度用完后可以通过特定推荐活动获得重置奖励。这相当于把有限的月度配额变成了可持续刷新的资源。不少的企业开始给员工开海外银行卡、注册个人账号，用订阅套餐替代国内的企业级API采购。 这导致，国内云厂商原本能吃到的一部分客户预算，又被Codex截走了。 国产模型之间的折扣战还没打完，Codex又把价格往下压了一截。对AI 云销售来说，这场价格战看不到终点，只有不断被刷新的低价。 内部配合比外部获客还难 销售在外找到商机了，这一单还不见得能成交，卖MaaS比卖成熟的云产品更依赖内部协作。 \"客户需要的不只是一个模型报价，还需要解决方案架构师拆场景、产品团队做适配、交付人员推进上线。\" 这时候新的难题也开始出现，怎么样让寻求到内部同事协助你。有几组关系，处理起来非常重要，也最让AI 云销售头疼。 第一是跟负责批折扣的部门打交道，申请折扣。 张小雨说，辛辛苦苦在外跟了几个月客户，对方终于有意向合作了，但最后卡在了折扣批不下来。 \"这种事情经常发生。\" 因为批折扣的团队，他们也不在乎销售能不能成单，他们只管毛利够不够，毛利才是他们的KPI， 而并非做多少客户。 第二是要去找售前和售后团队支持。 AI 云销售张宁吐槽道，他之前手里有一家保险客户，光是为了让公司进入客户的供应商名单，他前后跑了三个月。所有事情都得自己做，靠同事支援就别想了。 \"他们并不需要管你死活。\" 解决方案架构师和其他支持部门他们并非和销售一样，承担同一个数字任务。所以他们可以在多个项目中做选择，优先支持金额更大、预算更明确、场景更成熟的客户。 如果你要赢得内部支持，那么你得费尽脑子讲故事，客户的预算有多大、项目能做成什么标杆、以后还能带来多少收入，都要先讲给内部听。只有内部相信这张饼足够大，资源才可能向项目倾斜。 张宁曾说过这样一个事情。 他们在泰国做了一个IDC项目，金额两千多万。机房由客户承建，但买的是他们的产品，最后再卖给一家海外巨头互联网公司，整个链条就闭环了。更关键的是，项目的承建方是泰国王室。有了这层背景，就可以请动公司总裁，拉着老板一起去见泰国皇室。 离职后，能去哪？ 上半年，在如此内卷的 MaaS 之战里，许多AI 云销售萌生了换工作的想法。张雅达就是其中之一。 他想选择横跳。但不管去哪，他也心知肚明，换一个地方，并不能改变要继续内卷 Token 的局面。 此前有多名销售告诉雷峰网，上半年想要进火山引擎的人都在排队面试。 虽然火山引擎给销售开出的激励确实诱人，卖 Token 的提成比卖云产品高出不少，但考核也极为严苛：AI 的 Token 调用量是一票否决项，不够的话，其他云业务做得再好也没用。 前不久，一名AI 云销售告诉雷峰网 (公众号：雷峰网) ，他面了火山，面到终面时，区域老板问他为什么选择来火山。他说了一些原因，比如字节在 C 端有入口、产品体验和模型能力很好等等，但老板直接明了地说，这都不是理由。最后这场面试不到十分钟就匆匆结束了。 腾讯云现在对于 token 收入目标要求不是很高，也不强求卖混元、Workbuddy，听起来是个好去处。不过腾讯云的工作也并非想象中宽松。一些从阿里跳到腾讯的销售待了三个月就走了。 要么去大模型公司，比如智谱、MiniMax、Kimi。但这条路也不好走。 大模型公司的销售团队规模很小。AI 云销售告诉雷峰网，像是智谱他们以区域线为核心架构，各区域对应的细分行业销售团队通常只有三四人。坑位有限，竞争自然激烈。 更关键的是，大模型公司要的不是传统云销售。销售的角色更像是技术顾问和解决方案专家，而不是陪酒、搞客情的传统销售。传统云销售那一套，在这里不吃香。 要么去外企。但外企现在也不是避风港。 AWS 大中华区一直在在缩减人员，微软云看似靠 OpenAI 赚得盆满钵满，实则高管接连出走、新旧财年交替时裁员频发。更老牌的 To B 外企如 Citrix、Salesforce、Tableau 已经陆续撤离中国。 摆在AI 云销售面前的选择看起来很多：另一家云厂商、大模型公司，或者外企。 但每条路都有自己的代价，真正的出口并不多。绕了一圈，跳槽更像是从一座围城走进另一座围城。换掉的是公司，困境并没有真正消失。 张雅达、张宁、张小雨均为化名 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
    "published": "Fri, 18 Sep 2026 08:08:00 GMT",
    "source": "雷峰网",
    "biz_tags": [
@@ -218,10 +218,10 @@
    ],
    "category": "industry",
    "level": "A",
-   "why": "Seedance 2.0被短剧客户疯抢，说明它是短剧AI制作关键工具",
-   "action": "立即申请Seedance 2.0试用资格或白名单",
-   "opportunity": "用Seedance 2.0提升短剧画面质量抢爆款",
-   "risk": "白名单难拿，可能需提前付费300万"
+   "why": "Seedance多模态需求爆发，短剧客户抢购",
+   "action": "研究Seedance 2.0在短剧制作中的应用",
+   "opportunity": "利用Seedance提升短剧视频质量",
+   "risk": "算力成本可能上涨"
   },
   {
    "title": "深度解读：智谱为什么要在 Infra 层搞 RSI？",
@@ -235,15 +235,15 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "GLM-5.3-Flash成本低，可降低AI工具开发API成本",
-   "action": "测试GLM-5.3-Flash API性价比，对比现有模型",
-   "opportunity": "用低价GLM模型降低短剧/工具开发成本",
+   "why": "国产算力优化，可能降低AI工具成本",
+   "action": "关注智谱GLM-5.3-Flash API价格",
+   "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "在 AI「囤粮潮」里，拆解智谱 50 亿美元的「技术账本」",
    "link": "https://www.leiphone.com/category/industrynews/U0Od1SeYkIPA98cI.html",
-   "summary": "导语：&nbsp;AI下半场，谁能用钱换来“技术代差”？ &nbsp; AI下半场，谁能用钱换来“技术代差”？ &nbsp; &nbsp; 作者丨 徐晓飞 &nbsp; &nbsp; 编辑丨 刘 &nbsp; 伟 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 眼下，AI行业的竞争重心，已经从“能不能做出来”变成“能不能持续迭代、不断摸高”。前者可能是一次灵感迸发，但后者更多取决于组织、产品、资金、战略等一系列综合实力的沉淀。 尤其资金，是支撑其他生产力要素的“弹药与粮仓”。 这也是今年以来，智谱、字节、阿里、腾讯等头部厂商相继融资的核心原因。 9月13日晚间，智谱发布公告，完成约 50 亿美元融资，包含约20亿美元股份配售及约30亿美元可转债发行，所得款项主要投向模型研发与算力基础设施这条主线。 公告发布后，一些追问开始在资本市场和AI圈里发酵： 智谱为何要融这笔钱，这笔钱会重点用到哪些地方，将为智谱“换回什么”？ 01 两月一次的迭代，是方向也是门槛 目前，AI这场长跑的胜负手已经变了。 在上半场，模型能力常被归到算法突破上，但到了下半场，真正拉开差距的，是把一次突破稳定复现、再复现的能力。 这背后比拼的是一整套复杂的工程系统：实验怎么排期，数据与算力怎么配比，Infra底层集群怎么调度……这些细节不出现在跑分榜上，却是决定模型迭代能不能持续跑下去的关键。 尽管“持续迭代”已是大模型行业当下公认的方向，但能把它长期稳定跑出来的厂商却不多，也正因如此， 节奏本身就成了实力的一部分。 今年 5 月，谷歌在 I/O 大会上预告说旗舰模型 Gemini 3.5 Pro 会在几周内上线，但不料随后一再推迟。据多家海外媒体爆料，延期的原因与编程与 Agent 能力短板有关。模型迭代节奏没有跟上，让谷歌一度成为今年下半年AI行业里，受到争议的对象。 反观国内不少AI厂商，节奏更加稳定。 以智谱为例，从今年 2 月到 8 月，GLM-5、GLM-5.1、GLM-5.2、GLM-5.3 接连落地，平均两个月就有一次重要升级。再往前看，GLM-4.6、GLM-4.7 也维持在这一节奏里。 据第三方机构 Artificial Analysis显示，如果把最近 11 个月连起来看，智谱旗舰模型在综合智能指数上的得分，已经从 32 攀升到了 60，一举进入了全球前沿模型的能力区间。 而业内也早已注意到了这一现象。 多位AI行业研究员都曾告诉过AI科技评论，智谱最近一年的迭代速度和能力攀升曲线，在行业里也并不多见。 在他们看来，单点跑分高，有时候来自于一次漂亮的调参，但能做到连续多代模型都有抬升，背后离不开研发能力、组织效率、工程系统等一系列支撑。 “眼下，大模型迭代的难点很少落在‘想不想得到’，多数卡在‘能不能按计划把想法变成可复现的结果’。”其中一位研究员对AI科技评论说，“智谱能连续几代按计划交出来，说明排产和工程能力已经立住了。” 确实，至少从公开信息看，智谱这条链子还没被打断过。 而它接下来要做的事，就是用充足的资金弹药把这种能力延续住，保持、甚至引领AI大模型进化的势头。 02 全行业都在补弹药，智谱这笔怎么花？ 事实上，把“充足资金弹药”这件事当成头等大事的公司，不止智谱一家。 今年9月初，字节被曝敲定一笔约 296 亿美元的银团贷款，将投向数据中心与 AI 基础设施；阿里则在 8 月完成一项 800 亿港元的新股配售，主要用于全球算力与 AI 数据中心；而腾讯也在 6 月发行了近 47 亿美元债，其他如百度、美团、快手等大厂也被传在债市排队。 海外玩家也不例外，软银在今年 3 月敲定了一笔 400 亿美元的过桥融资以支持OpenAI在AI上的超级生态布局；另据多家调研机构预计，2026 年全球九大云服务商的资本支出合计将突破 8867 亿美元。 但光融钱还不够，市场更关心的是：厂商融到钱后会如何花，重点用到哪些地方？ 因为这将决定谁能在下一轮技术代差中拿到主动权。 按智谱此次融资公告口径，股份配售与可转债发行两项合计筹资净额约 393 亿港元，而其中约六成、也就是约 235 亿港元，将投向下一代 GLM 与完全自训练体系，以及大规模训练、推理和算力基础设施。 “可转债占大头、还带溢价，说明这轮更偏向长钱。”一位长期跟踪 AI 板块的券商分析师对AI科技评论说，“零息意味着公司即期不用付票息，转股价值被放到后面兑现，适合研发周期长的公司。” 不难看出，智谱将这笔钱的目光放在了更长的周期上。 而智谱的这种底气，很大程度来自已经跑通的商业化正循环。 据不久前发布的中期财报显示，上半年智谱收入 9.54 亿元，同比增长 399.7%；其中开放平台及 API 收入 8.25 亿元，同比增长 2736%，在总收入中的占比从 2025 年末的 26.3% 升到 86.5%。按调用计费的云端业务成为收入主体，收入结构不必再依赖项目制交付。 地基打实之后，接下来的重点就落在了把前沿研发继续往前推。 AI科技评论从智谱此次公告中梳理出，下一代 GLM 的研发预算主要投向的几个关键硬仗： 在基座上，提升有效规模，推进超长上下文与原生多模态的端到端统一建模； 在推理深度上，在不显著抬高推理成本的前提下，拉高有效计算深度，强化模型长链条推理与自我纠错能力； 在训练演进方面，继续加码预训练、中训练与后训练，将长程强化学习（RL）的探索空间做大； 在真实场景上，搭建更贴近现实复杂工程环境的任务沙盒。 在AI科技评论看来，这些说法翻成研发语言，主要对应三个方向： 第一个是训练规模。 事实上，国内目前多家头部AI大厂，都在暗中训练超大规模模型，Scaling Law 依然是头部AI公司最核心的防线。 所谓 Scaling 迭代，不仅是持续做大基座参数，更包含强化训练深度、推理计算深度以及交互环境复杂度。 在这点上，智谱今年8月发布的 GLM-5.3 便是佐证：通过扩大长程任务环境和后训练规模，其端到端任务完成率提升超过 50%。用实际表现证明了，当前阶段的规模红利仍未撞墙。 第二个是实验连续性。 众所周知，大模型训练对中断很敏感。过去，由于卡资源紧张，实验往往只能串行排期，项目排队拉长了反馈周期。只有算力充裕、不再充当“节流阀”，迭代节奏才有机会从“两月一跳”走向更密集的敏捷演进。 要知道，节奏快慢本身就是壁垒，模型能力的差距，很多时候体现在一年里能完成多少轮“提出假设、验证、修正”的高质量闭环飞轮里。 第三个是研发体系的管线化。 公告中提到，本轮募集资金投入的覆盖范围包含训练数据生成与筛选、任务环境建设、长程推理以及底层算力优化。这几项合在一起，落点其实是整条训练管线，而这一价值超出了单一模型的训练。 换基座是周期性动作，管线却是每天都在沉淀和优化的工程资产，这也是大资金沉淀在管线上的核心价值。 “整条管线里，任务环境建设最容易被低估。”一位大模型算法专家对AI科技评论曾分析过，“它不直接体现在单点跑分上，却决定了长程复杂能力的天花板。”要让模型掌握持续数天的真实业务逻辑，训练侧就需要先把工作拆解为可执行、可验证、可复现的环境，涉及集群、存储、文档、代码库的一整套系统对接。 事实上，这类管线建设，今年在几家头部团队身上均有所体现，差别更多在于投入强度和推进速度。 综合以上三个方向，可以看出智谱是想把训练规模、实验频次和工程体系的探索空间都向外拓宽一大圈。 03 为什么下一站是“完全自训练”？ 如果说扩充算力与管线是解当下之渴，那么智谱在这笔融资中释放的更前瞻的技术信号，莫过于直指下一代架构的“完全自训练”（Fully Self-Training）。 AI科技评论了解到，目前，在框架和算力相对固定的前提下，大模型训练的核心无外乎三大块：数据、环境、Infra 调优。而这三个环节，目前均出现了由 AI 接管的苗头。 首先，在数据端，让模型“自产自训”的直接诱因是存量见顶。 眼下的一个行业共识是，人工标注的高质量数据和公域可挖掘的数据都接近天花板，而下一代顶级模型需要的是万亿级、高精度的增量数据，于是让模型自己生成、自己筛选，是行业里被讨论得最多的一条路径。 从智谱此前发布的公开信息看，它的解法是让模型交叉校验：一个负责生成内容，另一个负责评审校验，只有通过对抗检验的数据才进入训练集。让数据管线从“采买”转向“自产”。 不过这套方法并非没有风险。“让模型参与训练模型，难点在于怎么证明它产出的东西是对的。”一位接近智谱研发团队的专家向AI科技评论解释，“生成和评审要一起校准，否则两边容易一起跑偏。”行业里对合成数据的争议也一直存在，模型生成的数据用多了会不会带来退化，目前还没有定论。 其次，在任务环境端，交由 AI 构建的动力来自于高昂的搭建成本。 模型需要接近真实专家工作流程的任务环境，越贴近真实，训练信号越贵。让模型自己在真实环境中提取、生成、检验、沉淀，是降低这笔成本的方法之一。 而 Infra 的难点在经验的稀缺性。 系统调度、推理路径、算子效率，这些过去依赖“老师傅手感”的工作，如今正在被AI“渗透”。据公开资料，GLM-5.3 驱动的 infra agent 已经在协助工程师优化算子、诊断性能瓶颈、改进部署服务栈。 在数据、环境和Infra上，让上一代模型参与下一代模型的训练，这是智谱在今年7月提出“摸高”（Touch High）战略之后，备受关注的一个技术路线。 其实，把这条路线放回行业里看，它并不孤立。 今年以来，几家头部实验室都在提高后训练与强化学习的算力占比，也在探索用模型生成训练数据、优化训练系统，海外的讨论里会把这种思路称作把研究流程本身自动化。 在AI科技评论看来，智谱与这些方向有明显重合，差别在于它把“完全自训练”写进了公开的战略表述，态度算是比较明确的。 不过，自训练有一个问题是，它很贵：数据要自产，环境要新建，Infra 的自我调优要反复试错，三块都需要算力消耗、人才密度、工程堆叠，都需要钱。 当然，钱只是其中一个变量。时间窗口、对手的迭代速度，任何一个都可能改变结果。“这条路能不能走通，两三年内大概会分出结果。”上述研发专家认为，“现在下结论都太早。” 04 结语 在不少业内人看来，此次融资，可以看做是智谱后续能力跃迁的起跳点，但最终能不能够到下一代，未来 12 个月是关键观察窗。 值得观察的事情有三。 一是下一代 GLM 的发布节奏与能力跃迁幅度。GLM-5.3 已经展示过后训练 Scaling 的效果，下一代是否在基座上也有变化，比分数更有信息量。 二是完全自训练的公开信号。数据是否规模自产、任务环境是否成体系、Infra 调优是否由模型主导，这些不易从一次发布里看出来，却会留在工程细节里。 三是算力动向。GLM-5.3-Flash 的匿名测试期流量全部跑在国产芯片上，10 万级国产芯片承载了每日百万亿 Token 的量级。后续国产算力的采购与合作进展，直接决定实验规模能放开到多大。 大模型竞争到最后，比的是一家公司持续训练更强模型的能力。钱到位，至少让这台机器的发动机有了更大的功率。未来竞争如何，让我们拭目以待。 雷峰网雷峰网 (公众号：雷峰网) 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
+   "summary": "导语：&nbsp;AI下半场，谁能用钱换来“技术代差”？ &nbsp; AI下半场，谁能用钱换来“技术代差”？ &nbsp; &nbsp; 作者丨 徐晓飞 &nbsp; &nbsp; 编辑丨 刘 &nbsp; 伟 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 眼下，AI行业的竞争重心，已经从“能不能做出来”变成“能不能持续迭代、不断摸高”。前者可能是一次灵感迸发，但后者更多取决于组织、产品、资金、战略等一系列综合实力的沉淀。 尤其资金，是支撑其他生产力要素的“弹药与粮仓”。 这也是今年以来，智谱、字节、阿里、腾讯等头部厂商相继融资的核心原因。 9月13日晚间，智谱发布公告，完成约 50 亿美元融资，包含约20亿美元股份配售及约30亿美元可转债发行，所得款项主要投向模型研发与算力基础设施这条主线。 公告发布后，一些追问开始在资本市场和AI圈里发酵： 智谱为何要融这笔钱，这笔钱会重点用到哪些地方，将为智谱“换回什么”？ 01 两月一次的迭代，是方向也是门槛 目前，AI这场长跑的胜负手已经变了。 在上半场，模型能力常被归到算法突破上，但到了下半场，真正拉开差距的，是把一次突破稳定复现、再复现的能力。 这背后比拼的是一整套复杂的工程系统：实验怎么排期，数据与算力怎么配比，Infra底层集群怎么调度……这些细节不出现在跑分榜上，却是决定模型迭代能不能持续跑下去的关键。 尽管“持续迭代”已是大模型行业当下公认的方向，但能把它长期稳定跑出来的厂商却不多，也正因如此， 节奏本身就成了实力的一部分。 今年 5 月，谷歌在 I/O 大会上预告说旗舰模型 Gemini 3.5 Pro 会在几周内上线，但不料随后一再推迟。据多家海外媒体爆料，延期的原因与编程与 Agent 能力短板有关。模型迭代节奏没有跟上，让谷歌一度成为今年下半年AI行业里，受到争议的对象。 反观国内不少AI厂商，节奏更加稳定。 以智谱为例，从今年 2 月到 8 月，GLM-5、GLM-5.1、GLM-5.2、GLM-5.3 接连落地，平均两个月就有一次重要升级。再往前看，GLM-4.6、GLM-4.7 也维持在这一节奏里。 据第三方机构 Artificial Analysis显示，如果把最近 11 个月连起来看，智谱旗舰模型在综合智能指数上的得分，已经从 32 攀升到了 60，一举进入了全球前沿模型的能力区间。 而业内也早已注意到了这一现象。 多位AI行业研究员都曾告诉过AI科技评论，智谱最近一年的迭代速度和能力攀升曲线，在行业里也并不多见。 在他们看来，单点跑分高，有时候来自于一次漂亮的调参，但能做到连续多代模型都有抬升，背后离不开研发能力、组织效率、工程系统等一系列支撑。 “眼下，大模型迭代的难点很少落在‘想不想得到’，多数卡在‘能不能按计划把想法变成可复现的结果’。”其中一位研究员对AI科技评论说，“智谱能连续几代按计划交出来，说明排产和工程能力已经立住了。” 确实，至少从公开信息看，智谱这条链子还没被打断过。 而它接下来要做的事，就是用充足的资金弹药把这种能力延续住，保持、甚至引领AI大模型进化的势头。 02 全行业都在补弹药，智谱这笔怎么花？ 事实上，把“充足资金弹药”这件事当成头等大事的公司，不止智谱一家。 今年9月初，字节被曝敲定一笔约 296 亿美元的银团贷款，将投向数据中心与 AI 基础设施；阿里则在 8 月完成一项 800 亿港元的新股配售，主要用于全球算力与 AI 数据中心；而腾讯也在 6 月发行了近 47 亿美元债，其他如百度、美团、快手等大厂也被传在债市排队。 海外玩家也不例外，软银在今年 3 月敲定了一笔 400 亿美元的过桥融资以支持OpenAI在AI上的超级生态布局；另据多家调研机构预计，2026 年全球九大云服务商的资本支出合计将突破 8867 亿美元。 但光融钱还不够，市场更关心的是：厂商融到钱后会如何花，重点用到哪些地方？ 因为这将决定谁能在下一轮技术代差中拿到主动权。 按智谱此次融资公告口径，股份配售与可转债发行两项合计筹资净额约 393 亿港元，而其中约六成、也就是约 235 亿港元，将投向下一代 GLM 与完全自训练体系，以及大规模训练、推理和算力基础设施。 “可转债占大头、还带溢价，说明这轮更偏向长钱。”一位长期跟踪 AI 板块的券商分析师对AI科技评论说，“零息意味着公司即期不用付票息，转股价值被放到后面兑现，适合研发周期长的公司。” 不难看出，智谱将这笔钱的目光放在了更长的周期上。 而智谱的这种底气，很大程度来自已经跑通的商业化正循环。 据不久前发布的中期财报显示，上半年智谱收入 9.54 亿元，同比增长 399.7%；其中开放平台及 API 收入 8.25 亿元，同比增长 2736%，在总收入中的占比从 2025 年末的 26.3% 升到 86.5%。按调用计费的云端业务成为收入主体，收入结构不必再依赖项目制交付。 地基打实之后，接下来的重点就落在了把前沿研发继续往前推。 AI科技评论从智谱此次公告中梳理出，下一代 GLM 的研发预算主要投向的几个关键硬仗： 在基座上，提升有效规模，推进超长上下文与原生多模态的端到端统一建模； 在推理深度上，在不显著抬高推理成本的前提下，拉高有效计算深度，强化模型长链条推理与自我纠错能力； 在训练演进方面，继续加码预训练、中训练与后训练，将长程强化学习（RL）的探索空间做大； 在真实场景上，搭建更贴近现实复杂工程环境的任务沙盒。 在AI科技评论看来，这些说法翻成研发语言，主要对应三个方向： 第一个是训练规模。 事实上，国内目前多家头部AI大厂，都在暗中训练超大规模模型，Scaling Law 依然是头部AI公司最核心的防线。 所谓 Scaling 迭代，不仅是持续做大基座参数，更包含强化训练深度、推理计算深度以及交互环境复杂度。 在这点上，智谱今年8月发布的 GLM-5.3 便是佐证：通过扩大长程任务环境和后训练规模，其端到端任务完成率提升超过 50%。用实际表现证明了，当前阶段的规模红利仍未撞墙。 第二个是实验连续性。 众所周知，大模型训练对中断很敏感。过去，由于卡资源紧张，实验往往只能串行排期，项目排队拉长了反馈周期。只有算力充裕、不再充当“节流阀”，迭代节奏才有机会从“两月一跳”走向更密集的敏捷演进。 要知道，节奏快慢本身就是壁垒，模型能力的差距，很多时候体现在一年里能完成多少轮“提出假设、验证、修正”的高质量闭环飞轮里。 第三个是研发体系的管线化。 公告中提到，本轮募集资金投入的覆盖范围包含训练数据生成与筛选、任务环境建设、长程推理以及底层算力优化。这几项合在一起，落点其实是整条训练管线，而这一价值超出了单一模型的训练。 换基座是周期性动作，管线却是每天都在沉淀和优化的工程资产，这也是大资金沉淀在管线上的核心价值。 “整条管线里，任务环境建设最容易被低估。”一位大模型算法专家对AI科技评论曾分析过，“它不直接体现在单点跑分上，却决定了长程复杂能力的天花板。”要让模型掌握持续数天的真实业务逻辑，训练侧就需要先把工作拆解为可执行、可验证、可复现的环境，涉及集群、存储、文档、代码库的一整套系统对接。 事实上，这类管线建设，今年在几家头部团队身上均有所体现，差别更多在于投入强度和推进速度。 综合以上三个方向，可以看出智谱是想把训练规模、实验频次和工程体系的探索空间都向外拓宽一大圈。 03 为什么下一站是“完全自训练”？ 如果说扩充算力与管线是解当下之渴，那么智谱在这笔融资中释放的更前瞻的技术信号，莫过于直指下一代架构的“完全自训练”（Fully Self-Training）。 AI科技评论了解到，目前，在框架和算力相对固定的前提下，大模型训练的核心无外乎三大块：数据、环境、Infra 调优。而这三个环节，目前均出现了由 AI 接管的苗头。 首先，在数据端，让模型“自产自训”的直接诱因是存量见顶。 眼下的一个行业共识是，人工标注的高质量数据和公域可挖掘的数据都接近天花板，而下一代顶级模型需要的是万亿级、高精度的增量数据，于是让模型自己生成、自己筛选，是行业里被讨论得最多的一条路径。 从智谱此前发布的公开信息看，它的解法是让模型交叉校验：一个负责生成内容，另一个负责评审校验，只有通过对抗检验的数据才进入训练集。让数据管线从“采买”转向“自产”。 不过这套方法并非没有风险。“让模型参与训练模型，难点在于怎么证明它产出的东西是对的。”一位接近智谱研发团队的专家向AI科技评论解释，“生成和评审要一起校准，否则两边容易一起跑偏。”行业里对合成数据的争议也一直存在，模型生成的数据用多了会不会带来退化，目前还没有定论。 其次，在任务环境端，交由 AI 构建的动力来自于高昂的搭建成本。 模型需要接近真实专家工作流程的任务环境，越贴近真实，训练信号越贵。让模型自己在真实环境中提取、生成、检验、沉淀，是降低这笔成本的方法之一。 而 Infra 的难点在经验的稀缺性。 系统调度、推理路径、算子效率，这些过去依赖“老师傅手感”的工作，如今正在被AI“渗透”。据公开资料，GLM-5.3 驱动的 infra agent 已经在协助工程师优化算子、诊断性能瓶颈、改进部署服务栈。 在数据、环境和Infra上，让上一代模型参与下一代模型的训练，这是智谱在今年7月提出“摸高”（Touch High）战略之后，备受关注的一个技术路线。 其实，把这条路线放回行业里看，它并不孤立。 今年以来，几家头部实验室都在提高后训练与强化学习的算力占比，也在探索用模型生成训练数据、优化训练系统，海外的讨论里会把这种思路称作把研究流程本身自动化。 在AI科技评论看来，智谱与这些方向有明显重合，差别在于它把“完全自训练”写进了公开的战略表述，态度算是比较明确的。 不过，自训练有一个问题是，它很贵：数据要自产，环境要新建，Infra 的自我调优要反复试错，三块都需要算力消耗、人才密度、工程堆叠，都需要钱。 当然，钱只是其中一个变量。时间窗口、对手的迭代速度，任何一个都可能改变结果。“这条路能不能走通，两三年内大概会分出结果。”上述研发专家认为，“现在下结论都太早。” 04 结语 在不少业内人看来，此次融资，可以看做是智谱后续能力跃迁的起跳点，但最终能不能够到下一代，未来 12 个月是关键观察窗。 值得观察的事情有三。 一是下一代 GLM 的发布节奏与能力跃迁幅度。GLM-5.3 已经展示过后训练 Scaling 的效果，下一代是否在基座上也有变化，比分数更有信息量。 二是完全自训练的公开信号。数据是否规模自产、任务环境是否成体系、Infra 调优是否由模型主导，这些不易从一次发布里看出来，却会留在工程细节里。 三是算力动向。GLM-5.3-Flash 的匿名测试期流量全部跑在国产芯片上，10 万级国产芯片承载了每日百万亿 Token 的量级。后续国产算力的采购与合作进展，直接决定实验规模能放开到多大。 大模型竞争到最后，比的是一家公司持续训练更强模型的能力。钱到位，至少让这台机器的发动机有了更大的功率。未来竞争如何，让我们拭目以待。 雷峰网 (公众号：雷峰网) 雷峰网 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
    "published": "Fri, 18 Sep 2026 06:28:00 GMT",
    "source": "雷峰网",
    "biz_tags": [
@@ -252,15 +252,15 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "智谱融资后模型迭代加速，工具生态可能更丰富",
-   "action": "关注智谱开放平台新模型和插件市场机会",
+   "why": "智谱融资加速迭代，模型能力提升",
+   "action": "跟踪智谱模型更新，评估工具集成",
    "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "独家丨OpenAI的一款无屏硬件，正在深圳试制",
    "link": "https://www.leiphone.com/category/weiwu/P2ycl5IbO7iNQKAt.html",
-   "summary": "导语：据传为防泄密，工程师此次出差连手机都没带。 雷峰网·鲸犀获悉，OpenAI近日正在深圳秘密试制一款无屏AI硬件产品。有业内人士称，其保密程度极高，工程师来深圳出差连手机都没带。该产品计划在2027年上市。这会是一款什么形态的产品？还有哪些最新进展？欢迎添加作者微信 xf123a 交流。 雷峰网雷峰网 (公众号：雷峰网) 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
+   "summary": "导语：据传为防泄密，工程师此次出差连手机都没带。 雷峰网 (公众号：雷峰网) ·鲸犀获悉，OpenAI近日正在深圳秘密试制一款无屏AI硬件产品。有业内人士称，其保密程度极高，工程师来深圳出差连手机都没带。该产品计划在2027年上市。这会是一款什么形态的产品？还有哪些最新进展？欢迎添加作者微信 xf123a 交流。 雷峰网雷峰网 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
    "published": "Fri, 18 Sep 2026 06:23:00 GMT",
    "source": "雷峰网",
    "biz_tags": [
@@ -269,8 +269,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "OpenAI硬件2027年上市，短期无影响",
-   "action": "了解即可，关注其是否催生新内容分发渠道",
+   "why": "OpenAI硬件可能带来新内容平台",
+   "action": "关注2027年上市，提前布局内容",
    "opportunity": "无",
    "risk": "无"
   },
@@ -287,9 +287,9 @@
    "category": "ai_tools",
    "level": "A",
    "why": "Agent状态跨实例传播风险，影响你AI工具的安全性和可靠性",
-   "action": "研究上下文压缩机制，测试你的AI工具是否有类似状态泄露风险",
-   "opportunity": "开发Agent状态监控/安全审计插件",
-   "risk": "你的AI工具可能因状态传播被滥用或泄露数据"
+   "action": "检查你AI工具中上下文压缩和状态管理机制，避免类似漏洞",
+   "opportunity": "开发Agent状态监控/安全审计插件，满足企业需求",
+   "risk": "你的AI工具可能因状态泄露导致数据安全问题"
   },
   {
    "title": "出海游戏企业面临开发成本高和用户留存难问题，AI大模型真能有效解决吗？",
@@ -303,9 +303,9 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "游戏出海痛点与短剧出海类似，AI降本思路可借鉴",
-   "action": "关注AI在游戏NPC和内容生成的应用，评估能否迁移到短剧",
-   "opportunity": "用AI生成个性化短剧内容提升用户留存",
+   "why": "AI在游戏出海的应用趋势，间接反映AI内容创作需求",
+   "action": "关注AI大模型在内容生成和用户留存方面的案例，借鉴到短剧出海",
+   "opportunity": "将AI大模型用于短剧个性化推荐和用户留存优化",
    "risk": "无"
   },
   {
@@ -320,10 +320,10 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "社交裂变玩法可借鉴到短剧推广，但需注意文化差异",
-   "action": "研究Temu的裂变机制，思考短剧拉新能否用类似玩法",
-   "opportunity": "在短剧推广中设计社交裂变激励",
-   "risk": "文化差异可能导致玩法失效或反感"
+   "why": "文化差异对出海玩法的影响，可类比短剧题材本地化",
+   "action": "研究Temu的本地化策略，思考短剧出海如何避免文化冲突",
+   "opportunity": "开发针对不同文化的短剧题材模板，提高接受度",
+   "risk": "文化误读可能导致短剧在海外市场失败"
   },
   {
    "title": "国产RPG和SLG手游融入日本文化元素后，如何进一步做好本地化运营以巩固在日本市场的成绩？",
@@ -337,10 +337,10 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "本地化运营经验可迁移到短剧出海，尤其日本市场",
-   "action": "研究日本手游本地化案例，提炼短剧内容本地化要点",
-   "opportunity": "制作日本文化定制短剧，抢占细分市场",
-   "risk": "本地化不足导致内容水土不服"
+   "why": "本地化运营经验可迁移到短剧出海，提升内容吸引力",
+   "action": "分析日本市场成功案例，优化短剧的本地化元素和运营",
+   "opportunity": "制作融入日本文化的短剧， targeting日本观众",
+   "risk": "过度本地化可能失去原有特色"
   },
   {
    "title": "出海游戏企业买量成本居高不下，AI 营销真能解决这一痛点并改变市场格局吗？",
@@ -354,9 +354,9 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "AI营销降本直接关联短剧投流成本，影响ROI",
-   "action": "测试AI营销工具，优化短剧广告投放策略",
-   "opportunity": "用AI精准定位降低短剧投流成本",
+   "why": "AI营销可降低短剧投流成本，提高ROI",
+   "action": "测试AI营销工具用于短剧广告投放，优化 targeting",
+   "opportunity": "利用AI营销降低短剧获客成本，提高转化率",
    "risk": "AI营销效果不稳定，可能浪费预算"
   },
   {
@@ -371,10 +371,10 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "低价策略不适用短剧，但营销节奏和节日借势可参考",
-   "action": "分析Temu节日营销策略，规划短剧节日档期内容",
-   "opportunity": "借节日热点制作短剧，提升下载和付费",
-   "risk": "盲目跟风低价可能损害利润"
+   "why": "低价策略不适用短剧，但可借鉴其营销和用户增长方法",
+   "action": "研究Temu的病毒式营销，应用到短剧推广中",
+   "opportunity": "通过社交裂变降低短剧获客成本",
+   "risk": "无"
   },
   {
    "title": "咱们出海游戏企业在中东市场面临文化差异，这款成功的SLG手游本地化运营具体该从哪些方面深入，才能像它一样取得下载量和收入双高？",
@@ -388,10 +388,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "中东市场短剧潜力大，本地化成功案例可复制",
-   "action": "研究该SLG本地化细节，策划中东题材短剧",
-   "opportunity": "切入中东蓝海市场，制作符合当地文化短剧",
-   "risk": "文化敏感内容可能导致封禁"
+   "why": "中东市场文化独特，短剧出海需注意本地化以避免风险",
+   "action": "调研中东文化敏感点，调整短剧内容和营销策略",
+   "opportunity": "开发符合中东文化的短剧，抢占蓝海市场",
+   "risk": "文化冲突可能导致短剧被抵制或下架"
   },
   {
    "title": "印度新数据安全政策下，出海印度的应用企业如何低成本完成数据合规？",
@@ -405,10 +405,10 @@
    ],
    "category": "industry",
    "level": "A",
-   "why": "印度数据合规影响短剧和AI工具出海，需规避风险",
-   "action": "评估印度政策对短剧平台的影响，调整数据策略",
-   "opportunity": "提供合规咨询或工具服务",
-   "risk": "不合规可能导致下架或罚款"
+   "why": "数据合规影响短剧和AI工具在印度市场的运营成本",
+   "action": "评估印度数据政策，调整数据存储和处理流程",
+   "opportunity": "提供合规咨询或工具，帮助其他出海企业",
+   "risk": "不合规可能导致罚款或下架，损失市场"
   },
   {
    "title": "Temu在欧洲推‘砍一刀’引发热潮，其他跨境电商跟风做却没效果，问题出在哪？",
@@ -422,74 +422,58 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "社交裂变玩法在海外有隐私合规风险，短剧投流可借鉴其教训",
-   "action": "研究Temu欧洲裂变机制与合规边界，评估短剧投流可否复用",
-   "opportunity": "短剧出海可借鉴社交裂变降低获客成本",
-   "risk": "欧洲社交隐私监管严，盲目跟风可能被封禁"
+   "why": "社交裂变玩法在海外有隐私争议，可借鉴到短剧推广",
+   "action": "研究Temu裂变机制，评估能否用于短剧拉新",
+   "opportunity": "短剧出海可尝试社交裂变拉新",
+   "risk": "欧洲社交隐私监管严，裂变可能违规"
   },
   {
-   "title": "华为：基于昇腾超节点训练的星辰轻量级代码智能体大模型 Xing4.0-29B 发布",
-   "link": "https://www.ithome.com/1/004/673.htm",
-   "summary": "IT之家 9 月 20 日消息， 中电信人工智能科技有限公司于 9 月 17 日正式发布新一代星辰大模型 Xing4.0-29B-A4B 。该模型聚焦复杂任务理解、任务规划、工具调用和自主执行等能力，支持长上下文处理，可应用于代码开发、数据分析、办公自动化及生活服务等场景。 华为中国官方昨晚宣布，Xing4.0-29B-A4B 总参数 29B，激活参数仅 4B， 是国内首个基于昇腾 Atlas 900 A3 SuperPoD 液冷超节点与昇思 MindSpore 框架完成训练的百亿参数大模型 ，面向复杂工程任务进行了深度优化。 该模型采用新一代架构设计，进一步提升长程任务处理和多步骤执行能力，能够根据用户提出的目标自主规划任务路径、调用工具并完成复杂任务。 华为官方表示，模型的中高阶代码生成与智能体执行，是对长程上下文理解、复杂推理规划、工具调用协同的综合考验。华为团队与中电信团队紧密协同，从数据体系、模型架构、训练工程到强化学习，进行了系统性攻坚。 数据基座： 围绕预训练与后训练全生命周期，建设涵盖数十万亿词元的数据体系。预训练阶段完成 PB 级多源异构数据清洗，引入海量智能体行为轨迹与结构化知识图谱。后训练阶段搭建高并发沙箱容器，构建端到端长程任务合成数据，并建立自动化校验机制保障数据正确性。 架构设计： 专为长程 Agent 任务设计，MLA 多头潜变量注意力压缩 KV 缓存；MT 多 Token 预测增强生成连贯性；mHC 流形约束超连接解决训练数值不稳定的问题；Muon 与 QK-Clip 优化器保障训练稳定。训练采用分阶段递进策略，从 4K 逐步扩展至 32K/128K/256K 序列长度，系统性构建长程能力。 工程优化： Xing4.0-29B-A4B 在昇腾超节点集群上通过多层次软硬件协同优化实现训练性能提升 96%，近翻倍突破：基于 MindSpore 全栈适配 mHC 多残差连接与 DSA 长序列机制，针对细粒度 MoE（64 路由 / Top4 激活），通过专家负载均衡、Grouped GEMM、通信计算重叠及 DVM 图算融合，吞吐提升 32%；层级与算子级选择性重计算再提升 19%；自研 Ascend C mHC 融合算子解决 Sinkhorn 碎片化，计算效率提升 30%，整网吞吐再提升 25%。 多专家强化学习： 基于昇腾生态完成 Slime 强化学习框架适配，面向 Agent、Coding、Reasoning 开展多专家强化学习训练，通过 MOPD 技术实现多专家能力高效融合，进一步提升复杂推理与智能体任务表现。 目前，昇腾已支持 40+ 个业界头部模型完成原生训练，也是国内唯一支持商用大规模预训练，并训练落地 SOTA 大模型的厂商。 IT之家付开源地址如下： GitHub： https://github.com/XingChen-AGI/Xing4.0-29B-A4B HuggingFace： https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B 魔搭： https://modelscope.cn/models/XingChen-AGI/Xing4.0-29B-A4B Gitee： https://gitee.com/xingchen-agi/xing4.0-29b-a4b 魔乐： https://modelers.cn/models/XingChen-AGI/Xing4.0-29B-A4B",
-   "published": "Sun, 20 Sep 2026 02:24:08 GMT",
+   "title": "联想公布便携显示器新品 L16a：低色域 16\" 1920×1200 60Hz IPS LCD",
+   "link": "https://www.ithome.com/1/004/723.htm",
+   "summary": "IT之家 9 月 20 日消息，联想 (Lenovo) 现已在其产品规格参考 (PSREF) 网站列出便携显示器新品 L16a。 这一型号采用 WLED 背光的 16\" IPS LCD 显示面板，支持 1920×1200 分辨率、60Hz 刷新率，亮度 300nits、对比度 1500:1，响应时间低至 6ms，支持 6bit + FRC 色深， 色域 45% NTSC 。 其 集成 0~90° 可调支撑结构 ，拥有 2 个全功能 USB-C 480Mbps，质量则是 0.97kg。",
+   "published": "Sun, 20 Sep 2026 04:00:18 GMT",
+   "source": "IT之家",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "硬件新品与核心业务无关，仅作了解",
+   "action": "无",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "腾讯升级元宝 App“AI 录音笔”功能：边录边拍、设备内录、WorkBuddy 快捷分享...",
+   "link": "https://www.ithome.com/1/004/716.htm",
+   "summary": "IT之家 9 月 20 日消息，腾讯宣布升级旗下元宝 App 内置的“AI 录音笔”功能，主要新增“边录边拍”、“设备内录音”、“支持自定义编辑”等，同时打通 WorkBuddy、腾讯文档等产品快捷分享， 用户将元宝 App 更新到 V2.85.0 及以上即可获得相应功能 。 ▲ （元宝 AI 录音笔打开方式） 腾讯表示，针对线下课堂、讲座、会议等场景，元宝 AI 录音笔创新推出了“边录边拍”功能。用户在录音的同时可随时拍摄板书、PPT 或手稿。音频实时转写、AI 总结与现场图片将自动聚合在同一条录音记录中。课后整理笔记时，用户无需再在相册、录音和文档应用间繁琐切换，核心信息排版清晰、一目了然。 ▲ （元宝 AI 录音笔：边录边拍） 同时，元宝 AI 录音笔现已支持录制手机、平板等设备内部的声音。无论是观看演讲视频还是进行线上会议，无需声音外放，一边听课、听会，一边打开元宝 AI 录音笔，即可实现无杂音的高清录制。 ▲ （元宝 AI 录音笔：设备内录制） 此外，元宝 AI 录音笔现已与 WorkBuddy、腾讯文档打通。录音完成后，用户可一键导出至腾讯文档，直接进入团队协作流；或一键发送至 WorkBuddy，让 AI 接手后续的方案撰写与 PPT 制作，提升学习或工作效率。 ▲ （元宝 AI 录音笔：分享至腾讯生态） 针对语音转写中偶发的同音字误差等情况，元宝 AI 录音笔支持对转写文案和 AI 总结进行自由编辑与修改。AI 负责高效记录转写，用户负责最终出品把关，确保信息记录与传递的准确性。针对高频录音需求的用户，还支持批量音频管理功能。 ▲ （元宝 AI 录音笔：自定义编辑与录音管理）",
+   "published": "Sun, 20 Sep 2026 03:44:29 GMT",
    "source": "IT之家",
    "biz_tags": [
     "industry"
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "轻量级代码Agent模型可降低AI工具开发成本，提升自动化能力",
-   "action": "下载Xing4.0-29B测试代码生成与Agent任务能力",
-   "opportunity": "用低成本国产模型开发AI插件/小工具上架变现",
-   "risk": "国产模型生态兼容性待验证，迁移成本可能高"
+   "why": "AI录音转写工具升级，可辅助课程内容生产",
+   "action": "下载元宝App测试录音转写，用于课程制作",
+   "opportunity": "用AI录音笔高效制作知识付费课程",
+   "risk": "无"
   },
   {
-   "title": "9 岁男孩为推广自己的《我的世界》游戏视频，挪用父亲公司信用卡花费 11.8 万美元致其失业“卖房还贷”",
-   "link": "https://www.ithome.com/1/004/672.htm",
-   "summary": "IT之家 9 月 20 日消息，据外媒 Kotaku 报道，近期一名父亲 Dave 发文，称 9 岁儿子 Mike 用公司信用卡花费超过 11.8 万美元 （IT之家注：现汇率约合 79.3 万元人民币） 推广自己的《我的世界（Minecraft）》实况视频，导致 Dave 丢掉了工作，甚至需要“卖房还贷”。 据 Dave 介绍，几周前，Mike 因为自己的 YouTube 视频播放量增长缓慢而感到沮丧，于是向父亲寻求帮助。Dave 随后协助儿子创建了一项 YouTube 广告推广活动，最初设置的预算只有 20 美元 （现汇率约合 134.4 元人民币） 。不过，在 Dave 不知情的情况下，Mike 之后再次进入 YouTube 广告管理界面，并持续投放广告，最终累计消费达到 11.8 万美元 （现汇率约合 79.3 万元人民币） 。 从实际效果来看，这些广告确实让 Mike 的《我的世界》视频播放量迅速增长，部分视频的播放量从几百次提升至数万次。不过对于 Dave 而言，这显然不是一笔值得庆祝的“推广费用”。他表示，由于 Google 广告账户与自己的公司信用卡绑定，在公司发现这一情况并与其进行交涉后，他最终失去了工作。如今，为了偿还这笔费用，他甚至可能不得不放弃自己的房产。 相关视频发布后仅几天便获得超过 300 万次播放，但事件也迅速引发网络质疑。一些主播和内容创作者认为，这起事件可能存在骗局的可能性。YouTuber MoistCr1TiKaL 就对此表示怀疑，原因之一是 Dave 没有创建 GoFundMe 等常见的网络募款页面， 而是将观众引导至“Mighty Mike Plays”的周边商品网站，销售印有“wassup chat”等文字、由 AI 生成图案的 T 恤 。 在后续视频中，Dave 承认自己对 YouTube 社区文化并不了解，目前只是尽力维持家庭的正常生活。他表示：“我发布这次更新并不是想让任何人因为内疚而购买 T 恤。我真的不知道一个月之后我们的生活会变成什么样。把这句话说出来真的让人感到害怕。” 事实上，儿童因网络游戏或线上服务产生高额消费的情况并不罕见。许多深受儿童欢迎的游戏都采用内购或其他持续付费机制，此前也曾多次出现儿童在未经父母同意的情况下大量购买 Robux 等虚拟商品的案例。 尽管家长需要承担一定的监管责任，但围绕儿童消费、广告投放以及平台保护机制的争议也持续存在。近年来，世界多个国家和地区的监管机构已经开始关注网络平台是否充分保护儿童及其家长，避免未成年人在数字环境中产生难以预料的高额消费。",
-   "published": "Sun, 20 Sep 2026 02:24:01 GMT",
+   "title": "阿里千问 App 升级“未成年人保护模式”：仅可使用学习功能、加强适龄内容回应",
+   "link": "https://www.ithome.com/1/004/713.htm",
+   "summary": "IT之家 9 月 20 日消息，阿里宣布为旗下千问 App 升级未成年人保护模式，在保留拍照答疑、AI 写作、翻译、深度研究等学习功能的同时，加强适龄内容回应、明确人机互动边界，并设置使用时长提醒，进一步便利青少年使用 AI。 阿里表示，家长可在千问 App 设置中开启未成年人模式，设置独立密码。开启后， App 仅保留拍照答疑、AI 写作、翻译、深度研究四项功能 ，对话记录与普通模式完全隔离，并限制第三方链接访问，降低不可控内容的接触风险。 同时，开启未成年人保护模式后， 千问将加强对低俗、暴力等不适宜未成年人接触的内容的管理 ，并以符合未成年人认知特点的方式回应相关问题。与此同时，千问会对用户提出的模拟虚拟伴侣、虚拟亲属等拟亲密关系互动服务进行软性拒答，并提供正向引导，避免未成年人形成不良情感依赖。 当识别到极端情绪倾向时，千问将优先提供专业心理援助热线信息，引导其寻求专业或身边亲人的帮助。如用户在未成年人保护模式下连续使用超过 30 分钟，还会收到休息提示，以保护用户的身心健康。",
+   "published": "Sun, 20 Sep 2026 03:40:01 GMT",
    "source": "IT之家",
    "biz_tags": [
     "industry"
    ],
    "category": "industry",
    "level": "B",
-   "why": "警示投流预算失控风险，短剧投流需设硬性上限",
-   "action": "检查所有广告账户预算上限与支付绑定设置",
+   "why": "AI监管趋严信号，影响AI内容合规边界",
+   "action": "关注AI内容合规政策，自查短剧内容",
    "opportunity": "无",
-   "risk": "投流账户无预算上限可能导致巨额意外支出"
-  },
-  {
-   "title": "泰坦军团推出新款“P2711G+”27 英寸显示器：1080P 220Hz，649 元",
-   "link": "https://www.ithome.com/1/004/668.htm",
-   "summary": "IT之家 9 月 20 日消息，泰坦军团现已在京东上架新款“P2711G+”27 英寸显示器，该机升级 1080P 220Hz， 定价为 649 元 ，部分地区国补后低至 616 元。 该机配备一块 1920x1080 分辨率 220Hz 超频（原生 200Hz）Fast IPS 面板，显示器亮度 350 尼特，静态对比度 1000:1，显示器支持 8-Bit 色彩，覆盖 99% sRGB、91% DCI-P3、90% AdobeRGB 色域。 该机支架支持俯仰，显示器本体支持 VESA 100x100mm 壁挂，提供 1 个 HDMI 2.0、1 个 DP 1.4、1 个 3.5mm 音频接口。 IT之家附显示器参数： 京东 泰坦军团新款 P2711G+ 显示器 649 元 直达链接",
-   "published": "Sun, 20 Sep 2026 02:12:03 GMT",
-   "source": "IT之家",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "低价高刷显示器可作剪辑/预览副屏，降低硬件成本",
-   "action": "评估是否需要采购作AI短剧剪辑副屏",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "《寂静岭：Townfall》游戏 PS5 实体盘偷跑，全流程约 10-14 小时",
-   "link": "https://www.ithome.com/1/004/666.htm",
-   "summary": "IT之家 9 月 20 日消息，据科技媒体 Notebookcheck 今天报道，科乐美新作《Silent Hill：Townfall》（寂静岭：小镇陷落）将于 9 月 24 日发售，但最近已经出现 PS5 实体盘偷跑。 IT之家从原报道获悉，一名意大利博主在 YouTube 平台发布了偷跑 3 段视频，总长 87 分钟， 目前已被科乐美投诉下架 。 该博主在视频中声称，《寂静岭：小镇陷落》将带来全新玩法，并对游戏前期内容给予好评，称第一人称视角增强了游戏沉浸感。 同时，科乐美近期邀请了一批博主提前体验本作，部分博主表示，探索玩法在游戏中占据重要地位，当玩家遭遇敌人时，潜行的重要性不亚于近战或远程攻击。玩家手里的 CRTV 手持通讯设备将拥有调查等用途，它能够扫描危险，并提供线索。 此外，本作的总流程大致为 10-14 小时，提前泄露的游戏视频可能会造成剧透。",
-   "published": "Sun, 20 Sep 2026 02:09:03 GMT",
-   "source": "IT之家",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "与业务无关，纯游戏资讯",
-   "action": "无",
-   "opportunity": "无",
-   "risk": "无"
+   "risk": "AI内容监管趋严，短剧出海需注意合规"
   },
   {
    "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
@@ -503,27 +487,74 @@
    ],
    "category": "industry",
    "level": "A",
-   "why": "欧盟社媒禁令将影响TikTok等平台用户结构与投放策略",
-   "action": "关注欧盟社媒禁令立法进展及对TikTok投放的影响",
+   "why": "欧盟社媒禁令影响TikTok等平台流量和投放",
+   "action": "研究欧盟禁令对TikTok投放的潜在影响",
    "opportunity": "无",
-   "risk": "若禁令落地，TikTok欧洲年轻用户流量池将萎缩"
+   "risk": "欧盟禁令或减少TikTok年轻用户流量"
   },
   {
-   "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
-   "link": "https://sspai.com/post/114658",
-   "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。 查看全文",
-   "published": "Thu, 17 Sep 2026 08:25:30 +0800",
-   "source": "少数派",
+   "title": "罗永浩说野人先生难吃，这次为什么没有像西贝那么火？",
+   "link": "https://www.huxiu.com/article/4892587.html",
+   "summary": "距离罗永浩发布针对西贝的热辣点评一年后，西贝已失去了昔日的锐气。2026年年初，西贝即宣布关闭102家门店，而西贝在全国各地的关店，仍在零零散散地继续，西贝的官网首页，仍然挂着它们在2025年9月15日写的《西贝致歉信》。一年时间，西贝从370家门店，到现在只剩下200多家门店。可能很多人都跟我一样，每次在商...... 本文来自微信公众号： 郭静的互联网圈 ，作者：郭静的互联网圈，题图来自：视觉中国 距离罗永浩发布针对西贝的热辣点评一年后，西贝已失去了昔日的锐气。2026年年初，西贝即宣布关闭102家门店，而西贝在全国各地的关店，仍在零零散散地继续，西贝的官网首页，仍然挂着它们在2025年9月15日写的《西贝致歉信》。一年时间，西贝从370家门店，到现在只剩下200多家门店。 可能很多人都跟我一样，每次在商场里遇到西贝餐厅的时候，都会多看它一眼，似乎去年罗永浩与西贝贾国龙话题的影子会倏然而过，当时，人为什么会那样？ 配图为路过西贝餐厅时拍摄 毫无疑问，一切都回不去了，哪怕贾国龙再怎么努力，人们也回不到过去，毕竟，人不会主动承认自己“错了”，西贝成了当时流量狂欢和情绪上头的牺牲品，人们把对情绪上头的愧疚留在了心头。 2026年9月12日，罗永浩又在社交网络上发了一段评价：“在机场试了一下，暴得大名的野人先生很一般啊，考虑到价格，甚至可以说难吃。它是怎么火起来的？【善意提示：这是一个消费者的正常评价和疑问，请千万不要惹我，然后说我下黑手之类的】感觉比钟薛高难吃多了，怀念钟薛高。” 作为一位拥有510.9万粉丝的大V，罗永浩的热辣点评又一次让冰淇淋品牌野人先生上了热搜。不过，这次与去年西贝所不同的是，罗永浩的点评刚发出没多久，就有一众网友提醒野人先生，“不要回答，不要回答，不要回答”。 去年罗永浩点评西贝，全网爆火，多家媒体都出了好几篇10万+爆款内容，全网都在加入这场流量狂欢之中，然而，罗永浩这次点评野人先生难吃，却并没有像去年西贝那样那么火爆，这是为什么？ 1.一个巴掌拍不响 任何火爆全网的热点事件，如果仅凭粉丝量大的大V一方，是很难彻底火起来的，其中一个重要节点就是热点事件相关人。而在罗永浩点评西贝的过程中，西贝老板贾国龙的加入，无疑给相关话题添了一把柴火，正所谓“一个巴掌拍不响”，贾国龙的加入，瞬间让媒体和网友找到了“看热闹”的机会。 情绪上头的贾国龙不仅主动召开媒体发布会，同时，还宣布开放全国370家门店厨房，他的本意是让外界看到西贝好的一面，但是，在一众媒体和全国网友的“大家来找茬儿”情况下，好的一面根本没被网友们看见，反而不好的一面被迅速放大，继而让相关话题继续变火。 这还不算完，贾国龙在情绪上头后根本就没有停手的意思，反而继续给话题添柴加火，和罗永浩双方你来我往，整个话题彻底被引爆。 如果要对当时罗永浩与西贝贾国龙事件做一个总结，那么，首要的一点就是，“不要回答”，这个全国网友都知道的道理，可惜当时的贾国龙没有看清，彼时的贾国龙是拥有370家门店、覆盖全国62座城市、近1.7万员工的老板，当罗永浩选择“喷”的时候，贾国龙可能根本就没想过“不要回答”这个答案，暂避锋芒不符合老板的形象风格。 人在情绪上头的时候，谁来劝都没用，只想着一件事，“干”，不能认输，而当第一次选择正面硬刚的时候，其实后面就停不下来了，最终，让整个西贝被裹挟进这场流量风暴之中。 与西贝贾国龙相比，野人先生并未直接对相关话题正面回应，也就是说，一个本来超级火爆的话题，只有一端在不断上涨，另一端没有跟着“添柴”，话题热度自然而然就没爆。 2.争对错 贾国龙当时除了争一口气外，还踩中了一个陷阱——争对错，特别是关于“预制菜”这个概念，罗永浩的原文是，“好久没吃西贝了，今天下飞机跟同事吃了一顿，发现几乎全都是预制菜，还那么贵，实在是太恶心了。”这段话中最核心的议题就是“预制菜”。 而贾国龙一听罗永浩说自己是“预制菜”，立马坐不住了，想要澄清关于“预制菜”这个概念，然后，就宣布了开放门店厨房的策略，在“全民来找茬儿”的情况下，媒体很快就发现西贝的西蓝花不是新鲜的，这就让网友们确认了“预制菜”的名头，尽管西贝贾国龙后续一再解释，网友们也不认可了。 其实，如果现在来看，争“预制菜”这个对错毫无必要，对了又如何，西贝的顾客们会认可吗？可是，错了呢？代价更大。 “预制菜”这个概念的BUG在于，贾国龙认为的“预制菜”和网友们认为的“预制菜”根本不是一回事儿，网友们心想，“你怎么还教育上我来了？” 跟“预制菜”类似的情况在网上并不罕见，越来越多的主流词汇被污名化，造成外界定义的名词，和网友们对该名词的印象完全相反，比如自媒体、网红、大V、专家......这些概念最初都是褒义词，但后来却逐渐沦为贬义词。 野人先生没有陷入这种概念的争夺战中，“难吃”是一种个人的感官评价，去争论也没啥意义。 3.用户知名度不同 西贝在当时是全国比较知名的连锁餐饮，在全国有近400家门店，很多大商城里都能看到，它的用户知名度更高。 野人先生虽然在2011年就已创立，但直到2024年4月才更名为野人先生，根据窄门餐眼数据，截至2026年9月11日，野人先生全国在营门店数为1712家，目前已覆盖31个省份、237座城市。 西贝的品牌更久，同时消费者的覆盖范围也更广，野人先生的主营业务是意式手工冰淇，对于许多网友而言，可能很多人都没怎么听过野人先生，哪怕是同样的话题，西贝的流量显然更大，估计一些平时不是冰淇淋爱好者的人，若不是罗永浩提起来，可能都不知道这个牌子，罗永浩一提，反而提升了这个野人先生的品牌知名度。 用户知名度就决定了流量传播中的另一个重要节点——媒体、自媒体和网友们的态度，媒体、自媒体需要流量，因此，对于用户知名度更高的话题，他们愿意参与，而用户知名度不高的话题，本身流量收益一般，他们就不愿意下场，这在一定程度上也减弱了话题的热点效应，也导致“罗永浩点评野人先生”话题没有彻底火爆全网。 4.不在同一个坑里跌倒 如果说罗永浩点评西贝见证了群体的“愚蠢”行为，那么，野人先生话题上则见证了群体的“理性”。时隔一年后，人们对于当初西贝的情况其实内心存在后悔，虽然嘴上不会直接说，但是“预制菜”这个概念到现在都没有厘清；餐饮行业的预制菜到底是个什么光景，也没有答案；那么多餐饮企业中，究竟有几家比西贝做得更好？更是没有答案。 西贝则从370家门店减到了仅剩200多家门店，看起来这起事件中没有受益者，至少，普通的网友们没有从中受益，混乱和狂热背后，似乎只有流量大V获益，这是人们在一年后不想看到的。 因此，同样是被喷“难吃”，“不要回答”就迅速被顶上了热搜头条，网友们并不希望这次再被裹挟进这场流量漩涡中，直接“好心”提醒品牌方，而品牌方也很聪明，没有直接硬怼。 数亿网民们并不希望在同一个坑里跌倒，“罗永浩评价难吃为何大众不买账了”话题也被推上了热搜， 这一次，网民们希望自己站在理性一边 。 若回过头来看西贝的境遇，西贝如今的情况显然也不是罗永浩希望看到的，虽然他后续有过数次澄清，但也无济于事，西贝还是回不到从前。 而在野人先生身上，罗永浩其实也没有要怎么样。他想表达的或许只有一点：“今天睡觉前的最后一个困惑：那些几千万粉丝的探店博主可以说一个餐饮店不好吃吗？”这句话的潜台词背后或许是，作为一名拥有500多万粉丝的大V的身份，他有没有权利来表达一个东西不好吃？ 罗永浩或许只是随意地表达了一下他吃过的餐饮，但在他的庞大粉丝背景下，一切都会被放大，继而会被品牌方认为是“公关问题”，而品牌方则选择硬刚/不要回答，这也是一个挺有意思的话题，即那种拥有庞大的粉丝量和流量的大V，究竟还能不能在网络上真实地表达自己的感受？或许，罗永浩也想知道这个问题的答案。 网络上永远不缺话题，但一个击穿各个层级的全民爆款话题，必然存在着“天时地利人和”，有各种各样的东西集合在一起才行，野人先生缺少这种“天时地利人和”，而西贝很不幸，集合了一切。站在罗永浩的角度，或许，在网络上想做一个真实的人真的太难了。而作为千千万万个普通的网友，只想要一点——自己永远正确。 本文来自微信公众号： 郭静的互联网圈 ，作者：郭静的互联网圈",
+   "published": "Sun, 20 Sep 2026 04:52:41 GMT",
+   "source": "虎嗅资讯-全部",
    "biz_tags": [
-    "ai_tools",
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "舆情公关案例，与核心业务无关",
+   "action": "无",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "实测Jev：没那么强，但足够给有些乏味的AI圈带来新刺激",
+   "link": "https://www.huxiu.com/article/4892583.html",
+   "summary": "最近几天，AI圈讨论度很高的一个模型，不是GPT、Claude或Gemini的新版本，而是一个几乎不说话的Jev。9月15日发布后，它很快被接入Vercel AI Gateway。根据Vercel公布的数据，上线Gateway 24小时内，近13%的付费团队已经使用过它，这是平台历史上采用最快的一次模型发布。...... 本文来自微信公众号： 硅星人Pro ，作者：董道力 最近几天，AI圈讨论度很高的一个模型，不是GPT、Claude或Gemini的新版本，而是一个几乎不说话的Jev。 9月15日发布后，它很快被接入Vercel AI Gateway。根据Vercel公布的数据，上线Gateway 24小时内，近13%的付费团队已经使用过它，这是平台历史上采用最快的一次模型发布。对于一款此前没有公开亮相的模型，这个开局相当抢眼。当然，尝鲜之后能留下多少用户，还需要时间检验。 开发者感兴趣的，是把Jev放进模型路由、Agent是否继续执行、风险筛查、输出检查等环节。TypeSafe对它的定义也很特别：第一款“System One Model”。给它一段state和几个问题，它直接返回选择、评分或真假判断，以及相应的概率，供软件调用。 这和过去几年人们最熟悉的模型发布，很不一样。大家已经习惯等待一个更会回答问题、更能解释自己、更擅长长篇推理的AI，Jev却干脆拿掉了文字生成。它负责判断，下一步做什么，由程序决定。 1 一个不太像大模型的模型 Jev的使用方式很简单：先给模型一个state，也就是需要判断的上下文；再给它一组questions，提前规定每个问题的答案类型。 例如客服系统收到一条用户消息，程序可以同时问： ●这是不是紧急问题？ ●用户是不是有购买意向？ ●应该分到哪个处理类别？ ●严重程度是多少？ 我们可以用伪代码比较一下Jev和语言模型的区别。 jev(\"我被重复扣款了，请退款。\",{department:choice({billing:\"付款退款\",technical:\"产品故障\",sales:\"购买咨询\"}),urgency:score([\"可以等待\",\"今天处理\",\"立即处理\"]),refund_requested:probability(\"客户明确要求退款\")}) response=llm(`分析买家消息：“我被重复扣款了，请退款。”返回三个字段：department：billing（付款退款）、technical（产品故障）、sales（购买咨询）urgency：0（可以等待）、1（今天处理）、2（立即处理），允许小数refund_requested：客户明确要求退款的概率，范围为0～1只返回JSON，不要解释。`)result=JSON.parse(response) 通过Vercel AI SDK调用时，这些问题可以分别设为Choice、Score或Boolean。Choice选择一个选项，Score按给定标准评分，Boolean返回一个真假概率。模型处理完，程序就可以读取结果。 普通大模型当然也能完成这些判断，还可以被要求只输出JSON。在常见的聊天式调用中，它仍然需要逐个token生成这份结果。Jev把产品目标收窄到预先声明好的判断，不生成一段文字来交付答案。 TypeSafe官方称，Jev使用了新的模型架构、并行sampler，以及Reinforcement Learning for Calibrated Decisions（RLCD）训练方法。它会并行处理声明好的问题，输出空间也提前限定，因此不会出现schema之外的类型错误。System One这个名字来自丹尼尔·卡尼曼《思考，快与慢》里的System 1：快速、直觉式的判断。 不过，官方宣传中的“不会hallucinate”，也许并不是你想的那样。 它不会凭空生成一个不存在的选项，也不会把本该是数字的结果写成一段文字。但这并不等于它不会判断错。比如你让它在A、B、C三个选项里选一个，它仍然可能选错，只是不会跑出D。TypeSafe在发布文章中也解释，其“零幻觉”数字来自对输出结构的保证。 模型的自由度被压缩了，判断本身依然可能出错。这两件事，需要分开看。 1 实测：快是真的快，但也没那么强 为了看看Jev到底能做到什么程度，我们做了一组很简单、但比较贴近实际业务的测试。 题目来自电商客服场景，我们搞到了一批数据，一共50条中文客服问题。每条问题都要求模型完成四项判断：紧急度、售前概率、处理类别和严重度。评分也很直接：四项全部符合人工标注的评分要求，才算这一题正确。 我们把模型分成三组。第一组是便宜的小模型，包括DeepSeek V4 Flash、GPT-5 nano和Gemini 2.5 Flash Lite；第二组是国产模型，包括GLM 5.3 Flash、DeepSeek V4 Pro、Qwen 3.8 Flash、Kimi K3和MiniMax M3；第三组则是GPT-5.5、Claude Opus 5、Claude Sonnet 5和Gemini 3.1 Pro Preview。Jev放在第一组里比较。 结果并没有出现什么“新模型吊打旧模型”的戏码。 Jev的平均得分大约在32～32.6分之间，50道题的完整准确率约为64%～65.2%。它排在便宜小模型组第二，只比DeepSeek V4 Flash少1.2分。如果只看这组题，Jev并没有表现出特别强的判断能力。 但速度和价格，是另一回事。Jev平均每道题的完整响应时间约0.73～0.75秒，50道题总成本约0.002美元，两项都是我们测试中的最低值。DeepSeek V4 Flash虽然多拿了一点分，但平均每题需要5.58秒，成本约为Jev的2.5倍。 放到更强的模型组里，准确率的差距就更明显了。Jev的分数排在最后。MiniMax M3平均可以拿到约38分，比Jev多做对约5.4题，完整准确率高出约10.8个百分点。 但对应的成本差距，其实没有想象中那么大：50道题，MiniMax M3只多花了大约0.0035美元，平均每题响应时间约1.80秒。对于这组任务，多花这点钱换取更多正确答案，同样是一个值得考虑的选择。 因此，这组测试很难支持“Jev是更聪明的模型”这个结论。它展示的是一组具体取舍：少等一会儿，少花一点钱，同时接受一定的准确率差距。是否划算，要看业务有多在意延迟，以及判断错一次会付出什么代价。这50条中文客服样本，也不足以代表它在所有任务上的表现。 测试里还有一个挺有意思的现象：Jev有一些失分，卡在了阈值附近。 比如人工标注认为某条客服消息的严重度下限应该是2.00，Jev给出了1.99；某条临期食品问题的人工紧急度是0.75，Jev的结果在0.71～0.72左右。数值差距很小，但如果业务规则写的是“达到2.00才进入人工处理”，1.99和2.00就会被程序当成完全不同信号。我们重复测试了15次，还有3道题出现过通过和失分交替的情况。 这说明，模型返回一个精确到小数点后的数字，并不会自动让业务规则变得可靠。尤其在阈值附近，开发者仍然需要处理波动，决定什么时候复核。 TypeSafe希望进一步解决的，是让概率本身成为软件可以依赖的信号。它把概率校准列为训练目标：如果一批判断都给出80%的概率，那么长期看，相应结果应当大约有80%成立。这是一个可以检验的目标，不能仅凭模型返回了概率就认定已经实现。 在产品中，Choice和Score会附带概率分布，以及由分布计算的置信度，方便程序决定自动执行、补充信息，还是转交人工。这里的置信度与“严重度打了多少分”是不同的量，我们这组按题目判分的测试，也不能验证概率校准做得有多好。 Jev想交付给软件的，包括答案，也包括处理不确定性的线索。这件事有用，但离“可以放心交给它”还有一段需要验证的距离。 1 明星团队带来的反差和新的启发 仅凭这份成绩单，显然还解释不了Jev的热度。便宜的小模型已经不少，Jev也没有在我们的测试里拿下准确率第一。但它就是这么热。 这背后一个关键肯定是它的团队。 TypeSafe的联合创始人兼CEO Diogo Almeida，曾在OpenAI参与InstructGPT的研究。他是2022年《Training language models to follow instructions with human feedback》论文的作者之一。这项研究用人类反馈训练模型，让它更好地遵循人的意图，也是通向ChatGPT的重要工作。 在论文里有一个很能说明问题的结果：在研究采用的提示和人工评估中，经过训练的13亿参数InstructGPT，比1750亿参数的GPT-3更受评估者偏爱。模型小了一百多倍，改变训练目标，仍然可以让它更符合使用者的需要。 如今，Almeida却又开始质疑自己参与推动的成功路线。 Jev发布文章的开头，他直接问：“模型在聊天上超越人类已经好几年了，自动化在哪里？”这问到了大模型热潮里一个迟迟没有充分兑现的承诺。 他的团队也有鲜明的工程背景。联合创始人兼COO Sasha Sheng曾在Meta／FAIR从事News Feed、AI产品体验和研究工作；CTO Erik Gafni做过面向DNA测序的多模态AI创业项目，也是Invitae和Freenome的早期员工。根据官网介绍，团队还包括来自Google Brain、Stripe、Airbnb、Plaid、Docker等公司的成员。 这些履历当然让这次转向多了一层意味。一位亲手参与把语言模型变成好用助手的研究者，现在希望模型换一个服务对象：把软件本身的需要放在前面。 在TypeSafe的技术介绍里，团队甚至给出一个相当激进的预期：未来大规模AI自动化中，99%的交互可能发生在机器之间，只有1%面向人。这是他们的押注，远非已经发生的现实。顺着这个判断往下想，今天模型习惯采用的交付方式，确实值得重新考虑。 一个Agent替用户办事，最终也许只需要向人展示一段结果，但在抵达结果之前，它要做很多小决定：这次请求能否交给便宜模型？检索结果是否相关？要调用哪个工具？任务该继续还是重试？另一个模型给出的答案是否值得相信？这些环节的接收者都是程序。它们需要一个能用于下一步的判断，通常用不上一段写得很漂亮的说明。 如果每一步都调用一个通用大模型，等待它组织回答，整个任务的成本和延迟就会不断累积。Jev提供了一种更明确的分工：写作、代码生成和复杂推理仍然可以交给擅长这些工作的模型；大量边界清楚的小判断，可以尝试交给专门优化过的部件。模型开始服务于AI任务的执行过程，也不必每次都出现在用户眼前。 这种想法并不神秘。开发者Sean Goedecke已经用现成的Qwen3-8B，配合单token选择和批处理，做出了类似的接口，还重做了Doom和Wikiracing演示。 让它如此火爆的地方，也在于眼下的AI圈，恰好需要一点这样的刺激。 模型发布仍然密集，进步也仍在发生，但发布故事已经越来越熟悉：更高的分数、更长的上下文、更强的推理，然后等待下一轮榜单。对很多持续关注AI的人来说，进步的体感开始变慢。 应用端也有类似的疲惫。聊天、编程、图片和视频生成之外，人们仍在等待更多能立刻说出名字、明显改变工作方式的新产品。把一个聊天框放进旧软件，已经很难带来第一次见到ChatGPT时的兴奋；让更多行业的一整套业务流程真正自动运行，又远比做出一个演示困难。模型还在更新，那些关于世界将如何被改变的承诺，却需要更长时间才能被感知。 Almeida传达出来的不满，正好与这种情绪相遇。TypeSafe在宣言里说，现有模型已经有足够的能力创造经济价值，困难在于人们仍然很难用它们搭建可靠的软件。 在Jev官网他们写到：“Build Prod,Not God”，做出能投入实际使用的产品，而不是去造神。Almeida的Jev也许还不是能证明这句话的模型，但他确实是最适合把这个越来越明显的行业共同感受喊出来的人。这个意义上，Jev带来的刺激也许会继续发酵下去。",
+   "published": "Sun, 20 Sep 2026 04:31:44 GMT",
+   "source": "虎嗅资讯-全部",
+   "biz_tags": [
     "industry"
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "GPT-5.5下线意味着API迁移窗口期，需提前适配新版本",
-   "action": "检查现有AI工具链是否依赖GPT-5.5，制定迁移计划",
+   "why": "新型判断模型可优化AI工作流，降低调用成本",
+   "action": "研究Jev模型API，测试用于短剧内容分类",
+   "opportunity": "用Jev做内容判断，降低AI调用成本",
+   "risk": "新模型稳定性待验证，不宜核心依赖"
+  },
+  {
+   "title": "中国人的潮流初恋，回来了？",
+   "link": "https://www.huxiu.com/article/4892391.html",
+   "summary": "最近缺钱，遂挂点不穿的老潮牌上闲鱼，准备碰碰运气，回回血。一开始，觉得Palace、Supreme好卖，Bape这种咋咋唬唬的老货，在这个追求老钱极简的时代，也就是交易的添头。但万万没想到刚上架一天，二级市场就教育了我的肤浅，前者无人问津，后者一天出完，甚至洗劫我bape的老哥还问我有没有更多的新货。在闲鱼闯...... 出品 | 虎嗅青年文化组 本文首发于虎嗅年轻内容公众号“那個NG”（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 最近缺钱，遂挂点不穿的老潮牌上闲鱼，准备碰碰运气，回回血。 一开始，觉得Palace、Supreme好卖，Bape这种咋咋唬唬的老货，在这个追求老钱极简的时代，也就是交易的添头。 但万万没想到刚上架一天，二级市场就教育了我的肤浅，前者无人问津，后者一天出完，甚至洗劫我bape的老哥还问我有没有更多的新货。 在闲鱼闯荡多年的我顿感不妙，毕竟在这个领域没有多少为热爱溢价的狂信者，更多是把你当漏的商业捕猎者。 果不其然，当我顶着大脑袋去社交平台检索，就发现： 中国人的潮流初恋，翻红了。 在中外社交平台上，越来越多的人开始穿上了花花绿绿的鲨鱼迷彩，蹬上了五彩斑斓的STA，在街角和主理人咖啡店凹造型，彰显着时尚挖掘能力。 品牌自己也没闲着。 过去两年，BAPE先后和Stray Kids、aespa等一系列K-pop偶像合作，又让BABYMONSTER为旗下女装线APEE站台，这些动作让BAPE获得越来越多的关注。 而关注意味着什么？ 二级市场都知道。 全球最大的潮流转售平台之一StockX在2026年1月发布的《Big Facts: Current Culture Index》显示，BAPE在2025年服装品牌交易量中升至第五，比上一年提高一位。 这个变化尤其值得注意，因为就在上一份报告里，StockX还曾统计到BAPE交易表现同比下滑7%。如今的变化，意味着这个33岁的老潮牌正在二级市场止跌回升。 哎，作为20世纪末诞生的全球代表性街头品牌，我应当Bape抱有更大尊重的。 对于中国而言，BAPE的鲨鱼头外套、猿人头印花TEE以及糖果色的STA（神似NIKE AF1）是21世纪初潮人们最爱的基本款，想成为学校最潮的仔，无脑冲就行了。 而从世界范围而言，BAPE的影响力更显恐怖，得益于木村拓哉、三宅健这样的日本明星上身，使得它在1997年11月男性生活方式杂志《Hot Dog Press》的调查中，成为当时日本年轻人心中的第一品牌。 尽管当时影响力仅在日本兑现，但其高涨的声势赢得了西方潮人的关注，就像SW 5050之于2012年的时尚达人一样，BAPE也一度成为90年代末西方潮人之间的街头暗号、品味之选，在1999年9月《纽约时报》极尽溢美之词，将其称为世界上最独特的品牌之一。 随后的事情就更为人熟知。BAPE开始在香港、伦敦、纽约开设装修近乎奢侈品店的旗舰空间，又借由Pharrell、Kanye West、Lil Wayne等人的影响力进入美国Hip-hop文化中心，最终完成从原宿品牌到全球街头文化符号的跃迁，到2007年，BAPE营收达到了6300万美元。 “稀缺让人更爱” 但时尚就是这样残酷。当某件单品、某个品牌真正成为潮的标准答案时，它往往也已经开始走进暮年。 随着市场保有量越来越高，曾经用于证明品味的鲨鱼卫衣、彩色BAPE STA和满版迷彩，也逐渐失去了稀缺感。高饱和配色、卡通印花和夸张Logo曾经让BAPE看起来像未来之选，但却很快成为了时代的眼泪、流行的遗迹。 2008年的金融危机又恰好发生在这个转折点上，它没有杀死BAPE，却颠覆了整个消费文化对炫耀和浮夸的厌倦。接下来的几年里，从男装到街头文化，人们越来越偏爱更克制、更隐晦、也更强调圈层识别的穿着方式。 华尔街精英都不再追求萨维尔街的高定西装，转而拥抱巴塔哥尼亚的中城背心；而街头小子也转而拥抱那些更显神秘的、更稀缺也相对克制的Supreme（相对于Bape）。 时也势也，今天BAPE的回归其实早有预告。 几年前，Highsnobiety就已经注意到，BAPE正在重新浮上水面；到了2025年，《Vogue France》则干脆把这一年称为BAPE大回归的一年。 与此同时，BOF惊讶的发现，在这个街头服饰纷纷遭遇增长难题的状态下，30多岁的BAPE正在全球持续扩张。 韩国KREAM在报告中提到，以BAPE为代表正统街头服饰正在受到Z世代欢迎 一个原因，可能恰恰在于BAPE早已不只是一家卖鲨鱼卫衣的潮牌。 如今的BAPE几乎已经把猿人头塞进了生活的每个角落，从宠物用品、厨房餐具到文具、玩具和家具无所不包。美国街头服饰零售商Concepts的高级买手Ross O'Hanlon对BoF说：“如果你愿意，生活里的每一个角落都可以有BAPE。” 他的说法虽然看上去有点立不住，毕竟Supreme比他更会卖生活用品，从砖头、撬棍、灭火器到呕吐袋无所不包，看上去比他全多了。 但最大的区别在于前者更像是炒作话题，而后者则是通过Baby Milo（儿童）、APEE（女孩）和AAPE（青少年）等针对不同年轻段和消费层级人群，精心打造了全领域覆盖的消费矩阵，这种体系把bape的猿人宇宙拆成了不同入口，让这个30多岁的品牌可以不断从市场汲取养分。 最可爱了 品牌自己的人，将回潮归功于自己的坚持与努力；时尚行业的人则愿意基于他的成功，倒推他做了什么。但我觉得更重要的理由是，赶上了好时候。 当这个总是被揶揄成时代眼泪的品牌，在二级市场和时尚推荐中被冠以Vintage、Archive、OG的商品标签时，过时与时髦之间的界限也就被抹平了。 对于BAPE而言，时下最流行的Y2K、多巴胺所推崇的那种艳丽、浮华且富有活力的审美，和它的经典产品简直是天作之合。而它所处的那段不近不远的流行时光，在这个高速发展的时代，又足以让人们对它投射复古想象，赋予文化价值。 这种心理在消费者身上体现得更加直白，今年有人在Reddit晒出一整套BAPE穿搭，评论区一句2026 is 2006获得共鸣；另一名消费者则坦言，自己从2009年就想拥有鲨鱼卫衣，直到工作、有了成年人的钱以后，才真正圆梦。 当然很多人今天消费BAPE是为了时尚，但也有人消费是为了体验那个没有经济危机的、错过的年代，但归根结底，两者间的界限似乎并不是那么明显。 BAPE开始被人重新挖掘时，它的创造者NIGO本人也正处于职业生涯的第二个高峰。 如今他既是KENZO艺术总监，又和Nike合作推出Air Force 1，今年伦敦设计博物馆甚至为他举办了大型个人回顾展。曾经的原宿主理人，已经从潮流人物变成了被博物馆书写的设计史人物。 因此有人说，BAPE今天在市场上的火热与他创始人的爆红大有关系。 但对于BAPE的创始人NIGO来说，这个品牌今天的回归，可能还会勾起一些更复杂的感受。 2011年，那个一度站在全球街头文化顶端的BAPE，开始为巅峰时期的高速扩张付出代价。面对消费审美的变化，以及金融危机后银行收紧信贷，遍布全球的门店的扩张成本，逐渐从品牌资产变成了现金流负担。 出售前夕，BAPE母公司Nowhere已经连续亏损，并背负着约43.1亿日元的贷款、租赁及其他经营义务。为了让公司、员工和债权方都能继续活下去，NIGO最终选择放手。 随后香港I.T集团宣布以2.3亿日元收购Nowhere 90.27%的股份 （当时该公司年收入仍有50亿日元，唏嘘） 其中NIGO本人出售63.24%，Springlane Global Investment出售27.03%。 10年后，它的资本归属再次变化，随着2021年I.T私有化后，BAPE被从集团中独立拆出，私募巨头CVC Capital Partners随即入股与I.T创始人沈嘉伟一方共同控制着这个传奇品牌。 因此对于外界来说，BAPE是NIGO最伟大的成功之一，但对他本人来说，却也是一次失去自己创作品牌控制权的失败。 今年4月，在与GQ的对谈中，NIGO用“一场败仗”来形容自己回顾这段历史的感受。 在报道中，为了解释这种心情，NIGO还提到了德川家康三方原之战中的惊怖画像，相传在那场日本战国最重要的战役中，德川家康被武田信玄打得丢盔卸甲，还窜了裤兜，在逃出生天后命画师给自己画了张画，借此提醒自己不要忘记失败的耻辱。他在这次回顾展中，也放了一张类似照片。 而这种不想走老路的苦楚，其实也藏在他后来创立品牌Human Made的slogan里： THE FUTURE IS IN THE PAST - 未来藏在过去里。 这句话的含义显然不是要回到过去、原样照搬，而是记住过去留下的经验与教训，再从中找到一条通往新可能的路。今天Human Made的成功（2025年正式登陆东京证券交易所Growth Market）其实就是这句话最好的注脚。 在那篇文章的最后，作者问了NIGO一个问题，说如果今天有人想复刻你的道路，你会有什么建议？ NIGO说，来看我的展览，然后做点新鲜事。 但可惜的是，在这个品牌成功越来越等同于从过去翻找答案的时代；设计越来越沉迷Archive、复刻、联名和千禧年考古的时刻；流行文化体系越来越擅长给过去重新定价，却越来越难制造新的、足够有吸引力的阶段，NIGO的说法多少略显落寞。 毕竟他花了这么多年提醒自己不要重复过去，而这个时代给他的最大褒奖，却偏偏是： 人们又开始喜欢你的过去了。",
+   "published": "Sun, 20 Sep 2026 04:21:02 GMT",
+   "source": "虎嗅资讯-全部",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "潮流趋势与核心业务无关，仅作了解",
+   "action": "无",
    "opportunity": "无",
-   "risk": "未及时迁移可能导致AI工具服务中断"
+   "risk": "无"
+  },
+  {
+   "title": "超500万中国学生的身体，正在悄悄变“弯”",
+   "link": "https://www.huxiu.com/article/4892564.html",
+   "summary": "当代脆皮年轻人的标配，就是二十几岁的年纪拥有中年人一般的腰背，不仅腰肌劳损、椎间盘突出、胸椎曲度变直，还要担心自己是不是因为老跷二郎腿摊上了脊柱侧弯。但现在这些“中老年病”不只是落到年轻人头上，甚至进了中小学校园。一些孩子不仅高低肩，还总喊腰酸背痛，可能就是脊柱侧弯搞的鬼。当家长焦虑小...... 本文来自微信公众号： 网易数读 ，作者：网易数读，题图来自：视觉中国 当代脆皮年轻人的标配，就是二十几岁的年纪拥有中年人一般的腰背，不仅腰肌劳损、椎间盘突出、胸椎曲度变直，还要担心自己是不是因为老跷二郎腿摊上了脊柱侧弯。 但现在这些“中老年病”不只是落到年轻人头上，甚至进了中小学校园。一些孩子不仅高低肩，还总喊腰酸背痛，可能就是脊柱侧弯搞的鬼。 当家长焦虑小孩的身高、体重、视力时，脊柱侧弯已成为继肥胖症和近视之后，危害中国儿童青少年健康的第三大疾病 [1] 。 站没站相，可能是脊柱弯了 什么是脊柱侧弯？顾名思义，就是脊柱侧面向一侧偏曲。 一个正常的脊柱，从背面看大致是一条直线。而脊柱侧弯的话，脊柱看起来就呈现C形或S形曲线。 在临床上，若站立位全脊柱正位X光片测量的弯曲角度 （Cobb 角） 大于等于 10°，即可定义为脊柱侧弯，若达到或超过 20°，就是中度及以上侧弯 [2] 。 脊柱侧弯的孩子，平常往往会呈现一些外观特征，像是肩膀和裤腰总是一边高一边低；领口一边松一边紧；买来的鞋子穿久了，左右脚的磨损程度也不一样。 这个听起来挺陌生的疾病，如今已在中小学校园里弥漫开来。 根据中华预防医学会脊柱疾病预防与控制委员会 2022 年的前期流调数据，结合权威杂志、国内专家共识，预计中国中小学生发生脊柱侧弯人数已超过 500 万，并且在以每年 30 万左右的速度递增 [1] 。 一项覆盖中国大陆 115 万名中小学生数据的荟萃分析也显示，2016 年至 2024 年，中国中小学生脊柱侧弯患病率已达 1.6%，明显高于 2000 年至 2015 年的 0.9% &nbsp;[3] 。 如果进一步把患者群体拆开看，会发现女孩的脊柱侧弯患病率要显著高于男孩，约为男孩的 1.6 倍，并且侧弯程度重，患病高峰年龄也要比男孩早 1-2 年 [3][4] 。 这可能与女性的肌肉力量更弱、运动时间更少、青春期骨骼发育更早有关 [3] 。 还要注意的是，有一部分孩子在校园体检初筛中，已被发现有脊柱侧弯的特征，但没有去医院就诊或及时干预。 一项覆盖中国东部 90635 名青少年的五年研究就显示，调查中脊柱侧弯初筛阳性者过万，最终走进医院完成 X 光确诊的仅占 14.4% [5] 。 另一则覆盖 222 万中国青少年的大规模 Meta 分析也指出，中国 5 至 20 岁青少年里，脊柱侧弯的初筛阳性率已经达到 3.97% [4] 。放在中国庞大的人口基数下，这对应的就是近千万级别的青少年。 繁重学业下， 中国孩子的脊柱持续受压 脊柱侧弯为什么会盯上青少年？除了因为现在医学水平提高，检出率上升外，背后的原因很复杂。 从病因来看，这些脊柱侧弯的中小学生，大部分得的都是特发性脊柱侧弯，只有少量是其他类型 [2] 。 所谓的特发性，就是医生也说不清是什么原因。排除了先天畸形、神经肌肉疾病、外伤等明确病因后，依然找不到单一、确切病因的，都可以归在这一类。 根据目前的研究， 青少年脊柱侧弯高发，可能与青春期发育特点和学习生活习惯有关。 一方面，青春期本身就是个容易得脊柱侧弯的时期。这时候，孩子们身高突增，但骨骼尚未完全发育成熟，骨骼肌的可塑性和变异性强。如果青少年体型偏瘦、肌肉量不足，钙、磷、维生素 D 等营养又跟不上的话，脊柱旁的肌肉便可能难以维持直立平衡，使得脊柱容易往一边发生侧弯 [6][7] 。 另外，有调查显示，青春期时，瘦子的脊柱侧弯患病率往往比胖子高。而且脊柱侧弯的发病高峰和青春期发育的节奏也比较吻合，长个头最快的时候也刚好是脊柱侧弯检出率最高的时候。 以上海市虹口区疾病预防控制中心的研究为例，他们曾抽取虹口区 7 所学校 1884 名中小学生进行调查，发现消瘦学生脊柱弯曲异常检出率最高。并随着学段的升高，脊柱弯曲异常检出率也会升高，普通高中大于职业高中，其次大于初中和小学 [8] 。 这或许可以解释为什么青春期发育得早、肌肉量一般更少的女孩，会比男孩更早也更容易脊柱侧弯。 另一方面，除了要面对青春期发育带来的生长痛，这届中国小孩的户外运动时间也很短，进一步影响了骨骼和肌肉发育。 据世界卫生组织调查，11-17 岁的中国青少年中，80%-89% 都存在运动不足的情况，女孩尤其如此 [9] 。 而运动也许可以帮助防范脊柱侧弯。武汉第一医院的一则研究显示，每周体育课多、户外活动时间长都是发生脊柱侧凸的保护因素 [10] 。 更严重的是，缺乏运动的同时，中国小孩又面临几乎全球最繁重的学习任务。上学路上，要带着十几斤重的书包负重前行。在学校里又一坐就是好几个小时。回到家还要低头写作业。放了假再葛优躺玩一天手机。这一套下来，脊柱早已不堪重负。 深圳一则研究招募了 491 例青少年特发性脊柱侧弯患者和 1346 名健康对照者，发现脊柱侧弯和背重书包、错误的读写姿势、用太久电子产品等行为，都有着显著的相关性 [11] 。 脊柱侧弯的痛，不只在身体上 一旦被临床确诊了脊柱侧弯，影响是多方面的。 很直观的就是体态变差。脊柱侧弯后，人看着站不直、高低肩、胸廓畸形，走路也歪歪扭扭。在生理感受上，不正常的脊柱位置还可能影响呼吸功能和消化系统 [12][13] 。 外观“变丑”、身体又一直处在不舒服的状态，这种变化长期还会影响到人的情绪状态。特别是在敏感的青春期里，脊柱侧弯成了一些孩子藏在内心的痛。 据一项对青少年脊柱侧弯患者的生活质量测评，这些青少年也认为脊柱侧弯影响了自己的心理、社交和睡眠 [14] 。 中山大学的研究也显示，脊柱侧弯患者在心理健康总分、抑郁情绪、焦虑情绪、躯体化症状等多个方面的得分明显高于健康人群。他们更容易因为外观问题自卑和内向 [15] 。 不过，脊柱侧弯也不是什么不治之症。 根据中华医学会物理医学与康复学分会发布的康复诊疗指南，轻度脊柱侧弯患者通过体操锻炼，中度患者通过核心力量训练，有可能延缓甚至改善病情，重度患者在必要时可考虑牵引等治疗方式 [2] 。 而对于脊柱还正常或轻微侧凸的人来说，无论是成年人还是青少年，都可以通过改善日常生活习惯来尽量避免脊柱问题的发生。 像是工作或学习时，要注意坐姿，保持腰背挺直。平常还可以注重钙、维生素D等营养物质的补充。 在背包的选择上，与其一味给孩子买高价的“护脊包”，不如从源头上降低书包总重量，尽量别超过体重的 10% [16]。 增加体育运动也是维护脊柱骨骼肌肉健康的好方法。但要注意的是，吊单杠来治脊柱侧弯未必管用，像半悬挂的动作反而可能恶化躯干旋转角度，具体还要听医生的意见 [17] 。 还有很多小习惯，我们现在就可以开始改变，比如就在你看到文章的现在，就可以动手调好桌椅高度，停止葛优瘫，放下二郎腿，没事走两步。 本文科学性已由女王大学病理及分子医学硕士 伍丽青 审核 参考资料： [1] 央视新闻. (2022). [共同关注]我国中小学生脊柱侧弯人数已超500万 脊柱侧弯：危害儿童青少年健康第三大疾病. 央视网. Retrieved on 14th September 2026 from https://tv.cctv.com/2022/01/12/VIDEarIiYAsN1FNQU6CfWaOb220112.shtml. [2] 中华医学会物理医学与康复学分会. (2024). 青少年特发性脊柱侧凸康复诊疗指南(2024 版). 中华医学杂志， 104(39)， 3647-3660. [3] Fu， X.， Meng， S.， Huang， X.， Li， W.， Ye， B.， &amp; Chen， S. (2024). The prevalence of scoliosis among adolescents in China: a systematic review and meta-analysis. Journal of Orthopaedic Surgery and Research， 19(1)， 585. [4] Xu， S.， Li， K.， Jin， L.， Dong， Y.， Liang， Y.， &amp; Liu， C. Distribution of scoliosis in 2.22 million adolescents in China: a population-wide analysis. J Glob Health. 2024; 14: 04117. [5] Xu， R.， Li， J.， Wang， W.， Zhang， L.， &amp; Liu， H. (2025). Prevalence of and risk factors for adolescent scoliosis from a multi-year school screening programme in Eastern China. Frontiers in Pediatrics， 13， 1524073. [6] Zhu， Q.， Chen， J.， Chen， C.， Wang， H.， &amp; Yang， S. (2019). Association between calcium-phosphorus balance and adolescent idiopathic scoliosis: A meta-analysis. Acta Orthopaedica et Traumatologica Turcica， 53(6)， 468-473. [7] Xu， W.， Zang， J.， &amp; Wu， F. (2023). Association between lean mass and adolescent idiopathic scoliosis: a meta-analysis. BMC Musculoskeletal Disorders， 24(1)， 671. [8] 亓德云， 李丽平， 江艳微， &amp; 周媛. (2021). 上海市虹口区儿童青少年脊柱弯曲异常现状及影响因素分析. 中国学校卫生， 42(3)， 444-447. [9] 世界卫生组织. (2022). 全球身体活动状况报告. [10] 刘坤， 罗梦晴， 缪学宇， 熊键， &amp; 马艳. (2024). 武汉市汉阳区 10~ 16 岁青少年脊柱侧凸现状及相关因素分析. 中国校医， 38(1)， 8-11. [11] Dou， Q.， Zhu， Z.， Zhu， L.， Wang， W.， Guo， L.， Ru， S.， ... &amp; Yan， B. (2023). Academic-related factors and daily lifestyle habits associated with adolescent idiopathic scoliosis: a case-control study. Environmental health and preventive medicine， 28， 23-23. [12] Kempen， D. H. R.， Heemskerk， J. L.， Kaçmaz， G.， Altena， M. C.， Reesink， H. J.， Vanhommerig， J. W.， &amp; Willigenburg， N. W. (2022). Pulmonary function in children and adolescents with untreated idiopathic scoliosis: a systematic review with meta-regression analysis. The spine journal : official journal of the North American Spine Society， 22(7)， 1178–1190. [13] Hosogane， N.， Watanabe， K.， Yagi， M.， Kaneko， S.， Toyama， Y.， &amp; Matsumoto， M. (2017). Scoliosis is a Risk Factor for Gastroesophageal Reflux Disease in Adult Spinal Deformity. Clinical spine surgery， 30(4)， E480–E484. [14] Hu， M.， Cai， Z.， Yang， Y.， Hong， X.， Zhang， Z.， Wang， C.， ... &amp; Zhao， J. (2024). Reliability and validity of the adapted Chinese version of the quality of life profile for spine deformities in adolescents with idiopathic scoliosis. Global Spine Journal， 14(4)， 1269-1276. [15] 张桂芳， 黄焕杰， &amp; 葛乐. (2023). 青少年特发性脊柱侧凸患者的社会心理行为分析及应对措施探讨. 中国康复医学杂志， 38(12)， 1656-1662. [16] 国家疾控局. (2026). 科学选择书包，保护脊柱健康. 中华预防医学会官方网站. [17] Akçay， B.， Çolak， T. K.， Apti， A.， &amp; Çolak， İ. (2024). The Immediate Effect of Hanging Exercise and Muscle Cylinder Exercise on the Angle of Trunk Rotation in Adolescent Idiopathic Scoliosis. Healthcare (Basel， Switzerland)， 12(3)， 305. 本文来自微信公众号： 网易数读 ，作者：网易数读",
+   "published": "Sun, 20 Sep 2026 03:08:38 GMT",
+   "source": "虎嗅资讯-全部",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "与三大业务无关，纯社会健康话题",
+   "action": "忽略，不占用注意力",
+   "opportunity": "无",
+   "risk": "无"
   },
   {
    "title": "“考古风潮”来袭，我们为何总在用当下审判过去？",
@@ -536,89 +567,25 @@
    ],
    "category": "other",
    "level": "B",
-   "why": "内容考古风潮可作短剧选题参考，怀旧题材有流量红利",
-   "action": "关注怀旧/考古类内容在短视频平台的流量表现",
-   "opportunity": "短剧可尝试怀旧翻拍或经典梗二创题材",
+   "why": "内容考古趋势可启发短剧选题怀旧向",
+   "action": "记录怀旧题材趋势，备选短剧选题库",
+   "opportunity": "怀旧IP二创短剧可能吸量",
    "risk": "无"
-  },
-  {
-   "title": "教别人用AI，我赚翻了",
-   "link": "https://www.huxiu.com/article/4892554.html",
-   "summary": "从9.9元到30万，卖课的先赚到了。定焦One（dingjiaoone）原创AI正在让越来越多技能变得廉价，但“教别人怎么用AI”，反而成了一门越来越具体的生意。它的价格跨度很大。闲鱼上，9.9元的AI教程半年能卖出上万份；有人依靠几百元的付费社群模式，聚集上千名学员；也有人把一对一咨询卖到2000元一小时，...... 本文来自微信公众号： 定焦One ，编辑：陈丹，作者：定焦One团队 从9.9元到30万，卖课的先赚到了。 定焦One（dingjiaoone）原创 AI正在让越来越多技能变得廉价，但“教别人怎么用AI”，反而成了一门越来越具体的生意。 它的价格跨度很大。闲鱼上，9.9元的AI教程半年能卖出上万份；有人依靠几百元的付费社群模式，聚集上千名学员；也有人把一对一咨询卖到2000元一小时，把企业顾问做到2万元一个月，甚至有单堂企业培训收费30万元。 看上去，这是一门最容易被AI自己取代的生意。工具越来越简单，免费教程越来越多，不会用，甚至可以直接问AI。但真正付费的人，买的往往不是“怎么注册一个账号”或者“提示词怎么写”。 有人花3000元上课，是因为老师手里有客户和商单，学完就有机会接项目；有人愿意付近2万元，是希望把AI真正嵌进自己的工作；律师去学AI，不只是因为担心被取代，更因为客户隐私、本地部署、工作流程这些问题，很难从通用教程里直接找到答案。 这些培训者也并不都是传统意义上的“老师”。有人原本是编导、律师、心理学讲师，有人只是比同行早用了半年AI。他们共同的优势往往不是更懂模型，而是更早知道AI能在哪个行业里解决什么问题，也更早把这些经验变成了可以出售的产品。 于是，一个有些矛盾的市场出现了：AI一边消灭信息差，一边又制造新的信息差；一边降低学习门槛，一边让更多人担心自己跟不上。 这门生意到底卖的是知识、经验、资源，还是焦虑？ 我们找到了几位正在靠“教别人用AI”赚钱的人。有人把培训当成长期教育生意，也有人很清楚，自己能赚钱的时间只有这一两年的窗口期。 01.一门课3000元，但我没打算把AI培训做成长久生意 王甜｜北京梦镜惊鸣创始人 我之前在互联网公司上班，底薪、绩效、年终奖加期权，一年收入不菲，后来因为各种原因离职创业了。 我是编导出身，一直喜欢写东西，也拿过一些写作方面的奖。以前上班的时候，我就总想着，有一天能不能自己做内容。 创业以后，我先投了一部短剧，结果踩了坑。那次之后，我对真人剧的拍摄有些发怵，因为需要协调的环节太多了，太累了。 正好AI漫剧火了起来。它不用组织真人拍摄，一个人就能把很多事情做完。我有编导和写作的基础，如果再学会AI制作，脑子里的东西就可以直接变成视频。 一开始靠自己摸索，前前后后花了几十万元。后来慢慢有人来找我做项目。现在工作室主要服务企业客户，做品牌故事、创意广告，也接剧本和策划。从前期策划、写脚本，到AI视频制作，再到投流和代运营，基本都做。核心团队只有三五个人，长期合作的兼职有十几个。 有一段时间单子太多，团队做不过来，我就想，与其一直招人，不如自己教一些人。学会以后，他们既可以接自己的单，也能帮我们分担项目。所以我们一开始做培训，目的就不是单纯卖课，而是希望学员最后真的能做商单。 现在有三门课：AI视频制作、编导大师和运营大师，每门3000元。卖得最好的是AI视频制作。 我也没有花很长时间专门设计课程。很多内容都是之前做项目反复遇到的问题，已经在脑子里了。我们通过腾讯会议直播，一班大概十个人，也不投流，招生主要靠朋友介绍。 目前学员不到二十人。他们的背景差别挺大。有在找工作的，有想做副业的宝妈，也有刚毕业的学生。有个应届生，学费还是找家里借的。还有一些人本身就在做品牌和内容，只是想知道AI到底怎么放进自己的业务里。 他们愿意来学，也不只是因为课程本身。很多人其实看重的是我们手里有客户、有订单，学完以后还有继续合作的可能。 现在只要有合适的商单，我们也会分给学员。大家多少都已经赚到了一些钱，甚至有的人快把学费赚回来了。 但我没打算把培训做成一门特别大的生意。 可能先做几期，有需求就继续。以后还教不教，也得看我自己还能学到什么。如果发现了新的方向，觉得真的有用，我可能再带回来分享。 AI变化越来越快，但我现在反而没有那么焦虑。 因为我们进得早，已经有客户、有资源，也有真实能交付的业务。对我来说，比“下一个模型会不会把现在的技术淘汰”更重要的是：它又多了什么能力，这个能力能不能变成一个项目，能不能帮客户做出新的东西。 02.用AI做课，再用课教人用AI 张羽明｜北京AI应用顾问、企业培训师 我并不是专门做AI培训的。我的主业是做AI应用，医疗AI、企业咨询、短视频创作。出去讲课，教别人用AI，大概只占我三分之一的时间。 这件事最早甚至和“卖课”没什么关系。 以前我讲心理学和哲学，课讲完，别人没先问心理学，反而来问我：你的PPT为什么这么漂亮？视频为什么做得这么快？我说，用AI。后来咨询的人越来越多，有人直接说你教我人工智能吧。 收费就这么开始了。 现在我的课程已经排到33门大课，拆开有400多节。过去靠人力，这几乎不可能完成，但现在，一个月左右就能全部上线。我早就不亲自一节节讲了。片头片尾用我的形象出镜，后面的声音、文字、图片基本都由AI生成。教案也是一样，我定课题、列大纲，AI生成初稿，我负责审，哪里不对再改。 我们团队用Claude、ChatGPT、Gemini，每个月光API费用就要3000到5000美元。 “教AI”目前有三块收入。最稳定的是线上课，主要在视频号。个人课程一个月四次，收费19800元；针对基础好的人也有几千元的突击课。线下个人培训一个月能有几万元，但不稳定。企业培训单笔最大，一堂周末课可以做到30万元，但要参与竞标，所以也不太稳定。 我发现，愿不愿意为AI付费，未必跟公司大小和资金实力有关。我见过几万元培训费都舍不得出的公司，也见过家庭条件不错、一直追问“学这个有什么用”，最后要求退费的人。真正愿意付费、学得快的人，往往有一个共同点：对新东西有好奇心，而且愿意先试。 我的学员里，医生和律师最多。 律师以前让助理写法律文书，写完还要改，改比写麻烦不说，还要付助理费用。现在用AI，直接生成后自己再优化一下。医生则把病人的大量资料交给AI整理，先把信息捋清楚。还有一个杭州学员，原来做小程序，一个项目做了三个月，客户反复修改，经常拖到半年。用了AI以后，他能同时接的项目量变成过去的5到6倍。 当然，也有人学完之后没联系了，做没做出来、赚没赚到钱，我也不知道。 很多人问我，网上免费教程这么多，收费课还能做多久？ 我不太担心。互联网这么多年了，到今天仍然有人花钱学抖音、学自媒体。免费的内容永远会有，收费的教育也不会消失。 03.教律师用AI，比我自己做律师赚得多 林舟｜南京法律顾问、讲师 我原来是做律师的，后来经朋友介绍，去了一家法律资讯软件公司，专门给各地律师协会做定期培训和数字化服务。那几年，天天跟律师打交道，讲课、做方案、跑协会，算是在这个行业里泡熟了。 大概从2024年八九月开始，我明显感觉到，律师对AI越来越焦虑了。 在我接触的人里，律师算是最担心被AI取代的一批人。大家都想知道AI到底能做什么，也想学着用，但当时专门针对律师的培训比较匮乏。我觉得这里面有需求，就出来自己做。早期还是通过协会接触客户，后来就完全自己单干了。 现在我主要做两种课。线下小课一次不到20个人，一堂下来收入通常有3万到5万元，但波动比较大；线上课每个月固定三次，平均月收入两三万元，相对稳定。偶尔也给律协讲大课，不过这种基本不赚钱。 律师本身付费能力比较强。我觉得自己的收费不算高，如果真想把这门生意做大，应该还能赚更多。但现在几种课加起来，收入已经比我以前做律师时高了不少，工作也轻松一些。 我没有技术背景，真要比懂多少AI知识，我未必比很多同行强多少。但这门生意做下来，我越来越确定一件事：不一定非要最懂AI，真正值钱的是，你知道一个行业的人到底需要什么。 很多人会问，用AI为什么还要专门花钱学？直接问AI不就行了吗？ 如果只是平时聊天、查资料，确实可以自己摸索。但真正放进律师的工作里，问题会复杂很多。 最典型的就是隐私问题。律师手上的材料涉及大量客户信息，不是所有内容都能直接丢进公共模型。有人为了数据安全，会选择本地部署，但本地模型的能力又可能弱一些。什么材料能上传，什么工具能用，隐私和效率之间怎么平衡，这些都不是学几个提示词就能解决的。 所以对我来说，卖的其实不只是AI知识，更像是信息差加行业经验。同行需要有人帮他们把工具翻译成具体的工作方法，也愿意为这种经验付费。 当然，我也知道，大家付的钱里，不全是在买知识。有一部分是在买经验，也有一部分是在缓解焦虑。使用上的问题确实存在，对被AI取代的担心也是真的。 这种信息差能维持多久，我并没有把握。 今天还需要专门讲的技巧，过一两年可能大家都会了。等AI真正变成日常工具，很多东西自然也就没人需要再花钱学。 所以我没打算把AI培训当成一门长期生意。现在有人需要、愿意付钱，我就做。 等这阵热度过去，应该还会有别的机会，到时候再看。 04.拒掉48万的“包就业”大单后，我决定自己做培训 杨波｜徐州AIGC导演 我是做新闻视频出身的，后来也接触过短剧。2025年9月前后，我开始真正用AI。那时候模型还很不成熟，但我已经隐约觉得，它会改变视频生产的方式。 我学东西的习惯是，不能只看，一定要拿去干活。于是我一边试各种新工具，一边在淘宝接文案、视频的小单。客户有教师、公务员，也有专业影视从业者。以前认识的一位横店导演，找我做过一段十分钟左右的片子，里面有精灵和真人互动，由于传统拍摄很难实现，我们就尝试用AI完成。 一开始，AI只是副业，每个月赚三四千元。后来单子越来越多，我一个人做不过来，就建群免费教别人。里面有自由职业者，也有宝妈，有些人连算力都舍不得买，我就一起提供。我的想法很简单：先把他们教会，再把自己的单子分出去，我从项目里抽成。最好的时候，靠学员做项目的抽成，反而比我自己干赚得更多。 到2025年12月，AI漫剧开始起来。那时候会做的人少，一个简单的“沙雕漫”能卖几百元，3D的能卖到一两千甚至更高。AI带来的收入逐渐追上、超过了我的主业，我也决定正式转型做漫剧。 今年三四月份，开始有人主动找我付费学习。我正式带的第一批学生只有两个人，一个人6000元，学一个月。课程不能只教工具。我会讲运镜、景别、节奏、导演思维，每节课都要重新做PPT、准备案例，平时还要随时答疑。 那时很多技巧没有现成教程，怎么保持人物一致、镜头怎么衔接、不同平台有什么坑，都是靠大量摸索出来的。如果没有人带着，项目很难交付。后来，那两个学生都成了各自漫剧公司的技术骨干。 很长一段时间里，我其实很排斥把培训当成一门纯生意。 有机构请我去内蒙古讲课，一个学生8000元，一个班60个人，但要求承诺“包就业”，我没接。那时候，很多机构其实都没有真实业务和交付能力，却打着包就业的旗号收学费，这跟割韭菜没什么区别。 后来我自己也带过二十多人的团队，最好的月份流水十几二十万元。但算上师资、算力、课件和答疑，并不是收了多少学费，就能留下多少钱。如果真想把一个人教会，培训其实很重。 现在我回到徐州丰县，参与一个当地扶持的AIGC项目，包括内容自制、培训和三农直播。课程初步定价12800元，两个月，包吃包住包算力，也会给学员真实订单。 AI工具变化很快，今天值钱的技巧，半年以后可能就过时了。但我不太焦虑。工具会换，基础能力不会。只要AI还在改变人的工作方式，就总会有人需要一个入口，知道怎么真正把它用起来。 这就是培训这门生意的意义。如果生意想要做得更长久，最重要还是要有一些利他思维。 05.接单赚小钱之后，我把经验蒸馏成了19.9元的教程 周琳｜北京科技公司行政 我在一家科技公司做行政，月薪一万元左右。工作相对稳定，但工资很难再往上涨。大概一年前，我经常刷到有人分享“怎么用AI做副业”。看多了，也想试试。 刚开始那阵，我什么都做。看到有人用AI画图赚钱，我就去做图；有人说AI能写文案，我也跟着试；闲鱼上有人接定制，我就照着挂链接。 折腾了一圈，真正成交的单子并不多。 有一次，我接了一个AI绘图的单子。客户让我来回改了很多遍，我以为总算能交付了，最后对方还是不满意。做了一段时间后，我发现，AI绘图这种需求太主观，反倒是做商品文案、PPT、简历这些活儿，需求更明确。 后来，我就主要接这几种。 有人开网店，需要写商品介绍，我先让AI出一版，再按照商品特点调整，一篇几十块钱；有人临时要公司介绍PPT，我先用AI搭框架，再自己改版式；也有人来找我改简历、做头像。 这些单子都不贵，几块钱到几十块钱一单。做得多了，我慢慢摸索出了一套自己的方法，知道什么工具适合做什么，也知道怎么改得更快。 后来，我开始把自己接单的过程发到社交平台。 其中一篇帖子拿到了上千个赞。那之后，私信一下子多了起来。有人问我用什么工具，有人问去哪里找客户，还有很多人想让我把整个工作流讲一遍。 问的人多了，我干脆把这些经验整理成了一份入门教程，定价19.9元。里面持续更新我怎么找单子、怎么用AI处理文案、PPT和简历，以及我摸索出的经验。 今年第二季度，我靠AI相关的副业一共赚了将近九千元。其中真正的大头，不是接单，而是卖教程。三个月卖了300多份，收入6000多元。 算下来，我慢慢不再愿意自己做那些几块、几十块钱的零散小单了。现在文案、PPT、简历这些比较耗时间的活，我会分给别人做，自己在中间赚一点差价。 现在第一份教程还在陆续有人买，也有人催我出升级版。 我计划十一期间再更新一份。第一版主要讲工具怎么用、怎么入门，下一版我准备把“怎么接单”这一块讲得更细，比如怎么和客户沟通、怎么改稿。价格我也准备往上提一点。 *题图及文中配图均来源于pexels。应受访者要求，文中周琳为化名。",
-   "published": "Sun, 20 Sep 2026 02:06:50 GMT",
-   "source": "虎嗅资讯-全部",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "other",
-   "level": "A",
-   "why": "知识付费赛道验证：卖AI课/社群/咨询已跑通，价格从9.9到30万",
-   "action": "研究文中3000元AI视频课模式，设计自己的短剧出海培训课",
-   "opportunity": "结合短剧出海实战经验做高价陪跑课",
-   "risk": "AI培训窗口期仅1-2年，需尽快入场"
-  },
-  {
-   "title": "AI巨头集体踩“刹车”，但距离真正的RSI还很遥远",
-   "link": "https://www.huxiu.com/article/4892530.html",
-   "summary": "AI发展到了必须要降速的时刻吗？过去几天，Anthropic、OpenAI先后释放“放慢前沿AI能力推进节奏”的信号，被业内视作硅谷AI巨头面对安全风险的一次主动降温。二级市场率先做出反应，科技股、半导体股集体承压，英伟达一度跌超3%，AMD、英特尔、美光盘中跌幅均在5%左右，费城半导体指数盘中也一度下挫近6...... 本文来自微信公众号： 划重点KeyPoints ，作者：专栏作者，原文标题：《AI巨头集体踩“刹车”，但距离真正的RSI还很遥远 | MIT研究员观察》 AI发展到了必须要降速的时刻吗？ 过去几天，Anthropic、OpenAI先后释放“放慢前沿AI能力推进节奏”的信号，被业内视作硅谷AI巨头面对安全风险的一次主动降温。二级市场率先做出反应，科技股、半导体股集体承压，英伟达一度跌超3%，AMD、英特尔、美光盘中跌幅均在5%左右，费城半导体指数盘中也一度下挫近6%。 引发市场担忧的，是支撑AI基础设施高增长预期的关键假设迎来新变量：当一直踩着AI油门的人开始主动谈“刹车”，“模型持续变强，围绕算力、芯片和数据中心的资本开支不断抬高”的增长逻辑不再那么理所当然。 而这轮“刹车论”的源头，指向一个长期带有科幻色彩的命题：Recursive Self-Improvement（递归式自我改进，下称RSI）。它所设想的，是一套AI开始参与改进、甚至构建自己下一代系统的自进化剧本。 2026年，RSI进一步跨出未来学和安全讨论的范畴，成为AI学术议程、工程实践和创业融资叙事的热词。但跳脱情绪、回归技术，AI自进化究竟意味着什么？今天AI的自我改进已经走到了哪一步，离真正的RSI还有多远？ 我们和长期耕耘在这条主线上的MIT PhD、前字节Seed团队成员瞿骜聊了聊，以下是他的观察。 RSI是一个技术交汇点，但现在还是个噱头 如果只看最近半年，会觉得RSI突然火了。但如果把时间拉长一点看，这并不是2026年横空出世的新问题。它更像是过去几年，几条基础路线一路演进，到今天向同一个方向汇合。 1.代码不用人敲，RSI才有了真抓手 我2019年开始做强化学习（RL）。那时我觉得，强化学习比单纯做自然语言处理（NLP）更接近“智能”。因为它讨论的是一个系统如何与环境交互、得到反馈，再改变自身行为。但当时能做的任务很有限，模型能力也远不及今天。 ChatGPT的出现，刷新了人们对语言模型能力边界的认知。语言模型有了更大的行动空间（action space），也第一次让普通人感受到，一个模型可以通过自然语言持续接受指令、处理越来越复杂的任务。 再往后，reasoning（推理）能力一轮轮迭代。大家体感都很强烈的DeepSeek R1是一个很重要的节点，它让人看到大规模强化学习能够用到推理上，也让行业重新看到强化学习在大模型时代的空间。 再往后，这种变化更加具象化了。Anthropic的Opus 4.5是一个很明显的节点，到了这个阶段已经可以连续工作很久，很多过去需要人手动拆解、反复修改的任务，通过不断输入提示词（prompt）、不断调整，最后都能被做出来。我们甚至可以说，现在基本已经没有什么代码是提示词“敲”不出来的了。 这个变化对自我改进（self-improvement）很关键。因为智能体（agent）一旦有了足够强的编程能力，再加上越来越成熟的上下文管理能力，它就可以在一个任务上持续跑很久，自行完成读代码、改代码、执行、看结果、再继续下一轮的循环。过去需要人来“插手”的很多环节，开始可以在同一个智能体循环（loop）自己跑完。 上下文管理也在这个过程中从一个“外接能力”，逐渐变成agent原生（native）的能力。它能记住自己做到哪里，能管理越来越长的任务，再配合工具和代码执行，长程任务这件事才变得可行。 所以在我看来，2026年最重要的变化，是AI开始有条件持续做一件事，这也是自我改进真正从概念开始变成工程问题的前提。 2.今天跑通的，只是RSI的“局部循环” 也正是在这个过程中，我开始重新看过去几年那些貌似分散的研究方向。 一条线是AI驱动发现（AI for discovery），后来一路走到自动化研究（auto-research），即让agent自己提出方案、跑实验，再根据结果继续探索。 另一条线则围绕“如何让agent越来越会做事”，改记忆、造工具、积累技能，或者继续优化整个harness，也就是agent做事时依赖的那套工作框架。 我自己的研究路径其实也横跨了这两条线。从强化学习、agent memory，一路做到多智能体自动化研究（multi-agent auto-research）。我们做CORAL的时候甚至会纠结，这到底算“自动化研究”，还是“智能体工作框架演进”（harness evolution）？ 所以我现在看RSI，会觉得它虽然是个buzzword，但确实把很多事情串联起来了。过去看起来像不同流派的东西，现在放进“AI如何参与构建下一代AI”这个框架里，一下有了共同坐标。 但这里还需要区分清两个概念。今天我们能看到的大多其实是持续自我改进（continual self-improvement）：AI在和环境、用户、任务不断交互的过程中积累经验，再用这些经验去自我更新。它更新的不一定只是模型参数，也可以包括记忆、提示词、工具、技能，甚至整个harness。 而严格意义上的RSI要更进一步。它的思想源头之一，可以追溯到I.J.Good在1960年代提出的超智能机器（ultraintelligent machine）：如果一台机器开始参与设计下一代机器，而且下一代又能继续造出更强的下一代，能力提升就可能进入一个递归加速的过程。 换句话说，从一次次经验里把自己“炼强”，只是RSI的起点；再往前，AI还需要参与设计、训练，甚至亲手构建下一个自己。 它可以是改harness、改训练流程、生成训练数据；也可以继续往更底层走，写GPU内核（kernel），甚至参与设计下一代硬件。所以，我们把“机器”定义得越完整，RSI的门槛就越高。 按照我的理解，今天大量实践更适合被称为持续自我改进。严格意义上的RSI，还有很长的路要走。 而我们在自己做Reef时也更愿意用改进（improve），而不是进化（evolve）。因为后者只说明“它发生了变化”。工程上我们更关心另一件事：你怎么知道它真的变好了？ AI当然可以不断变化，但变化本身没有意义。它可能学到坏经验，也可能把一次偶然的成功当成规律。人会“近朱者赤，近墨者黑”，模型也一样。你不能让它随便“瞎evolve”。 AI把活儿干完了，“长本事”才刚刚开始 1.干得再久，不学习也只是“临场发挥” 前面提到，我自己的研究一路从记忆做到多智能体自动化研究。这个过程中有一个问题越来越明显：agent可以在上下文里变得越来越能干，但这种提升是有上限的。 我们后来做CORAL，让多个agent自己做研究、共享信息、迭代方案。前期只靠上下文、记忆和harness的演进，效果可以推得很高；但任务一旦拉长，系统还是会慢慢卡住。 一个直观的问题是，agent做了很多事，也积累了很多经验，但模型本身并没有因此“长本事”。 它可以记住这次哪里踩过坑，多调用几个工具，把工作流程调得更顺。但任务结束以后，这些经验大多还停留在上下文、记忆里，没有真正进入模型。这有点像一个人做项目时，靠着笔记越做越熟练，但项目结束以后，脑子里并没有留下多少东西。下一次碰到类似的问题，很多路还得重新走一遍。 所以后来我们开始做测试时训练（test-time training）、测试时强化学习（test-time RL）、自蒸馏，想验证的是：能不能把agent在真实任务里产生的经验，再学回模型里。做下来以后，我们发现，这条路确实可以突破纯推理（pure inference）的一部分上限。 接下来又有了一个问题：如果agent未来每天都在真实世界里工作、每天都在产生新经验，为什么这些经验只能用一次？ 传统的大模型开发，大致经历训练（Train）、评估（Evaluate）、部署（Deploy）、推理（Inference）这几个阶段。到了推理阶段，模型开始替用户干活，但同步产生的大量经验通常不会自动回到下一轮学习里。 比如，它今天因为理解错一个需求返工三次，明天遇到类似任务，未必会因为今天这三次返工就变得更聪明。 Reef想解决的，就是怎么把这条路重新接起来，让agent在真实世界里做过什么、错过什么、被用户纠正过什么，都有机会变成下一轮学习的材料。 所以对持续自我改进来说，推理不应该只是每一次任务的终点，也应该是新经验产生的起点。AI每做完一件事，也可能是在为“下一个自己”积累经验。 2.AI想越学越好，先得知道什么叫“好” 不同任务里自我改进的难度差别很大。 最简单的一类，是结果好坏几乎没有争议的任务，比如优化GPU kernel。agent每改一次代码，都可以直接跑一遍验证结果：更快了，还是更慢了？如果改法真的让性能变好，那这条路径就值得被奖励；如果变差了，就说明这次尝试没有奏效。做得次数多了，模型就会慢慢学到，什么样的写法和修改方式，更容易让性能变好。 这类任务相对好做，因为验证标准（verification）很清楚。快了就是快了，慢了就是慢了。 再复杂一点，是让agent去“经营一家公司”。学术界有一个很有意思的benchmark（基准测试）叫CEO Bench，它会模拟市场环境，评估agent做经营决策的能力。我们跑这类任务时，如果模型一直不更新，有些agent会一路把公司干破产。 但和kernel不一样，经营这件事会不断留下反馈：这次决策之后，客户变多还是变少，现金余额上升还是下降，公司最后是继续活着，还是走向破产。agent得看一段时间之后的结果，才知道前面的决策到底是不是好决策。 所以到了这里，反馈（feedback）已经不再是一个简单的pass/fail（通过/失败）。但只要这些变化能够被识别、被归因，它们就可以变成下一轮学习的信号。agent做得久了，也就有机会从自己的经营记录里不断调整下一次决策。 再往上走，从部分维度来说，写作风格这样的任务更棘手。比如用户反复告诉一个agent：“我不喜欢太长的句子”“这个语气太像AI”“我更喜欢直接一点的表达”。在同一轮任务里，它当然可以照着改，但下一次遇到类似任务，它未必真的记住：这个用户认为什么叫“写得好”。 我们在Reef里做过一个方向，就是把这类反馈慢慢内化到模型里，让它在类似任务里继续保留这种偏好。 因为写作这件事本来就没有一个统一答案。有人喜欢短句，有人喜欢铺陈；有人觉得直接最好，有人更在意语气和节奏。模型再强，也不可能用同一套标准满足所有人。 所以从kernel到CEO Bench，再到个性化写作，更重要的变化其实是“什么叫做好”。有的任务，“好”是一个数字指标；有的任务，要从长期结果里看；还有一些任务，连“好”的定义本身都因人而异。而自我改进要继续往前走，就必须能处理这些完全不同的反馈。 3.只“练模型”不够，只“改打法”也不够 经验找到了，接下来还有一个今天行业里讨论很热的问题：到底应该改model，还是改harness？ harness的确很重要，它可以理解成agent做事时的一整套方法、规则和权限。比如让一个coding agent改代码，好的harness不会让它一上来就动手，而是先把整个代码仓库摸清楚，再决定从哪里下手。 这些好的实践经验都可以慢慢沉淀到harness里，把模型原有的能力更稳定地激发出来。它有点像给一个能力不错的人配上一套更成熟的工作流程：同样的人，方法更好，能做出来的事会稳定很多。 所以现在有一个比较流行的观点，是harness进化的上限可能比模型进化更高。 但我对此有所保留。 因为harness再强，也只能告诉模型“应该怎么做”，却替不了模型做判断（judgment）。它可以告诉模型“你应该先做规划”，但这个任务到底该怎么规划，还是模型决定；它也可以告诉模型“把任务拆给几个子智能体（sub-agent）”，但具体怎么拆、每个agent做什么，最后还是靠模型自己的能力。 另外，我认为现在直接比较harness evolve和model evolve谁的上限更高，其实有一点“不公平”。因为今天做model evolve，很多时候只能基于开源模型；但harness evolve往往直接建立在最强的闭源模型上。两边起跑线本来就不一样。 从我们现在看到的结果来说，更值得探索的不是二选一，而是两边一起改进。 我们现在也在做模型与harness协同进化（model-harness co-evolution）。无论是两边同时训练，还是先改harness、再训练model、再继续改harness，都能达到单独只动一边很难达到的效果。 所以，今天去争“model evolve和harness evolve到底谁更重要”，可能还太早。而且harness以后可能也不只是一本越来越厚的“操作手册”。好比一家公司不是给每个人发一份SOP就能持续运转，它还需要绩效、协作、激励这些机制，才能让不同的人稳定地一起工作。 未来harness也可能走向类似的形态：不只是规定agent怎么完成一个任务，而是在设计一套让一群agent可以长期evolve的机制。但只要问题涉及开放式判断，最后还是要回到model本身。 4.经验再多，也得知道怎么“消化” model和harness都能改以后，一个更难的问题出现了：得到一次经验，到底应该改哪一边？ 我现在越来越觉得，这件事最后应该变成agent自己的一种元认知（metacognition）。它应该自己知道：这次经验值不值得学？应该怎么学？是先记在上下文里，还是沉淀进模型权重（model weights）？ 这个问题其实很像人自己学习。比如参加一场线上会议，有些内容会议助手把转录记下来就够了；有些内容值得单独记成笔记；还有一些东西特别重要，聊完以后还会反复想几遍，甚至顺着它推导出新的结论。 人会天然地区分：哪些东西只是“记住”，哪些东西应该真的学进去。agent以后也需要这种判断力。 因为一个agent不只有model weights。它还有记忆、工具、技能、harness。一次任务失败，到底应该把模型练得更强，还是改记忆，还是调整工具，还是直接把做事流程换掉，答案未必一样。 今天这些选择，大多数还是人提前设计好的。再进一步，连“到底应该改哪里、怎么学”这件事本身，也应该逐渐变成agent的能力。 我会觉得，自我改进最后一定要走到这样一步：不仅有经验，还知道如何把经验变成能力。如果这件事做不到，经验再多，也可能只是堆在那里。 对普通用户来说，这种变化真正进入产品后，直接感知未必来自“模型又升级了”，而是一些更具体的细节。比如，同样的任务过去需要更大的模型才能做好，持续学习后，小模型也能做好；或者之前纠正过的错误，下一次不再重复。 甚至于用户不需要等到严格意义上的RSI。很多企业本来就有大量流程化任务，如果agent能把其中一类真正自动跑通、自己完成闭环，用户其实已经会很明显地感受到这种“自我进化”。 更多显性的变化，还可能发生在harness上。比如用户可以告诉agent：“这是紧急任务，3个回合内解决”；或者任务完成后，如果用户一直没有回来检查，它可以主动换一种方式（如申请麦克风权限或者发送短信）来找你。 未来用户感受到的“AI在进化”，未必是底层换了什么模型。核心是要感受到，它越来越像一个合作久了的同事，知道事情该怎么推进、怎么收尾。 AI会学习，但离RSI还差好几道坎 1.AI越学越多，也可能越走越窄 今天很多自我改进的局部loop已经可以跑起来，但真正开始让模型持续学习以后，很快会遇到另一个问题：它学进去的东西，不一定都是对的。 我们做自蒸馏（self-distillation）的时候，就碰到过一个比较典型的问题：如果处理方式不对，它可能反而会损伤模型的推理能力。 比如我在解决一个问题时，可能先想到A，后来发现A不对；又想到B，还是不对；最后才找到C。如果最后只把“做C”这件事重新喂回模型，看起来它学到了正确答案，但中间A为什么不对、B为什么也不对，中间那些自我反思和自我否定其实全部丢掉了。最后答案学会了，找答案的过程反而丢了。 而很多真正好的判断，恰恰来自这个过程。所以自我改进里有一个很容易被忽略的问题：结果正确，不代表这段经验就适合直接拿来学。 记忆也是一样。我们早期做过经验库（experience library），把agent成功和失败的经验都存下来，做新任务时再把相关经验调出来。刚开始效果会很好，但当记忆越来越多，又会出现新的问题：东西都在，但到了真的需要的时候，不一定能调回来。 还有一个更隐蔽的问题。agent走一条路走久了，很容易越走越顺手，也越走越难回头。agent在不断采样的时候，天然会更容易走那些概率比较高的路径。如果它已经在一个方向上尝试了很久，上下文会越来越强化这条路，它会越来越难跳出来。 这也是自我改进里一个比较有意思的悖论：一个系统当然可能因为不断学习而变强，但它也可能因为不断学习，越来越被自己过去的经验限制住。 所以“会学习”只是第一步，AI还得学会判断：哪些经验值得相信，哪些经验应该忘掉，什么时候甚至需要主动背离自己过去最熟悉的路径。 2.现实世界最大的麻烦，是没人随时告诉AI“你做对了” 尤其对于开源研究来说，很缺的是真实的环境，以及真正适合持续学习的环境。 像kernel这样的任务之所以舒服，是因为检验方法特别清楚。我改了一次，跑得更快还是更慢，马上就知道。 但真实世界里，大多数任务的反馈都没有这么“干净”。一个agent做了几十步，最后任务还是失败。问题到底出在哪？是最开始方向就选错了，还是中途用了错误的工具，还是该记住的信息没调出来，又或者某个子任务的判断出了偏差？ 更麻烦的是，最后失败的那一步，往往并不是最早出错的那一步。 你很难把“做得更好”压缩成一个reward（奖励信号），然后放心地让模型一直朝那个方向强化。 所以今天其实已经不缺agent产生经验。更稀缺的是：什么样的环境，可以持续给它高质量、可验证，而且不会把它带偏的学习信号。这件事决定了自我改进最终能不能从几个benchmark上的局部成功，走进真实世界。 3.基础模型再强，也不可能提前经历整个世界 这里还有一个我觉得经常会被问到的问题：如果下一代基础模型又强很多，这些continual learning的问题是不是自然就消失了？ 我自己的判断是，不会。因为模型再强，也有一个很难绕开的限制：它不可能在训练阶段，就提前经历未来部署后会遇到的所有事情。 我把这个问题称为experience exposure（经验暴露）。可以让一个模型见过最难的数学题、读过很多代码、学过大量知识，但真正部署到一个具体环境里，它总会遇到训练阶段没见过的规则、用户和情境。 这其实和人很像。你就算是一个很聪明的教授，突然让你去一所小学教课，也还是得先知道这所学校怎么运转、班里每个学生是什么情况。不是因为能力不够，而是因为这些事情以前根本没经历过。 所以我不太把持续自我改进（continual self-improvement）理解成一个“弱模型时代的补丁”。恰恰相反，模型越强、进入的真实场景越多，它越需要从自己的经验里继续学习。 上下文学习以后能覆盖的事情可能会越来越多，但我自己还是倾向于认为，只靠“记住当下”还不够，模型权重最后也需要能够持续更新。 4.AI能走多远，还看人愿意放多少权 但即便上面这些问题都解决了，持续自我改进也还不等于RSI。 严格意义上的RSI，要求AI进一步参与到“下一代AI是怎么被造出来的”这件事当中。 所以在我看来，走向RSI的过程中，有两条线一起往前：一条是能力（capability），另一条是权限（permission）。能力决定它会不会做，权限决定它到底能不能做。 比如最早的coding copilot，只能帮你补一小段代码。它能做的行动空间就这么大，再聪明，也没有地方让它表现出更复杂的系统设计能力。 但当agent可以访问整台电脑、改整个代码库、调用越来越多的工具之后，它突然就有了更大的提升空间。 把这个逻辑继续往下推，真正严格意义上的RSI涉及的范围会非常大。它可能不仅是改harness，也不仅是调模型权重。它还可能要参与训练流程、生成训练数据、写kernel，甚至触碰更底层的基础设施和硬件设计，那它离“参与造下一代AI”也就更近了一步。 所以我觉得，真正值得关注的那个拐点，未必是某一天突然出现一个benchmark，然后大家宣布“RSI实现了”。 更关键的时刻是：当agent在“造agent”这件事上的判断力和能力，第一次达到甚至超过优秀的人类研究者时，那个时候可能才是更加值得关注的拐点。 但问题也恰恰在这里。它越有可能更早进入更深的自我改进；可权限越大，安全问题也会越具体。 所以今天RSI到底有多远，已经不只是一个技术问题。另一条线其实一直掌握在人手里：我们愿意让AI把手伸到哪里。 回看六十多年前，I.J.Good设想过的那个“机器制造更强机器”所带来的智能爆炸（intelligence explosion）。今天RSI距离那个临界点还有多远，答案可能已经不只写在技术进展里，也取决于我们愿意让AI把手伸到哪里。 AI会继续向前，但最终走到哪里？边界不会只由机器自己决定。",
-   "published": "Sun, 20 Sep 2026 02:00:00 GMT",
-   "source": "虎嗅资讯-全部",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "industry",
-   "level": "B",
-   "why": "巨头放缓前沿模型节奏，短期工具能力迭代可能变慢",
-   "action": "关注现有工具能力是否够用，别等新模型再启动项目",
-   "opportunity": "无",
-   "risk": "过度依赖未来模型能力做规划可能落空"
-  },
-  {
-   "title": "掌声之后，联合国大会究竟能取得什么实际成果？",
-   "link": "https://www.huxiu.com/article/4892531.html",
-   "summary": "导语：9月8日下午，第81届联合国大会在纽约开幕，本届联大主题是“重建信任，管理变革：一个为所有人带来实效的联合国”。9月22日，一般性辩论将拉开帷幕，各国领导人将就全球挑战阐述立场。值得注意的是，往届联大主题更多着眼于和平、发展等全球目标，第81届大会则罕见地将焦点对准联合国自身。这也凸显出联合国重建行动能...... 本文来自微信公众号： IPP评论 ，作者：Mehri&nbsp;Madarshahi，原文标题：《Mehri Madarshahi｜掌声之后，联合国大会究竟能取得什么实际成果？》 导语：9月8日下午，第81届联合国大会在纽约开幕，本届联大主题是“重建信任，管理变革：一个为所有人带来实效的联合国”。9月22日，一般性辩论将拉开帷幕，各国领导人将就全球挑战阐述立场。 值得注意的是，往届联大主题更多着眼于和平、发展等全球目标，第81届大会则罕见地将焦点对准联合国自身。这也凸显出联合国重建行动能力的紧迫性——大会召开之际，安理会因各方分歧屡陷僵局；会费拖欠与援助削减进一步加剧联合国的财政压力。与此同时，各国应对全球问题的路径愈发分化，一些国家转向“本国优先”或“小多边”合作，在更小范围内寻求利益协调，并对国际义务作出取舍。 随着“联合国80周年改革倡议”持续推进、下一任秘书长遴选进入关键阶段，如何重建信任，并让共识真正转化为行动，是本届联大绕不开的考题。 在IPP荣誉教授梅赫里·马达尔沙希（Mehri Madarshahi）看来，目前各方要正确认识联大的作用和局限。联大通常无法强制各国落实决议，但仍能塑造国际规范、形成政治压力，并为共同行动提供合法性。能否将这些影响转化为实际成果，关键在于会员国是否愿意提供必要的政治支持和资源。她认为，联大需要明确优先事项，加强后续跟进与问责，推动承诺得到相应的资源保障。只有当各国不再满足于对宣言达成一致，而愿意履行其中的义务，联大的普遍代表性才能转化为切实合作，信任也才能在这一过程中逐步恢复。 掌声之后，联合国大会究竟能取得什么实际成果？ After the Applause,What Can the United Nations General Assembly Really Deliver? IPP荣誉教授、联合国教科文组织下属国际创意和可持续发展中心（ICCSD）顾问委员会成员 每年9月，纽约都会在短暂的一段时间里成为世界的政治中心。各国总统、总理、君主和外交部长齐聚联合国总部，车队挤满曼哈顿，闭门举行的双边会谈一场接着一场。联合国大会会场也再次成为各国政府阐述其世界观的舞台。但有时，耐人寻味的，反而是它们选择不作解释的那些事情。 Every September,New York becomes,briefly,the political capital of the world.Presidents,prime ministers,monarchs and foreign ministers arrive at United Nations Headquarters,motorcades clog Manhattan,bilateral meetings multiply behind closed doors,and the General Assembly chamber once again becomes the stage from which governments explain their vision of the world and,sometimes more revealingly,what they choose not to explain. 2026年9月8日，第81届联合国大会开幕。此时的世界正处于一个尤其动荡不安的时刻。本届大会的主题是：“重建信任，管理变革：一个为所有人带来实效的联合国。”这一主题可谓再贴切不过，因为当今世界最为稀缺的就是信任。 The opening of the 81st session of the United Nations General Assembly on 8 September 2026 comes at a particularly unsettled moment.Its theme,“Restoring Trust,Managing Transformation:A United Nations That Delivers for All,”could hardly be more appropriate.Trust is precisely what is in short supply. 9月8日，第81届联合国大会在纽约联合国总部开幕。图为第81届联大主席哈利勒·拉赫曼主持首次全体会议。图源：UN Photo 联合国大会是一个极为特殊的政治机构。联合国193个会员国，无论大小，每个国家都拥有一票。形式上，最小的国家进入大会会场时，拥有与最大国家完全相同的投票权。几乎没有其他国际机构，能够像联合国大会这样鲜明地体现战后国际秩序赖以建立的“主权平等”原则。 The General Assembly is an extraordinary political institution.Every one of the United Nations'193 Member States has one vote.The smallest country formally enters the chamber with the same voting power as the largest.Few other institutions embody so clearly the principle of sovereign equality on which the post-war international order was constructed. 然而，一旦代表们走出大会会场，“平等”这件事就会变得复杂得多。 Yet once delegates leave the Assembly Hall,equality becomes considerably more complicated. 军事实力、经济体量、科技能力、对金融和市场的控制力、战略联盟，以及获取关键资源的能力，共同决定着一国政府在现实中究竟能够发挥多大影响。联合国大会可以宣示平等，但国际政治依然按照等级秩序运行。这种矛盾从来都存在。但当下不同于以往的，是国际关系日益呈现出一种交易化特征。 Military power,economic weight,technology,control over finance and markets,strategic alliances and access to critical resources determine how much influence governments actually exercise.The General Assembly may proclaim equality;international politics continues to practise hierarchy.That contradiction has always existed.What makes the present moment different is the increasinglytransactional character of international relations. 各国政府依然使用多边主义的语言，依然谈论国际法、团结、伙伴关系和“基于规则的国际秩序”。但越来越多真正重要的决策，却正在其他场合达成：通过双边交易、战略联盟、区域安排、贸易与投资协定、安全伙伴关系，以及由志同道合国家组成的各种小多边机制进行磋商和谈判。 Governments still speak the language of multilateralism.They invoke international law,solidarity,partnership and the rules-based international order.But increasingly,important decisions are being negotiated elsewhere:through bilateral bargains,strategic coalitions,regional arrangements,trade and investment agreements,security partnerships and smaller groups of like-minded states. 外交从来离不开讨价还价。发生变化的，是“交易”与“规则”之间的关系。当规则变得不再方便时，各国越来越倾向于另找一张谈判桌。 Diplomacy has always involved bargaining.What is changing is the relationship between the bargain and the rule.When rules become inconvenient,states increasingly seek another table. 这给联合国大会带来了一个特殊的难题。大会决议可以表达国际社会绝大多数成员的共同立场，但除少数例外之外，这些决议并不具有法律约束力。大会可以谴责、建议、承认、动员，也可以赋予某种行动以合法性，却通常无法强制各国服从。 This creates a peculiar challenge for the General Assembly.Its resolutions can express the views of an overwhelming majority of the international community,yet,with limited exceptions,they are not legally binding.The Assembly can condemn,recommend,recognize,mobilize and confer legitimacy.It cannot normally compel. 2026年9月4日联大举行记名表决。图源：UN Photo 因此，联合国大会最大的优势，同时也是其最大的无奈所在：它拥有代表国际社会发声的非凡能力，却几乎没有能力迫使国际社会按照这些声音采取行动。 Its greatest strength is therefore also the source of its frustration:it possesses an extraordinary capacity to speak for the international community,but a very limited capacity to make the international community obey. 随着第81届联合国大会拉开帷幕，一个核心问题也随之浮现：联合国大会是否仍有能力塑造国际行为？抑或它正日益沦为这样一个场所——各国先在这里集体表示赞同，随后又在各自的谈判中将这些共识一点点消解？ That raises the central question as the 81st session gets underway:Is the General Assembly still capable of shaping international behaviour,or is it increasingly becoming the place where governments endorse collectively what they subsequently negotiate away individually? 答案不能简单归结为联合国大会究竟是成功了，还是失败了。它的历史表现远比这样的二元判断更值得玩味。 The answer is not simply that the Assembly has succeeded or failed.Its record is far more interesting than that. 八十年来，联合国大会的各项决定推动塑造了非殖民化、人权、发展、国际法、环境合作，以及新兴全球规范的政治合法性。大会让新近独立的国家得以在一个曾长期由少数大国主导的国际体系中发出自己的声音，也成为全球南方将数量优势转化为政治影响力的主要舞台。 Over eight decades,General Assembly decisions have helped&nbsp;shape decolonization,human rights,development,international law,environmental cooperation and the political legitimacy of emerging global norms.The Assembly gave newly independent countries a voice in an international system previously dominated by a small number of powers.It became the principal arena in which the Global South could transform numerical strength into political influence. 但与此同时，联合国大会也积累了数以千计的决议，其中一些只得到部分落实，一些被选择性执行，还有一些根本没有得到执行。各国政府有时会在纽约投票赞成某些措辞，却几乎无意将其真正转化为本国政策。就连“共识”本身也可能成为一门艺术：既要足够雄心勃勃，让每一方都能宣称取得了成功；又要足够灵活，让每一方都能够以不同方式解释何谓“成功”。 But the General Assembly has also accumulated thousands of resolutions whose implementation has been partial,selective or nonexistent.Governments sometimes vote for language in New York that they have little intention of translating into national policy.Consensus itself can become an art form:sufficiently ambitious to permit everyone to claim success,sufficiently flexible to allow everyone to interpret success differently. 这未必意味着外交上的虚伪。有时候，保持一定程度的模糊，正是让193个国家继续坐在同一张谈判桌前所必须付出的代价。 This is not necessarily diplomatic hypocrisy.Sometimes ambiguity is the price of keeping 193 countries at the same table. 但问题在于，“建设性模糊”终有可能演变成“建设性瘫痪”。 But there is a point at which constructive ambiguity becomes&nbsp;constructive paralysis. 因此，我们不应把第81届联合国大会仅仅视为又一场一年一度的外交盛会，而应将其视为一次检验：在一个日益碎片化的国际秩序中，联合国大会究竟还能切实做到什么？ UNGA 81 therefore deserves to be examined not as another annual diplomatic gathering but as a test of what the General Assembly can realistically accomplish in a fragmented international order. 而本届大会的议程，为观察这一问题提供了一个格外具有启示意义的“试验场”。 Its agenda provides an unusually revealing laboratory. 气候行动与公正转型、海平面上升带来的生存性威胁、疫情预防与防范、可持续发展目标、发展权、核武器，以及围绕安理会改革持续不断的争论——所有这些议题，都在迫使联合国大会面对同一个令人不安的问题： Climate action and the just transition,the existential consequences of sea-level rise,pandemic prevention and preparedness,the Sustainable Development Goals,the right to development,nuclear weapons and the continuing debate over Security Council reform all confront the Assembly with the same uncomfortable question: 当国家利益日益将各国拉向不同方向时，普遍共识是否仍然能够转化为切实有意义的集体行动？ Can universal agreement still produce meaningful collective action when national interests increasingly pull governments in different directions? 联合国《可持续发展目标报告2026》显示，在具有足够趋势数据的139项目标中，仅36%处于正轨或取得中等进展，15%已较2015年基线出现倒退。图源：UN DESA 联合国大会的权力及其权力幻象 The General Assembly's Power and Its Illusion of Power 联合国大会的权威并非主要建立在强制执行能力之上。与依据《联合国宪章》第七章采取行动的安全理事会不同，联合国大会通常无权作出强制各国政府采取行动的决定。 The General Assembly's authority has never rested principally on enforcement.Unlike the Security Council acting under Chapter VII of the Charter,the Assembly normally cannot issue decisions that compel governments to act. 它所拥有的是另一种政治资本：合法性、政治压力、规范塑造能力，以及数量优势。 Its currency is different:legitimacy,political pressure,norm-setting and numbers. 一项获得压倒性多数支持的决议，无法迫使一个大国改变其政策。但这并不意味着它在政治上毫无意义。它记录了国际社会的立场，可以使某些政府陷入孤立，影响后续谈判，推动国际规范的发展，并为其他领域的行动赋予政治合法性。 A resolution supported by an overwhelming majority cannot force a major power to&nbsp;change its policy.But neither is it politically meaningless.It records where the international community stands.It can isolate governments,influence subsequent negotiations,contribute to the development of international&nbsp;norms and provide political legitimacy for action elsewhere. 2025年10月29日，联合国大会以165票赞成、7票反对、12票弃权，再次通过要求结束美国对古巴经济、商业和金融禁运的决议。图源：UN Photo/Loey Felipe 从历史上看，“七十七国集团和中国”、非洲集团、欧盟等大型国家集团，都曾借助联合国大会，将共同立场转化为国际政治影响力。 Historically,large groupings-the G77 and China,the African Group,the European Union and others-used the Assembly to transform collective positions into international political weight. 但今天的外交格局正在变得越来越难以预测。 But today's diplomatic landscape is becoming less predictable. 各国往往同时身处区域组织、经济伙伴关系、安全安排以及各种战略集团之中，而这些机制的利益诉求并不总是一致。金砖国家扩员机制（BRICS+）、二十国集团（G20）、四方安全对话（Quad），以及大量双边和小多边安排，正越来越多地处理那些过去原本可能主要通过普遍性多边机构解决的问题。 States belong simultaneously to regional organizations,economic partnerships,security arrangements and strategic groupings whose interests do not always coincide.BRICS+,the G20,the Quad and numerous bilateral and minilateral arrangements increasingly handle questions that once might have been expected to move primarily through universal multilateral institutions. 这并不意味着多边主义正在消失，而是意味着它正呈现出一种更加复杂的形态。 The result is not the disappearance of multilateralism.It is a more complicated form of it. 一个国家的政府，可能上午还在捍卫多边主义原则，下午就开始谈判争取一项双边例外，到了晚上，又投票支持一份普遍性的国际宣言。 A government may defend multilateral principles in the morning,negotiate a bilateral exception in the afternoon,and vote for a universal declaration in the evening. 外交，本来就是如此。但危险在于，当“例外”不再只是例外。 Such is diplomacy.The danger arises when exceptions cease to be exceptional. 如果国际规范是否得到遵守，越来越取决于它在当下是否具有战略上的利用价值，那么整个体系就会逐渐形成一种可以称之为“自助餐式多边主义”的做法：各国只挑选自己愿意遵守的规则，而把那些对自己不方便的规则留在柜台上。 If international norms are applied according to immediate strategic usefulness,the system gradually develops what might be called acafeteria approach to multilateralism:states select the rules they wish to observe and leave the inconvenient ones on the counter. 对联合国大会而言，这已经不仅仅是一个执行层面的问题，更是一个信誉问题。 For the General Assembly,that is more than an implementation problem.It is a problem of credibility. 因此，对第81届联合国大会议程的评判，也必须放在这一背景之下。 And it is against this background that the agenda of the 81st session should be judged. 联合国秘书长古特雷斯（左）见证第81届联合国大会主席哈利勒·拉赫曼宣誓就职。拉赫曼接替第80届联大主席安娜莱娜·贝尔伯克出任新一届联大主席。图源：联合国 第81届联合国大会：议程宏大，工具有限 UNGA 81:An Agenda Larger Than Its Instruments 第81届联合国大会召开之际，需要紧急关注的议题并不少。事实上，联合国从来不缺需要处理的问题。 The 81st General Assembly arrives with no shortage of subjects requiring urgent attention.Indeed,scarcity of subjects has never been among the United Nations'problems. 9月的议程涵盖可持续发展、气候行动、发展权、疫情防范、海平面上升以及核武器等诸多议题。每一项议题都有相应的宣言、承诺、谈判措辞，以及经过精心拿捏的预期目标。 The September agenda ranges from sustainable development and climate action to the right to development,pandemic preparedness,sea-level rise and nuclear weapons.Each comes with declarations,commitments,negotiating language and carefully calibrated expectations. 困难，往往从宣言获得通过后的第二天早晨才开始。以海平面上升为例。对许多小岛屿发展中国家和地势低洼的沿海国家而言，这早已不再只是一个气候问题。它关系到领土、人口流离失所、淡水资源、粮食安全、基础设施、主权权利，甚至在极端情况下，关系到一些社区乃至国家本身未来还能否继续存在。 The difficulty begins the morning after the declaration is adopted.Take sea-level rise.For many Small Island Developing States and low-lying coastal countries,this is no longer simply a climate issue.It concerns territory,displacement,freshwater,food security,infrastructure,sovereign rights and,in extreme circumstances,the future viability of communities and states themselves. 因此，联合国大会举行海平面上升问题高级别会议具有重要意义。它可以凝聚对相关科学问题的认识，提高这一议题的政治关注度，为脆弱国家提供一个全球性发声平台，并确立可供未来行动遵循的原则。 The General Assembly's high-level meeting on sea-level rise is therefore significant.It can consolidate scientific understanding,elevate political attention,give vulnerable states a global platform and establish principles around which future action can be organized. 但它做不到的，是同海洋谈判。无论有多少代表团赞成那些经过反复斟酌、精心平衡的措辞，海平面都不会因此作出回应。 What it cannot do is negotiate with the ocean.Sea level will not respond to carefully balanced paragraphs,however many delegations approve them. 这并不是在否定宣言的意义，而是要弄清楚：宣言究竟能够发挥什么作用。宣言的价值，在于将一个问题转化为国际社会公认的行动责任，形成政治预期，并使此后的无所作为变得更加难以掩饰。 That is not an argument against declarations.It is an argument for understanding what declarations are for.Their value lies in converting a problem into an internationally recognized obligation for action,creating political expectations and making subsequent inaction more difficult to disguise. 气候行动和“公正转型”同样如此。发展中国家自然会担心，在没有获得充足资金、技术和政策空间的情况下，却被要求改造自身能源体系。与此同时，发达国家也面临各自的国内政治和财政约束。 The same applies to climate action and the“just transition.”Developing countries are understandably wary of being told to transform their energy systems without being given adequate finance,technology or policy space to do so.Developed countries,meanwhile,face their own political and fiscal constraints. 所有人都支持公正转型。而让外交谈判变得“精彩”的，是讨论进入这样的问题之后：由谁为这种“公正”买单，又由谁来主导这场“转型”？ Everyone supports a just transition.The diplomatic excitement begins when the discussion turns towho pays for the justice and who manages the transition. 也正是在这里，联合国大会外交最能显露其真实面貌。就目的地达成一致往往相对容易，但“谁来买票”？。 This is where General Assembly diplomacy becomes most revealing.Agreement on the destination is often relatively easy.The arguments begin over the ticket. 可持续发展目标：目标已经有了，实现目标的手段在哪里？ The SDGs:We Have the Goals.Where Are the Means? 可持续发展目标或许最能体现联合国大会所取得的成就，以及它所面临的无奈。 The Sustainable Development Goals offer perhaps the clearest example of the Assembly's achievement and frustration. 《2030年可持续发展议程》的通过，是多边共识的一项非凡成就。政治制度、收入水平和发展重点存在巨大差异的各国政府，最终同意建立一个共同框架，将贫困、健康、教育、性别平等、能源、城市、气候、制度建设和经济发展等议题联系起来。 The adoption of the 2030 Agenda was a remarkable act of multilateral consensus.Governments with profoundly different political systems,income levels and development priorities agreed upon a common framework linking poverty,health,education,gender equality,energy,cities,climate,institutions and economic development. 2015年9月，联合国大会通过《2030年可持续发展议程》，确立17项可持续发展目标和169项具体目标。图源：UN Photo 过去几十年间，很少有外交成果能够达到如此广泛而全面的程度。遗憾的是，就“世界应当实现什么目标”达成共识，事实证明要比就“实现这些目标的钱从哪里来”达成共识容易得多。 Few diplomatic achievements of recent decades have been as comprehensive.Unfortunately,agreement on what the world should achieve proved considerably easier than agreement on how to pay for it. 距离2030年只剩四年，联合国自身在2026年的评估显示，在具备评估条件的可持续发展目标具体目标中，只有36%目前处于正轨，或取得了中等程度的进展。 With only four years remaining until 2030,the UN's own 2026 assessment reports that just 36 per cent of assessable SDG targets are either on track or showing moderate progress. 如今的问题，已经不再是缺少目标、指标，或者那些设计精美的彩色方块标识。缺的是执行。 The problem is no longer a shortage of targets,indicators or beautifully designed coloured squares.It is implementation. 对发展中国家而言，争论越来越绕不开资金问题：沉重的债务偿付负担、优惠性资金不足、财政空间有限、技术鸿沟，以及一个在许多国家政府看来，尚不足以回应当代发展需求的国际金融架构。 For developing countries,the argument increasingly comes back to finance:debt-service burdens,insufficient concessional resources,limited fiscal space,technology gaps and an international financial architecture that many governments regard as insufficiently responsive to contemporary development needs. 这给联合国大会带来了一个令人尴尬的信誉问题。 This creates an uncomfortable credibility problem for the General Assembly. 如果各国一再重申普遍性的发展目标，而实现这些目标所必需的资金手段却始终不足，那么久而久之，这种不断“重申承诺”的仪式本身也会失去意义。 If states repeatedly reaffirm universal development goals while the financial means necessary to achieve them remain inadequate,eventually the ritual of recommitment itself loses value. 因此，联合国大会不能再停留于追问各国政府是否继续“支持”可持续发展目标。毕竟，几乎没有哪个政府会公开宣布自己反对清洁饮水、教育或消除贫困。 The General Assembly therefore needs to move beyond asking whether governments continue to“support”the SDGs.Very few will announce that they oppose clean water,education or the eradication of poverty. 但问题往往也更加棘手： The meaningful questions are more inconvenient: 各国政府究竟愿意为哪些承诺投入资金？愿意改变哪些政策？愿意改革哪些制度？而当国家经济利益与国际社会共同商定的发展目标发生冲突时，又将如何取舍？ Which commitments will governments finance?Which policies will they change?Which institutions will they reform?And what happens when national economic interests conflict with internationally agreed development objectives? 联合国大会最能发挥作用的时候，是它迫使这些矛盾被摆到台面上来的时候。 The Assembly is at its best when it forces such contradictions into the open. 安理会改革：联合国大会直面1945年的遗产 Security Council Reform:The Assembly Confronts 1945 接下来，是一个已经伴随联合国数十年的改革难题：安全理事会改革。 Then comes the reform question that has accompanied the United Nations for decades:the Security Council. 这一问题理所当然属于联合国大会的议程，因为归根结底，它涉及的是代表性、合法性，以及国际社会对整个国际体系的信心。 This belongs firmly within the General Assembly's agenda because the issue is ultimately one of representation,legitimacy and confidence in the international system. 安理会的组成反映的是1945年的政治格局，而2026年的世界早已不是1945年的世界。 The Council's composition reflects the political settlement of 1945.The world of 2026 does not. 非洲拥有54个联合国会员国，却没有一个常任理事国席位；拉丁美洲同样没有。印度如今已是世界人口最多的国家，也是一个主要经济体。日本和德国则是世界主要经济体，也是长期以来联合国的重要出资国。与此同时，五个常任理事国依然拥有否决权，足以阻止安理会就实质性问题采取行动。 Africa has 54 UN Member States but no permanent seat.Latin America has none.India is now the world's most populous country and a major economic power.Japan and Germany are leading economies and longstanding UN contributors.Meanwhile,the five permanent members retain a veto capable of stopping substantive Council action. 指出这种失衡并不困难。真正困难的是如何改变它。 The anomaly is not difficult to describe.Fixing it is another matter. 由巴西、德国、印度和日本组成的“四国集团”（G4）主张同时增加常任和非常任理事国席位。非洲联盟则要求非洲至少获得两个常任理事国席位，并增加非常任理事国席位；如果否决权继续存在，新增常任理事国也应享有同等权利。 The G4-Brazil,Germany,India and Japan,supports expansion in both permanent and non-permanent categories.The African Union demands at least two permanent seats for Africa and additional non-permanent representation,with equal privileges if the veto continues to exist. 绝大多数会员国都认同，安理会应当更具代表性。 Most Member States agree that the Council should become more representative. 然而，一旦讨论具体到哪个国家获得什么席位、拥有何种权力、任期多长，以及谁将为此让出空间，这种共识便不再那么热烈了。 Agreement becomes somewhat less enthusiastic when the discussion reacheswho receives which seat,with what powers,for how long,and at whose expense. 这，又是外交。 Again,diplomacy. 否决权又使问题多了一层复杂性。安理会在重大冲突问题上一再陷入僵局，使得外界越来越期待联合国大会发挥更加显著的政治作用。2022年的“否决权倡议”是一项重要的制度创新：安理会常任理事国一旦行使否决权，联合国大会便须就此举行辩论。它并没有取消否决权，却使否决权的行使被置于更加公开的问责之下。 The veto adds another layer.Repeated Council paralysis over major conflicts has increased pressure on the General Assembly to assume a more visible political role.The 2022 Veto Initiative,requiring an Assembly debate following a Security Council veto,was an important institutional innovation.It does not eliminate the veto,but it makes its exercise more publicly accountable.That matters. 2026年4月16日，第80届联合国大会主席安娜莱娜·贝尔伯克主持联大关于安理会否决权使用问题的全体会议。图源：联合国 权力或许依然占据上风，但至少有些时候，它必须为自己作出解释。 Power may still prevail,but it must occasionally explain itself. 第81届联合国大会主席已将“改革与包容性全球治理”列为六项优先事项之一，并明确将联合国大会称为推动“会员国主导改革”的引擎。这确实创造了一个契机。但联合国大会也不应假装，仅凭程序上的创新，就能够解决一个本质上属于政治的问题。 The 81st-session President has made reform and inclusive global governance one of his six priorities and has explicitly described the General Assembly as an engine of Member-State-driven reform.That creates an opportunity.But the Assembly should resist pretending that procedural innovation alone will resolve a fundamentally political problem. 而恰恰是那些在现有制度中享有最大特权的国家，又是改变这些制度安排不可或缺的同意方。 The states possessing the greatest institutional privileges are also among those whose agreement is necessary to change them. 其实，无须拥有多年的外交经验，也不难体会其中的微妙之处：要让一个人通过主动削弱自己的既有优势，来推动一套制度实现现代化，从来不是一件容易的事。 One does not need many years in diplomacy to appreciate the delicacy of asking someone to modernize a system by voluntarily reducing his own advantage. 改革：当“抢椅子游戏”停下来之后 Reform:When the Musical Chairs Stop 改革本身也值得审视。 Reform itself deserves scrutiny. 联合国在其大部分历史中都处于不断改革之中。机构被设立、合并、改名、协调、分权、重新集权，有时又换一个新的缩写名称重新出现。 The United Nations has been reforming for much of its existence.Structures are created,merged,renamed,coordinated,decentralized,recentralized and occasionally rediscovered under a new acronym. 一些改革确有必要，也卓有成效。机构必须与时俱进，职能重叠会浪费稀缺资源，过时的授权也不应仅仅因为无人愿意重新审议当初创设它的决议，就一直延续下去。 Some reforms have been necessary and useful.Institutions must evolve.Duplication wastes scarce resources.Outdated mandates should not survive merely because nobody wishes to reopen the resolution that created them. 但组织架构调整本身，也可能逐渐演变成一种自我延续的过程。 But organizational restructuring can also acquire a life of its own. 有时候，联合国改革就像一场精心设计的“抢椅子游戏”：椅子的数量和位置发生了变化，音乐短暂停下，每个人换了个稍有不同的位置坐下——但真正的政治问题，却依然站在房间中央。 At times,UN reform has resembled a sophisticated game ofmusical chairs:the number and location of the chairs change,the music is briefly interrupted,everyone sits somewhere slightly different—and the underlying political problem remains standing in the middle of the room. 联合国秘书处约占联合国系统资源的20%，却集中了约80%由助理秘书长（ASG）或副秘书长（USG）级官员领导的实体。图源：联合国UN80 Initiative、联合国系统行政首长协调理事会（CEB） 因此，当前的“联合国80周年倡议”改革进程所面临的考验，远不只是如何提高行政效率。 The current UN80 reform process therefore faces a test larger than administrative efficiency. 联合国大会主席曾表示，重建信任既需要拿出实际成果，也需要推进改革。这一点没有错。但在改革之前，还应先回答一个更根本的问题： The President of the General Assembly has said that restoring trust requires both delivery and reform.That is correct.But reform should begin with a prior question: 改革究竟是为了什么？ Reform for what? 削减开支不是战略，重新调整部门也不是愿景。消除职能重叠固然有益，但这并不能回答：国际社会眼下最迫切需要联合国承担的，究竟是哪些职能？ Reducing expenditure is not a strategy.Rearranging departments is not a vision.Eliminating duplication is useful,but it does not tell us which functions the international community most urgently needs the United Nations to perform. 会员国也不能一边要求联合国变得更加高效，一边又让其得不到稳定、可预期的资源保障。 Nor can Member States simultaneously demand a more effective Organization and deprive it of predictable resources. 外交领域有一个由来已久的习惯：先赋予一个机构雄心勃勃的授权，给它一个鼓舞人心的名称，却只配上一份捉襟见肘的预算；等到成果不如预期时，再对此表示失望。 There is an old diplomatic habit of giving an institution an ambitious mandate,an inspiring title and an inadequate budget—and then expressing disappointment when results prove modest. 这种习惯，恐怕比某些部门本身更应该率先“退休”。 That habit deserves retirement before some of the departments do. 联合国大会与过往改革的历史记忆 The General Assembly and the Memory of Earlier Reform 眼下的争论并不完全是新问题。 The present debate is not entirely new. 冷战结束之际，国际社会一度对多边行动的可能性抱有非同寻常的乐观期待。曾令联合国诸多工作陷入瘫痪的意识形态对抗似乎正在消退。1992年1月，联合国安理会首次举行国家元首和政府首脑级会议，此后，秘书长布特罗斯·布特罗斯-加利提出了《和平纲领》。 At the end of the Cold War,there was a remarkable moment of optimism about the possibilities of multilateral action.The ideological confrontation that had paralyzed much of the United Nations appeared to be receding.In January 1992,the Security Council met at the level of Heads of State and Government,and Secretary-General Boutros Boutros-Ghali subsequently producedAn Agenda for Peace. 国际社会重新满怀信心地谈论预防性外交、建立和平、维持和平以及冲突后重建。 The international community began speaking of preventive diplomacy,peacemaking,peacekeeping and post-conflict reconstruction with renewed confidence. 一些行动取得了成功。纳米比亚、柬埔寨和莫桑比克的实践表明，协调一致的国际参与可以取得怎样的成果。 Some operations succeeded.Namibia,Cambodia and Mozambique demonstrated what coordinated international engagement could achieve. 但另一些行动则暴露出局限。索马里、卢旺达和波斯尼亚的经历表明，在纽约通过一项授权，与真正落实这项授权所需要的政治意愿、资源和行动能力之间，可能存在多么巨大的鸿沟。 Others exposed painful limitations.Somalia,Rwanda and Bosnia showed the enormous gap between mandates adopted in New York and the political will,resources and operational capacity required to carry them out. 2025—2026年，联合国五个最大维和行动的人员规模均出现不同程度下降。图源：International Crisis Group；数据来源：联合国 这一教训对于今天的联合国大会依然具有现实意义。 The lesson remains relevant to the General Assembly today. 授权并不等于能力。 A mandate is not a capability. 同样，宣言并不等于预算，决议并不等于执行机制，而共识也未必意味着真正的政治承诺。同一时期，发展中国家开始担心，联合国日益将重心放在维和行动上，会使政治关注和资源从经济与社会发展领域被转移出去。联合国大会和经济及社会理事会的讨论往往陷入重复，而一轮又一轮的改革，则把大量精力集中在程序和组织安排上。 Nor is a declaration a budget,a resolution an implementation mechanism,or consensus necessarily evidence of political commitment.During the same period,developing countries became concerned that the Organization's increasing concentration on peacekeeping was diverting political attention and resources away from economic and social development.Debates in the General Assembly and ECOSOC often became repetitive,while successive reform exercises focused heavily on procedures and organizational arrangements. 这样的情形，我们过去已经经历过。 We have been here before. 正因为有这样的历史记忆，联合国大会今天更应对改革议程提出更高要求。制度变革不能取代一个更根本的决定：这个机构究竟被期待完成什么。 That historical memory should make the Assembly more demanding about today's reform agenda.Institutional change should not become a substitute for deciding what the institution is actually expected to accomplish. 2026年7月，美国宣布将从明年起阻止联合国继续为非盟驻索马里支助与稳定特派团提供后勤支持，使该任务面临重大资金与运作压力。图源：路透社 资金：外交更愿意委婉讨论的话题 Money:The Subject Diplomacy Prefers to Discuss Politely 然而，真正的困难在于，制度雄心最终总会遭遇制度能力的现实边界。 The difficulty,however,is that institutional ambition eventually meets institutional capacity. 会员国通过各种授权、方案和宣言，却有时在提供落实这些承诺所需资源时犹豫不决。于是，讨论陷入一种颇具“循环之美”的逻辑：联合国因落实不力而受到批评；其资源却变得更加不可预测；新的危机催生新的授权；各方要求进一步提高效率；然后，人们又反过来质问联合国，为什么没有做得更多。 Member States approve mandates,programmes and declarations—and then sometimes hesitate over the resources required to implement them.The resulting conversation has a certain circular elegance:the Organization is criticized for inadequate delivery;its resources become less predictable;new crises generate new mandates;efficiency reforms are demanded;and the Organization is then asked why it has not done more. 到最后，算术终究会闯进外交的世界。 Eventually,arithmetic intrudes upon diplomacy. 这并不是主张在缺乏监督的情况下无限扩大预算。问责十分重要，职能重叠应该消除，过时的授权也应得到审查。但那句耳熟能详的“少花钱、多办事”，终究存在极限。到了某一个节点，投入更少，就只能得到更少。 This is not an argument for larger budgets without scrutiny.Accountability matters,duplication should be eliminated and obsolete mandates should be reviewed.But there are limits to the familiar prescription of“doing more with less.”At some point,less produces less. 同样的现实主义也应当适用于危机管理。国际社会至今仍然远比“预防危机”更擅长“应对危机”。战争、疫情和气候灾害一旦造成无法忽视的后果，往往就能迅速吸引资源；相比之下，预防和预警在政治上却没有那么“讨巧”，恰恰因为一旦它们真正奏效，就不会发生任何惊天动地的事情。 The same realism should apply to crisis management.The international community remains considerably better organized to respond to crises than to prevent them.Wars,pandemics and climate disasters attract resources once their consequences become impossible to ignore;prevention and early warning are less politically rewarding precisely because,when successful,nothing dramatic happens. 一场被成功避免的灾难，很少会迎来一场纪念大会。 A catastrophe avoided rarely gets a commemorative conference. 这正是联合国大会能够有所作为的地方。它所拥有的普遍性授权，使其能够把和平与安全同发展、气候、健康、技术以及人类脆弱性联系起来，并推动各方在紧急情况演变为灾难之前就投入资源。 Here the General Assembly can make a difference.Its universal mandate allows it to connect peace and security with development,climate,health,technology and human vulnerability—and to press for investment before emergencies become disasters. 过去几十年联合国改革所留下的教训，今天依然适用：授权不等于能力，宣言不等于预算，共识也未必意味着政治承诺。 The lesson from earlier decades of UN reform remains pertinent:a mandate is not a capability,a declaration is not a budget,and consensus is not necessarily political commitment. 因此，改革不能被简化为重新调整机构设置。问题在于会员国是否愿意为自己赋予联合国的那些责任，同时配套提供履行这些责任所必需的政治意愿和资源。 Reform therefore cannot be reduced to rearranging structures.The real test is whether Member States are prepared to match the responsibilities they assign to the Organization with the political will and resources necessary to carry them out. 走向失灵，还是实现突破？ Break Down or Break Through? 第81届联合国大会将产生演讲、宣言和决议，也几乎肯定会出现若干场持续到深夜的谈判——在那些会议室里，随着措辞变得越来越软，咖啡往往会变得越来越浓。 The 81st General Assembly will produce speeches,declarations,resolutions and undoubtedly several late-night negotiating sessions in rooms where coffee becomes progressively stronger as language becomes progressively weaker. 这不是犬儒主义，而是193个主权国家共同参与多边主义时的现实。 That is not cynicism.It is multilateralism among 193 sovereign states. 一个严肃的问题是：当高级别周结束、各国车队离去、纽约的交通重新恢复到它那种更为日常的混乱之后，究竟还能留下什么？ The serious question is what remains when High-Level Week ends,the motorcades disappear and New York traffic returns to its more ordinary form of chaos. 我们不应以联合国大会能否解决摆在面前的每一场危机，来评判它的成败。它做不到这一点。 The Assembly should not be judged by whether it can solve every crisis before it.It cannot. 同样，也不应因为其大多数决议并不具有法律约束力，就将其轻易否定。那样做，是误解了联合国大会真正的力量所在。 Nor should it be dismissed because most of its resolutions are not legally binding.That misunderstands where its power lies. 联合国大会依然是全球唯一一个几乎所有主权国家都能够在其中发言、投票、挑战强国、组建联盟，并参与界定国际合法性的政治议事场所。 The General Assembly remains the only global political chamber in which virtually every sovereign state can speak,vote,challenge powerful countries,build coalitions and participate in defining international legitimacy. 它的弱点在于，无法强制落实。它的风险则在于，各国政府可能满足于发表宣言，而不再追求真正的落实。 Its weakness is that it cannot compel implementation.Its danger is that governments may become satisfied with declaration instead of delivery. 而它的机会，则在于更加有策略地运用自身的合法性：减少停留在口号层面的承诺，明确优先事项，加强后续跟进，提高问责力度，并让承诺与资源之间建立起一种更加诚实的关系。 And its opportunity is to use its legitimacy more strategically:fewer rhetorical promises,clearer priorities,stronger follow-up,greater accountability and a more honest relationship between commitments and resources. 因此，当今多边体系最主要的缺陷，并不只是制度性的，更是政治性的。 The principal deficiency of the multilateral system today is therefore not simply institutional.It is political. 无论怎样调整部门，都无法凭空制造出政治意愿；任何改革文件都不能取代领导力；任何一份共识宣言，也不会自己得到落实。 No rearrangement of departments can manufacture political will.No reform document can substitute for leadership.No consensus declaration can implement itself. 联合国大会当然必须推动其周边制度的改革，包括正视日益棘手的安理会代表性问题。但与此同时，它还必须改变一种更加无形的东西：那就是把“对文字达成一致”误认为“对行动达成一致”的习惯。 The General Assembly must certainly reform the institutions around it,including confronting the increasingly difficult question of Security Council representation.But it must also reform something less tangible:the habit of confusing agreement on language with agreement on action. 2026年的世界与1945年的世界已经大不相同。权力更加分散，经济相互依存更加深入，技术发展速度更快，气候风险具有系统性影响，而全球南方也理所当然地要求在那些塑造其未来的国际机构中拥有更大的发言权。联合国大会依然处于一个独一无二的位置，能够反映这个不断变化的世界。 The world of 2026 bears little resemblance to that of 1945.Power is more dispersed,economic interdependence is deeper,technology moves faster,climate risks are systemic and the Global South rightly demands a greater voice in institutions that shape its future.The General Assembly remains uniquely placed to reflect that changing world. 但仅仅“反映”还远远不够。 But reflection is not enough. 如果联合国大会想要重建信任，就必须证明：在一个权力日益碎片化、外交日益交易化的时代，普遍代表性依然能够转化为切实可行的合作。 If the Assembly is to restore trust,it must demonstrate that universal representation can still generate practical cooperation in an age of fragmented power and transactional diplomacy. 也许，这才是第81届联合国大会真正面临的考验。不是193个国家的政府能否再次就一份宣言达成一致。毕竟，外交官们向来十分擅长起草宣言。 Perhaps that is the real test of UNGA 81.Not whether 193 governments can agree on another declaration.Diplomats are exceptionally talented at declarations. 关键问题在于：在就这些文字达成一致之后，他们是否也愿意承认，这些文字所规定的义务同样约束着自己。 The harder question is whether,after agreeing on the words,they are prepared to recognize themselves in the obligations. 外交止步于此，而责任由此开始。 That is where diplomacy ends—and responsibility begins. 梅赫里·马达尔沙希（Mehri Madarshahi） 华南理工大学公共政策研究院（IPP）荣誉教授、联合国教科文组织下属国际创意和可持续发展中心（ICCSD）顾问委员会成员 Honorary Professor&nbsp;of The Institute of Public Policy(IPP),South China University of Technology(SCUT);",
-   "published": "Sun, 20 Sep 2026 01:12:04 GMT",
-   "source": "虎嗅资讯-全部",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "与业务无直接关联，仅作国际宏观背景了解",
-   "action": "跳过，不投入时间",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "AI办公给互联网巨头出了道难题",
-   "link": "https://www.huxiu.com/article/4892523.html",
-   "summary": "无人确知这条路到底能通向哪里。在汹涌的AI浪潮中，办公场景已成为头部玩家竞逐的主战场。聚光灯下的密集交锋即是明证。字节、腾讯、阿里完成组织变阵后均集中兵力。9月15日，字节跳动CEO梁汝波罕见现身飞书未来无限大会暨豆包工作开工大会，宣布将豆包、飞书、火山引擎三方能力正式整合，加大企业级AI办公市场投入，并发布...... 本文来自微信公众号： 海克财经 ，作者：许俊浩 无人确知这条路到底能通向哪里。 在汹涌的AI浪潮中，办公场景已成为头部玩家竞逐的主战场。 聚光灯下的密集交锋即是明证。字节、腾讯、阿里完成组织变阵后均集中兵力。9月15日，字节跳动CEO梁汝波罕见现身飞书未来无限大会暨豆包工作开工大会，宣布将豆包、飞书、火山引擎三方能力正式整合，加大企业级AI办公市场投入，并发布豆包工作伙伴等新产品。 腾讯WorkBuddy动作密集。WorkBuddy于9月2日上线开放平台，首批引入超百家生态伙伴；9月8日，WorkBuddy跨界与游戏《和平精英》联名；9月16日，推出WorkBuddy旅行工具创作赛。 阿里千问办公在9月4日交出首月成绩单。官方数据显示，千问办公上线以来完成已120个版本更新，平均每天迭代4次；注册用户突破3000万，其中一半以上是企业用户。 赛道中还有更多玩家以各自方式卡位。近日百度宣布将百度搭子打造为完全开放的生态平台，同步开放入驻、启动伙伴招募，面向能力提供者开放连接器、技能、套件、硬件四大能力，并承诺永远不向伙伴抽佣。金山办公则在9月14日正式领取智能体身份码节点，成为国内AI办公领域首个持有智能体身份码节点的厂商。 海外头部玩家更令人瞩目。微软Copilot依托Office的长久积淀，占据先发优势；谷歌的Workspace加速赶超；OpenAI于2026年7月推出ChatGPT Work；Anthropic则在9月17日将Claude Cowork和Claude Chat合并为Claude。 据调研机构艾媒咨询日前发布的《2026年中国AI办公智能体产业发展白皮书》，全球AI智能体市场正经历从技术验证到规模化落地的关键转折，AI办公智能体产品将集中涌现，成为拉动整个智能体产业稳步成长的中坚力量；全球AI智能体市场规模2025年为372亿美元（约合人民币2494亿元），2026年将达698亿美元（约合人民币4681亿元），2030年可达3122亿美元（约合人民币20937亿元）；国内AI智能体市场规模2025年为804亿元，2026年将达1558亿元，2030年可达6968亿元。 海外模型能力持续突破，AI办公作为受益的应用分支之一，随之水涨船高。国内大厂则在FOMO（Fear of Missing Out）情绪驱动之下倾注资源，全力投入，AI办公的落地速度因此远超其他赛道。但狂热无法掩盖不确定性，在AI高速发展的当下，变数还有很多。 01 从龙虾到办公 AI办公领域的增长态势有目共睹。 调研机构QuestMobile数据显示，2026年7月，国内AI效率办公赛道整体MAU（月活跃用户数）达1.02亿，同比增长8.2%，其中办公赛道原生APP端MAU为792.6万，同比增长261.1%，PC客户端MAU为1030.1万，同比增长340.6%；以MAU计算，排名前四的办公智能体分别为腾讯WorkBuddy（658.2万）、腾讯QClaw（225.9万）、字节TRAE Work（190.4万）和阿里QoderWork（23万）。 需要说明的是，这一领域近期变化极快。2026年7-8月，腾讯、字节、阿里相继结束多线赛马，把原先分散的产品矩阵收拢为单一入口。腾讯于7月20日将QClaw并入WorkBuddy；字节7月30日将飞书产品团队并入豆包，飞书CEO谢欣向豆包产品负责人赵祺汇报，之后的8月24日，TRAE、扣子团队并入豆包，8月25日发布独立品牌“豆包工作”；阿里于7月将QoderWork、悟空、MuleRun整合为“千问办公”，由钉钉CEO陈宇森统管，千问办公于8月3日正式发布。 业内普遍将百度搭子与金山灵犀归入国内第二梯队，两者声量目前不及腾讯、阿里、字节。百度搭子2026年3月上线，8月完成个人版、企业版与工作台的升级；金山办公2026年7月发布灵犀专业版与WPS Comate。 据海克财经观察，就产品形态而言，各家大同小异，基本架构都是以任务或对话作为主要交互窗口，再搭配定时任务、连接器、专家、技能、IM频道等功能。 所谓连接器，指的是智能体与企业现有软件系统之间的标准化接口，比如连接钉钉、飞书等办公应用，就可以授权智能体接入应用，读写应用内部的内容。IM频道则是对接即时通讯工具，让智能体连接钉钉、飞书、企业微信、微信等有即时通讯功能的应用，接收或回复用户消息。 目前WorkBuddy、千问办公、豆包工作能够连接的应用都极为丰富，均可连接飞书、钉钉、企业微信，也能连接Office、金山文档等应用。百度搭子与金山灵犀的连接应用则要少很多。而在专家和技能配置上，头部玩家的储备也相当丰富。前述豆包工作伙伴，本质上就是智能体里提前封装好的能力模块，用户拿来即用，不需要自己从头配置。 智能体形态的源头可以追溯到2026年初的“龙虾热”。龙虾，即开源个人AI助手OpenClaw，就是智能体的原初形态。本地部署“养虾”后，龙虾能代替人类操作电脑，完成任务。但OpenClaw门槛不低，“养虾”需要一定技术水平，智能体的Harness即工程化运行系统也不成熟。 之后类龙虾智能体层出不穷，腾讯有QClaw，阿里有JVS Claw，字节有ArkClaw，百度有DuClaw，脱颖而出的则是2026年3月上线的WorkBuddy。WorkBuddy减去了复杂的代码配置步骤，支持单句自然语言指令发起任务，模型自动拆解规划并直接输出完整成果。更重要的是，WorkBuddy依托企业微信，用户下载安装后连接企微，即可通过手机远程向桌面端下达任务，最快1分钟完成配置。这对普通用户极为友好。 原先由微软以Office为载体推广开来的AI办公形态是Copilot，在侧边栏里帮用户写草稿、生成公式、总结邮件，还是辅助形态。而绝大多数办公工作不是单步问答，而是多步骤、跨工具、有明确交付物的任务，这些任务有清晰的目标、可拆解的步骤、可调用的数字工具和可验证的结果，是智能体自主执行的绝佳场景。 智能体执行一个长程任务，往往需要几十次甚至上百次模型调用，如果单次调用成本过高，规模化落地根本无从谈起。而今大模型飞速发展，模型能力迅速提升，成本也在降低。这些条件叠加起来，共同促成了办公智能体的繁荣。 02 玩家各展所长 相较于一般意义上的智能体，办公智能体的核心优势不在于模型多强，而在于便捷好操作，同时能直接与企业原有的办公软件打通，嵌入用户已经在用的工作流里。 正因如此，国内玩家们基于自身基因，走出了截然不同的路径。 尽管智能体的连接器都能连接其他玩家的产品，但各家原有产品中内嵌的原生能力各不相同，这才是构筑独特优势的关键所在。腾讯的长板是微信和企业微信构成的社交入口，微信覆盖C端触达，企业微信完成B端执行，WorkBuddy能让AI能力顺着已有的社交关系链和企业组织架构渗透进工作流。WorkBuddy还采用了模型聚合平台的形式，除了腾讯的混元模型外，还接入了DeepSeek、GLM、Kimi等多家模型，用户可以根据任务需要进行切换。 千问办公与豆包工作路线则更为相似。千问办公曾短暂上线过GLM和DeepSeek这两款外部模型，后又很快回归到Qwen模型。豆包工作始终只使用豆包模型。两者均在C端积累了可观的用户基础，然后基于原有办公应用的长项进一步发展。据QuestMobile数据，2026年6月，钉钉MAU为1.71亿，千问MAU为1.67亿；飞书MAU为3019万，豆包MAU为3.82亿。 千问办公拥有钉钉的群聊消息读取、文档表格生成、会议日程邀约、考勤审批管理、知识库邮件读写等原生能力，把企业分散在消息、文档、审批、邮件中的信息转化为智能体可理解、可调用的组织上下文（Context）。 豆包工作则与飞书共用账号和权限体系，可以在授权范围内调用群聊、文档、会议、多维表格及企业业务系统中的信息。员工用飞书账号登录后，智能体沿用的就是原有权限，不需要每个员工重新上传一遍材料，也不用另建账号体系，所有会议决策、信息权限、任务分派与责任归属这些组织运行留下的上下文，都能被智能体直接调用。 百度搭子和金山灵犀押注的是文档资产。百度靠搜索与文库的存量家底，金山办公靠文档编辑、协作、归档的长期积累。腾讯、阿里和字节之所以更强，在于它们能够提供智能体RAG方案最缺的上下文。所谓RAG，即检索增强生成，是大模型应用的主流方案之一，用户提问后，系统先从知识库中检索相关文档片段，再交给模型生成回答。传统RAG或基于文档的RAG能检索到的是内容，缺乏对组织、协作、层级、流程等办公关键要素的理解，而企业微信、钉钉、飞书原本就是组织协作的发生地，智能体读取的不再是孤立的文档片段，而是整个组织运转的上下文。 目前这些产品采用的都是免费额度加积分订阅的模式，以智能体完成任务的情况来实时计算积分的消耗。比如WorkBuddy免费版每月赠送500积分，完成任务还能免费获取积分，完成制作PPT、收集资料等单个任务的消耗在几到几十积分不等；如果付费订阅，则不同积分套餐版本，包月费用70元-999元不等。 头部玩家的商业化如今已初见成效。在2026年8月腾讯2026年第二季度财报电话会议上，腾讯CSO（首席战略官）詹姆斯·米歇尔（James Mitchell）提及，WorkBuddy付费用户毛利率以及腾讯模型服务毛利率，已经可以和腾讯云整体毛利率相媲美；WorkBuddy整体毛利率相对低一些，因为其中有部分免费用户，腾讯以补贴这部分用户的方式，拉动市场份额增长，而付费部分已经产生了相当不错的毛利率。 03 终局或已不远 在AI办公领域，互联网巨头拥有雄厚资本，手握生态、入口与组织执行力，优势真实存在。 中信建投证券2026年8月31日发布的一份研报提及，AI办公场景潜力巨大，全球潜在用户数量可达10亿泛白领人群，乐观情形下能创造万亿美元级别的市场空间；互联网厂商在AI办公赛道竞争优势突出，主要体现在生态优势、强产品力以及可低门槛路由模型，即平台能自动把用户的不同请求分发给背后最合适的大模型，用户无需自己评测、选型和逐一对接，接入门槛低，还能在效果与成本之间取得平衡。 在头部玩家MAU动辄上亿的移动互联网时代，AI办公千万级别的MAU看起来量级不大，但玩家们的争夺却愈演愈烈。不少用户在社交媒体上感慨，在机场、写字楼甚至地铁上，各家办公智能体的广告铺天盖地。 要知道，大模型C端用户拉新之战已告一段落。2026年春节前后，大模型赛道头部玩家倾力营销，以红包、补贴等多种形式推广各自旗下产品，也确实取得了一定成效。但C端用户规模越大，算力成本就越高，获客成本与算力支出叠加，只会让投入越来越重，长期难以承受。由此，厂商不得不改变策略，如豆包就于2026年6月推出了收费模式。 还有恐惧。在AI极强的冲击力和颠覆性之下，互联网巨头对自身掉队乃至被时代抛弃的担忧与日俱增。官方数据显示，2026年4月，Anthropic旗下Claude Code周活跃用户数仅约140万，同期ARR（年度经常性收入）却超过了100亿美元（约合人民币670亿元）。这意味着，AI带来的高价值经济入口可能根本不建立在高用户规模之上。如果AI能够重新定义代码这样高产出的领域，收益就能以倍数增长。而办公领域的专业工作一旦被智能体重新定义，头部玩家丢掉的就不只是用户规模，而是整个赛道的竞争资格。 但钉钉、飞书、企业微信本身的战争还在延续，AI办公智能体又尚未拉开较大差距。 已有颇多博主对各家AI办公智能体进行了对比，比如“极果AI评测室”“彼得潘AI”等，他们从会议摘要、PPT生成、表格清洗、定时任务到多端协同等项目逐一实测，结论是玩家各有所长，但与真正意义上的智能还有差距。比如在搜集图片和数据制作PPT时，有的智能体排版不适合PPT真实播放，有的贴错产品图，还有的数据与产品无法对应。一旦任务链条拉长，涉及多步推理、跨系统操作或动态调整，就很容易出现问题。 海内外AI办公被合规壁垒隔开，国内办公智能体的操作已深度嵌入钉钉、飞书、企业微信等协同办公平台，深入企业流程；海外包括微软Copilot、谷歌Workspace在内的巨头争夺市场，而公认技术最领先的AI头部玩家OpenAI与Anthropic，都没有单独设立办公产品组织架构，Work只是各自产品矩阵中的一个模式和入口。Anthropic旗下Claude Cowork整个产品从构想到上线甚至只用了约10天，是Claude Code团队借助Code自身能力孵化的衍生品。 Anthropic将Claude Cowork与Claude Chat合并为Claude后，用户不再需要预先判断任务该交给聊天还是交给哪个智能体，Claude根据任务复杂度自动调用搜索、文件分析、代码执行、电子表格、PPT等能力。 OpenAI也在推进类似路径，Codex独立产品线已在2026年4月终止，相关能力已融入ChatGPT中。 在9月3日OpenAI发布GPT-6 Astra时，OpenAI联合创始人兼总裁格雷格·布罗克曼（Greg Brockman）称，欢迎来到AGI时代。所谓AGI（Artificial General Intelligence），即通用人工智能，指AI能够像人类一样理解世界、自主推理，灵活应对跨领域复杂任务。GPT-6 Astra已经能够模拟人类直接读取屏幕像素，也就是像人一样进行操作，不需要像智能体一样依赖软件厂商的API接口。 如果真能实现AGI，那理论上AGI能替人类直接处理一切，当然也包括工作。彼时，办公场景不过是AI能力覆盖的一个子集，办公智能体这个中间层存在的必要性或许微乎其微。 浪潮之下，玩家们并不打算停下来论证，只是选择埋头继续向前。",
-   "published": "Sun, 20 Sep 2026 00:22:29 GMT",
-   "source": "虎嗅资讯-全部",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "ai_tools",
-   "level": "A",
-   "why": "AI办公智能体市场爆发，巨头开放生态平台可借力分发工具",
-   "action": "研究百度搭子/WorkBuddy开放平台，评估上架插件可行性",
-   "opportunity": "在巨头开放平台做短剧创作类插件变现",
-   "risk": "巨头生态规则多变，抽佣政策可能调整"
   },
   {
    "title": "[GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者",
    "link": "https://github.com/HBAI-Ltd/Toonflow-app",
-   "summary": "⭐15795星 | 语言:TypeScript | 更新:2026-09-20 | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc",
+   "summary": "⭐15799星 | 语言:TypeScript | 更新:2026-09-20 | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "short_drama",
    "level": "S",
-   "why": "开源一站式AI短剧工具，1.5万星，可直接降低漫剧制作成本",
-   "action": "立即下载部署Toonflow，测试小说转动画短剧全流程",
-   "opportunity": "用开源工具批量产漫剧投海外平台赚分账",
-   "risk": "开源工具生成质量可能不稳定，需实测"
+   "why": "开源AI短剧工具，1.5万星，可直接降本提效",
+   "action": "下载部署Toonflow，测试小说转动画短剧流程",
+   "opportunity": "用开源工具批量产漫剧投海外",
+   "risk": "开源工具质量参差，需验证成片效果"
   },
   {
    "title": "[GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, Deep",
@@ -629,11 +596,11 @@
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "B",
-   "why": "多模型桌面助手，可作开发参考但非直接业务工具",
-   "action": "收藏，需要多模型聚合时再研究",
-   "opportunity": "无",
-   "risk": "无"
+   "level": "A",
+   "why": "多模型桌面助手，可集成到内容生产工作流",
+   "action": "试用py-gpt，评估接入短剧剧本生成流程",
+   "opportunity": "可封装为知识付费教学工具",
+   "risk": "功能泛，需筛选对业务有用的模块"
   },
   {
    "title": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation tool. Uses Gemini for generating sto",
@@ -645,10 +612,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "Gemini+Veo分镜视频生成工具，可补充短剧制作管线",
-   "action": "测试StoryGen-Atelier的分镜生成效果，对比现有流程",
-   "opportunity": "整合进短剧制作流水线提升效率",
-   "risk": "依赖Veo API，成本需核算"
+   "why": "Gemini+Veo分镜视频工具，可辅助短剧制作",
+   "action": "测试StoryGen-Atelier分镜生成质量",
+   "opportunity": "提升分镜效率，降低制作成本",
+   "risk": "依赖Veo，成本可能较高"
   },
   {
    "title": "[GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high",
@@ -658,12 +625,12 @@
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "ai_tools",
    "level": "A",
-   "why": "一键生成营销视频工具，可测试用于短剧投流素材批量生产",
-   "action": "下载clipturbo测试营销视频生成质量",
-   "opportunity": "批量生成投流素材降低投放成本",
-   "risk": "营销视频风格可能不适合短剧投流"
+   "why": "一键营销视频工具，可做投流素材或插件参考",
+   "action": "下载测试小视频宝，评估投流素材生成能力",
+   "opportunity": "批量生成TikTok投流素材",
+   "risk": "营销视频与短剧风格差异大"
   },
   {
    "title": "[GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video",
@@ -675,10 +642,10 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "功能全但92星，参考其多平台一键发布设计思路",
-   "action": "浏览其多平台发布模块的实现方式",
-   "opportunity": "无",
-   "risk": "无"
+   "why": "综合AI创作平台，功能全但星少，参考价值有限",
+   "action": "收藏，后续需要多平台发布时再看",
+   "opportunity": "一键多平台发布功能可借鉴",
+   "risk": "项目成熟度低，不建议依赖"
   },
   {
    "title": "[GitHub] TorresLi608/SceneFlow: 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intell",
@@ -690,10 +657,10 @@
    ],
    "category": "short_drama",
    "level": "B",
-   "why": "仅2星，功能定位与我业务重合，可看架构",
-   "action": "快速浏览README，判断是否有可复用模块",
+   "why": "同类AI短剧工作台，仅2星，参考竞品思路",
+   "action": "快速浏览功能列表，对比Toonflow",
    "opportunity": "无",
-   "risk": "无"
+   "risk": "项目太新，不稳定"
   },
   {
    "title": "[GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本",
@@ -705,69 +672,69 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "开源短剧全流程工具，可降本或改造为自有管线",
-   "action": "下载部署TOONOOT，测试小说转动画短剧效果",
-   "opportunity": "基于其二次开发做自有短剧生产管线",
-   "risk": "0星项目，代码质量和维护存疑"
+   "why": "开源短剧全流程工具，可能降低漫剧制作成本",
+   "action": "克隆TOONOOT仓库，本地部署测试分镜与角色生成效果",
+   "opportunity": "用开源工具替代付费管线，压缩制作成本",
+   "risk": "0星新项目，稳定性与产出质量存疑"
   },
   {
    "title": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & vid",
    "link": "https://github.com/Anil-matcha/Open-Generative-AI",
-   "summary": "⭐28864星 | 语言:JavaScript | 更新:2026-09-20 | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license",
+   "summary": "⭐28874星 | 语言:JavaScript | 更新:2026-09-20 | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "S",
-   "why": "无内容过滤+600模型自托管，短剧素材生成成本大降",
-   "action": "自托管部署，接入Flux/Kling做短剧素材生成",
-   "opportunity": "零成本批量生成短剧分镜与视频素材",
-   "risk": "无过滤内容需注意海外平台合规审核"
+   "why": "无审查600+模型自托管，短剧素材生成不受限",
+   "action": "自托管部署，测试Flux/Kling/Sora生成短剧分镜素材",
+   "opportunity": "搭建无审查素材工厂，批量产出投流视频",
+   "risk": "无内容过滤，海外平台可能因违规封号"
   },
   {
    "title": "[GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every ",
    "link": "https://github.com/pydantic/pydantic-ai",
-   "summary": "⭐20060星 | 语言:Python | 更新:2026-09-20 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+   "summary": "⭐20062星 | 语言:Python | 更新:2026-09-20 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "Python AI开发框架，做工具/插件时的技术底座",
-   "action": "收藏，开发AI工具时评估是否采用",
-   "opportunity": "无",
+   "why": "Python AI开发框架，做插件SaaS可提效",
+   "action": "评估用pydantic-ai重构现有AI工具后端",
+   "opportunity": "快速搭建AI Agent类插件产品",
    "risk": "无"
   },
   {
    "title": "[GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with ",
    "link": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-   "summary": "⭐13449星 | 语言:TypeScript | 更新:2026-09-20 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
+   "summary": "⭐13450星 | 语言:TypeScript | 更新:2026-09-20 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "1万+精选提示词，可直接用于短剧角色/场景生成",
-   "action": "下载提示词库，筛选适合短剧画风的提示词",
-   "opportunity": "整理成中文短剧提示词包做知识付费赠品",
+   "why": "万条精选提示词库，可直接用于短剧分镜与封面",
+   "action": "下载提示词库，筛选短剧角色/场景类提示词测试",
+   "opportunity": "整理成中文提示词包做知识付费素材",
    "risk": "无"
   },
   {
    "title": "[GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima",
    "link": "https://github.com/jamez-bondos/awesome-gpt4o-images",
-   "summary": "⭐8150星 | 语言:JavaScript | 更新:2026-09-18 | Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabili",
+   "summary": "⭐8151星 | 语言:JavaScript | 更新:2026-09-20 | Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabili",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "A",
-   "why": "GPT-4o图像提示词合集，可提升短剧视觉质量",
-   "action": "研究其提示词结构，应用到短剧角色设计",
-   "opportunity": "提炼方法论做AI绘图课程内容",
+   "level": "B",
+   "why": "GPT-4o图像提示词参考，可优化短剧视觉风格",
+   "action": "收藏提示词库，提取适合短剧封面的风格模板",
+   "opportunity": "无",
    "risk": "无"
   },
   {
@@ -780,25 +747,25 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "OpenMMLab出品，模型库丰富但偏研究向",
-   "action": "了解其扩散模型能力，评估是否用于视频生成",
+   "why": "多模态生成工具箱，技术储备参考",
+   "action": "了解其扩散模型API，评估接入短剧管线可行性",
    "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "[GitHub] Osmantic/ODS: Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic",
    "link": "https://github.com/Osmantic/ODS",
-   "summary": "⭐6606星 | 语言:Python | 更新:2026-09-20 | Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+   "summary": "⭐6607星 | 语言:Python | 更新:2026-09-20 | Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "B",
-   "why": "本地部署AI服务器方案，可降低推理成本",
-   "action": "收藏仓库，评估是否替代云API降本",
-   "opportunity": "打包本地AI部署服务卖给学员",
-   "risk": "硬件门槛高，维护成本可能超预期"
+   "level": "A",
+   "why": "本地AI服务器方案，可省云端API成本",
+   "action": "在闲置机器部署ODS，测试本地跑LLM与图像生成",
+   "opportunity": "本地推理替代API，降低短剧制作成本",
+   "risk": "本地算力有限，批量生成速度可能不够"
   },
   {
    "title": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All",
@@ -809,11 +776,11 @@
     "ai_tools"
    ],
    "category": "short_drama",
-   "level": "S",
-   "why": "开源视频生成模型，可零成本批量产短剧素材",
-   "action": "部署Open-Sora测试生成短剧片段质量",
-   "opportunity": "用开源模型替代付费工具降本90%",
-   "risk": "生成质量可能不达投放标准"
+   "level": "A",
+   "why": "开源视频生成模型，可自建短剧视频生成能力",
+   "action": "部署Open-Sora测试文生视频质量与生成速度",
+   "opportunity": "自建视频生成管线，摆脱第三方平台限制",
+   "risk": "开源模型质量可能不及商用平台，需大量调优"
   },
   {
    "title": "[GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid",
@@ -825,25 +792,25 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "开源Sora客户端，可自建视频生成SaaS",
-   "action": "研究其架构，评估做套壳SaaS可行性",
-   "opportunity": "搭建面向短剧团队的Sora生成平台",
-   "risk": "依赖OpenAI API，政策变动风险大"
+   "why": "开源Sora客户端可快速集成到短剧制作流程，降低工具开发成本",
+   "action": "克隆SoraWebui代码，测试其视频生成接口和批量处理能力",
+   "opportunity": "基于此开发短剧批量生成SaaS工具",
+   "risk": "依赖OpenAI API，存在封号和成本风险"
   },
   {
    "title": "[GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from i",
    "link": "https://github.com/D-Ogi/WatermarkRemover-AI",
-   "summary": "⭐1957星 | 语言:Python | 更新:2026-09-19 | AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI.",
+   "summary": "⭐1958星 | 语言:Python | 更新:2026-09-20 | AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "short_drama",
-   "level": "A",
-   "why": "去水印工具，处理AI生成素材可直接商用",
-   "action": "下载测试，用于清理AI视频水印",
-   "opportunity": "去水印后素材二次创作变现",
-   "risk": "去水印可能违反平台条款被封号"
+   "level": "S",
+   "why": "可去除Sora/Runway等AI视频水印，直接提升短剧出海素材可用性",
+   "action": "下载部署WatermarkRemover-AI，测试对AI生成视频的去水印效果",
+   "opportunity": "去水印后二次创作短剧，规避平台AI内容标记",
+   "risk": "去水印可能违反平台政策，导致账号封禁"
   },
   {
    "title": "[GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation",
@@ -853,12 +820,12 @@
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "ai_tools",
    "level": "B",
-   "why": "通用视频生成学术方案，技术储备参考",
-   "action": "关注论文更新，暂不部署",
+   "why": "开源通用视频生成模型，可关注其技术迭代作为备选方案",
+   "action": "收藏Mora仓库，关注其更新和社区讨论",
    "opportunity": "无",
-   "risk": "学术项目落地周期长"
+   "risk": "无"
   },
   {
    "title": "[GitHub] all-in-aigc/sorafm: Sora AI Video Generator by Sora.FM",
@@ -869,11 +836,11 @@
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "B",
-   "why": "Sora套壳站案例，可参考其变现模式",
-   "action": "研究其定价和获客方式",
-   "opportunity": "复制其模式做垂直短剧生成站",
-   "risk": "同质化严重，竞争激烈"
+   "level": "A",
+   "why": "Sora.FM提供视频生成前端方案，可参考做短剧生成工具",
+   "action": "研究sorafm的架构和API集成方式，评估复用可能",
+   "opportunity": "快速搭建短剧AI生成平台",
+   "risk": "同质化竞争激烈，需差异化"
   },
   {
    "title": "[GitHub] cporter202/automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand ",
@@ -885,10 +852,10 @@
    ],
    "category": "short_drama",
    "level": "S",
-   "why": "Sora2自动化内容增长完整指南，直接可用",
-   "action": "精读指南，落地多平台批量发布流程",
-   "opportunity": "自动化批量产短剧投TikTok赚美元",
-   "risk": "批量发布可能触发平台风控"
+   "why": "自动化内容增长指南，涵盖Sora 2生成和多平台发布，直接对应短剧出海",
+   "action": "通读该指南，提取多平台批量发布和API集成方案",
+   "opportunity": "建立短剧自动化生产+分发流水线",
+   "risk": "平台可能限制自动化发布，需测试合规性"
   },
   {
    "title": "[GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m",
@@ -900,8 +867,8 @@
    ],
    "category": "other",
    "level": "B",
-   "why": "视频转机器人动作，与当前业务无关",
-   "action": "忽略，不投入时间",
+   "why": "与当前业务无关，但展示AI视频应用边界",
+   "action": "了解即可，无需操作",
    "opportunity": "无",
    "risk": "无"
   },
@@ -915,10 +882,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "开源节点式AI工作流，可替代付费工具省订阅成本",
-   "action": "部署测试Vibe-Workflow，评估能否替代现有付费工作流",
-   "opportunity": "基于此搭建短剧批量生产管线",
-   "risk": "开源项目维护不稳定，588星尚早"
+   "why": "开源节点式AI工作流，可替代付费工具，降低短剧制作成本",
+   "action": "部署Vibe-Workflow，测试图像/视频生成管线搭建效率",
+   "opportunity": "用免费工具替代付费SaaS，节省订阅成本",
+   "risk": "开源工具维护不稳定，需自担技术风险"
   },
   {
    "title": "[GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models",
@@ -930,10 +897,10 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "Vision LLM做视频编辑，可辅助短剧后期自动化",
-   "action": "收藏仓库，观察其视频剪辑自动化能力",
+   "why": "AI视频编辑管线，可关注其Vision LLM在剪辑中的应用",
+   "action": "浏览仓库文档，评估是否可用于短剧自动剪辑",
    "opportunity": "无",
-   "risk": "仅64星，成熟度低"
+   "risk": "无"
   },
   {
    "title": "[GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le",
@@ -945,10 +912,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "Seedance 2.0提示词库可直接提升短剧画面质量",
-   "action": "下载提示词库，测试Seedance生成短剧镜头",
+   "why": "Seedance 2.0提示词库可直接提升短剧画面质量与产出效率",
+   "action": "克隆仓库并测试其中电影级/动漫场景提示词",
    "opportunity": "用高质量提示词做差异化短剧内容",
-   "risk": "提示词同质化后优势消失"
+   "risk": "提示词同质化，需结合自有题材微调"
   },
   {
    "title": "[GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet",
@@ -958,12 +925,12 @@
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "ai_tools",
    "level": "A",
-   "why": "自动化竞品广告情报+创意策略，直接服务投流",
-   "action": "研究该pipeline，用于短剧投流素材竞品分析",
-   "opportunity": "自动化生成高转化投流素材",
-   "risk": "企业级复杂度，部署成本可能高"
+   "why": "竞品广告情报自动化可反哺短剧投流素材优化",
+   "action": "研究其多模态创意提取逻辑，评估能否改造为投流工具",
+   "opportunity": "开发短剧投流素材竞品分析SaaS",
+   "risk": "企业级架构较重，个人落地成本高"
   },
   {
    "title": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w",
@@ -975,10 +942,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "桌面端AI视频工具，明确支持短剧和翻译视频",
-   "action": "下载ai0-video-creator测试短剧生成流程",
-   "opportunity": "本地化短剧生产降低API成本",
-   "risk": "17星项目，功能可能不完善"
+   "why": "桌面端短剧创作工具，支持本地ComfyUI可省云成本",
+   "action": "下载试用，测试短剧生成与翻译视频流程",
+   "opportunity": "本地化短剧生产管线降本",
+   "risk": "Tauri生态插件少，维护可能不稳定"
   },
   {
    "title": "[GitHub] nabobery/veo3-workflow-agents: A complete AI-powered video generation pipeline that enhances creative prompts a",
@@ -989,11 +956,11 @@
     "ai_tools"
    ],
    "category": "short_drama",
-   "level": "A",
-   "why": "Veo3自动化管线，单API key即可批量生成视频",
-   "action": "测试veo3-workflow-agents批量生成短剧片段",
-   "opportunity": "低成本批量产出Veo3短剧素材",
-   "risk": "Veo3 API成本高，需算ROI"
+   "level": "B",
+   "why": "Veo3单API生成视频，可作短剧素材补充方案",
+   "action": "测试Veo3生成质量与成本，对比现有工具",
+   "opportunity": "Veo3高质量片段用于短剧关键镜头",
+   "risk": "Veo3 API成本高，批量生产不划算"
   },
   {
    "title": "[版本更新] Open-Sora v1.3: Open-Sora V1.3 Release",
@@ -1003,12 +970,12 @@
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "ai_tools",
+   "category": "short_drama",
    "level": "B",
-   "why": "开源视频生成模型更新，长期可降低制作成本",
-   "action": "关注Open-Sora后续版本，暂不部署",
-   "opportunity": "无",
-   "risk": "开源模型质量仍落后商用"
+   "why": "开源视频模型迭代，长期可降低短剧生成成本",
+   "action": "关注其压缩与画质改进，暂不部署",
+   "opportunity": "未来自建开源视频生成管线",
+   "risk": "版本较旧，已被新模型超越"
   },
   {
    "title": "[版本更新] Toonflow短剧工具 v1.1.8: ToonFlow v1.1.8",
@@ -1020,10 +987,10 @@
    ],
    "category": "short_drama",
    "level": "S",
-   "why": "专门做短剧的工具更新，直接关系核心业务效率",
-   "action": "下载ToonFlow v1.1.8，测试新版本短剧制作流程",
-   "opportunity": "用ToonFlow提升短剧产能和出海速度",
-   "risk": "工具依赖单一，需备份方案"
+   "why": "专为短剧设计的工具更新，直接关系生产效率",
+   "action": "下载v1.1.8测试新功能并对比现有工作流",
+   "opportunity": "用ToonFlow批量产出漫剧短剧",
+   "risk": "工具更新可能引入新bug，需备份旧版"
   },
   {
    "title": "[版本更新] ComfyUI v0.36.0: v0.36.0",
@@ -1035,10 +1002,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "ComfyUI更新模型蓝图和子图分类，影响AI短剧制作工作流效率",
-   "action": "下载测试新版本，评估模型蓝图对短剧生成流程的优化",
-   "opportunity": "利用新蓝图快速搭建短剧生成模板，提升产能",
-   "risk": "更新可能引入兼容性问题，需备份旧工作流"
+   "why": "ComfyUI是短剧AI生成核心底座，更新影响工作流",
+   "action": "升级前备份工作流，测试新模型蓝图兼容性",
+   "opportunity": "新子图分类可优化短剧生成管线",
+   "risk": "升级可能导致旧工作流节点失效"
   },
   {
    "title": "[版本更新] MoneyPrinter v1.3.7: v1.3.7",
@@ -1048,12 +1015,12 @@
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "ai_tools",
+   "category": "short_drama",
    "level": "A",
-   "why": "新增逐字字幕和弹出动画，直接提升短剧视频制作质量",
-   "action": "下载测试逐字字幕功能，集成到短剧后期流程",
-   "opportunity": "用逐字字幕提升短剧完播率，增加平台分成收入",
-   "risk": "动画效果可能不符合海外观众审美，需测试"
+   "why": "逐字字幕与弹跳动画提升短剧完播率与观感",
+   "action": "升级并测试逐字字幕在TikTok短剧中的应用",
+   "opportunity": "用逐字字幕提升海外短剧留存",
+   "risk": "动画过度可能分散剧情注意力"
   },
   {
    "title": "[HN] Show HN: A different kind of AI Video generation",
@@ -1064,12 +1031,12 @@
     "industry",
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "ai_tools",
    "level": "B",
-   "why": "新型AI视频生成工具，可能成为短剧制作备选方案",
-   "action": "浏览HN评论，了解工具差异化和适用场景",
-   "opportunity": "若工具独特，可低成本制作差异化短剧",
-   "risk": "新工具稳定性未知，不宜立即投入生产"
+   "why": "独立开发者做的AI视频工具，可能成为低成本短剧制作备选",
+   "action": "打开HN链接了解其差异化功能和定价",
+   "opportunity": "若免费/低价可替代现有视频生成工具省成本",
+   "risk": "个人项目稳定性差，不宜依赖"
   },
   {
    "title": "[HN] Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
@@ -1080,12 +1047,12 @@
     "industry",
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "ai_tools",
    "level": "A",
-   "why": "小团队自研文生视频模型，可能提供低成本短剧生成方案",
-   "action": "研究Linum v2的生成样本和API定价",
-   "opportunity": "若成本低，可替代高价视频生成工具，省成本",
-   "risk": "2B参数模型质量可能不足，需验证"
+   "why": "小团队自研文生视频模型，可能提供低成本API或开源方案",
+   "action": "访问linum.ai查看生成样本和API定价",
+   "opportunity": "新模型早期接入可能有价格优势",
+   "risk": "2B参数模型质量可能不足以商用"
   },
   {
    "title": "[HN] Meta’s new text-to-video AI generator is like DALL-E for video",
@@ -1098,10 +1065,10 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "Meta入局文生视频，预示平台可能推出AI视频工具",
-   "action": "关注Meta是否开放API，评估对短剧投放的影响",
+   "why": "旧新闻，仅作行业背景参考",
+   "action": "无需操作，了解大厂布局即可",
    "opportunity": "无",
-   "risk": "大厂入局可能挤压小玩家生存空间"
+   "risk": "无"
   },
   {
    "title": "[HN] Google announces Veo, their Sora competing text/image-to-video model",
@@ -1114,9 +1081,9 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "Google Veo竞争Sora，视频生成工具迭代加速",
-   "action": "跟踪Veo开放进度，评估是否适合短剧制作",
-   "opportunity": "新工具可能带来更高质量短剧，提升竞争力",
+   "why": "Veo是短剧制作可选工具之一，需了解其能力边界",
+   "action": "确认Veo当前是否已开放API及价格",
+   "opportunity": "Google生态集成可能降低工作流成本",
    "risk": "无"
   },
   {
@@ -1130,8 +1097,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "Sora发布是行业里程碑，但已过时，了解背景即可",
-   "action": "回顾Sora对短剧行业的影响，无需行动",
+   "why": "Sora发布是行业里程碑，但已是旧闻",
+   "action": "无需操作",
    "opportunity": "无",
    "risk": "无"
   },
@@ -1144,10 +1111,10 @@
     "industry",
     "ai_tools"
    ],
-   "category": "industry",
+   "category": "short_drama",
    "level": "B",
-   "why": "Sora正式开放，但已过时，了解即可",
-   "action": "无需行动，仅作背景了解",
+   "why": "Sora正式开放曾影响短剧制作工具选择",
+   "action": "回顾当时对制作流程的影响即可",
    "opportunity": "无",
    "risk": "无"
   },
@@ -1160,12 +1127,12 @@
     "industry",
     "ai_tools"
    ],
-   "category": "industry",
+   "category": "short_drama",
    "level": "S",
-   "why": "Sora关停，AI视频赛道洗牌，短剧出海工具链需紧急调整",
-   "action": "排查现有工作流是否依赖Sora，立即寻找替代视频生成工具",
-   "opportunity": "竞品真空期，其他AI视频工具可能推出迁移优惠",
-   "risk": "过度依赖单一AI视频平台，随时可能被关停"
+   "why": "Sora关停意味着依赖它的短剧制作流程需紧急迁移",
+   "action": "立即排查现有工作流是否依赖Sora并找替代方案",
+   "opportunity": "替代工具迁移期可能有先发红利",
+   "risk": "依赖单一AI视频平台随时可能被关停"
   },
   {
    "title": "[HN] Sora 2",
@@ -1176,12 +1143,12 @@
     "industry",
     "ai_tools"
    ],
-   "category": "industry",
-   "level": "B",
-   "why": "回顾Sora 2发布，了解其能力边界对短剧制作的参考价值",
-   "action": "复盘Sora 2功能文档，对比当前使用工具找差距",
-   "opportunity": "无",
-   "risk": "无"
+   "category": "short_drama",
+   "level": "A",
+   "why": "Sora 2发布提升视频生成质量，但后续已关停需注意",
+   "action": "查看System card了解能力和限制",
+   "opportunity": "新版本可能提升短剧画面质量",
+   "risk": "平台不稳定，不宜深度绑定"
   },
   {
    "title": "[HN] Disney making $1B investment in OpenAI, will allow characters on Sora AI",
@@ -1193,11 +1160,11 @@
     "ai_tools"
    ],
    "category": "industry",
-   "level": "B",
-   "why": "迪士尼IP入局Sora，说明AI视频版权合作模式可行",
-   "action": "关注IP授权+AI视频的商业模式，思考短剧IP合作可能",
-   "opportunity": "未来可探索与IP方合作做AI短剧",
-   "risk": "无"
+   "level": "A",
+   "why": "迪士尼IP开放给Sora，AI视频内容版权格局松动，短剧出海可能获得正版IP素材",
+   "action": "关注Sora是否开放API及IP授权范围，评估能否用于短剧制作",
+   "opportunity": "用正版IP做AI短剧，差异化竞争",
+   "risk": "IP授权可能仅限美国地区或高门槛"
   },
   {
    "title": "[HN] The Walt Disney Company and OpenAI Partner on Sora",
@@ -1209,11 +1176,11 @@
     "ai_tools"
    ],
    "category": "industry",
-   "level": "B",
-   "why": "迪士尼OpenAI合作细节，预示AI内容版权规则走向",
-   "action": "阅读合作条款，评估对短剧使用IP素材的合规影响",
-   "opportunity": "无",
-   "risk": "平台收紧IP素材使用，短剧需规避侵权"
+   "level": "A",
+   "why": "迪士尼与OpenAI正式合作，AI视频生成进入主流影视工业，工具能力将快速迭代",
+   "action": "持续跟踪Sora功能更新，测试其短剧场景生成能力",
+   "opportunity": "抢先掌握Sora做短剧的工作流，形成教程卖课",
+   "risk": "大厂入场后小玩家工具优势被抹平"
   },
   {
    "title": "[HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora",
@@ -1226,10 +1193,10 @@
    ],
    "category": "industry",
    "level": "S",
-   "why": "Sora关停致迪士尼撤资，AI视频平台稳定性成核心风险",
-   "action": "建立多平台视频生成备份方案，避免单点依赖",
+   "why": "Sora被关停、迪士尼退出，依赖Sora做短剧的团队面临工具断供风险",
+   "action": "立即排查现有短剧工作流是否依赖Sora，准备替代方案",
    "opportunity": "无",
-   "risk": "AI视频平台随时可能关停，制作管线需冗余"
+   "risk": "核心AI视频工具突然关停，内容产线中断"
   },
   {
    "title": "[新品] DragonName.ai: AI Chinese Name Generator for Natural Chinese Names",
@@ -1242,10 +1209,10 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "AI起名工具，可参考其轻量SaaS模式做垂直小工具",
-   "action": "体验产品，分析其定价和获客方式是否可复制",
-   "opportunity": "垂直AI小工具出海仍有细分空白",
-   "risk": "无"
+   "why": "AI起名工具技术门槛低，可参考其产品形态做垂直小工具",
+   "action": "研究其定价和获客方式，评估能否复制到其他细分场景",
+   "opportunity": "做海外华人/外国人起名类小工具SaaS",
+   "risk": "同类工具多，付费意愿低"
   },
   {
    "title": "[新品] FaceSeek: Spot catfish and dating scams before you get fooled",
@@ -1258,10 +1225,10 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "AI人脸搜索反诈工具，验证了AI+安全场景的付费需求",
-   "action": "研究其技术实现和变现模式，评估能否做类似插件",
-   "opportunity": "AI反诈/安全类工具市场需求明确",
-   "risk": "人脸搜索涉及隐私合规，上架可能受限"
+   "why": "AI人脸搜索反诈骗工具，验证了AI+安全类小工具有市场需求",
+   "action": "分析其技术实现和变现模式，评估能否做类似垂直工具",
+   "opportunity": "AI反诈/背景调查类工具SaaS",
+   "risk": "涉及隐私合规，法律风险高"
   },
   {
    "title": "[新品] SugarCube: Give AI images a photographic finish",
@@ -1274,10 +1241,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "AI图片后期工具，可辅助短剧封面和素材质感提升",
-   "action": "测试SugarCube处理短剧封面图，评估是否纳入工作流",
-   "opportunity": "可开发短剧专用AI后期插件卖给同行",
-   "risk": "无"
+   "why": "AI图片后期处理工具，可直接用于短剧封面/角色图优化，提升内容质感",
+   "action": "上传短剧角色图测试效果，评估是否纳入制作流程",
+   "opportunity": "批量优化短剧素材，提升点击率",
+   "risk": "免费额度有限，批量使用成本需核算"
   },
   {
    "title": "[新品] VastQR: Bulk dynamic QR codes for teams that print",
@@ -1290,25 +1257,9 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "批量动态二维码工具，与短剧/知识付费场景关联弱",
-   "action": "了解即可，暂不投入时间测试",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "[新品] Dinner Letter: Dinner plans for your family. Just reply to an email.",
-   "link": "https://www.producthunt.com/products/dinner-letter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Tell Dinner Letter what your family likes, how many you're feeding, and how much time you have. Each week, it emails dinner options. Reply with your picks or changes, and it sends recipes and one groc",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "家庭晚餐规划工具，与三大业务板块无关",
-   "action": "跳过，不占用注意力",
-   "opportunity": "无",
+   "why": "批量动态二维码工具，可用于线下课物料和短剧推广引流",
+   "action": "评估线下课宣传物料是否需要批量二维码追踪效果",
+   "opportunity": "线下课物料+扫码追踪转化数据",
    "risk": "无"
   },
   {
@@ -1322,26 +1273,10 @@
    ],
    "category": "other",
    "level": "B",
-   "why": "编程面试可视化工具，与AI内容出海无直接关联",
-   "action": "跳过，不纳入评估",
+   "why": "编程面试可视化工具，与当前业务关联度低",
+   "action": "了解即可，无需行动",
    "opportunity": "无",
    "risk": "无"
-  },
-  {
-   "title": "[新品] VLTRON: Build, run, and access powerful AI through one platform",
-   "link": "https://www.producthunt.com/products/vltron?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "VLTRON is an AI platform bringing models, APIs, developer tools, and AI applications into one ecosystem. It is built for people who want more control over how they use and build with AI from accessing",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "ai_tools",
-   "level": "A",
-   "why": "聚合多模型的AI平台，可能降低短剧AI制作工具链成本",
-   "action": "注册VLTRON测试其模型API是否适配短剧生成流程",
-   "opportunity": "整合多模型降低AI制作成本",
-   "risk": "平台锁定风险，迁移成本高"
   },
   {
    "title": "[新品] Clixad: Free AI coding agent for your terminal, no subscription",
@@ -1354,10 +1289,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "免费终端AI编程助手，可加速开发插件/SaaS工具",
-   "action": "下载Clixad测试，评估能否替代付费编程助手",
-   "opportunity": "零成本开发AI插件上架变现",
-   "risk": "免费额度有限，重度使用需做问卷换积分"
+   "why": "免费AI编程工具，可降开发成本",
+   "action": "下载测试Clixad，评估替代付费工具",
+   "opportunity": "用免费工具开发插件降本",
+   "risk": "免费额度有限，可能不稳定"
   },
   {
    "title": "[新品] Free Social Media Video Downloader: Download videos from TikTok, IG, YouTube & X, free",
@@ -1370,10 +1305,26 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "免费下载TikTok/IG/YouTube视频，可做竞品爆款拆解",
-   "action": "用该工具批量下载TikTok爆款短剧做题材分析",
-   "opportunity": "拆解爆款题材反哺自产短剧",
-   "risk": "下载内容版权风险，仅限内部研究"
+   "why": "免费下载竞品视频，便于选题分析",
+   "action": "用该工具下载爆款短剧，分析题材",
+   "opportunity": "批量采集素材做二次创作",
+   "risk": "版权风险，勿直接搬运"
+  },
+  {
+   "title": "[新品] Record10: P2P video streaming torrent client that plays instantly.",
+   "link": "https://www.producthunt.com/products/record10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "A modern, lightweight torrent client with built-in video streaming. Download torrents, stream video while downloading, track watch progress, and manage files — all from one sleek app. Available on mac",
+   "source": "Product Hunt",
+   "biz_tags": [
+    "ai_tools",
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "与核心业务关联弱，仅技术参考",
+   "action": "了解即可，无需投入时间",
+   "opportunity": "无",
+   "risk": "无"
   }
  ]
 }
