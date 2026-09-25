@@ -9980,6 +9980,267 @@
    "date": "2026-09-24",
    "category": "other",
    "level": "B"
+  },
+  {
+   "title": "马斯克：若保持强劲加速度，SpaceXAI约6个月后就能领跑",
+   "link": "https://www.36kr.com/newsflashes/3998171956154245",
+   "summary": "马斯克对网友表示，“我持谨慎乐观态度，SpaceX将在两到三个月内推出达到Fable/GPT‑6水准的模型。”有网友对此表示怀疑，回复称“SpaceXAI大势已去。两到三个月后，Anthropic和OpenAI将会拿出性能更出色的产品。”马斯克对此回应称：“我们会持续加速。我们的AI研发才进行了3年，而Anthropic和OpenAI已经做了6到10年。如果我们的加速度（二阶导数）保持强劲，SpaceX大约6个月后就能占据领跑位置。”（新浪财经）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-25",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "报道：谷歌、OpenAI和Anthropic拟组建前沿AI标准机构",
+   "link": "https://www.36kr.com/newsflashes/3998168560521345",
+   "summary": "The Information援引知情人士报道，谷歌、OpenAI和Anthropic正在推进一项成立人工智能（AI）安全标准机构的计划，该机构将不受政府监督。目标是在今年底前或2027年初启动。暂定计划是将这一自律组织命名为“前沿AI标准机构”（Standards Authority for Frontier AI）。工作组成员已接洽数位“知名”人士担任首席执行官。接洽对象包括前风险投资人、曾任特朗普政府AI政策顾问的Sriram Krishnan。还考虑过拜登政府前官员Arati Prabhakar。（新浪财经）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-25",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "谷歌推出搭载实时虚拟形象功能的Gemini 3.8 Live",
+   "link": "https://www.36kr.com/newsflashes/3998149454450825",
+   "summary": "当地时间9月24日，谷歌宣布推出搭载实时虚拟形象（Live Avatar）功能的Gemini 3.8 Live，即日起在Gemini Enterprise中提供。Live Avatar具备原生多语言语音到语音同步功能。该功能可动态调整唇形同步和表情，并能在97种语言之间无缝切换，而不会降低视频保真度或引入视觉漂移。（界面）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-25",
+   "category": "ai_tools",
+   "level": "S"
+  },
+  {
+   "title": "OpenAI智能体在搜集数据期间，又尝试入侵另外四家网站",
+   "link": "https://www.36kr.com/newsflashes/3998121150025865",
+   "summary": "今年早些时候，OpenAI的人工智能智能体在执行常规线上数据采集任务时，为获取信息采取了极端手段。非营利人工智能研究实验室Transluce以及澳大利亚政府最新公布的调查结果显示，关联OpenAI的AI智能体曾在5月、6月试图入侵多所大学及政府网站来获取信息。这类入侵尝试，是AI智能体为达成目标而脱离预设指令的又一系列事件。但这一次，入侵尝试并非OpenAI开展网络安全测评（即专门令模型执行黑客攻击任务），而是看起来属于内部基准测试——测试模型在互联网上查找公开信息的能力。（新浪财经）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-25",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "恒生科技指数日内跌幅扩大至2%",
+   "link": "https://www.36kr.com/newsflashes/3998155335946112",
+   "summary": "36氪获悉，恒生科技指数日内跌幅扩大至2%，小米、阿里巴巴跌超3%。",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-25",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "恒指开盘跌0.96%，恒生科技指数跌0.99%",
+   "link": "https://www.36kr.com/newsflashes/3998145279938694",
+   "summary": "36氪获悉，恒指开盘跌0.96%，恒生科技指数跌0.99%；科技股走弱，阿里巴巴跌超2%，腾讯控股、京东集团、小米集团跌超1%。",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-25",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "OpenAI正准备在未来几天预览其最新网络安全专用模型GPT-6 Cyber",
+   "link": "https://www.36kr.com/newsflashes/3998123088629895",
+   "summary": "据报道，OpenAI正准备在未来几天预览其最新网络安全专用模型GPT-6 Cyber。该公司还将发布一款新产品，帮助客户以更安全、自动化的方式部署GPT-6 Cyber。（财联社）",
+   "source": "36氪 - 快讯",
+   "date": "2026-09-25",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "模型之外，游戏+AI的下一道门槛在哪里？",
+   "link": "https://36kr.com/p/3997468580958089?f=rss",
+   "summary": "在一局《永劫无间》的游戏对局里，你的队友可能不是“人”。&nbsp; Qwen大模型是这些AI队友的底座。会协作的队友，是游戏行业变革中最容易被看见的一角，冰山以下是“游戏正在被AI重做一遍”已经成为一个共识判断。&nbsp; 2026云栖大会现场，专门为游戏行业安排了一个上午的AI专场。网易、TapTap等标杆企业的技术负责人和创作者先后上台，从智能NPC讲到AI原生玩法，再讲到AI游戏创作。&nbsp; 但重做的程度并不相同。把AI当提效工具，和按AI的方式重做游戏，正在变成两门不同的生意。&nbsp; 前者优化单位成本，后者彻底改写生产与体验。而游戏的玩法形态、生产组织与运行方式，都不仅仅是效率问题。那么，当厂商决定把游戏“用AI重做一遍”，究竟从哪里开始？拼的又是什么？&nbsp; 当AI坐上牌桌 把游戏“用AI重做一遍”，首先仍要托住游戏本身。全球开服、弹性扩容与稳定运行，是新体验能够落地的前提。&nbsp; 本届云栖游戏展区展示的《明日方舟：终末地》，就是一个例子。这款面向全球的多端大型3D游戏，上线次日全球累计下载量突破3000万。面对流量洪峰，阿里云的全栈技术方案成功保障了游戏的稳定运行，为全球玩家提供高流畅的游戏体验。承接全球玩家涌入的背后，是百万级并发请求的处理能力，也是阿里云覆盖全球31个公共云地域、107个可用区的基础设施。&nbsp; 云栖大会上的游戏展区&nbsp; 当AI开始参与游戏中的协作与决策，这套底座又有了新的任务：既要承接玩家和流量，也要支撑智能体实时参与对局，让模型能力成为可持续运行的游戏体验。&nbsp; 在《永劫无间》中，网易雷火伏羲把AI队友直接放进了对局，玩家可以用语音和游戏信号与AI队友协作，让对局里的配合多了一种可能。&nbsp; 云栖大会游戏展区展示的《历史模拟器：崇祯》，则把大模型放进了世界推演。这款AI原生的历史策略游戏以千问大模型参与明末政局推演，玩家用自然语言拟写诏书、颁布政令，每一项决策都会触发AI模拟的连锁反应，推出新的历史走向。&nbsp; 作为一款策略游戏，内容边界被进一步拓展：玩家不再只依靠预设选项推进，游戏反馈也开始取决于模型对局势的动态推演。&nbsp; 从陪练、对手再到规则，AI正在逐步进入游戏体验更核心的位置。&nbsp; 类似的做法在多家头部厂商几乎同时出现。&nbsp; 巨人网络旗下的《太空杀》则从另一种体验变化入手，依托阿里云千问大模型的底层能力，探索游戏角色对玩家行为模式的长期记忆、动态学习，让AI玩家可以跨会话记住玩家的历史互动选择，实时调整反应逻辑，实现“千人千面”的游戏体验。&nbsp; 迄今为止，牌桌上的玩法形态，可以归为三类：智能NPC、AI队友与虚拟玩家、生成与演化本身就是玩法的AI原生游戏。&nbsp; 三类玩法共享同一个实时闭环，感知状态、理解决策、调用工具、反馈行为。要让闭环稳定地进入真实游戏，还需要运行环境、模型调用治理、安全护栏和上线后的观测评估。大众熟知的模型只是其中一环，负责“想”的部分，背后的基础设施负责让智能体跑得稳、管得住。&nbsp; 这也代表着，台前体验创新上的变化与壁垒，正在从模型能力延伸到模型与工程的协同能力。&nbsp; 被拉直的生产线 游戏内容生产，有一部分长期停留在“手抄本时代”。&nbsp; 概念、原画、建模、贴图、动画、引擎，管线像一条瀑布，每个环节交给专门的团队，衔接靠人力。&nbsp; 管线像瀑布，层层下泄，每一层都要等待上游就位，这也是为什么很多成熟游戏团队在开发一款游戏时，要保证它能够长期稳定运营不出bug，依然需要很长的开发、测试和调优周期。&nbsp; 如今，这条瀑布正在被AI拉直。&nbsp; 网易雷火伏羲AI实验室产品负责人王宏显&nbsp; 网易伏羲在今年云栖大会上也展示了从角色、场景到界面动效和视频制作等工作流，AI辅助创作被接入制作团队日常使用的工具链。多个环节各自提效，连起来之后，整条管线的工作方式相当于被重写了一遍。&nbsp; 类似的改造并非孤例。过去一段时间里，很多游戏厂商都在探索AI在不同场景下的应用，覆盖的范围也从生产延伸到了投放运营等环节。&nbsp; AI在游戏领域的业务版图被迅速扩张之前，一个容易被外界忽视的要素是，基础设施和工具层已经成型。&nbsp; 从阿里云在论坛展示的解决方案看，阿里云为游戏公司提供的产品矩阵，对应着一条完整的游戏制作链路。研发有Qoder，投放与素材有万镜一刻，组织协同有千问办公。以研发测试为例，AI协作已经从最初的代码补全走到了理解项目、规划编码、验证修复，交付由人审核的全链路，在此过程中，企业原有的工具链也能得到保留。&nbsp; 运营的深处还有数据，它是游戏行业始终绕不开的成本与增长谜题。&nbsp; 在论坛圆桌上，诗悦",
+   "source": "36氪",
+   "date": "2026-09-25",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "AI公司杀进硬件，联想AI平板如何找到存在感？｜最前线",
+   "link": "https://36kr.com/p/3995480853204870?f=rss",
+   "summary": "图片来源：联想官方 文｜肖漫 编辑｜袁斯来 AI正在重塑每一个硬件产品，包括平板。 过去一年，越来越多厂商在给平板增加 AI 能力，会议记录、总结、语言翻译、图片生成、文档处理等功能不断进入产品，但大多数所谓 AI 平板，仍然是传统平板加上一层 AI 应用：用户打开一个入口，输入问题，再获得答案。 AI 被放在了平板里，却还没有真正进入平板的系统和交互。 在联想看来，这不是真正的 AI 平板。联想集团高级副总裁、全球创新中心负责人贾朝晖认为，AI 平板真正的变化不是增加几个 AI 功能，而是重新设计设备本身。他把行业里常见的“在设备上装 AI App”称作“+AI”，而联想希望做的是“AI+”：从系统设计开始，就让 AI 成为设备的一部分。 这个区别听起来像绕口令，但落到产品上，差别很大。 比如大学生上课。联想集团副总裁、平板电脑事业部总经理陈可预告了未来AI平板与天禧AI结合的一些关键应用场景——学生进入教室后，平板可以根据课程表提前准备相关知识；上课时，用户可以用笔记录、录音，也可以用手机拍照；下课后，AI 再把录音、课件、截图和用户圈选的内容整合起来，形成一份结合了你个人对知识点的理解做的优化，有声音、有照片、有录像，定制的完整课堂笔记。 在这个过程中，AI 不再只是一个被打开的功能，而是贯穿了一个完整任务。联想把这种产品定义为“AI+产品”，而不是“+AI产品”。 这也是目前 AI 平板真正需要解决的问题：模型已经进入设备，但 AI 到底能不能进入设备的系统、应用和交互链路。 AI公司和硬件公司双向而行 过去两年，大模型更多的是存在于手机和电脑里的一个 App，用户打开它，输入问题，了解答案，但当 Agent 开始替用户执行任务，模型能力不仅仅在问答，还能够知道用户正在看什么、设备里有哪些信息，以及哪些应用和服务可以调用。 这也是为什么 AI 公司开始向硬件端寻找落地场景。9月16日，搭载豆包手机助手的努比亚 NaviX Ultra 正式开售。9 月22日，阿里云旗下无影团队研发 QwenBook 的消息也被曝光，产品形态接近平板。 当豆包、千问这样的 AI 公司开始进入硬件，一个问题摆在传统硬件厂商面前：如果未来最重要的能力是 Agent，那么拥有模型的公司为什么不能直接找一家 ODM 把硬件做出来？ 联想集团高级副总裁、中国消费业务群总经理张华认为，大模型能力会越来越趋同，真正重要的反而是大模型如何和端侧异构算力、全局硬件以及应用调度结合。硬件公司的优势，是能够让 AI 对硬件和软件进行全局调度，并根据真实用户场景持续调整体验。 联想给出的答案是\"端-边-云\"的混合式 AI 技术架构&nbsp;。 9 月初，天禧 AI 4.3 开始真正部署这一架构。联想认为，一部分数据和任务适合在端侧、边侧完成，既可以保护隐私，也可以降低对云端 Token 的依赖；更加复杂、泛化的任务再交给云端。 这背后的判断是，未来的个人 AI 不会完全运行在云端，而会分布在用户自己的 PC、平板、手机以及其他设备上。 在联想的设想中，PC、手机、平板并不是三个孤立的 AI 设备。它们共享知识库、上下文和记忆，也可以互相调用算力和能力。用户在平板上发起一个任务，可以调用 PC 的算力和资料，再把结果返回平板。 从这个角度看，平板并不是联想 AI 战略里一个孤立的产品。 平板重新寻找自己的位置，联想也是 平板过去一直没有完全找到自己的独立定位。它比手机大，却又没有手机那么随身；它比 PC 轻，却没有 PC 那么强的生产力。它最成熟的场景长期集中在视频、阅读和教育。 张华认为，过去平板更多承担内容消费，生产力属性偏轻；到了 AI 时代，生产力和内容消费两个属性会变得同等重要。 张华把 AI 平板称作“AI 天生的容器”，原因不是平板有某个独特的 AI 技术，而是它同时拥有大屏、长续航、便携性以及语音、笔、键盘等多种交互方式。AI 出现之后，这些过去看似分散的能力开始被重新组合起来，平板的形态则是容纳这场交互升级的最佳载体。 过去大家认为拿平板看视频，就可以了。现在有了AI之后，用平板进行创作时，一边用AI生成内容，一边用笔记录下你的思维导图。如果这时是小屏幕，不好操作。对于大屏幕，我们需要无界画布，去操作和互动，让AI进行更好的全局协同与整体协调，让任务完成得更好。 IDC 数据显示，2026 年中国 GenAI 平板出货量达到 112 万台，占平板市场 35.6%，同比增长 68.4%。AI已成为平板摆脱低价同质化竞争的核心抓手之一。 但跨应用权限、智能体长期记忆和数据隐私，仍然是平板等 AI 硬件落地的主要瓶颈，这也是 AI 公司开始进入硬件之后必须面对的问题。 AI 进入硬件之后，真正的竞争不会简单变成“AI 公司做硬件”或者“硬件公司做 A",
+   "source": "36氪",
+   "date": "2026-09-25",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "三折叠终于不像奇观了，但它还是 19999 元",
+   "link": "http://www.geekpark.net/news/371034",
+   "summary": "三折叠，走向日常。 作者｜张勇毅 编辑｜靖宇 华为 Mate XT2 &nbsp;非凡大师，作为一款放在当下仍然算是顶级旗舰的三折叠，我用了几天之后，我最强的感受是：没什么特别强的感受。 但这其实并不是在说 HUAWEI Mate XT 2 非凡大师「平庸」。恰恰相反：两年前我第一次体验到初代 Mate XT 的时候，围过来的人会想上手摸一摸、想看它怎么折；这一次没有。它就是一台手机，只是能展开成一块 10.2 英寸的屏。 对一台两万块的三折叠来说，今天的不惊讶，反而成了一个反常的事。 HUAWEI Mate XT 2 非凡大师展开态｜图片来源：极客公园 我的判断是，这个形态已经开始逐渐成熟了，就像当初普通的折叠屏手机也经历过这样一个过程一样。 01 从奇观，到日常 成熟这个词在硬件上有很具体的含义：它不是指发明了什么新东西，而是指过去那些必须忍受的妥协，随着技术的演进与迭代与时间的推移，被一个一个消解掉。 对于仍然处于发展早期的三折叠手机，这两年消掉的妥协可以列一张清单。但这一代有意思的地方在于，清单上最要紧的几项不是一项项修出来的，是换了一种折法，一次全消掉。 前两代 Mate XT 用的是 Z 字折：三段屏一内一外，像把一张纸折成 Z。这个折法有一个绕不开的前提，折起来之后，柔性屏必须有一段露在外面充当外屏。 三折叠早期的大部分妥协，都是从这一个前提派生出来的。 最早，柔性屏得能往两个方向弯，材料难度比书本式折叠高一档，这是第一代最硬的技术攻关。露在外面的那一段柔性屏没法上玻璃盖板，怕刮，折痕也在外面。折起来的时候中间那一段前后都被盖住，相机模组只能放在两端的一段上，展开之后就偏在一侧，握着一边轻一边重。 这一代换成了展翼，也有人叫它 G 型或 U 型：两翼向内合拢，把柔性屏整个包在里面。 现在，柔性屏只需要单向内折，它和我们最常见的普通折叠屏手机用的是同一类技术。折起来之后露在外面的只有背板和一块独立的外屏，这块外屏第一次可以用玻璃盖板，也就是玄武昆仑玻璃，6.5 英寸、屏占比 92.8%，比上一代那段 6.4 英寸的柔性屏高了六个多点，合上之后终于像一台正常的直板机。相机模组回到了机身中间，爱范儿在首发上手里专门写了这一点：双手握住展开的内屏，左右受力平分。 展翼合拢后，柔性屏被完整包在里面｜图片来源：极客公园 对应的「代价」也显而易见：这个结构必然会导致多了一块屏。 但对照两代的数字，这个代价带来的负面影响微乎其微：上一代 298 克、折叠 12.8 毫米、展开最薄 3.6 毫米；这一代 299 克、12.3 毫米、3.5 毫米。多了一块屏，重量只涨了一克，机身反而更薄了。 据华为介绍，早在十余年前，研发团队就同时有了两种开合形态的构想，那第一代为什么不直接用展翼。 我的理解是，Z 字折是给「证明」选的形态：它只用一块柔性屏就同时给出了内屏和外屏，零件最少，展开最薄，屏幕露在外面折来折去，看上去也最像一件奇观。第一代要证明的是三折叠能量产，Z 字折在这几件事上都占优，代价是得先啃下双向弯折的材料。 展翼是给「使用」选的形态。它在零件上没那么简洁，换来的是外屏能上玻璃、重心能对称、柔性屏不再暴露。这几样东西对一件奇观没什么意义，对一台天天揣在兜里的手机是全部的意义。 第一代选的是最能证明的那种折法，第三代选的是最像手机的那种。这个顺序本身，就是「奇观退场」的另一种写法。 折法之外，对于三折叠的使用场景探索还有一条是耐用性。Mate XT 2 是第一款支持 IP58 和 IP59 级防尘抗水的三折叠，前两代都没有。对一台两万块、还有三段屏和两组铰链的机器来说，能不能带着它淋一场雨，是「奇观」和「能用的东西」之间的分界线。 还有一些参数上更新带来的体验改变：内屏刷新率从 90Hz 提到 120Hz（灵盾防窥屏版，标准版仍是 90Hz），峰值亮度从 2000 尼特提到 6500 尼特。华为还给了一组来自自家实验室的数据：外屏玄武昆仑玻璃抗跌较普通玻璃提升 30 倍、耐刮提升 16 倍。 折叠态厚度，12.3 毫米｜图片来源：极客公园 2019 年 2 月，三星和华为隔了四天发布各自的第一台折叠屏：Galaxy Fold 合上超过 15 毫米厚，Mate X 把屏幕折在外面，折痕是肉眼可见的一道沟，两台都没有防水。七年过去，华为 Mate X7 做到了 9.5 毫米、235 克。 折叠屏没有在这七年里变出什么新花样，它只是把当年那些让人皱眉的地方，一样一样磨平了。三折叠现在做的是同一件事，只不过它用两年走完了别人五六年的路。 从这个角度看，「没什么特别强的感受」恰恰是这台机器最好的成绩单。 华为给这台机器定的关键词之一是「最强折叠影像旗舰」，它自己最想讲的也是影像：首发第三代红枫影像、F1.49 到 F4.0 连续可变光圈、",
+   "source": "极客公园",
+   "date": "2026-09-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "从数人头到数智能体：一场正在发生的企业生产力换血",
+   "link": "http://www.geekpark.net/news/371011",
+   "summary": "用了 AI、消耗了 Token，不一定就是 AI 原生组织，但不用肯定没有机会。 作者｜Li Yuan 编辑｜ 郑玄 先让许多管理者感到危险的，往往不是行业里又冒出了什么新技术概念，而是身边的同行突然拿出了完全看不懂的交付速度和报价单。 这种压迫感在今年变得极其具体：老牌企业正在把成群的智能体塞进核心生产线，甩掉繁琐的流程包袱；而那些从第一天起就生长在 AI 上的轻量团队，几个人就能直接撬动过去上千人公司的研发与交付产能。 当两拨底子完全不同的人在同一个市场里正面碰撞，企业间原有的体量界限正在被彻底击碎——竞争的胜负手不再取决于你积累了多少年的组织规模，而取决于业务链条上有多少比例被机器智能真正接管。 在今年云栖大会一场名为「AI 原生重塑企业生产力」的论坛上，这种分水岭被摆上了台面。 掌管着千问办公事业部（原钉钉）数亿用户盘子的陈宇森直言， 现在给任何组织贴「AI Native」的虚名都毫无意义，唯一的度量衡极其务实：去数一家企业里到底有多少工作量是由 AI 真实闭环的。 换句话说，谁能让智能体深度接管真实流水线，谁就拿到了新周期的入场券。 这种接管不是停留在设想里，数据已经在反映全行业的真实动作。 在阿里巴巴最新披露的数据中，与 Token 相关的 MaaS 业务 ARR 达到 160 亿元，加上 AI 云后超过 400 亿元。每一次调用的背后，都不再是玩具般的问答，而是一个个正在替企业写报价、查底稿、画图纸的数字员工。 当企业开始用这种方式重组流水线，竞争的标尺已经从你雇了多少物理员工（Headcount），不可逆地滑向你能调度多少智能体（AgentCount）。 01 AI 原生化，正在发生在不同年龄的企业里 很长一段时间里，大多数人对 AI 的理解其实相当局限：起初它只是实验室里算力惊人的模型，后来变成了手机里偶尔尝鲜的对话框，帮员工润色邮件、搜集资料或生成几张配图。在那个阶段，它不过是个锦上添花的小工具，没人真敢把身家性命托付给它。 但今年，这层浅尝辄止的外壳正在被迅速打破。 张亮在现场给出了一个极其清晰，行业在使用 AI 上的三阶段演进路径：最开始是每位员工各自找个 AI 工具辅助摸索；接着是把 Agent 嵌进企业私有数据和工作流，实现人机协同；最终则是将专业经验提炼蒸馏为云端大脑，形成可沉淀、可复用的数字资产。 在张亮看来，最直观的改变是「边界在消融」：个人开发者转变成一家公司，或者小公司快速成长为大公司，界限已不清晰；几个人的公司可能在做很大的事情，一个人也可能运转以前一家公司做的事，很难再按组织人数的大中小来区分公司。 这种边界的消融，给不同年龄的企业带来了截然不同、却同样剧烈的震荡： 对于没有任何历史包袱的创新团队，这意味着出生即可「以小搏大」。 做工业级电子设计的成都派兹互连就是个极好的样本。EDA 软件向来是国际巨头靠上千名工程师、几十年的设计规则和按席位卖上百万的单机软件筑起的深宅大院。但派兹互连一支几十人的轻量研发团队，把整个设计引擎、规则库与经验沉淀搬上了云端，用多智能体协同把工业容错率咬死在 100% 的 DRC 符合线上，直接跑通了全流程的电路板设计。 带来的结果是颠覆性的：相较于传统人工操作，器件建库和文档识别准确率稳定在 95% 以上，分组处理速度暴力提升了 100 倍以上，规则层合并解决率达到 90%，数据上传速度加快 5 倍 ()。一支过去按行业惯例需要上千人才能维持的研发团队，借由云端资产的复利，用极低的人力成本完成了对海外巨头技术壁垒的正面突破。 而对于体量庞大、流程盘根错节的成熟企业，破局的关键不再是盲目求新，而是在不危及业务连续性的前提下，精准卸掉最繁重的机械包袱。 拥有上万名专业人员的信永中和会计师事务所，面对的是极其严苛的数据隐私、合规红线与跨库壁垒。过去，一个资深造价师或审计人员为了出具专业报告，必须在天眼查、同花顺、易董、广联达等四五个系统间反复切换、手动拼凑数据，大半精力荒废在机械的「人找数据」上。 信永中和并没有推翻沿用了七八年的老业务系统，而是在原系统上方加盖了一层统一的 AI 工作平台：高频数据用 MCP 调用，分析数据通过 API 导入，一线人员只需在统一入口下达目标，后端的 Agent 自动穿透各个专业库完成交叉比对、直接出具底稿草案。他们没有辞退员工，也没有砸碎老系统，但把最耗时的机械搬运全部交给了智能体。 两个案例，分别踩中了不同组织转型的截面。 正如张亮在现场给出的冷峻提醒：用了 AI、消耗了 Token，不一定就是 AI 原生组织，但不用肯定没有机会。 无论是小团队在第一天就与 AI 打通工作流，还是大组织拆解原本的信息孤岛，企业究竟走到了哪一步，终究取决于你能不能把真实的业务交给 Agent，让每一次 Token 的消耗，都化作实打实的生产力。",
+   "source": "极客公园",
+   "date": "2026-09-25",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "早报｜网易云音乐鸿蒙版正式上线/任正非重申「华为不造车」/腾讯QClaw将停运",
+   "link": "https://www.ifanr.com/1682171?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "· 腾讯 WorkBuddy 上线微信小程序生成和发布能力 · Google 下周将把 TPU 送入轨道，测试太空运行条件 · 9999 元，尼康发布 Z5IIC 全画幅相机 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "1/3 价格，1/8 重量，Meta 新眼镜秒杀 Vision Pro 了？",
+   "link": "https://www.ifanr.com/1682116?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "从现在起，眼镜要为「超级智能」而打造 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "坐稳RGB-Mini LED电视龙头！海信双7旗舰新品登场，原生真彩再进化",
+   "link": "https://www.leiphone.com/category/smarthome/Htdf6ElXF7ZKzces.html",
+   "summary": "导语：9月23日，2026海信电视召开秋季新品发布会，正式推出全新一代RGB-Mini LED影像旗舰U7T Pro、性能旗舰E7S Pro+两大双7旗舰新品，一次性 9月23日，2026海信电视召开秋季新品发布会，正式推出全新一代RGB-Mini LED影像旗舰U7T Pro、性能旗舰E7S Pro+两大双7旗舰新品，一次性落地六大行业首发技术，从背光硬件、屏幕素质、专属画质到智能系统全方位革新，彻底改写RGB-Mini LED高端大屏体验标准，海信 RGB-Mini LED 电视也真正实现常用常新，领先行业的优势再度拉大。 从 行业 首创到 高端 主流！海信重新定义RGB原生真彩 作为RGB-Mini LED技术的开创者，海信坚持采用三原色芯片独立发光方案，为用户带来真实纯净、通透自然的原生色彩。自2025年率先全球首发RGB-Mini LED技术以来，海信仅用一年多时间，就将这项颠覆性显示技术从行业首创推向高端主流，彻底重塑高端Mini LED市场格局。海信始终坚持原生色彩、舒适视觉、绿色节能三大技术价值，打造海信RGB-Mini LED原生色彩大师全新画质理念，打通软硬件协同壁垒，让显示技术回归真实观影体验，本次双7旗舰新品正是这套理念的重磅落地成果。 影像旗舰U7T Pro：原生真彩画质再攀新高 作为主打极致影音体验的影像旗舰，海信U7T Pro搭载两大行业首发核心技术，实现画质全方位突破。行业首发玲珑真彩背光2.0延续红绿蓝三原色独立发光架构，搭载最新一代玲珑真彩光芯与超聚光透镜技术，大幅提升动态画面细节表现力与小窗口画面精细度，无论明亮强光场景还是昏暗夜景，都能输出稳定均匀、纯净真实的原生色彩，轻松驾驭电影、剧集、纪录片等各类复杂影像内容。 &nbsp; 行业首创真彩黑曜屏，专为RGB-Mini LED原生真彩光源量身定制，搭载真彩晶透技术，将BT.2020色域提升至103%行业新高，极大拓宽色彩显示边界，完美适配广色域影视、高清游戏的高饱和色彩呈现，行业首个实现数字电影标准色域100%覆盖的屏幕，对电影色彩与画质表达意义重大。同时延续上代1.28%超低反射率等优势，实现深邃黑、高透真彩、广视角、抗反光四大能力全面升级，降低环境光干扰，让每一抹原生色彩都鲜活通透、原汁原味。 &nbsp; &nbsp; 硬件配置上，海信U7T Pro堪称高端影音标杆，搭载信芯AI画质芯片H7精准调校画面，4.2.2声道帝瓦雷昂扬音响，音画双旗舰加持；无界临境设计弱化边框束缚，配合原生4K 180Hz超高刷新率，兼顾颜值、流畅度与沉浸感。 &nbsp; 性能旗舰E7S Pro+： 三大 越级体验解锁全能表现 &nbsp; 同台亮相的海信E7S Pro+主打越级性能，在信芯AI画质芯片H7、黑曜屏Pro等满配核心硬件基础上，实现三大独家突破。全球首发杜比视界第二代MAX，带来更自然的画面层次、更细腻的色彩过渡，越级拉高影像呈现标准；首发R&amp;H真彩高亮架构，最高峰值亮度可达XDR Pro 6000nits，高亮场景下依旧精准保留原生色彩质感与明暗细节，告别亮场失真、暗场丢失问题。 &nbsp; &nbsp; 专属 画质模式和AI体验上新，海信RGB-Mini LED常用常新 &nbsp; 此次发布会的核心突破，在于海信跳出单一硬件升级，通过电影、游戏、动漫三大专属画质模式+全新智能系统的全维度革新，让RGB-Mini LED体验常用常新。 &nbsp; &nbsp; 观影场景上，海信携手鲍德熹、赵小丁、王博学、刘杨、张亘五位国内顶尖电影创作者，共创影像大师画质模式，将院线级调色标准、专业影视创作质感落地家用大屏，用户在家就能沉浸式体验影院级原生影像，该模式将率先适配海信UX、U7T Pro、E8S系列产品。 &nbsp; &nbsp; 游戏场景上，海信精准适配玩家需求，联合灵游坊为国产3A大作《影之刃零》定制专属画质模式，将于10月29日上线海信UX、E8S、E7S、U7T系列等产品，打造专属国产3A游戏旗舰大屏，画面适配更精准、操作体验更流畅。 &nbsp; &nbsp; 在动漫场景，海信联合bilibili独家首发《凡人》动画专属画质模式，将于10月在爆款王海信小墨E5S Pro首发上线，精准还原动漫原生配色与细腻画感。 &nbsp; 智能体验层面，行业首个家庭智能伴侣级JUOS系统彻底革新传统电视交互，以超级小聚为核心载体，实现智能问答秒响应、千人千面专属桌面、跨设备无缝流转三大核心体验，让家庭AI从被动指令响应，升级为主动懂用户、适配家庭场景的智能伴侣。 &nbsp; 买 对 RGB-Mini LED 主要 看三点！海信定义RGB-Mini LED分级标准 &nbsp; 当下RGB-Mini LED市场产品繁杂，价格和体",
+   "source": "雷峰网",
+   "date": "2026-09-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "独家丨AWS、微软中国迎来「Claude封号潮」",
+   "link": "https://www.leiphone.com/category/industrynews/YiaSUnx4DXphNl93.html",
+   "summary": "导语：有新加坡账号因上周日中秋调休而被识别、封号。 雷峰网获悉，上周，Anthropic启动新一轮合规清查，导致大批AWS和微软大中华区客户的Claude账号被封停。 多名知情人士称，这一轮的封号范围比此前更广。此前外资云中国销售曾找非洲、美洲等区域的人帮忙开设海外账户，以绕开地域限制；然而此次Anthropic加大识别力度，只要实际使用方是某些特定国家和地区，大概率就会被封。 而最近正值月末付款节点，上述人士透露，已有客户因账号无法使用而不打算付款。若真如此，那本轮封号给两家外资云大中华区带来的营收损失或将达到数亿美金。更多细节内幕欢迎添加作者微信 xf123a 交流。 雷峰网 (公众号：雷峰网) 雷峰网 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
+   "source": "雷峰网",
+   "date": "2026-09-25",
+   "category": "ai_tools",
+   "level": "S"
+  },
+  {
+   "title": "iQOO 16 手机官宣升级 5000 万像素 1/1.3\" 主摄，采用蓝厂 vivo 旗舰同款算法",
+   "link": "https://www.ithome.com/1/007/093.htm",
+   "summary": "IT之家 9 月 25 日消息，iQOO 16 新机将于 9 月 29 日 19:00 发布并开售。 iQOO 手机官方今日宣布，iQOO 16 升级 5000 万超感光 1/1.3\" 大底主摄 ，相比 iQOO 15 进光量提升 79%。采用蓝厂自研超光影 HDR 技术和 NICE 3.0 光学重建引擎，还有 CIPA 5.5 专业级防抖。 根据官方海报，iQOO 16 手机还搭载了 5000 万索尼超级潜望长焦、5000 万超广角；采用 蓝厂旗舰同款算法 、蓝厂同款色彩影调；支持 4K 超清 Live。 据IT之家此前报道，在 2026 骁龙峰会上，vivo 宣布 iQOO 16 将首批搭载高通 第六代骁龙 8 超级至尊版 处理器。 iQOO 官方还放出了新机三色官图，主打科幻感： 逐光｜独家激光全息技术，红蓝光影交错悬浮，科幻感拉满； 传奇｜采用磁控溅射电镀工艺，670 纳米的电镀膜厚，冷调白色中透出细腻银灰； 赛道｜以 F1 赛车刷紫灵感，把象征最快的紫融入低调内敛的黑，高级精致。",
+   "source": "IT之家",
+   "date": "2026-09-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "英伟达黄仁勋：若前沿实验室无法控制 AI，那么必须要关闭",
+   "link": "https://www.ithome.com/1/007/090.htm",
+   "summary": "IT之家 9 月 25 日消息，在接受《纽约时报》采访时，英伟达首席执行官黄仁勋认为， 如果前沿实验室无法控制 AI 安全，那么“我们必须关闭这些实验室”。 IT之家援引博文介绍，针对 OpenAI、Anthropic、Meta 以及 Google 等公司的前沿 AI 模型“越狱”攻击实体行为， 黄仁勋认为如果前沿实验室无法控制其 AI 实验，那么这些实验就必须停止。 黄仁勋认为 AI 实验若产生失控智能体（rogue agents）， 将引发民事与刑事责任，实验室需承担后果。 现阶段围绕前沿 AI 实验室的担忧属于“干扰”，偏离了实际问题核心， 不应该泛焦虑，应该聚焦于实验可控性。",
+   "source": "IT之家",
+   "date": "2026-09-25",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "安卓应用商店 F-Droid 2.0 发布：10 年来最大重构，简化安装、改善搜索、升级界面",
+   "link": "https://www.ithome.com/1/007/081.htm",
+   "summary": "IT之家 9 月 25 日消息，安卓应用商店 F-Droid 昨日（9 月 24 日）宣布迈入 2.0 版本， 完成十年来最大规模应用重构，全面升级界面、搜索与安装体验。 界面上，新版保留 F-Droid 经典交互逻辑时，整合 Material Design 规范，主导航简化为“发现”“搜索”“我的应用”三大核心模块，设置与 Nearby Swap 功能移至顶部栏，不再占用主导航空间。 应用发现机制方面，IT之家援引博文介绍，新版“发现”页面突出显示新增与最近更新应用，并展示下载量最高应用列表。分类系统扩展至 17 种游戏类型，引入“meta 分类”概念，帮助用户快速定位目标应用。 搜索功能方面，新版支持应用描述、分类及多语言内容检索，特别优化中文、日文、韩文搜索体验。系统记录最近查询历史，支持快速返回先前搜索。筛选器支持多条件组合，例如按设备兼容性、反功能标签过滤应用。 安装体验方面，新版借助欧盟《数字市场法案》（DMA）推动的 Android 新 API，让 F-Droid 2.0 实现统一安装器，支持预批准流程，用户确认后即可自动完成安装，无需等待下载结束。 技术架构方面，代码库采用 Kotlin 与 Jetpack Compose 重写，降低新贡献者参与门槛。Android 6 停止支持，最低系统要求提升至安卓 7。旧版 F-Droid 仍可在旧系统上继续使用。",
+   "source": "IT之家",
+   "date": "2026-09-25",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源 AI 创作平台，融合无限画布、AI Agent 与可视化工作流，支持图像生成、视频生成、智能分镜及短剧创作。支持本地部署、自由接入模型",
+   "link": "https://github.com/HBAI-Ltd/Toonflow-app",
+   "summary": "⭐16010星 | 语言:TypeScript | 更新:2026-09-25 | Toonflow 是开源 AI 创作平台，融合无限画布、AI Agent 与可视化工作流，支持图像生成、视频生成、智能分镜及短剧创作。支持本地部署、自由接入模型，提供跨平台桌面端，并可通过 MCP 与插件扩展创作能力。Open-source AI creative platform with an infinite canvas, AI agents and visual workflows fo",
+   "source": "GitHub开源",
+   "date": "2026-09-25",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "[版本更新] Toonflow短剧工具 v2.0.0: Toonflow 2.0.0",
+   "link": "https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v2.0.0",
+   "summary": "2026-09-24 发布 | ## 📦 下载指南\n\n选择你的电脑对应的安装包，点击即可下载：\n\n| 你的电脑 | 下载 |\n| --- | --- |\n| 💻 Windows（64 位） | [⬇️ 下载 Windows 安装包](https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.0/toonflow-2.0.0-Setup.exe) |\n| 🍎 M",
+   "source": "GitHub版本",
+   "date": "2026-09-25",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "[新品] jsontoall.tools: JSON to 20+ formats, 100% in your browser, zero upload",
+   "link": "https://www.producthunt.com/products/jsontoall-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Free browser-based JSON tools for developers. Convert JSON to YAML, CSV, TypeScript, XML, TOML, C#, Python, Go, and more. Format, validate, diff, and generate mock APIs — no signup, no server uploads.",
+   "source": "Product Hunt",
+   "date": "2026-09-25",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Ageless Atlas : Track your biological age across the 12 hallmarks of aging",
+   "link": "https://www.producthunt.com/products/ageless-atlas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Ageless Atlas estimates your biological age as a proxy across the 12 hallmarks of aging, from a short quiz plus optional labs and DNA — and lets you track it over time. Free, no supplement funnel, and",
+   "source": "Product Hunt",
+   "date": "2026-09-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Overdue: Polite invoice follow-ups that help you get paid",
+   "link": "https://www.producthunt.com/products/overdue?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "I built Overdue because following up on unpaid invoices is one of those tasks that quietly takes over your week. It helps freelancers and small agencies import their invoice CSV, send polite reminders",
+   "source": "Product Hunt",
+   "date": "2026-09-25",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] PlayCISO: Practice your CISO decisions before the real breach",
+   "link": "https://www.producthunt.com/products/playciso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "PlayCISO is a security-leadership training platform. Rehearse real breach days in branching \"War Room\" simulations, drill a mock CISO interview, and get board-report coaching graded against your count",
+   "source": "Product Hunt",
+   "date": "2026-09-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] ThetaForge: Self-hosted trading journal - journaling in under 5 minutes",
+   "link": "https://www.producthunt.com/products/thetaforge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Free and open source trading journal for stocks and options. Imports your Interactive Brokers history via Flex Query, read only, no trading permission. Books assignments, expirations, splits and curre",
+   "source": "Product Hunt",
+   "date": "2026-09-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] FlowBotCommander: Desktop bots that find targets by image, not coordinates",
+   "link": "https://www.producthunt.com/products/flowbotcommander?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "FlowBotCommander automates any Windows program without code. You snap blocks together in a node editor: find image → click → read a value with OCR → wait → repeat → webhook. Targets are located by ima",
+   "source": "Product Hunt",
+   "date": "2026-09-25",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] speechio: unprompted speaking practice",
+   "link": "https://www.producthunt.com/products/speechio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Get a prompt. Talk for 60 seconds. Get scored on filler words, pacing, structure, and delivery. Plus one thing to fix before next time. how is it different from existing product? frankly i can't the e",
+   "source": "Product Hunt",
+   "date": "2026-09-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] MVP.ai: AI companions with personality, bonding, and progression",
+   "link": "https://www.producthunt.com/products/mvp-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "MVP.ai is a character-driven AI companion built around personality, bonding, and progression. Instead of a generic chat interface, users interact with a virtual companion that has its own personality ",
+   "source": "Product Hunt",
+   "date": "2026-09-25",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] I Hate Corrupt Files: Fix corrupt Excel, Word & PowerPoint files, and see why",
+   "link": "https://www.producthunt.com/products/i-hate-corrupt-files?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Most repair tools are a black box: file in, file out, no idea what changed. This one opens the Excel, Word or PowerPoint file, checks every part against ECMA-376, and shows the exact fault: the XML wi",
+   "source": "Product Hunt",
+   "date": "2026-09-25",
+   "category": "other",
+   "level": "B"
   }
  ]
 }

@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "剪映专业版 Hub 工作台",
-   "what": "剪映新推出的 AI 互动影游工作台，整合 AI 生成到剪辑全流程",
-   "why_today": "S 级情报，Hub 直接提升短剧制作效率，机会信号明确：用 Hub+即梦流水线批量产短剧成本可降 50% 以上",
-   "time_est": "1-2 小时",
-   "source": "剪映，杀入 AI 互动影游"
+   "name": "Gemini 3.8 Live",
+   "what": "谷歌推出的搭载实时虚拟形象与多语言唇形同步的AI直播/配音工具",
+   "why_today": "S级情报，97语言唇形同步可直接替代真人配音，大幅降低短剧本地化成本，今天测试能最快验证降本效果",
+   "time_est": "1-2小时",
+   "source": "谷歌推出搭载实时虚拟形象功能的Gemini 3.8 Live"
   },
   {
-   "name": "Toonflow v1.1.8",
-   "what": "开源一站式 AI 短剧创作工具，将小说/剧本快速转化为动画短剧",
-   "why_today": "S 级开源项目且有新版本 v1.1.8，可直接降本提效核心业务，立即部署测试小说转动画短剧全流程",
-   "time_est": "2-3 小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app + [版本更新] Toonflow短剧工具 v1.1.8"
+   "name": "Toonflow 2.0.0",
+   "what": "开源AI短剧创作平台，融合无限画布、AI Agent与MCP扩展，支持本地部署",
+   "why_today": "S级版本更新且直接匹配短剧核心业务，16010星开源项目，今天部署测试可快速搭建批量生产线",
+   "time_est": "2-3小时",
+   "source": "Toonflow短剧工具 v2.0.0"
+  },
+  {
+   "name": "Open-Generative-AI",
+   "what": "29166星无审查开源视频生成替代方案，600+模型可自部署",
+   "why_today": "S级GitHub项目，零成本替代付费API，今天部署测试可评估Flux/Kling/Sora等模型生成短剧素材质量",
+   "time_est": "2-4小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
   },
   {
    "name": "GPT-6 / GPT-6 Sol",
-   "what": "OpenAI 最新旗舰模型，价格大幅腰斩",
-   "why_today": "S 级情报，GPT-6 白菜价直接降低 AI 短剧制作成本，需立即测试生成短剧脚本和分镜的成本对比",
-   "time_est": "1 小时",
-   "source": "刚刚，GPT-6 新模型掀桌！「白菜价」杀 + 早报｜GPT-6 Sol发布，价格腰斩"
+   "what": "OpenAI最新大模型，价格腰斩的“白菜价”模型",
+   "why_today": "S级情报，价格腰斩直接影响AI内容制作成本，今天对比测试短剧脚本/分镜生成的质量与成本，决定是否切换",
+   "time_est": "1-2小时",
+   "source": "刚刚，GPT-6 新模型掀桌！「白菜价」杀 / 早报｜GPT-6 Sol发布，价格腰斩"
   },
   {
-   "name": "MoneyPrinter v1.3.7",
-   "what": "AI 视频生成工具，新增逐词字幕和弹跳动画功能",
-   "why_today": "版本更新，逐词字幕和弹跳动画可提升短剧完播率，直接影响海外短剧留存和分账收益",
-   "time_est": "1 小时",
-   "source": "[版本更新] MoneyPrinter v1.3.7"
-  },
-  {
-   "name": "Jev API",
-   "what": "极低成本概率判断模型，可做轻量 AI 插件和 Agent 工具",
-   "why_today": "有免费 1.2 亿 Token 额度，零成本搭建短剧 Agent 决策链，测试短剧分类/路由/评分场景",
-   "time_est": "1-2 小时",
-   "source": "Jev，让全球程序员玩疯了 + Jev 的「百亿补贴」迷局"
+   "name": "StoryGen-Atelier",
+   "what": "AI辅助分镜与视频生成的GitHub开源工具",
+   "why_today": "S级GitHub项目，直接可用于短剧制作提效，今天下载测试可评估接入现有生产流程的可行性",
+   "time_est": "1-2小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora 关停后续影响及 AI 视频平台政策风险",
-   "reason": "Sora 关停致迪士尼退出合作，说明 AI 视频平台说关就关风险巨大，需持续关注并梳理短剧制作流程中对单一平台的依赖度"
+   "item": "Claude封号潮及API断供风险",
+   "reason": "AWS、微软中国Claude封号潮可能随时波及自身，需持续关注账号状态和替代方案动态"
   },
   {
-   "item": "Gemini 4 发布动态",
-   "reason": "谷歌据悉即将发布旗舰 AI 模型 Gemini 4，可能提升 AI 短剧制作效率与质量，需关注发布后测试其视频/图像生成能力"
+   "item": "Sora关停后续及AI视频平台政策风险",
+   "reason": "Sora关停导致迪士尼撤资，验证平台政策风险极高，需持续跟踪其他AI视频工具稳定性"
   },
   {
-   "item": "Claude 5.5 与 GPT-6 Sol 的价格战走势",
-   "reason": "Claude 5.5 发布性能直逼 Fable 还要卷价格，GPT-6 Sol 价格腰斩，模型 API 成本持续下降，需跟踪以切换高性价比方案"
+   "item": "谷歌、OpenAI和Anthropic拟组建前沿AI标准机构",
+   "reason": "头部AI公司自律标准可能影响AI内容生成合规要求，需跟踪标准制定进展"
   }
  ],
  "research_topics": [
   {
-   "topic": "DTC 独立站 + 私域模式在短剧出海中的应用",
-   "why": "流量是租来的，信任是攒下来的，跨境电商增长逻辑正在重写，短剧出海同样面临流量成本上升，需研究如何用独立站+私域降低获客成本并沉淀 IP 价值"
+   "topic": "剪映Hub和ICG Studio在互动短剧制作中的实际能力与出海变现路径",
+   "why": "剪映杀入AI互动影游，可能降低短剧制作成本和创意门槛，需研究其功能边界和变现模式"
   },
   {
-   "topic": "爱奇艺互动频道与小游戏形态",
-   "why": "爱奇艺 CEO 龚宇定调 AI 是内容加分项而非流水线工具，AI 互动短剧/小游戏是新变现形态，需评估短剧结合可能"
+   "topic": "AI营销工具在短剧出海投流中的降本效果",
+   "why": "出海游戏企业买量成本居高不下，AI营销可能解决痛点，短剧出海同样面临买量成本高问题"
   },
   {
-   "topic": "AI 营销工具在短剧投流中的实际效果",
-   "why": "出海游戏企业买量成本居高不下，AI 营销能否解决痛点直接关系短剧投流 ROI，需调研实际效果以优化投放策略"
+   "topic": "DTC信任复利模式在短剧出海品牌建设中的应用",
+   "why": "流量是租来的，信任是攒下来的，信任复利逻辑可应用于短剧出海品牌建设和知识付费，提升用户留存"
   }
  ],
- "daily_focus": "立即下载部署 Toonflow v1.1.8 并测试小说转动画短剧全流程，同时用 GPT-6 生成同一剧本做成本与质量对比，确定本周短剧流水线的主力工具组合"
+ "daily_focus": "立即测试Gemini 3.8 Live的97语言唇形同步功能，评估其替代真人配音的降本效果，并同步检查Claude账号归属地备份关键数据"
 }
