@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "剪映专业版 Hub",
-   "what": "剪映新推出的AI互动影游整合工作流，把AI生成到剪辑全流程打通",
-   "why_today": "S级情报，剪映Hub直接提升短剧产能，是今天最值得动手验证的生产力工具",
+   "name": "剪映Hub",
+   "what": "剪映专业版内的一站式AI创作工作台，含AI助手与互动影游制作能力",
+   "why_today": "S级情报显示剪映杀入AI互动影游，Hub工作台可大幅提升短剧制作效率，是今天最直接的降本增效入口",
    "time_est": "1-2小时",
-   "source": "剪映，杀入 AI 互动影游"
+   "source": "剪映，杀入 AI 互动影游 | 剪映Hub一站式AI创作工作台可大幅提升短剧制作效率"
+  },
+  {
+   "name": "GPT-6 / GPT-6 Sol API",
+   "what": "OpenAI最新旗舰模型API，价格腰斩",
+   "why_today": "两条S级情报确认GPT-6价格腰斩，直接降低短剧剧本和多语种内容生成成本，需立即对比现有模型成本效果",
+   "time_est": "1小时",
+   "source": "刚刚，GPT-6 新模型掀桌！「白菜价」杀 / 早报｜GPT-6 Sol发布，价格腰斩"
   },
   {
    "name": "Toonflow v2.0.1",
-   "what": "1.6万星开源AI短剧全流程创作平台，含无限画布与AI Agent",
-   "why_today": "S级+版本更新双重信号，v2.0.1专为短剧设计，可替代付费管线搭建自有量产流程",
+   "what": "1.6万星开源AI短剧创作平台，融合无限画布、AI Agent与分镜",
+   "why_today": "S级版本更新且专为短剧设计，直接对标短剧出海生产管线，今天部署可评估能否替代现有付费流程",
    "time_est": "2-3小时",
-   "source": "Toonflow短剧工具 v2.0.1 / HBAI-Ltd/Toonflow-app"
-  },
-  {
-   "name": "GPT-6 API",
-   "what": "OpenAI最新模型，价格腰斩，大幅降低AI内容生成成本",
-   "why_today": "S级情报，价格腰斩直接提升短剧剧本/配音生成利润空间，需立即对比现有模型成本与质量",
-   "time_est": "1-2小时",
-   "source": "刚刚，GPT-6 新模型掀桌！「白菜价」杀"
+   "source": "[版本更新] Toonflow短剧工具 v2.0.1 / [GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
    "name": "StoryGen-Atelier",
-   "what": "Gemini+Veo+ffmpeg自动生成分镜视频的开源工具",
-   "why_today": "S级GitHub项目，自动化分镜+视频拼接可直接接入短剧生产，降低制作成本",
-   "time_est": "2-3小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier"
+   "what": "开源AI分镜+视频生成工具，支持Gemini+Veo生成短剧片段",
+   "why_today": "S级GitHub项目，可直接接入短剧生产管线批量生成分镜，今天测试能快速验证开源替代方案的可行性",
+   "time_est": "2小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation"
   },
   {
-   "name": "Jev",
-   "what": "极低成本概率判断模型，可嵌入选题/投流决策",
-   "why_today": "S级情报，可开发基于Jev的短剧选题判断插件，同时A级情报提示需验证其实际成本优势",
-   "time_est": "1-2小时",
-   "source": "Jev，让全球程序员玩疯了 / AI 圈又在造神？这次我想给Jev 泼点冷水"
+   "name": "Open-Generative-AI",
+   "what": "2.9万星无审查开源视频生成平台，600+模型可自托管",
+   "why_today": "S级情报且Sora关停风险已现，自托管方案可彻底摆脱单一平台断供风险并大幅降低单集成本，今天部署评估Flux/Kling等模型质量",
+   "time_est": "3-4小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Claude封号潮进展及替代模型方案",
-   "reason": "AWS/微软中国Claude封号可能影响依赖其API的短剧制作，需持续关注并准备切换方案"
+   "item": "OpenAI Ultrafast API 9月29日DevDay开放范围",
+   "reason": "推理速度提升14倍将剧变短剧批量生产效率，需第一时间申请测试，但今天只能关注不能动手"
   },
   {
-   "item": "Sora关停后的AI视频工具格局变化",
-   "reason": "Sora关停+迪士尼撤资，需跟踪Runway/Pika/可灵等替代品的可用性和成本变化"
+   "item": "Claude封号潮对自身AI工具链的影响",
+   "reason": "AWS/微软中国Claude封号潮可能波及现有工具链，需持续排查账号来源并准备国产替代方案"
   },
   {
-   "item": "平台AI内容安全政策收紧动向",
-   "reason": "OpenAI和Anthropic调查数万起安全事件，TikTok等平台可能跟进新规，影响短剧投放"
+   "item": "Sora关停后续及AI视频工具备选方案",
+   "reason": "Sora关停导致迪士尼撤资，验证AI视频工具存在突然死亡风险，需持续跟踪并建立至少2个备选方案"
   }
  ],
  "research_topics": [
   {
-   "topic": "中东短剧市场本地化策略与文化禁忌",
-   "why": "中东短剧市场蓝海，内容供给稀缺，先入者优势明显，需研究文化偏好规划题材"
+   "topic": "中东短剧市场本地化策略与题材禁忌",
+   "why": "中东是短剧出海蓝海，SLG手游本地化方法论可直接迁移，先入者吃红利，需尽快整理题材与禁忌清单"
   },
   {
-   "topic": "AI投流工具在短剧出海中的降本效果",
-   "why": "出海游戏买量成本居高不下，AI营销可能改变格局，直接关系短剧出海ROI"
+   "topic": "日本市场短剧本地化运营策略",
+   "why": "国产手游融入日本文化元素的成功经验可直接复用到短剧出海日本，需研究具体策略和案例"
   },
   {
-   "topic": "经典IP+职场共鸣短剧模式的海外复制路径",
-   "why": "2026版西游直播短剧爆火，无剧本即兴+切片传播模式可迁移到海外短剧选题"
+   "topic": "AI营销工具在短剧投流素材优化中的应用",
+   "why": "出海游戏买量成本高企的痛点与短剧投流高度相似，AI营销降本逻辑可直接复用，关系投放ROI"
   }
  ],
- "daily_focus": "下载剪映专业版并跑通Hub工作流，用一条测试短剧验证AI生成到剪辑的全流程产能提升效果"
+ "daily_focus": "立即测试GPT-6 API生成多语种短剧脚本，并与现有模型对比成本效果，确认降本幅度后同步部署Toonflow v2.0.1评估开源短剧生产管线"
 }
