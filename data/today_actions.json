@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "剪映专业版（Hub + ICG Studio）",
-   "what": "剪映Hub打通AI视频全流程，ICG Studio可制作互动短剧",
-   "why_today": "S级情报，直接利好短剧出海，一站式AI短剧制作+互动短剧新形态，先发优势窗口",
-   "time_est": "2小时",
-   "source": "剪映，杀入 AI 互动影游 | 剪映Hub打通AI视频全流程，ICG Studio可做互动短剧"
-  },
-  {
-   "name": "GPT-6",
-   "what": "新一代大模型，大幅降价",
-   "why_today": "S级情报，短剧AI制作成本骤降，需立即测试脚本/分镜/翻译效果与成本，评估批量铺量ROI",
-   "time_est": "1.5小时",
-   "source": "刚刚，GPT-6 新模型掀桌！「白菜价」杀"
-  },
-  {
    "name": "Toonflow v2.0.1",
-   "what": "专为短剧设计的制作工具，新版本更新",
-   "why_today": "S级版本更新，专用短剧工具可大幅提升产能，需评估是否纳入制作流程",
-   "time_est": "1小时",
-   "source": "[版本更新] Toonflow短剧工具 v2.0.1"
-  },
-  {
-   "name": "Jev",
-   "what": "只输出概率判断的极低成本AI模型",
-   "why_today": "S级情报，可开发低成本AI判断类插件（短剧选题判断/素材筛选）上架变现",
-   "time_est": "1.5小时",
-   "source": "Jev，让全球程序员玩疯了"
+   "what": "开源AI短剧创作平台，融合无限画布、AI Agent，支持本地部署自由接入模型",
+   "why_today": "S级情报，专为短剧设计且刚发布v2.0.1版本，直接关联核心业务，可立即测试分镜到成片全流程",
+   "time_est": "2小时",
+   "source": "HBAI-Ltd/Toonflow-app + Toonflow短剧工具 v2.0.1"
   },
   {
    "name": "StoryGen-Atelier",
-   "what": "开源AI辅助分镜与视频生成工具（Gemini+Veo+ffmpeg全流程）",
-   "why_today": "A级GitHub项目，可替代部分人工制作环节，降低短剧制作成本，需评估接入可行性",
+   "what": "AI辅助分镜与视频生成工具，通过Gemini+Veo+ffmpeg自动生成分镜视频",
+   "why_today": "S级情报，直接可用于短剧制作，且Sora关停后需紧急寻找替代视频生成方案，此工具正好填补空白",
+   "time_est": "1.5小时",
+   "source": "0xsline/StoryGen-Atelier"
+  },
+  {
+   "name": "Open-Sora",
+   "what": "开源视频生成模型，旨在民主化高效视频生成",
+   "why_today": "S级情报，近3万星，可低成本自建短剧视频生成能力，替代付费API，在Sora关停背景下战略价值凸显",
    "time_est": "2小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "source": "hpcaitech/Open-Sora"
+  },
+  {
+   "name": "clipturbo",
+   "what": "AI驱动的视频生成工具，一键生成高质量营销视频",
+   "why_today": "A级情报，可批量生成短剧投流素材，直接降低短剧获客成本，且操作简单适合快速验证",
+   "time_est": "1小时",
+   "source": "clipturbo/clipturbo"
+  },
+  {
+   "name": "Vibe-Workflow",
+   "what": "开源节点式AI工作流，可替代付费工具",
+   "why_today": "A级情报，可搭建短剧批量生产工作流，节省订阅成本，且节点式设计灵活适合快速搭建管线",
+   "time_est": "1.5小时",
+   "source": "SamurAIGPT/Vibe-Workflow"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代工具迁移窗口（Veo/Kling/Open-Sora等）",
-   "reason": "Sora关停导致依赖它的短剧制作流程需紧急迁移，竞品工具窗口期存在先发优势，需持续跟踪替代方案成熟度"
+   "item": "Sora关停后的AI视频赛道洗牌动态",
+   "reason": "Sora关停和迪士尼撤资是重大利空，但竞品真空期也是机会，需持续关注替代工具崛起和市场格局变化"
   },
   {
-   "item": "Claude封号潮及国产大模型替代进展",
-   "reason": "AWS/微软中国Claude封号影响AI工具开发，需持续关注封号范围及文心一言等替代方案的稳定性"
+   "item": "Claude Opus 5.5在短剧剧本生成中的表现",
+   "reason": "AI写作特征减少，破折号使用量下降95%，可能大幅提升剧本自然度，需跟踪实际生成效果和成本"
   },
   {
-   "item": "迪士尼与OpenAI的IP授权合作条款",
-   "reason": "迪士尼10亿美元投资OpenAI并允许角色用于AI视频，短剧题材和版权玩法可能洗牌，需跟踪授权及商用条款"
+   "item": "AI Agent系统级集成被风控拦截的案例",
+   "reason": "豆包手机被反作弊系统盯上，做AI自动化工具需警惕类似封杀风险，避免自身工具被误判"
   }
  ],
  "research_topics": [
   {
-   "topic": "中东短剧市场本地化运营策略",
-   "why": "A级情报指出中东是蓝海机会，需调研文化差异和价值观，避免文化坑，复制游戏出海成功经验"
+   "topic": "Neowow的Skill社区机制和付费转化路径",
+   "why": "单月收入破千万，模式可复制到短剧工具，研究其社区运营和变现方式有助于设计自有产品的商业化"
   },
   {
-   "topic": "AI营销工具在短剧投流中的降本效果",
-   "why": "出海游戏买量成本居高不下，AI营销可降低短剧投流成本提高ROI，需研究具体工具和投放策略"
+   "topic": "东南亚和中东短剧市场本地化策略",
+   "why": "东南亚短视频红利期和中东蓝海市场，竞品少，先入者有红利，需研究本地化内容打法以抢占市场"
   },
   {
-   "topic": "多智能体协同用于短剧批量生产的方案",
-   "why": "A级情报显示智能体接管工作流趋势，可替代人工大幅降低短剧制作成本，需研究WorkBuddy等平台的Agent搭建能力"
+   "topic": "印度数据安全政策对短剧App出海的影响",
+   "why": "印度数据合规趋严，可能影响短剧App和SaaS出海，需评估合规成本以决定是否暂缓投放"
   }
  ],
- "daily_focus": "立即下载剪映专业版，测试Hub和ICG Studio的AI短剧制作与互动短剧功能，评估其能否成为短剧出海的核心生产工具"
+ "daily_focus": "立即部署Toonflow v2.0.1并测试其分镜到成片全流程，同时排查现有制作流程是否依赖Sora，制定替代方案B计划。"
 }
