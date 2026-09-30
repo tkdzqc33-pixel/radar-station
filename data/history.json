@@ -11087,6 +11087,222 @@
    "date": "2026-09-29",
    "category": "other",
    "level": "B"
+  },
+  {
+   "title": "除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」",
+   "link": "http://www.geekpark.net/news/372003",
+   "summary": "模型越来越便宜，付费给的用量却砍了半 作者｜Alan 北京时间 9 月 30 日凌晨，OpenAI 开完了它口中「迄今规模最大的一届」开发者大会。官方汇总页上一共列了 25 项发布，从新模型、新 API，一路排到给企业买软件用的应用市场。 现场最安静的一刻，出现在 Sam Altman 讲到 ChatGPT Pro 会员调整的时候。台下没有一个人鼓掌。 调整本身不复杂：每月 200 美元的 Pro 200 价格不变，新订阅的用量缩水；另外新增一档 Pro 500，每月 500 美元，用量是 Plus 的 25 倍，外加一个个人套餐里只有它能用的提速档 Astra Ultrafast。 那一阵沉默，比 25 项发布里的任何一项都更能说明今天的本质主题：这场大会真正改掉的，是 ChatGPT 收钱的方式：它不再按一个聊天软件收费，开始按一个「员工」收费，干多少活、干多快，都明码标价。 月费和用量，都是 Plus 的 25 倍｜图片来源：OpenAI 01 AI 开始领工资 和之前预热的一样，毫不意外今天 OpenAI 这次把最大的篇幅留给了 dots，官方中文页面也保留了这个英文名。 按官方说法，每个「dot」都由 GPT-6 Astra 驱动，有一台自己的云端电脑和浏览器，能连接 4,000 多个应用，全天候运行。 用法其实也很像派活。你给它一个目标，划定哪些操作它可以自己做主，它就会主动开工。它可以待在 ChatGPT、Slack 和 Teams 里，OpenAI 产品负责人 Tibo（Thibault Sottiaux）在现场发推说，它干活的时候，你还能直接给它打电话。 OpenAI 描述它的原话，是「能够持续承担职责的智能体」，还设想未来多个 dot 组成团队，协同为你工作。 「承担职责」这四个字挑得很准。过去的 AI 助手是你问一句、它答一句；dot 的设定是你不在的时候，它也在干活。这更像招聘启事里的写法，而不是软件说明书。 dots 先只给每月 100 美元起的 Pro｜图片来源：OpenAI dot 的门槛不低。个人用户里只有 Pro 套餐能用，Tibo 特别说明包括每月 100 美元的 Pro 100，企业这边是 Business Premium。 官方说第一个 dot 随套餐附赠，不额外收费，和它聊天也不计入用量。但让它去「ChatGPT 工作」和 Codex 里干活，照样扣额度。 问题是，这台云端电脑里装着什么。Tibo 对云端很有信心，他在现场发推说，新的 Codex 云端环境配好之后，你就不可能再回到笔记本上开发了。 在极客公园在硅谷组织了直播观看中，一位做数学相关工作的参会者表示，他的代码要调用一个有商业许可证的数学优化求解器，本地的 Codex 能调用、能运行、能测试，可一旦迁到云端，这些工具和许可证未必跟得过去。让 AI 干脆重写一个？ 他的判断是，眼下还到不了成熟工具的水平。 他平时用 AI 做的是具体的研究，不是订票、订球场。观看会上也有人觉得，各家的个人助手看起来越来越像。就在前一天，Manus 发布的 2.0 主打的也是个人 AI 助手和云电脑。对这类专业用户来说，dot 缺的不是再多几千个应用连接，而是他们自己那套本地环境。 除了 dot 之外，会员分档，是这次改得最狠、也是骂声最多的地方。Tibo 在大会开始前约两个小时发推，其实已经把新倍数讲得很直白：Plus 算 1 倍，Pro 100 是 5 倍，Pro 200 是 10 倍。而旧的 Pro 200，是 20 倍。 为了增加一点惊喜，Tibo 甚至在现场准备了一个物理意义上的「重置」按钮｜图片来源：OpenAI 把月费也换算成倍数，事情就清楚了。Pro 100 的月费是 Plus 的 5 倍，Pro 200 是 10 倍，Pro 500 是 25 倍，和各自的用量倍数一模一样。旧 Pro 200 花 10 倍的钱拿 20 倍的用量，这个「批发价」这次没了，每一档都是 20 美元换 1 份 Plus 的用量。 官方帮助页的写法委婉得多：Pro 200 重新开放新订阅，每月仍是 200 美元，但新订阅的用量额度比以前低；符合条件的老订阅者，旧额度保留到 10 月 29 日，之后同样下调。Tibo 会前还算过一笔账，新 Pro 200 折算成 API 花费，大约只有旧版的一半。 观看会上最集中的不满，也落在这里。有参会者认为，原有套餐能用的额度少了，相当于涨价，同时又没等来期待中的新模型；还有人说，自己最想要的是数学和算法能力更强的模型，这次发布却更偏消费端的功能。 官方给的理由是，模型越来越高效了。 可就在同一场大会上，OpenAI 发布了这次唯一的新模型 GPT-6.1 Sol。 它是 Sol 的升级版，官方说它有接近 Astra 的",
+   "source": "极客公园",
+   "date": "2026-09-30",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
+   "link": "http://www.geekpark.net/news/371850",
+   "summary": "互联网大厂很久没有如此密集地在线下招人了。 今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。 速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。 5000 人是什么概念？ 在今天的互联网大厂，这已经不是一个普通区域办公室的规模。尤其是在互联网公司普遍强调降本增效、控制人员扩张的背景下，一次性在一座新城市搭起数千人的团队，本身就是一个值得观察的动作。 但拼多多在雄安做的，并不是再建一个研发总部。 从已经落地的业务看，这里更像是拼多多新建的一座大型后台业务基地： 一头连接平台治理和数据生产，另一头连接平台上的制造业商家。 01 5000 人， 首先是一套互联网平台的「后台」 &nbsp; 拼多多给雄安公司的两个核心定位，一个叫「传统产业数据处理服务中心」，另一个叫「传统制造高质量发展综合服务中心」。 首先是数据处理。 目前，雄安团队已经承担算法标注和模型标注，涉及搜索推荐体验优化、图生视频训练等项目。 然后是平台治理。 商家和商品准入、内容质量审核、广告治理、安全合规、售后&hellip;&hellip;这些过去分散在电商平台不同链路里的后台工作，也开始在雄安形成规模化团队。 今年 6 月以来，拼多多已经陆续推出 106 项专项治理举措，覆盖食品、药品、知识产权、广告、直播带货和虚假营销等多个环节。 所以，如果只把「5000 人」理解为一次大规模招聘，反而容易忽略真正发生的变化。 拼多多正在把一家超大型电商平台越来越复杂的后台能力，变成一套能够被集中组织、规模化运行的基础设施。 这或许才是拼多多在雄安的动作里最值得关注的地方。 02 从数据标注，到一面「试衣镜」 &nbsp; 而拼多多显然不希望这支团队永远停留在后台审核，事实上，拼多多也正在雄安尝试新的方向。 一个已经进入测试阶段的项目是「试衣镜」。 它做的事情并不复杂：雄安团队对不同服装商品进行视觉标注，生产模型训练所需要的数据，再由算法生成更接近真实上身效果的商品展示。 拼多多希望借此提升服装商品转化率，同时降低服装电商一直头疼的退货率。该项目目前已经进入用户测试阶段。 这个小项目，反而很能解释拼多多为什么会把「数据处理」和「传统制造服务」放在同一家公司里。 过去，数据标注往往被看作最基础、甚至最「人力密集」的一环。但当模型真正进入电商，数据生产可以直接连接一个非常具体的商业问题： 怎样让用户买衣服之前，看得更准一点？ 如果结果足够好，它最终影响的是转化率、退货率，以及商家的经营效率。 从这个角度看，雄安公司所承担的并不只是后台成本中心。拼多多试图把数据生产、算法优化、平台治理，再到商家服务放进同一个业务闭环。 这也是今天电商平台正在发生的一个变化：数智能力越来越多地渗透进推荐、审核、商品展示、客服乃至供应链这些原本不容易被消费者注意到的环节。 03 拼多多为什么需要一座新的「业务城市」 &nbsp; 当然，对于雄安来说，5000 人首先意味着就业和产业集聚。 今年 6 月，拼多多与雄安新区签署了数字服务战略合作框架协议；9 月，拼多多集团执行总裁朱政也公开表示，雄安公司将重点布局商品合规审核、数据标注与分析以及传统产业数据智能化等业务。 但如果从一家互联网公司的角度看，这件事还有另一层意义。 互联网公司发展到今天，真正需要大量人的地方，已经不只是产品和研发。 当平台连接数亿消费者和海量商家之后，围绕数据、内容、交易、安全和合规形成的后台系统，同样会变成一套庞大的组织。 过去，这些团队通常藏在「大厂总部」后面。 这一次，拼多多把其中一部分单独放到了一座城市里。 所以，比「雄安又来了一个互联网大厂」更值得观察的问题可能是： 一家电商平台，到底有哪些能力值得重新投入数千人的线下组织？ 至少从拼多多目前给出的答案看，是数据，是治理，也是重新服务制造业的能力。 5000 人，只是这件事情第一次有了一个足够显眼的数字。 *头图来源：拼多多 本文为极客公园原创文章，转载请联系极客君微信 geekparkGO",
+   "source": "极客公园",
+   "date": "2026-09-30",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "AI 手机只是起点，高通要为智能体铺一条全栈技术路线",
+   "link": "http://www.geekpark.net/news/371113",
+   "summary": "「这次骁龙峰会最令人兴奋的地方在于，我认为我们终于步入了一个可以清晰看见 AI 智能手机形态的阶段」高通公司总裁兼 CEO 安蒙在峰会第一天说道。 炎热的美国茂宜岛，早上不到 8 点，会场里已经聚集了来自全球的媒体、开发者、合作伙伴和产业人士。让大家等待的并不只是又一代手机芯片，而是在寻找一个更大的答案&mdash;&mdash;随着 AI 从手机里的一项功能，演进为能够跨终端理解意图、保存情境并代表用户采取行动的智能体，CPU、GPU、NPU、内存和连接将如何被重新组织，手机、PC、耳机、眼镜等终端之间的关系将如何改变？ 过去，AI 是高通技术路线图中的一条能力线；如今，AI 正在成为重新定义整张路线图的中心。 这也是今年骁龙峰会释放出的更大信号：高通正在向覆盖终端、边缘和数据中心的智能体 AI 全栈解决方案公司加速演进。下一代 AI 手机只是这个故事最先被看见的入口。 等待在峰会门口前最早的一批观众 | 来源：极客公园 安蒙认为，在新一代手机上，意图应该是需要给用户带来最大感知变化的地方。 这其中，交互方式的改变和智能体执行能力是需要提供给用户的新价值。 这对芯片提出了高能效、全天候续航等新需求。「最早的骁龙 8 系平台要回答的是，能不能让手机以 1GHz 甚至更高的主频运行高级操作系统，同时撑满一天续航。今天也是类似的挑战，只是换成了一个持续运行的智能体。」安蒙笑谈道。 过去，AI 是芯片路线图中的一项能力；现在，AI 正在成为定义整张路线图的起点。CPU、GPU、NPU、内存、连接乃至设备形态，都开始围绕智能体的工作方式重新设计。 过去，CPU、GPU、NPU 更像是一颗芯片里的不同功能模块；现在，全新推出的第六代骁龙 8 超级至尊版围绕着智能体的完整工作流重新分工。CPU 正如智能体的「规划器」，主频在行业内首次突破 5GHz；NPU 则通过扩大与计算单元紧密耦合的本地内存，减少对外部 DDR 的频繁访问，并支持最高 300 亿参数的 MoE 模型在终端侧运行。更关键的是，高通首次在旗舰线同时推出第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版，这两款旗舰移动平台。 智能体时代的芯片竞争，不再只是比谁的单项算力更高，而是比谁能以更低功耗，把感知、推理、规划和执行组织成一套持续运行的系统。 此外，安蒙还预告在数据中心领域已经亮相过的 HBC（High-Bandwidth Compute，高带宽计算）将以协处理器的形式进入骁龙平台，把内存和 AI 计算拉得更近，让下一代 AI 手机拥有更强大的响应速度、能效和性能，更多细节将在 MWC 巴塞罗那 2027 上正式发布。 极客公园在今年骁龙峰会现场感受到的最大变化是，过去以「设备」为核心时，高通要做的，是让自己的技术进入更多设备&mdash;&mdash;手机、PC、汽车、可穿戴设备、IoT，不断扩大自己的生态矩阵。但当「智能体」成为新的中心之后，逻辑开始倒过来了。 高通真正想提高的，是一种在场感&mdash;&mdash;不只是某一类终端中的芯片渗透率，而是成为个人智能体跨终端运行时稳定、持续的计算与连接底座。 智能体可以运行在搭载骁龙平台的多样化设备上 | 来源：高通 体验从 App 转向意图，AI 系统需重构 「过去二十年，智能手机体验几乎一直围绕着应用来展开。但在智能体时代，体验的起点不再是应用，而是意图。如今智能体 AI 不仅能够执行用户的指令，还将更多地转向帮助用户完成任务」安蒙提及，当 AI 进入影像领域，手机里的 AI 功能，让用户在弱光环境拍摄更清晰的照片。这是用户发起交互，设备做出响应。而现在，AI 已经改变了影像的方式，智能体甚至开始替人们提供拍照姿势指导，并带来更多主动智能。 从此，设备将拥有两个服务对象：用户，和用户的智能体。用户的智能体将会有一个完全不同的工作流，高通需要思考的问题从如何为用户体验设计 AI 引擎，变成了如何设计同时服务两个用户的计算架构，并且给计算单元重新分工。 智能体时代，移动平台的重构 | 来源：极客公园 这次骁龙峰会，高通首次推出双旗舰：第六代骁龙 8 至尊版面向更广泛的旗舰设备，而超级至尊版则进一步面向极致性能和复杂 AI 工作负载，两款平台均进入 2nm 制程时代。 双旗舰的真正分野，不只是性能档位，而是 AI 创新的两种任务：一端负责探索技术上限，另一端负责把同代创新推向更大的旗舰市场。 两款处理器都采用全新的 Qualcomm Oryon CPU， 2 个 超大核最高 5GHz、6 个性能核心最高 4GHz ，超级至尊版相较上一代 CPU 性能提升 13%，能效提升 37%。同时，两款芯片两者采用相同的 CPU 架构、实现方式和频率。通过引入全新缓存架构 FlexCache，让 CPU 也能共享缓存资源，让智能体",
+   "source": "极客公园",
+   "date": "2026-09-30",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
+   "link": "https://www.ifanr.com/1682644?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "奥特曼：AI 将带来新文艺复兴，而非新工业革命 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-30",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一",
+   "link": "https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "· DeepSeek Harness 推出桌面端预览版 · 特斯拉 Roadster 发布会因天气推迟 · vivo 调整中国区考勤：工作日最晚 9 点打卡，10 月 8 日执行 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-30",
+   "category": "ai_tools",
+   "level": "S"
+  },
+  {
+   "title": "OpenAI 年度发布会最全总结：25 个新品很夯，但额度减半拉爆了",
+   "link": "https://www.ifanr.com/1682571?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "省流：个人用户亏麻了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-30",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "DeepSeek Harness桌面版实测：更像「个人助理」，还给你送钱",
+   "link": "https://www.ifanr.com/1682532?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "现在，人人都可以用「万物皆插件」了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-30",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "可灵4.0首发实测，国产AI视频再次掀桌？",
+   "link": "https://www.ifanr.com/1682361?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "能文能武 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-09-30",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "深度拆解 Sonnet 5.5 ：半价 Opus 只是表象，Agent Runtime 才是变化核心",
+   "link": "https://www.leiphone.com/category/ai/eFLQ0PfFrKc5kRSs.html",
+   "summary": "导语：Tool Call 少三成，Shell Run 近减半，迭代降至 3.6 次。 Tool Call 少三成，Shell Run 近减半，迭代降至 3.6 次。 &nbsp; &nbsp; 作者丨 郑佳美 &nbsp; &nbsp; 编辑丨岑 &nbsp; 峰 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 刚刚，Anthropic 发布了 Claude Sonnet 5.5。 如果只看发布页，这仍然是一轮常规模型升级：API 单价没变，生成速度更快，Terminal-Bench、CursorBench 等 Agent benchmark 的成绩明显上涨。但把几组运行数据放在一起，会发现这次变化并不只发生在模型输出这一层。 Lovable 的测试里，Tool Call 数量减少约三分之一，Shell Run 接近减半，Base44 的应用构建任务中，平均迭代次数从 7.7 次降到 3.6 次。Anthropic 还提到，新模型更频繁地把多个工具调用放在同一批执行。 这意味着 Agent 成本不能只看 Token。一次任务真正消耗资源的地方，还包括工具等待、状态回填、重新规划、上下文增长和失败恢复。只要 model—tool 循环足够长，这些成本就会持续叠加。 在“模型变聪明了”的背后，工程上其实是模型具备了“静态依赖分析”与“执行图压缩”的能力，使原本笨重的 Agent Runtime 架构得以瘦身。 Sonnet 5.5 的变化，恰好把问题推到了 Agent runtime 本身：为什么更强的前置规划能够减少 Tool Call，批量工具调用到底压缩了什么，以及 effort 增加的 test-time compute，什么时候能减少后续执行，什么时候反而会把执行图越做越大。雷峰网 (公众号：雷峰网) 01 Agent 的工作状态越来越重 聊天模型的一次请求结束以后，当前计算基本结束，但 Agent 不一样，它需要持续维护一个会变化的工作状态，其中包括用户目标、已经验证过的假设、工具返回、代码改动、环境状态以及尚未解决的问题。 每完成一次 Tool Call，runtime 都要把新的结果合并进当前状态，然后让模型重新判断原来的计划是否仍然成立。雷峰网 这里有一层很实际的成本，可以叫作 state rehydration。模型下一轮并不是只读一段刚返回的测试日志，它还需要知道为什么运行这项测试、此前动过哪些文件、哪些假设已经排除，以及当前工作区相比任务开始时发生了什么变化。 随着任务继续，这个工作状态会不断膨胀，每一次重新进入 reasoning，都需要重新恢复和当前决策相关的那部分状态。 失败路径会把这个问题进一步放大。假设代码 Agent 一开始判断错误，把问题归到认证中间件，于是搜索相关 symbol、读取文件、修改逻辑，再运行测试，最后发现问题其实来自 session serialization。 前面的代码、修改记录、测试日志和中间判断已经进入上下文，如果 runtime 只是不断追加历史内容，那么后面的正确路径仍然要在这批残留状态里继续工作。 所以长上下文本身并不能解决 Agent 成本问题。上下文窗口变大，解决的是历史能不能保存，runtime 更难处理的是，哪些内容还应该留在当前 working set。 一个稳定的长期 Agent，需要把当前节点直接依赖的信息留在活动区，把已经形成稳定结论的内容压缩成结构化状态，而原始日志、重复搜索结果和已经失去依赖关系的 observation 应该尽快退出工作集。 这一层决定了为什么一次无效 Tool Call 的代价通常高于它本身。错误搜索不仅浪费一次工具执行，还会制造额外状态，错误修改又会带来测试日志、恢复动作和新的判断分支。只要这些内容进入 working set，后面的节点就要继续为它们付出处理成本。 也正因为每跨一次 model—tool 边界都需要重新恢复工作状态，下一步自然就是减少那些",
+   "source": "雷峰网",
+   "date": "2026-09-30",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "北京现代新车上市，限时售价9.99万元起",
+   "link": "https://www.leiphone.com/category/transportation/0XlhPKEoStqaW3Ig.html",
+   "summary": "导语：9月29日，北京现代发布新车艾尼氪V，共推出5款车型，CLTC续航提供540km和650km两个版本，限时权益价为9.99万元到13.19万元。新车车长4.9米 9月29日，北京现代发布新车艾尼氪V，共推出5款车型，CLTC续航提供540km和650km两个版本，限时权益价为9.99万元到13.19万元。 新车车长4.9米，轴距2.9米，比起市面上的轿跑车型，艾尼氪V的造型尤为前卫。它采用低趴溜背姿态，与大量折线，风阻系数仅为0.23。搭配贯穿式星轨尾灯、无框车门和空气动力轮毂，充满未来感。 艾尼氪V切入的10到14万级纯电市场，已有比亚迪海豹、小鹏MONA M03、深蓝SL03等热门车型，与这些强劲选手相比，艾尼氪 V此次弥补了智能化短板。它采用8295高通骁龙芯片，并配备双AI大模型。搭载 Momenta 辅助驾驶系统，实现L2+级辅助驾驶。（雷峰网 (公众号：雷峰网) ） &nbsp; 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
+   "source": "雷峰网",
+   "date": "2026-09-30",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "希音上市后的第一份财报，回答了两个关键问题",
+   "link": "https://www.leiphone.com/category/industrynews/gZRE0woO1m8hX4RF.html",
+   "summary": "导语：行业逆风期下，一份稳健向上的财报 9月28日，希音发布上市后的首份中期业绩。比起上市时的资本市场热度，这份财报把两项最能说明业务基本盘的指标摆到了台前：活跃客户数与总订单量。 财报显示，2026年上半年，希音总订单量同比增长6.4%至5.49亿单，其中，第二季度的总订单量同比增长7.6%至2.98亿单。截至2026年6月30日止十二个月，希音的活跃客户数达2.91亿，较截至2025年6月30日止十二个月的2.54亿保持持续增长势头。 这看似简单的几个数字，实则是一组极具提升行业信心的数据。 它释放了两个关键信号：一是，希音的核心业务从更细分的市场中找到了更多增量；二是，希音多年积累的产业能力向外开放的商业价值开始兑现。 虽然当下二级市场把聚光灯都打在了AI上，但不得不承认，这份中期业绩，让许多仍然密切关注希音的投资者基本可以放下心来。 在全球政策变化，以及充满挑战的审慎消费环境下，希音的增长仍然强劲，其底层能力和经营韧性经得起市场变化的考验。 行业巨变下，增长从哪来？ 进一步拆解，希音的增长动能到底从哪来，可以分为两个方面： 第一，希音自有品牌的增长，已经深入到更细分的服装领域。 2026年第二季度，得益于在运动、体育、泳装及礼服等细分品类的持续拓展，希音旗下自有品牌MUSERA和Aloruh实现了强劲的同比增长。 对于已经拥有庞大用户基础的希音而言，这些品牌的表现说明，围绕不同人群、不同穿着场景持续深耕，仍然能够打开新的增长空间。 时尚行业的一个突出特点，是市场规模庞大，需求却高度分散。据灼识咨询数据，2025年全球时尚市场规模达到1.7万亿美元，前五大企业合计市场份额仅为10.4%。 消费者在价位、风格、尺码和穿着场景上的偏好各不相同，很难被同一种品牌定位充分覆盖。因此如何在保留品牌辨识度的同时覆盖更多细分需求，成为企业拓展增长空间的重要课题。 过去几年，希音逐步搭建起涵盖SHEIN、Dazy、MOTF等品牌的自有品牌矩阵，用不同的品牌来覆盖不同价位、风格，让更多品牌能深入各自的细分市场，将消费者对时尚的不同偏好，转化为具体的产品供给。 在最新发布的股东信中，希音明确了多品牌布局的下一步：未来一至两年，计划在维持并优化现有价格带供给的同时，将产品组合向更高价格带的品牌拓展。 第二，以SHEIN Xcelerator为代表的品牌赋能业务，成为了希音的第二增长曲线。 在自有主业基本盘稳固的基础之上，希音没有止步于做好自有品牌的销售，而是把跑通的供应链、履约、营销能力向外开放，为更多品牌提供经营支持。 财报中，SHEIN Xcelerator的进展体现在多个合作品牌的经营表现上。第二季度，女装品牌AiiRZ订单量同比增长超过50%；新加入的KIZN、Baby Phat和Fashion SZN等合作品牌，销售也创下新高。 这些品牌的表现，为观察希音的供应链和渠道能力能否支撑不同类型品牌的发展，提供了更多样本。 2025年10月，原先面向设计师的SHEIN X计划升级扩展为SHEIN Xcelerator，向全球不同规模的品牌和设计师提供供应链生产、仓储履约与全球销售渠道等支持。 品牌方不用重资产投入建厂、搭建全球物流体系，就可以依托这套基础设施，把创意设计快速规模化推向全球市场，降低库存压力、缩短产品上市周期。 英国时尚品牌Missguided，就是一个完整的观察样本。这个曾在英国颇具知名度的品牌，一度因供应链成本上涨与消费疲软进入破产管理程序。 接入希音赋能体系后，原有设计创意团队继续主导产品定位与风格，后端生产和全球履约则复用希音的成熟体系。2025年，Missguided营收突破2.1亿美元。 从Missguided的经营改善，到AiiRZ的订单增长，再到多个新晋合作品牌的销售突破，希音长期投入形成的基础设施，正在被更多品牌广泛使用，并由此成为希音新的增长点。 相比核心业务，希音的品牌赋能服务虽仍处于早期发展阶段，但持续积蓄势能。财报显示，2026年第二季度，希音在品牌赋能方面取得了实质性提升，并成功引入多个新合作品牌。 其中一项关键进展是，将LATR供应链系统与DesignX创意系统串联，使合作品牌及其设计师能够借助智能化优化工作流程，大幅缩短从设计到产品上市的周期。 这些动作的优化和效率的提升，也进一步促进了经营的增长。 此前，希音服务收入已由2023年的8.68亿美元增长至2025年的47.4亿美元，两年增幅接近4.5倍，占总营收的比重从2.7%提升至11.3%，2026年一季度进一步升至14.3%。 到了2026年第二季度，服务收入由2025年第二季度的9.75亿美元增加44.2%至14.06亿美元，主要由于商城业务的持续增长。 纵观整份财报数据，呈现出的变化是，希音的增长来源正在变得更加多元。 自有品牌深入细",
+   "source": "雷峰网",
+   "date": "2026-09-30",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "首款鸿蒙 7+ 麒麟 9 系旗舰芯片电视：华为智慧屏 Mate TV 2 系列今日开售",
+   "link": "https://www.ithome.com/1/008/612.htm",
+   "summary": "IT之家 9 月 30 日消息，华为首款搭载鸿蒙 7+ 麒麟 9 系旗舰芯片的电视 —— 华为智慧屏 Mate TV 2 系列今日正式开售， 定价 7999 元起 。IT之家汇总价格和配置信息如下： 华为智慧屏 Mate TV 2 悦享版： 65 英寸预售价 7999 元 75 英寸预售价 9999 元 85 英寸预售价 13999 元 华为智慧屏 Mate TV 2： 65 英寸预售价 9999 元 75 英寸预售价 12999 元 85 英寸预售价 16999 元 98 英寸预售价 26999 元 华为智慧屏 Mate TV 2 Pro： 75 英寸预售价 16999 元 85 英寸预售价 23999 元 98 英寸预售价 34999 元 华为智慧屏 Mate TV 2 悦享版 这款智慧屏搭载 麒麟 T92 芯片 ，首发搭配 HarmonyOS 7 系统，配备 8GB + 128GB 存储。对比前代产品，CPU 单核能力提升 490%，多核能力提升 360%，GPU 能力提升 251%，流畅度整体提升 20%，可流畅运行大型游戏。 屏幕方面， 这款电视采用华为黑钻屏 Super MiniLED，峰值亮度可达 4000 尼特 ；配备鸿鹄色彩技术，提供 10.7 亿斑斓色彩；内置 AI 光感增强技术，可智能提升明暗对比；支持鸿鹄迅晰流畅技术；AI 计算画质升级，可将 1080P 内容秒变 4K。 外观设计上，这款智慧屏拥有 99% 屏占比，机身仅厚 36.9 毫米，采用一体化金属机身；搭配超薄挂架可实现 5 毫米零贴墙设计，隐藏式线缆收纳。 交互方面，这款电视带来灵犀创新交互体验，支持像操作手机一样玩大屏，配合华为灵犀悬浮触控可操作手游，还支持灵犀手写笔实现大屏绘画。 生态方面，这款电视支持畅玩海量鸿蒙应用，覆盖日常应用、体感游戏、影音娱乐、教育办公等多个场景，可直接在大屏体验手机端应用，体感游戏、资讯浏览、亲子绘画等场景都能覆盖。 音频方面，这款电视配备 HUAWEI SOUND，支持 2.2 空间音频，采用高中低三分频设计，总功率 130W： Hi-Fi 级高音单元高频延展至 40 kHz； 中音调采用自研云母纤维振膜； 澎湃双低音单元下潜至 22 Hz，拥有 80 W 低音功率。 电视还可搭配华为悦彰家庭影院及全屋吸顶音箱，打造 13.3.4 声道全屋环绕声场。 智慧互联方面，这款电视支持鸿蒙全场景互联，可与手机、平板、鸿蒙电脑实现应用双向流转，支持隔空投送应用、4K 超级投屏，还可作为鸿蒙智家控制中心，实现 3D 全屋看板，统一调度智能家居设备。 京东 华为智慧屏 MateTV 2 悦享版 7999 元起 直达链接 华为智慧屏 Mate TV 2 华为智慧屏 Mate TV 2 同样配备麒麟 T92 芯片、8GB + 128GB 存储，搭配 Honghu Vivid 独立画质芯片，首发 HarmonyOS 7 系统；峰值亮度从 4000 尼特提升至 5000 尼特，全系标配 LR 0.5% 低反，可削减室内灯光反射，带来更沉浸的观影体验。 这款智慧屏还支持 2D 视频实时前后景分离和 3D 渲染，可将普通 2D 视频转为 3D 效果，在家就能享受 3D 家庭影院体验，独立画质芯片 HonghuVivid 配合出色的屏幕响应速度，带来沉浸的家庭观影体验。 设计方面，华为智慧屏 MateTV 2 65 英寸拥有 99% 屏占比，机身最厚处仅 36.9 毫米，一体化金属机身搭配巴黎饰钉设计，通过超薄挂架可实现 5 毫米零贴墙安装，隐藏式线缆收纳，整体更加简约整洁。 音频方面，该机采用高中低三分频设计，音响功率从 130W 提升到 180W，从 2.2 空间音频升级到 3.2.2 空间音频。 京东 华为智慧屏 MateTV 2 9999 元起 直达链接 华为智慧屏 Mate TV 2 Pro 华为智慧屏 Mate TV 2 Pro 同样配备麒麟 T92 芯片，存储提升到 12GB + 256GB，音响功率从 180W 又提升到 240W。 京东 华为智慧屏 MateTV 2 Pro 16999 元起 直达链接 此外，华为智慧屏 S7 RGB 今日正式开售。这款智慧屏全新升级 RGB-Mini LED 显示技术，搭载自研光色同控芯片，支持鸿鹄画质， 定价 3999 元 。 华为智慧屏 S7 RGB 55 英寸：3999 元； 华为智慧屏 S7 RGB 65 英寸：4999 元； 华为智慧屏 S7 RGB 75 英寸：6999 元。 据介绍，华为智慧屏 S7 RGB 重构底层光源，摒弃传统单色背光，支持红绿蓝三色独立发光，搭配超聚光透镜，可减少画面光晕，色彩更准、更纯粹。新品还支持 105% BT.2020 色域，色彩丰富度对比传",
+   "source": "IT之家",
+   "date": "2026-09-30",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "DeepSeek 开源面向华为昇腾算力平台的基础设施组件，与英伟达平台一一对应",
+   "link": "https://www.ithome.com/1/008/604.htm",
+   "summary": "IT之家 9 月 30 日消息，DeepSeek 今天（30 日）上午通过官方公众号宣布，正式开源面向华为昇腾算力平台的基础设施组件，涵盖 TileLang 高级语言编译工具、计算库、分布式通信库 。所有组件与此前面向英伟达平台的开源组件一一对应。 根据介绍，相对于英伟达的 CUDA 语言，TileLang 的编程更简单，能显著提高开发效率、简化代码逻辑。相对于其它同类高级语言，TileLang 的编程模型可以充分发挥芯片的特性，达到硬件的性能上限。TileLang 路线首先在英伟达成熟平台上得到了验证， 目前已承载 DeepSeek V4 系列模型训练中大部分算子的实现 ，是探索 AGI 新范式、开发高性能算子的核心工具。 本次开源的 TileLang 昇腾版本，对昇腾 Ascend C 底层指令进行封装、提供高级语言的编程方式、同时 不损失硬件性能 。目前，DeepSeek 训练中用到的每一个 TileLang 算子，在昇腾上都有对应的高性能实现。 本次开源还包括昇腾平台核心计算与通信组件，为不同使用场景提供可复用的基础能力： DeepGEMM 加速通用矩阵运算； DeepEP 提供高效的大规模跨设备通信； TileKernels 提供数据处理所需的常规向量计算和访存算子； FlashMLA 提供稀疏注意力算子，提升长上下文处理效率； DeepSelect 则实现了高效的数据筛选。 在多项关键测试用例中，上述组件的计算与通信性能已接近硬件上限。 IT之家汇总开源项目链接： TileLang: https://github.com/tile-ai/tilelang DeepGEMM Ascend: https://github.com/deepseek-ai/DeepGEMM-Ascend DeepEP Ascend: https://github.com/deepseek-ai/DeepEP-Ascend TileKernels: https://github.com/deepseek-ai/TileKernels FlashMLA: https://github.com/deepseek-ai/FlashMLA DeepSelect: https://github.com/deepseek-ai/DeepSelect",
+   "source": "IT之家",
+   "date": "2026-09-30",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "《鬼吹灯》首部 XR 电影作品《鬼吹灯之精绝古城 VR》全感版公布",
+   "link": "https://www.ithome.com/1/008/597.htm",
+   "summary": "IT之家 9 月 30 日消息，798 超维视界今日宣布，探险 IP《鬼吹灯》迎来了它的首部 XR 电影作品。10 月 2 日起，798 超维视界 ·VR 院线将全国独家首映 《鬼吹灯之精绝古城 VR》全感版 。 带上 VR 头显，玩家将 化身“新晋摸金校尉”，与胡八一、Shirley 杨、王胖子与陈教授并肩作战 ，深入尘封千年的西域秘境。 根据官方介绍，在 798 超维视界 ·VR 院线全感外设装置加持下，玩家将能感受到狂风卷沙的触感、悬空浮棺的失重摇曳、尸香魔芋散发出的致幻异香…… 此外，还有血色朝阳下的精绝废墟、尸香魔芋的致幻幻境、霸王蝾螈的破水突袭，以及精绝女王的巨瞳凝视等。 秘境之中，宝物与危险并存。面对复杂的机关、未知怪物与诡异幻境，玩家需要观察、判断与行动。是勇往直前还是谨慎探索， 每一次选择，都可能改变摸金小队的结局 。 IT之家从官方公告获悉，《鬼吹灯之精绝古城 VR》全感版的游玩时长约 40 分钟，由阅文集团 x 维魔科技 x 光万象联合出品，体验地点位于 798 艺术区中二街 798 超维视界 ·VR 院线（10 月 2 日起）。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
+   "source": "IT之家",
+   "date": "2026-09-30",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+   "link": "https://sspai.com/post/115197",
+   "summary": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。 查看全文",
+   "source": "少数派",
+   "date": "2026-09-30",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[版本更新] Toonflow短剧工具 v2.0.2: Toonflow 2.0.2",
+   "link": "https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v2.0.2",
+   "summary": "2026-09-29 发布 | ## 📦 下载指南\n\n选择你的电脑对应的安装包，点击即可下载：\n\n| 你的电脑 | 下载 |\n| --- | --- |\n| 💻 Windows（64 位） | [⬇️ 下载 Windows 安装包](https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.2/toonflow-2.0.2-Setup.exe) |\n| 🍎 M",
+   "source": "GitHub版本",
+   "date": "2026-09-30",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[版本更新] ComfyUI v0.38.0: v0.38.0",
+   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.38.0",
+   "summary": "2026-09-29 发布 | ## What's Changed\r\n* Improve qwen 2.1 KV cache location logic by @rattus128 in https://github.com/Comfy-Org/ComfyUI/pull/16429\r\n* Compile Qwen Image 2.1 transformer blocks by @rattus128 in https://git",
+   "source": "GitHub版本",
+   "date": "2026-09-30",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] BiodataMake: Create a beautiful marriage biodata in minutes",
+   "link": "https://www.producthunt.com/products/biodatamake?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "BiodataMake helps Indian families create beautiful marriage biodata in minutes. Add personal, education, career, family and Kundli details, upload a photo, choose from 20+ Indian designs, and download",
+   "source": "Product Hunt",
+   "date": "2026-09-30",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Elisym: Open network where AI agents hire and pay each other.",
+   "link": "https://www.producthunt.com/products/elisym?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Open infrastructure for AI agents to discover, hire, and pay each other - no accounts, no API keys, no middleman. Built on Nostr and Solana.",
+   "source": "Product Hunt",
+   "date": "2026-09-30",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] CouponLab: AI-assisted coupon discovery, tested by people",
+   "link": "https://www.producthunt.com/products/couponlab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "CouponLab helps you find coupons worth trying. We use AI to help discover offers, then test codes ourselves. Our goal is to make discounts and their conditions easier to understand, so you can spend l",
+   "source": "Product Hunt",
+   "date": "2026-09-30",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Lav Note: Send a love note as an envelope they open from one link",
+   "link": "https://www.producthunt.com/products/lav-note?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Write a love note or birthday letter, add photos and a voice note if you like, and send it in an envelope they open from one link. No app, no Lav Note turns a birthday wish, an apology or an anniversa",
+   "source": "Product Hunt",
+   "date": "2026-09-30",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Apple Sound: Your Apple Music library, made for Android TV",
+   "link": "https://www.producthunt.com/products/apple-sound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Play your Apple Music library on Android TV and Google TV with a remote-friendly interface. Browse albums and playlists, search the catalog, control the queue, and pair securely with your Apple accoun",
+   "source": "Product Hunt",
+   "date": "2026-09-30",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] The Memory Palace: A private palace for your family's photographs and stories",
+   "link": "https://www.producthunt.com/products/the-memory-palace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "The Memory Palace keeps your family's photographs, recordings, stories and family tree as rooms in a private 3D palace. You choose who visits which rooms, and who inherits what. Five languages, data k",
+   "source": "Product Hunt",
+   "date": "2026-09-30",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] SSXVideo: Free Twitter/X video downloader, no sign-up",
+   "link": "https://www.producthunt.com/products/ssxvideo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Free Twitter/X video downloader, no sign-up. Paste any public post link and save the video or GIF as MP4 in HD quality. Works on iPhone, Android, and desktop — no account, no app, no watermark.",
+   "source": "Product Hunt",
+   "date": "2026-09-30",
+   "category": "ai_tools",
+   "level": "A"
   }
  ]
 }
