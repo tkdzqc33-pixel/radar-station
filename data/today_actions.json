@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "GPT-6.1 Sol",
-   "what": "OpenAI 新发布的低价大模型，价格仅为 Astra 的五分之一",
-   "why_today": "AI 创作成本大幅下降，直接测试其短剧脚本生成和翻译质量，评估能否替代现有高价模型批量生产内容",
+   "name": "Gemini 4",
+   "what": "写作能力超越代码的前沿大模型，适合批量生成高质量短剧剧本",
+   "why_today": "S级情报明确其写作强于代码，直接利好短剧剧本AI生成，需立即对比现有工具效果",
    "time_est": "1-2小时",
-   "source": "早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一"
+   "source": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型"
   },
   {
    "name": "可灵4.0",
-   "what": "国产 AI 视频生成工具重大升级版",
-   "why_today": "视频生成质量与效率直接影响短剧制作成本和产能，首发实测可对比现有工具评估替换价值",
-   "time_est": "2-3小时",
+   "what": "国产AI视频生成工具，视频能力升级，直接影响短剧/漫剧制作效率与质量",
+   "why_today": "S级情报建议立即测试生成短剧片段，对比现有工具效果，抢占产能优势",
+   "time_est": "1-2小时",
    "source": "可灵4.0首发实测，国产AI视频再次掀桌？"
   },
   {
+   "name": "Toonflow-app v2.0.2",
+   "what": "1.6万星开源AI创作平台，融合无限画布、AI Agent，专为短剧设计",
+   "why_today": "S级情报+版本更新，可直接替代付费工具链，需立即部署测试短剧分镜到成片全流程",
+   "time_est": "2-3小时",
+   "source": "Toonflow短剧工具 v2.0.2 / [GitHub] HBAI-Ltd/Toonflow-app"
+  },
+  {
    "name": "StoryGen-Atelier",
-   "what": "开源 AI 分镜+视频生成全流程工具（Gemini+Veo+ffmpeg）",
-   "why_today": "直接对标短剧分镜与视频生成，可基于此搭建短剧出海批量生产管线，开源无订阅成本",
-   "time_est": "3-4小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "what": "Gemini+Veo+ffmpeg自动生成分镜视频的开源项目",
+   "why_today": "S级情报，自动化分镜生成可大幅缩短短剧制作周期，需克隆部署评估Veo生成成本与质量",
+   "time_est": "2-3小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier"
   },
   {
-   "name": "Toonflow v2.0.2",
-   "what": "1.6万星开源 AI 短剧创作平台，融合无限画布、Agent 与分镜",
-   "why_today": "刚发布新版本，可零成本替代付费工具跑通短剧制作全流程，立即部署验证产能",
+   "name": "Open-Generative-AI",
+   "what": "无审查自托管视频生成，600+模型可绕开平台限制",
+   "why_today": "S级情报，自建无审查生成服务可省API成本并对外售卖，需部署测试接入短剧生产管线可行性",
    "time_est": "2-3小时",
-   "source": "[版本更新] Toonflow短剧工具 v2.0.2: Toonflow 2.0.2"
-  },
-  {
-   "name": "Sonnet 5.5",
-   "what": "Anthropic 新模型，半价 Opus 且 Agent Runtime 成本大幅降低",
-   "why_today": "Agent 成本降低三成，适合搭建短剧脚本+分镜批量生成自动化流程，测算实际降本幅度",
-   "time_est": "2-3小时",
-   "source": "深度拆解 Sonnet 5.5 ：半价 Opus 只是表象，Agent Runtime 才是变化核心"
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora 关停后续及迪士尼撤资影响",
-   "reason": "验证 AI 视频平台政策剧变风险，需持续跟踪以评估自有业务对第三方平台的依赖度并准备 Plan B"
+   "item": "Sora关停后的替代工具迁移进展",
+   "reason": "Sora关停直接影响依赖它的短剧制作流程，需持续关注Veo、Linum等替代工具的成熟度和成本变化"
   },
   {
-   "item": "OpenAI Dot 智能体平台生态",
-   "reason": "可能成为 AI 工具新分发渠道，需关注是否支持第三方工具接入及分成模式，决定是否抢先上架短剧创作 Agent"
+   "item": "OpenAI dots应用市场规则与Agent技能变现机会",
+   "reason": "OpenAI推Agent平台dots，可开发上架技能变现，需跟踪其规则和分成机制，评估开发短剧创作类Agent的可行性"
   },
   {
-   "item": "OpenAI 额度减半及功能扩张动向",
-   "reason": "直接影响 AI 内容创作成本结构，同时原生功能扩张可能覆盖独立工具，需持续评估替代方案"
+   "item": "GPT-6.1 Sol与Flash模型的价格与效果动态",
+   "reason": "GPT-6.1 Sol价格仅Astra五分之一，Flash模型低价承接高频任务，需持续关注API价格变化以优化工具开发成本"
   }
  ],
  "research_topics": [
   {
-   "topic": "AI 营销工具在短剧投流中的实际降本效果",
-   "why": "出海游戏买量成本高企的痛点与短剧投流高度相似，研究 AI 营销能否降低获客成本、提升 ROI"
+   "topic": "GEO优化方法及生成式引擎推荐机制",
+   "why": "AI驱动购物流量增393%，GEO成新流量入口，研究如何将短剧推广内容适配生成式引擎推荐，低成本获客"
   },
   {
-   "topic": "印度新数据安全政策对短剧 App 和 AI 工具的合规要求",
-   "why": "印度是短剧出海重要市场，合规风险直接影响产品落地，且合规知识可做成付费选题"
+   "topic": "三七互娱AI美术管线迁移到短剧制作的可行性",
+   "why": "AI降本增效逻辑与短剧出海一致，美术管线经验可复用，研究如何降本80%做短剧素材"
   },
   {
-   "topic": "出海游戏用 AI 做个性化推荐与用户留存的案例迁移",
-   "why": "短剧出海面临同样的留存和付费转化难题，游戏行业的 AI 个性化经验可迁移到短剧投流与运营"
+   "topic": "中东短剧市场本地化策略与题材适配",
+   "why": "中东是短剧出海蓝海，本地化方法论可直接复用，需拆解成功SLG手游本地化策略，评估中东短剧题材适配"
   }
  ],
- "daily_focus": "立即测试 GPT-6.1 Sol 生成短剧脚本和翻译质量，同时部署 Toonflow v2.0.2 跑通一条短剧制作流程，评估成本降幅。"
+ "daily_focus": "立即测试Gemini 4生成短剧剧本，对比现有工具效果，并同步部署Toonflow v2.0.2测试全流程"
 }
