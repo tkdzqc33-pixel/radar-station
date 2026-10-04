@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "可灵4.0",
-   "what": "国产AI视频生成模型，视频生成能力大幅提升，适合短剧制作",
-   "why_today": "S级情报，首发实测，直接关系短剧制作效率和质量，需立即对比现有工具",
-   "time_est": "1-2小时",
+   "name": "可灵 4.0",
+   "what": "国产 AI 视频生成工具最新大版本，主打画面质量与生成效率升级。",
+   "why_today": "S 级情报明确建议立即用可灵 4.0 测试短剧片段生成效果，且 Sora 关停造成工具空缺期，需要尽快验证替代方案。",
+   "time_est": "1.5 小时",
    "source": "可灵4.0首发实测，国产AI视频再次掀桌？"
   },
   {
-   "name": "StoryGen-Atelier",
-   "what": "基于Gemini+Veo的AI分镜与视频生成开源项目",
-   "why_today": "S级GitHub项目，可快速产出短剧样片投海外平台测试，验证全流程",
-   "time_est": "2-3小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "name": "Toonflow v2.0.3",
+   "what": "1.6 万星开源短剧全流程创作平台，支持本地部署、自由接模型。",
+   "why_today": "S 级情报同时出现工具本体和版本更新，且 Sora 关停后需要可自控的本地生产管线，今天部署能最快验证替代路径。",
+   "time_est": "2 小时",
+   "source": "Toonflow 短剧工具 v2.0.3 / Toonflow-app 开源项目"
   },
   {
-   "name": "Toonflow-app",
-   "what": "16k星开源AI创作平台，融合无限画布、AI Agent，支持短剧/漫剧生成",
-   "why_today": "S级项目，直接对标核心业务，可替代付费工具降本批量产漫剧",
-   "time_est": "3-4小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源 AI 创作平台..."
+   "name": "StoryGen-Atelier",
+   "what": "Gemini + Veo + ffmpeg 自动生成分镜和视频的开源短剧生产管线。",
+   "why_today": "S 级情报建议克隆部署并跑通全流程，可直接用于 AI 短剧批量生产，降低制作成本和时间。",
+   "time_est": "2 小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier"
+  },
+  {
+   "name": "Claude Code Mods 机制",
+   "what": "Claude Code 开放插件生态，可开发 AI 工具上架变现，类似早期 App Store。",
+   "why_today": "S 级情报指出这是插件生态早期机会，建议下载测试 Mods 机制并评估开发短剧相关插件可行性。",
+   "time_est": "1 小时",
+   "source": "Claude Code 的「乐高」模式，让程序员彻底玩「上头」了"
   },
   {
    "name": "WatermarkRemover-AI",
-   "what": "AI视频水印去除工具，提升AI素材可用性",
-   "why_today": "S级工具，可批量处理AI素材去水印后二次创作变现，测试对Sora/Runway视频效果",
-   "time_est": "1小时",
-   "source": "[GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using"
-  },
-  {
-   "name": "automate-for-growth",
-   "what": "Sora2自动化批量生成+多平台发布指南",
-   "why_today": "S级指南，直接对应短剧出海自动化管线，需精读并搭建批量生成+分发流程",
-   "time_est": "2-3小时",
-   "source": "[GitHub] cporter202/automate-for-growth: Complete guide to automating"
+   "what": "AI 去水印工具，解决 AI 视频商用合规痛点。",
+   "why_today": "S 级情报建议下载测试对 Sora/Runway 视频去水印效果，且 Sora 关停后素材迁移和二次剪辑需求上升。",
+   "time_est": "45 分钟",
+   "source": "[GitHub] D-Ogi/WatermarkRemover-AI"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后续影响及替代工具迁移",
-   "reason": "Sora关停导致依赖它的短剧制作流程需紧急迁移，替代工具窗口期有先发优势，需持续关注迁移进展和替代方案成熟度"
+   "item": "Sora 关停后的替代工具链切换进度",
+   "reason": "Sora 关停是重大风险信号，依赖它的短剧制作流程需紧急调整，同时竞品工具空缺期可能带来先发机会。"
   },
   {
-   "item": "OpenAI Dot智能体生态发展",
-   "reason": "Dot智能体可自动化工作流，适合开发插件变现，需关注其4000+应用连接能力和插件上架政策"
+   "item": "Claude Code Mods / DeepSeek Harness / py-gpt 插件生态变现规则",
+   "reason": "多个情报指向 AI 工具插件化和按用量收费趋势，早期上架可能获得平台红利，但需要持续跟踪分成和审核政策。"
   },
   {
-   "item": "AI视频模型排名变化及新玩家",
-   "reason": "AI视频榜全球第二的新影视公司可能改变短剧制作工具格局，需跟踪其模型是否更便宜或更适合短剧"
+   "item": "GPT-6.1 Sol、Gemini 4、Qwen-3.8-Flash 等低价强模型的价格与额度变化",
+   "reason": "OpenAI 额度减半、低价模型涌现会直接影响短剧 AI 制作成本和工具选型，需要持续比价和切换准备。"
   }
  ],
  "research_topics": [
   {
-   "topic": "中东短剧市场本地化策略",
-   "why": "中东是短剧出海蓝海，本地化方法论可复用，先入者优势大，需研究文化差异和题材偏好"
+   "topic": "短剧出海投流与 GEO 生成式引擎优化结合策略",
+   "why": "情报显示 AI 驱动购物流量增 393%，GEO 成为新流量入口，短剧投放可借力抢占先机。"
   },
   {
-   "topic": "AI营销工具在短剧投流中的应用",
-   "why": "出海游戏买量成本高，短剧投流同样面临高成本，AI营销可能降低投流成本，需调研具体工具和效果"
+   "topic": "中东和日本短剧市场本地化打法",
+   "why": "出海游戏本地化经验可直接复用，中东被视为短剧蓝海，日本有差异化空间，需要整理题材和运营清单。"
   },
   {
-   "topic": "日本市场短剧本地化运营",
-   "why": "国产手游日本本地化经验可直接用于短剧出海日本，需研究文化元素融入和运营策略"
+   "topic": "AI 短剧角色 IP + AI 社交互动留存模型",
+   "why": "AI 社交出海产品如 Popia 的对话式角色创建可借鉴到短剧角色预热和粉丝互动，延长用户留存和付费链路。"
   }
  ],
- "daily_focus": "立即测试可灵4.0生成短剧片段，并对比StoryGen-Atelier和Toonflow的全流程产出质量，确定主力生产工具。"
+ "daily_focus": "今天先部署 Toonflow v2.0.3 并用可灵 4.0 生成一段短剧测试片段，跑通 Sora 关停后的替代生产链路。"
 }
