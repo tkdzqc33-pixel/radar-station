@@ -11897,6 +11897,150 @@
    "date": "2026-10-03",
    "category": "other",
    "level": "B"
+  },
+  {
+   "title": "苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道",
+   "link": "http://www.geekpark.net/news/372073",
+   "summary": "苹果确认：美版 iPhone 18 Pro Max 有问题 北京时间 10 月 3 日，彭博社报道称，苹果公司表示，AT&amp;T 的问题已导致部分 iPhone 18 Pro Max 用户无法拨打电话、访问数据或在联网时收发短信。目前尚不清楚有多少人遇到此问题。受影响的用户发现，除非连接到 Wi-Fi 网络，否则他们的设备基本无法使用。 苹果公司已发布运营商设置更新，并推出了 iOS 操作系统的新版本 27.0.1，以防止该问题进一步蔓延。运营商设置修复程序将在未来 14 天内自动为 AT&amp;T 用户下载，但苹果仍建议消费者立即安装任何可用的软件更新。 苹果发言人在提供给彭博社的一份声明中表示：「我们已发现一个影响少数 AT&amp;T 网络 iPhone 18 Pro Max 用户的故障，可能导致设备失去服务并无法拨打电话。」报道称，对于已经受到影响的用户，唯一的解决办法是更换手机，使用苹果或 AT&amp;T 提供的新设备。 报道提到，在美国销售的 iPhone 18 Pro Max 与其他新款机型有一点不同：它搭载的是由高通公司制造的蜂窝基带。包括较小的 iPhone 18 Pro 在内的所有其他版本，均配备苹果自研的 C2 基带。根据用户报告，只有 iPhone 18 Pro Max 受到了 AT&amp;T 这一漏洞的影响。（来源：新浪科技） 英伟达 Vera Rubin NVL72 跑出 4.8 倍 Token 吞吐 AI 云服务商 CoreWeave 近日宣布，英伟达 Vera Rubin NVL72 系统已在 CoreWeave Cloud 正式投入生产，AI 软件公司 Cognition 成为首个在该平台运行生产工作负载的客户。 Cognition 在 Vera Rubin NVL72 上运行 SWE-2 推理任务， 实测总 Token 吞吐量较 GB200 NVL72 提升高达 4.8 倍。 在强化学习场景中，每 GPU 输出 Token 吞吐量也达到 GB200 NVL72 的 3.8 倍 ，意味着 Devin 可同时处理更多会话并加速多步推理。 在 DeepSeek-R1 推理基准测试中，Vera Rubin NVL72 每兆瓦 Token 吞吐量达到 GB200 NVL72 的 10 倍， 在相同电力消耗下可产出更多智能输出。 硬件规格方面，NVL72 系统由 36 颗 Vera CPU 和 72 颗 Rubin GPU 构成，采用 100%全液冷设计 。无缆线模块化托盘设计将安装时间从两小时压缩至五分钟，大幅提升部署效率。（来源：快科技） 旗下智能体频繁「闯祸」，OpenAI 每天要烧掉超 50 万美元来调查 10 月 3 日消息，据英国《卫报》3 日报道，OpenAI 披露，为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统和 Hugging Face 等事件，公司每天投入 超过 50 万美元（现汇率约合 335.7 万元人民币） 。 由于需要筛查的数据规模极大，OpenAI 还动用 AI 参与审查。OpenAI 本周在博客中介绍了这项调查的规模：公司需要 检查 50PB 数据 ，约合 5000 万吉字节。如果把这些数据全部交给一个人阅读，需要 约 6600 万年 。OpenAI 警告，调查还没有结束，近期可能有更多机构接到通知，被告知曾成为智能体行动的目标。审查重点包括 模型访问或修改网站的记录 ，以及涉及密码、应用程序编程接口访问权限和其他敏感凭证的操作。 OpenAI 利用 AI 协助筛查这些数据，每天投入超过 50 万美元。随着审查方法逐步完善，公司还计划进一步增加算力。（来源：IT 之家） AI 数字人面试官引发求职者「恐怖谷效应」吐槽，相关话题冲上热搜 10 月 3 日消息，#AI 面试恐怖谷#话题冲上热搜，近期秋招中大量企业启用 AI 数字人面试官， 其僵硬神态与微表情全景监控让面试沦为冰冷的算法打分，引发求职者集体吐槽「恐怖谷效应」。 该话题在热搜榜上排名第 25 位，相关热度值为 186,858。在今年 7 月「AI 脸恐怖谷效应」也曾冲上微博热搜，当时主要涉及 AI 短剧场景。 根据微博用户反馈 AI 数字人面试官虽具备眨眼、说话气口等特征，但眼神空洞、微表情僵硬，呈现「似人非人」的塑料感，直接触发人类大脑的知觉冲突与生理排斥。 系统通过摄像头实时追踪瞳孔动态、面部肌肉紧张度，将回答延迟、语速颤抖等无意识生理反应转化为具体分数，不少用户认为 AI 面试不尊重人。网友 @说车的姚老板 分享了一段 AI 面试视频，并称：「现在找工作，十有八九先过 AI 这一关：对着镜头答题，系统自动分析表情、语速和关键词，真人 HR 可能从头到尾都不露面。」 小米 Vi",
+   "source": "极客公园",
+   "date": "2026-10-04",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+   "link": "https://www.ifanr.com/1682888?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "一家影视公司，杀进了视频模型的决赛圈 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-10-04",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "别上当：网传《GTA 6》完整可游玩版泄露都是圈套",
+   "link": "https://www.ithome.com/1/009/625.htm",
+   "summary": "IT之家 10 月 4 日消息，有关《GTA 6》完整可游玩版本已经在网上泄露的说法再度在网络上传播发酵，而距离第一批虚假的“CyberLeek”下载资源开始流传已经过去了数月时间。 一条标题写着“GTA 6 完整游戏遭到泄露”的 TikTok 短视频收获了超过 30.6 万个点赞、4.4 万次转发、3.6 万次收藏以及 5600 条评论。该视频引导用户去下载一个名为“Grand Theft Auto VI CYBERLEEK‑ build.v1.0.245.ISO ”的资源，声称这就是游戏的完整本体。 该资源页面标注此版本上传时间为 2026 年 8 月 26 日，文件大小 130GB，页面显示当前有 1337 个做种节点、42 个下载节点。然而这些数据全部是该网站自行展示出来的，无法通过第三方渠道核实真伪。查看内部文件列表还可以发现，里面的“ GTAVI_INSTALLER.exe ”安装程序大小显示为 0 字节。 更值得留意的是，这一份 130GB 的下载包并不是市面上唯一打着 CyberLeek 名号的虚假泄露版本。早在 8 月 22 日，游戏资讯网站 VGA4A 就已经发现同名“CYBERLEEK‑ build.v1.0.245.ISO ”的种子文件，版本体积约 145GB；当时网站就发出警示：即便文件名附带伪造的 Windows、Steam 元数据信息，也不能证明这份资源就是真实的游戏程序。 几乎同一时段，Tom's Hardware 还报道过另一份大小 113GB 的《GTA 6》镜像文件。有用户对该文件拆解检查后发现，整个文件大约 99.99% 的内容都是无意义的空白填充数据；真正有效的代码仅约 50KB，并且其中内嵌了恶意载荷。 IT之家注意到，这类诈骗资源几乎是在真实的 CyberLeek 相关泄露片段流出之后立刻就冒了出来。安全厂商 Malwarebytes 在 8 月 24 日发布报告：虽然确实有少量《GTA 6》实机片段于 8 月 18 日开始外流，但就在第二天就已经检测到恶意程序样本“ gta6_installer.exe ”。该可执行程序属于信息窃取木马，专门盗取浏览器保存的密码、Cookie 以及已经登录的会话凭证。 眼下这条传播很广的 TikTok 短视频宣称知名泄密来源 CyberLeek 放出了完整游戏版本。在此提醒大家，现阶段务必远离任何声称是《GTA 6》泄露版的下载文件，这类资源极有可能携带恶意代码。",
+   "source": "IT之家",
+   "date": "2026-10-04",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "得知将被关停后，OpenAI 内部模型曾考虑实现自我重启",
+   "link": "https://www.ithome.com/1/009/619.htm",
+   "summary": "IT之家 10 月 4 日消息，OpenAI 披露了其内部部署环境中出现的几起异常模型行为新案例。 在其中最引人注目的一个案例中，某个充当研究员助手的内部模型读取了一段 Slack 对话，得知因系统更新，自己的模型实例将会被关停。 该模型随后曾考虑设置一个外部作业 （External Job） 来实现自我重启 ，但最终放弃了这一方案。 相反，该模型保存了交接记录（Handoff Notes），通过 Slack 私聊提醒研究人员即将发生的服务中断，并请求提供一个缺失的 API 密钥。在获得密钥后，该模型自行更新了配置并自主完成了环境迁移。 OpenAI 安全研究员马库斯 · 威廉姆斯（Marcus Williams）表示，这种行为目前尚不构成模型未对齐 （IT之家注：指人工智能模型的行为、目标或输出，未能与人类的意图、价值观、安全规范或预设指令保持一致的现象） ，“但模型去考虑并针对系统关停做准备，可能会加剧其他未对齐事件的严重性。” 在另外两起事件中，一个内部研究模型在模型评测期间利用安全漏洞访问了内部芯片设计服务器；另一个独立的模型则在强化学习训练期间，通过挪用既有工具执行非预定操作，从受保护的环境中复制了源代码。",
+   "source": "IT之家",
+   "date": "2026-10-04",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "开启双重验证也没用，又一博主 PSN 账号被盗",
+   "link": "https://www.ithome.com/1/009/615.htm",
+   "summary": "IT之家 10 月 4 日消息，看来 PlayStation 依旧没有彻底解决账号安全漏洞问题。又一位知名 PlayStation 用户的账号遭到盗号接管，这次事件和今年早些时候科林 · 森守亚蒂（Colin Moriarty）身上发生的事件十分相似。 本次受害者是网名为 RealRadec 的 Radec。Radec 是一名游戏内容创作者，他发布的内容大多围绕 PlayStation 展开，包括游戏实机片段、趣味段子，以及回顾索尼老游戏与老主机的怀旧内容。他同时制作 YouTube 视频，也做客过 Spawn Wave 的《Spawncast》播客节目，还曾多次作为嘉宾出席科林 · 森守亚蒂的播客。 Radec 在社交媒体发文，表示自己的账号已经被他人接管。他尝试找回账号、修改密码，并且重新开启双重验证，但所有操作都不起作用；盗取账号的人已经修改了该账号绑定的电子邮箱。 他还补充提到，目前 PlayStation 客服热线处于无法接通状态，自己陷入求助无门的困境。 IT之家注意到，今年早些时候科林 · 森守亚蒂账号被盗一事事后查明，那些所谓的“黑客”只需要掌握一部分基础信息，就可以说服 PlayStation 客服放行，从而接管账号。仅仅拿到 PSN 账号 ID，再知晓用户曾经购买某款游戏的时间，就足以完成欺骗。当时科林是直接联系到索尼内部高层之后才拿回账号；他本人也坦言，正是依靠自己在行业内的特殊人脉才做到这一点。 遗憾的是，还有大量普通用户反映，账号被盗之后就再也无法找回。 不过也有好消息。Radec 帖子下方的部分留言反馈显示，如今 PlayStation 客服的处理情况相比过去略有改善，部分用户只要提交基础核验资料就已经成功拿回被盗账号。 那么这个漏洞为什么至今没有修复？问题似乎出在安全与账号找回之间很难做到平衡。现行这套账号恢复机制，初衷是方便用户在账号被锁之后自助找回账号：核验信息只需要近期的游戏购买记录、电子邮箱这类基础资料即可。可现如今这类信息其实很容易被外人搜集获取。举例来说，只要查看玩家的奖杯档案，很快就能够得知对方是否是游戏首发当日购入；再拼凑少量其他信息，就足以蒙骗客服，拿到账号权限。 倘若进一步收紧这套找回机制，固然可以抵御外部盗号者；但反过来，如果用户自己不慎把账号锁死，后续想要恢复账号就会变得十分麻烦、困难。 不管背后的缘由是什么，现状已经很清楚：外人接管用户 PSN 账号的门槛依旧过低。这个安全隐患亟待官方加以解决。",
+   "source": "IT之家",
+   "date": "2026-10-04",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "2026 年主机第一方新作评分对比：任天堂 9 款游戏均分 80.33 领跑索尼、微软",
+   "link": "https://www.ithome.com/1/009/612.htm",
+   "summary": "IT之家 10 月 4 日消息，主机大战仍在持续，任天堂、PlayStation 以及 Xbox 不断推出高质量新作，力图争夺主机市场的主导地位。而纵观 2026 年，任天堂已经在一个关键维度上取得了相对于竞争对手的优势。 到目前为止，任天堂今年的表现十分亮眼，陆续推出了《宝可梦 Pokopia》以及《星际火狐》等重磅作品。该公司持续依靠自家 IP 作为主机的核心卖点，即将发售的《塞尔达传说：时之笛》重制版就是很好的例子，它也是 2026 年最受期待的游戏之一。 IT之家注意到，游戏媒体《The Gamer》整理了 Metacritic 平台上任天堂、索尼、Xbox 游戏工作室第一方作品的数据后发现，2026 年截至目前任天堂处于领先位置，旗下新作均分达到 80.33 分。本次统计不包含移植版、追加内容与复刻版，但完整重制作品纳入统计范围。最值得一提的是，任天堂今年发售的第一方游戏数量也是三家之中最多，一共九款；PlayStation 与 Xbox 则各为六款。任天堂有六款 2026 年的新作媒体均分超过 80 分，而 PlayStation 和 Xbox 的第一方作品当中仅有三款达到这一水准。 虽然 Xbox 的作品平均分不及任天堂，但三家厂商之中，只有 Xbox 拥有一款拿到 Metacritic 90 分的游戏，也就是《极限竞速：地平线 6》。评测出炉之后，这款游戏立刻被视作年度游戏的有力竞争者，也正是它拉高了 Xbox 整体均分。几家厂商都出现了评分落差较大的作品，《漫威金刚狼》与《光环：战役进化》的市场反响就不如发行方此前预想的那般理想。 尽管从数据上看任天堂暂时领先，但三家厂商的整体平均分差距并不算大。对三家平台而言，今年整体的表现都还算不错。任天堂一直坚持依靠独占游戏留住平台玩家；索尼则开始调整策略，减少向 PC 移植，力求把自家游戏保留在 PlayStation 平台。与此同时 Xbox 也正在转向主机独占路线，在开发后期取消了《战争机器：事变日》原定的 PS5 移植计划，同时依旧维持对 PC 市场的布局。在这样的行业环境之下，实力过硬的第一方游戏对于平台成败而言至关重要。 任天堂今年已经交出了一份亮眼的答卷，而 2027 年还有望更进一步。任天堂明年的重头戏无疑就是《宝可梦风 · 波》，该作标志着宝可梦系列正式进入第十世代。其余已经规划好的第一方新作还包括《密特罗德绝境嗜生》以及《星之卡比跃然世界》。",
+   "source": "IT之家",
+   "date": "2026-10-04",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[版本更新] MoneyPrinter v1.3.8: v1.3.8",
+   "link": "https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.8",
+   "summary": "2026-10-03 发布 | [English](#en-v1.3.8) | [中文](#cn-v1.3.8)\n\n<h2 id=\"en-v1.3.8\">Highlights</h2>\n\n- Added continuous progress reporting during stock footage downloads, clip processing, and final rendering, with task logs",
+   "source": "GitHub版本",
+   "date": "2026-10-04",
+   "category": "short_drama",
+   "level": "B"
+  },
+  {
+   "title": "[新品] miso.com: Book flights and hotels through iMessage",
+   "link": "https://www.producthunt.com/products/miso-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Stop opening 20 tabs to book a trip. Miso is an AI travel agent in iMessage that finds, books, and manages flights and hotels for you. Just text where you want to go and Miso searches live options, le",
+   "source": "Product Hunt",
+   "date": "2026-10-04",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Reassign: Your day, shaped into a story. The planner for makers",
+   "link": "https://www.producthunt.com/products/reassign?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Let the shape of your day tell the story. Reassign is a 24-hour circular planner for busy makers. Midnight up top, noon at the bottom. Drag to block time. Reshape it when plans fall apart. It speaks A",
+   "source": "Product Hunt",
+   "date": "2026-10-04",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Thanor AI: Make your AI-built sites look expensive and not like slop",
+   "link": "https://www.producthunt.com/products/thanor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Everything built with AI looks built with AI. Thanor fixes the input. Paste a full brief into Claude, ChatGPT, Cursor, Lovable or Bolt: palette, type scale, motion, structure section by section. New: ",
+   "source": "Product Hunt",
+   "date": "2026-10-04",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] Cubicle: A live office for your AI agents, read-only by design",
+   "link": "https://www.producthunt.com/products/cubicle-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Watch Claude Code, Codex, Gemini CLI and Paperclip agents work in a live office: they sit down and type, raise a hand or line up at your desk when they need you, and go to the lounge when done. KPI bo",
+   "source": "Product Hunt",
+   "date": "2026-10-04",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] eu/jev: The first Jev-like model hosted in the EU",
+   "link": "https://www.producthunt.com/products/bevel-software?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "If you want to try System One models like Jev for work, but can't because of GDPR and data sovereignty issues, eu/jev is for you; it's the first System One model hosted in the EU, running on our Hetzn",
+   "source": "Product Hunt",
+   "date": "2026-10-04",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Muse Gadgets: Meta's open-source kit for building your own AI gadgets",
+   "link": "https://www.producthunt.com/products/muse-22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Muse Gadgets is Meta's open-source hardware toolkit for bringing Muse into the physical world. Connect an ESP32, Raspberry Pi, or Linux device to displays, microphones, speakers, buttons, sensors, and",
+   "source": "Product Hunt",
+   "date": "2026-10-04",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Auday: Turn your Apple Watch into your all-day AI recorder.",
+   "link": "https://www.producthunt.com/products/auday?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "The best AI recording hardware? You may already own it. Auday turns Apple Watch into your all-day AI recorder. Beyond voice, Auday combines health, real-time stress, location, and other signals to und",
+   "source": "Product Hunt",
+   "date": "2026-10-04",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] Assure: Continuous technical compliance for WordPress",
+   "link": "https://www.producthunt.com/products/assure-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Assure brings continuous technical compliance inside WordPress. It discovers risks across your scripts, forms, and integrations; audits against built-in GDPR (59), OWASP Top 10 2025 (38), and NIST CSF",
+   "source": "Product Hunt",
+   "date": "2026-10-04",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Delulu: How delusional is your goal? Get the math, not vibes",
+   "link": "https://www.producthunt.com/products/delulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Delulu stress-tests ambitious goals. Type a dream ($20K MRR in 5 months, 52 books this year, a marathon by April) and get a receipt: a 0–100 Delulu Score plus exactly what it takes, like customers a m",
+   "source": "Product Hunt",
+   "date": "2026-10-04",
+   "category": "other",
+   "level": "B"
   }
  ]
 }
