@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Claude Code Mods 插件机制",
-   "what": "Claude Code 新开放的插件生态，可开发并上架插件变现",
-   "why_today": "S级情报，插件生态刚开放，先发者可抢占上架红利，直接关联变现路径",
-   "time_est": "2小时",
-   "source": "Claude Code 的「乐高」模式，让程序员彻底玩「上头」了"
-  },
-  {
-   "name": "Toonflow v2.0.3",
-   "what": "开源 AI 短剧创作平台，融合无限画布与 AI Agent，支持智能分镜和短剧生成",
-   "why_today": "S级且刚发版本更新，直接关联核心业务制作效率，需评估是否升级现有流程",
-   "time_est": "3小时",
-   "source": "Toonflow短剧工具 v2.0.3"
-  },
-  {
-   "name": "Open-Generative-AI",
-   "what": "29632星无审查开源视频生成项目，600+模型可自托管",
-   "why_today": "S级情报，零成本无审查批量生成短剧素材，可大幅降低制作成本",
-   "time_est": "半天（含部署）",
-   "source": "Anil-matcha/Open-Generative-AI"
-  },
-  {
    "name": "Gemini 4",
-   "what": "写作能力首次强于代码的前沿模型",
-   "why_today": "A级但影响直接，可批量产短剧剧本和知识付费文案，降低编剧成本，今天写一集剧本对比效果",
-   "time_est": "1小时",
+   "what": "Google 最新前沿模型，写作能力显著强于代码，适合剧本与多语种台词生成",
+   "why_today": "S级情报确认其为写作强模型，直接匹配短剧剧本和知识付费内容生产核心需求，早测早建立内容质量优势",
+   "time_est": "1-2小时",
    "source": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型"
   },
   {
    "name": "GPT-6.1 Sol",
-   "what": "OpenAI 新模型，价格仅为 Astra 的五分之一",
-   "why_today": "A级但成本信号极强，可替代高价 API 做短剧脚本生成和翻译，今天测质量是否够用",
+   "what": "OpenAI 新模型，价格仅为 Astra 的五分之一，主打极低推理成本",
+   "why_today": "S级情报显示价格极低，可大幅降低短剧剧本批量生成和翻译的 API 成本，需立即验证性价比是否真能替代现有模型",
    "time_est": "1小时",
-   "source": "早报｜曝苹果新CEO想更快发产品/GPT‑6.1 Sol推出，价格仅Astra的五分之一"
+   "source": "早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一"
+  },
+  {
+   "name": "Toonflow-app",
+   "what": "1.6万星开源 AI 创作平台，融合无限画布、AI Agent，支持本地部署和自由接入模型",
+   "why_today": "S级情报直接匹配短剧生产管线核心需求，开源可省去 SaaS 订阅费，需立即部署评估分镜和视频生成质量",
+   "time_est": "3-4小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源 AI 创作平台，融合无限画布、AI Agent 与"
+  },
+  {
+   "name": "StoryGen-Atelier",
+   "what": "AI 辅助分镜和视频生成的 GitHub 开源工具",
+   "why_today": "S级情报建议立即下载测试，可直接用于短剧分镜到视频的批量生产流程，降低制作成本",
+   "time_est": "2-3小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+  },
+  {
+   "name": "Open-Sora",
+   "what": "近3万星开源视频生成模型，可低成本自建短剧产线",
+   "why_today": "S级情报建议本地部署测试短剧片段生成质量，Sora 关停后开源替代方案战略价值凸显",
+   "time_est": "3-4小时",
+   "source": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora 关停后续影响及替代工具",
-   "reason": "S级风险信号，依赖单一工具危险，需持续跟踪替代方案并备份资产"
+   "item": "Sora 关停后的竞品迁移动态（Runway/Pika/可灵是否推出迁移优惠）",
+   "reason": "Sora 关停+迪士尼撤资验证单一平台致命风险，需确保至少2个备用AI视频工具，竞品可能推出限时优惠锁定用户"
   },
   {
-   "item": "OpenAI Dot 智能体与 Codex 28天计划",
-   "reason": "Agent 平台方向变化可能影响工具开发路线，Codex 持续迭代降低插件开发门槛"
+   "item": "快手可灵 AI 赴港上市进展及招股书披露的 B 端 API 定价和海外布局",
+   "reason": "可灵是短剧AI制作核心工具，上市前可能推优惠锁定用户，上市后定价策略将变化，需提前囤算力或锁定价格"
   },
   {
-   "item": "AI 视频榜全球第二的新影视公司及其模型 API",
-   "reason": "可能改变短剧制作工具格局，抢先接入可差异化竞争，需查清公司名称和开放情况"
+   "item": "Claude Code Mods 插件生态开放进展",
+   "reason": "Mods机制开放插件生态是开发AI插件上架出售的绝佳机会窗口，需持续关注生态成熟度和变现案例"
   }
  ],
  "research_topics": [
   {
-   "topic": "GEO 优化策略及其在短剧推广和知识付费获客中的应用",
-   "why": "AI 驱动购物流量增393%，GEO 是新流量入口，可打包进知识付费课程变现"
+   "topic": "GEO（生成式引擎优化）如何应用到短剧推广和知识付费获客",
+   "why": "AI驱动购物流量增393%，GEO成新流量入口，直接影响短剧投流策略和知识付费获客效率，是出海品牌系统能力竞争的关键"
   },
   {
-   "topic": "中东和日本短剧市场本地化要点（从出海游戏本地化经验迁移）",
-   "why": "中东是短剧出海蓝海，日本市场本地化内容有差异化机会，可直接复用游戏出海经验"
+   "topic": "Amazon Bedrock 上架自有 AI 工具或集成的可行性及分成机制",
+   "why": "GLM-5.3上架Amazon验证国产大模型可通过AWS分成变现，为AI工具出海提供新分发渠道，需研究上架门槛和收入分成比例"
   },
   {
-   "topic": "AI 生成内容版权合规风险及规避方案",
-   "why": "AI 生成跨游戏模组引发版权争议，短剧和工具需规避风险，合规工具需求上升"
+   "topic": "印度新数据安全政策对 SaaS 工具上架和短剧平台运营的合规要求",
+   "why": "印度是短剧出海重要市场，数据合规政策直接影响业务可行性，需低成本完成合规排查"
   }
  ],
- "daily_focus": "部署测试 Toonflow v2.0.3，评估其智能分镜和短剧生成效果是否可升级现有制作流程"
+ "daily_focus": "部署 Toonflow-app 并跑通从分镜到视频的完整短剧生产流程，同时用 Gemini 4 和 GPT-6.1 Sol 各生成一版多语种短剧剧本做质量与成本对比"
 }
