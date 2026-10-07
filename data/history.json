@@ -12635,6 +12635,159 @@
    "date": "2026-10-06",
    "category": "ai_tools",
    "level": "B"
+  },
+  {
+   "title": "Anthropic扩大先进AI模型访问权限，允许特定机构开展网络安全测试",
+   "link": "https://www.36kr.com/newsflashes/4015209455456387",
+   "summary": "据报道，Anthropic正与美国政府合作，扩大其最先进AI模型的使用权限，允许一批经过筛选的机构测试这家初创公司的尖端网络能力。根据周二发布的声明，该公司将允许经过验证的机构使用其能力最强的模型，包括Claude Opus 5.5、Claude Sonnet 5.5、Claude Mythos 5.1，以及未来推出的新模型。声明称，获得权限的机构可以对旨在保护电网、银行和航班运行系统等关键基础设施的安全系统进行“高风险攻击性测试”。（界面新闻）",
+   "source": "36氪 - 快讯",
+   "date": "2026-10-07",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "AI算力初创公司Lambda拟在IPO前最后一轮融资中筹集40亿美元",
+   "link": "https://www.36kr.com/newsflashes/4015161463361412",
+   "summary": "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元。新一轮融资对Lambda的估值为145亿美元，该估值不包括此次拟筹集的资金。本轮IPO前融资由投资公司黑石集团（Blackstone）和Coatue Management领投。（新浪财经）",
+   "source": "36氪 - 快讯",
+   "date": "2026-10-07",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "OpenAI发布前沿大模型的全新数学能力测试成果‌",
+   "link": "https://www.36kr.com/newsflashes/4015136016617345",
+   "summary": "OpenAI正在公开其内部前沿大模型生成的一系列全新数学研究成果，相关内容通过GitHub代码库发布，同时附带了论文修订与引用的规范协议。本次公开的成果包含Lean语言形式化证明，可让数学证明内容直接通过计算机完成校验；单份成果平均消耗的算力，约等于ChatGPT Pro三小时的深度推理时长。（财联社）",
+   "source": "36氪 - 快讯",
+   "date": "2026-10-07",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "OpenAI在其智能体擅访澳数据后采取新防范措施",
+   "link": "https://www.36kr.com/newsflashes/4014160822505345",
+   "summary": "美国开放人工智能研究中心（OpenAI）首席战略官贾森·权6日在悉尼表示，OpenAI一个智能体未经授权访问澳大利亚国民医疗保险体系数据门户后，其公司已采取新防范监控措施，并已从事件中吸取教训。权当天接受澳议会下设人工智能联合特别委员会质询时说，该事件促使公司增设了监控机制：一旦模型以违规方式接入互联网，工作人员可立即介入终止训练；同时该公司支持澳大利亚针对同类事件建立强制报告制度。 (新华社)",
+   "source": "36氪 - 快讯",
+   "date": "2026-10-07",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "微软 XBOX 夏尔马：游戏主机仍是核心，第 10 代将提供“一系列设备”",
+   "link": "https://www.ithome.com/1/010/160.htm",
+   "summary": "IT之家 10 月 7 日消息，科技媒体 Windows Central 昨日（10 月 6 日）发布博文，报道称在近期举办的内部员工会议上，微软 XBOX 首席执行官阿莎 · 夏尔马（Asha Sharma）表示在今年重组之前，微软 XBOX 游戏业务陷入“自由落体式”下滑，不过目前已经重回增长轨道。 夏尔马在全员会议上直言，2026 年年初微软 XBOX 在时长、玩家数、收入上都在下滑，此前的 Game Pass 策略让 XBOX 陷入“自由落体式”下跌。不过如今第一方（XBOX 自有发行）已恢复增长，并且她称增长幅度达到低谷时的“2–3 倍”，预计还会继续。 她还点名《战争机器：事变日》（Gears of War: E-Day）、 《我的世界: 地下城 2》（Minecraft Dungeons II）、《魔兽世界：无限》（World of Warcraft Forever）开局表现“强劲”，并提到过去一年 XBOX 品牌好感度提升了约 30%。 在游戏主机方面， 夏尔马提出了“四个 C”战略 ，将会围绕着 Core（核心）、Content（内容）、Creation（创作）、Connection（连接）推进，并强调即便主机整体市场不增长，Xbox 仍有机会在这个赛道继续做大。 夏尔马表示将会推进 Xbox Cloud Gaming、光盘转数字（disc‑to‑digital）、以及 Xbox Play Anywhere 的扩展；同时暗示 Game Pass 未来会更“灵活”，让玩家能按内容类型定制订阅。 夏尔马还提到了第十代设备（XBOX Series S|X 当前为第 9 代）， 明确说第十代将是“一系列设备” ，不存在“一款设备适合所有人”，IT之家翻译夏尔马讲话内容如下： 我们正在向第十世代主机系列产品线转型。没有一款设备能够满足所有用户的需求。我们当然会首先推出一款优秀的家用游戏机，但我们也知道很多玩家会经常外出使用。 有些方面我们拥有世界一流的制造能力，而其他方面我们会寻求合作伙伴。随着计划的推进，我们会分享更多相关信息。操作系统目前看起来非常出色，我们对此感到非常兴奋。 对于战网（ Battle.net ），夏尔马表示 Battle.net 的用户留存几乎与 Steam 持平，并将通过与 CD Projekt RED 等合作继续扩大；同时强调 Battle.net 会保持比 Steam / Xbox PC 更“精选（curated）”的定位。 针对开发者，夏尔马承诺会简化目标、梳理 API，让开发者更容易把游戏发布到 Series X|S、Helix 与 Xbox PC—— 这直指过去多年开发者抱怨的“发布难 / 适配复杂”痛点。",
+   "source": "IT之家",
+   "date": "2026-10-07",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "阅后即焚功能惹祸，英国通信管理局依据《网络安全法》对 Meta 启动首次正式调查",
+   "link": "https://www.ithome.com/1/010/157.htm",
+   "summary": "IT之家 10 月 7 日消息，据路透社报道，英国通信管理局于当地时间周二依据《网络安全法》，针对 Meta 启动了首次正式调查，核查该公司在五月份推出 Instagram 的 Instants 功能之前，是否已经对这项功能所带来的风险开展充分评估。 Instants 这项功能允许用户在 Instagram 上发布的内容被浏览之后随即自动消失。 英国通信管理局（Ofcom）表示，本次调查旨在确认 Meta 在上线该功能前，有没有针对该功能上出现非法内容的风险，以及该功能可能给儿童带来的各类风险完成“恰当且充分”的风险评估。 英国通信管理局执法部门主管乔治 · 拉斯蒂（George Lusty）指出：“我国的网络安全相关法律规定十分明确 —— 平台如果做出重大功能改动，上线之前就必须完成风险评估。” 他还表示，安全性应当在产品设计之初就予以植入，而不是后期临时追加。“本次启动调查表明，如果监管部门担忧服务提供商未能遵守法规，我们就会采取相应行动。” Meta 方面回应称，自身十分重视《网络安全法》项下的监管义务。该公司的发言人表示：“正式上线之前，我们已经完成风险分析，并且多次就该项功能向英国通信管理局进行情况通报。Instants 内置多项防护机制，包括禁止截图、禁止二次转发分享；没有公开信息流；青少年账号防护默认处于开启状态。” 发言人同时称：“在本次调查过程当中，我们当然会配合英国通信管理局的相关工作。” 英国通信管理局此前依据《网络安全法》开展的调查，首例是去年针对一处网络自杀讨论论坛；之后还陆续调查过色情网站、被用来传播儿童性虐待资料的文件分享服务，以及 4chan 这类网络平台。 英国这套网络安全监管制度对社交媒体平台、搜索引擎以及成人内容服务商提出责任要求，需要平台处置非法内容，同时保护未成年人安全。 英国通信管理局要求相关企业开展风险评估并且落实安全管控措施，例如年龄核验。 如果企业未能合规，英国通信管理局可以处以最高 1,800 万英镑 （IT之家注：现汇率约合 1.6 亿元人民币） ，或是企业全球合格营收 10% 的罚款，二者取金额更高的那一档。 Meta 此前已经就该法案的执行问题对英国通信管理局提起法律抗辩，争议点包括 Meta 需要向监管机构提交信息的规模与范围，以及英国通信管理局收取的费用标准。 早在今年一月份，英国通信管理局就曾经依据另一部《通信法》，针对 Meta 旗下 WhatsApp 商业版产品的信息报送事项启动过调查。",
+   "source": "IT之家",
+   "date": "2026-10-07",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "硬件都在卷Agent，耳夹式耳机靠什么卖得更好？",
+   "link": "https://www.huxiu.com/article/4895598.html",
+   "summary": "耳夹式耳机的反向走红说明了什么。2026年，耳机市场出现了一个有趣的现象。IDC发布的2026年第二季度全球耳戴设备跟踪数据显示，在传统穿戴形态持续遇冷的同时，耳夹式开放式耳机全球出货量同比暴涨82.2%，成为音频赛道增速最快的细分品类。在所有设备都拼命变“智能”的当下，耳夹式耳机这个品类几乎没有强Agent...... 本文来自微信公众号： 豹变 ，作者：李白，编辑：邢昀 耳夹式耳机的反向走红说明了什么。 2026年，耳机市场出现了一个有趣的现象。 IDC发布的2026年第二季度全球耳戴设备跟踪数据显示，在传统穿戴形态持续遇冷的同时，耳夹式开放式耳机全球出货量同比暴涨82.2%，成为音频赛道增速最快的细分品类。 在所有设备都拼命变“智能”的当下，耳夹式耳机这个品类几乎没有强Agent赋能、没有大模型加持、没有花哨的智能交互。但就是这副“不那么智能”的耳机在整个消费电子圈拼命卷AI功能时，反而跑出了增长曲线。 这意味着，AI硬件行业或多或少存在一些供需错位：好用、无负担、松弛的基础体验，同样有机会重新成为硬件竞争的话语权。 由此延伸出来的思考是，国补拉动增长效应递减后，智能硬件厂家应该给出一个Agent之外的新换机理由。 耳夹式耳机，为什么突然出圈？ 耳夹式耳机，也不算突然出圈。 2025年一档热门综艺《姐姐当家》中，董璇老公张维伊因为一直戴着耳夹式耳机，引发了网友讨论。他吃饭戴、聊天戴，见家人时也戴。观众觉得不礼貌，调侃耳机像“焊在耳朵上”，后来节目甚至给耳机打了码。 这场争议讨论的是人，但耳机本身也留下了一个值得琢磨的问题：一副耳机，为什么能让人戴着戴着就忘了摘？ 一个明星把耳机戴成了负面符号，看起来是个娱乐事件。但耳夹式耳机确实开始进入更多消费者视野。 IDC数据显示今年第二季度，耳夹式开放式耳机迎来爆发，全球出货量同比暴涨82.2%。而耳挂式耳机出货量同比下降5.1%，颈挂式耳机仅微增0.9%，增长基本停滞。 国内市场的消费趋势同样值得关注。 洛图科技《2026上半年中国耳机耳麦零售市场报告》进一步印证了这种逆势行情。数据显示，2026年上半年国内耳机耳麦全渠道总销量为8797万副，整体市场同比下滑15.9%，行业大盘持续降温。但在这样的下行环境中，开放式耳机交出同比增长34.1%的亮眼成绩，成为整个音频行业为数不多的正向增长赛道。 增长背后，是一批具体而细微的使用痛点。有人戴入耳式耳机久了会觉得胀痛，希望换一种不堵耳道的选择；有人戴眼镜，不喜欢耳挂与镜腿挤在一起；也有人在通勤、办公时，希望听音频的同时仍能察觉周围的动静。 耳夹式耳机未必在音质、漏音控制或佩戴适配上适合所有人，但它用一种新形态，回应了这些过去容易被忽略的需求。 一位重度音乐爱好者对《豹变》表示，对他来说，耳挂式或者传统头戴、耳挂设备会挤压镜腿，长时间佩戴存在明显异物感，频繁充电、单边断连、外出易丢、收纳烦琐，使用细碎的负担不断累积，耳夹式相比之下要好很多。 也有消费者直言：“我不算跟风，之前其他入耳式的长期收听耳朵疼，所以换一种开放式试试。”此前第三方调研机构Counterpoint的实测数据也支撑了这种感受：连续佩戴2小时，TWS（真无线耳机）用户中31%出现耳道胀痛或耳鸣感，而OWS（开放式耳机）用户仅4%。 有意思的是，最近消费电子新品发布会上，AI几乎成了标配：手机要有Agent，耳机要能实时翻译，穿戴设备也在争当下一个智能入口。但耳夹式耳机没有复杂的Agent，没有大模型加持，没有花哨的智能交互。 这个品类的出圈，从消费端给出的答案，未必是“再聪明一点”。当手机、眼镜和耳机都忙着接入大模型、比拼Agent能替用户做多少事时，一部分消费者花钱解决的是更早、更朴素的问题：耳朵疼不疼，眼镜会不会被挤，出门时能不能既听音乐又听见路况。 大厂何以冷视，用户又为何热衷？ 耳夹式耳机成为新爆品，也引来不少玩家入局。 第一梯队是手机大厂，华为是绝对的主角。华为用FreeClip系列占据高端市场，今年6月又推出FreeClip 2典藏版，把耳机与珠宝配饰的结合做得更明显；OPPO在4月发布Enco Clip2，主打无感佩戴、AI通话降噪，也加入了面对面翻译；小米5月发布首款耳夹式耳机，补齐了自家耳机产品线。三星的首款耳夹式耳机‌Galaxy Buds On‌也在路上。 专业音频品牌同样没有缺席。韶音今年推出OpenDots 2和OpenDots Air，继续在结构、稳固性和听感上做文章。倍思、漫步者、南卡等品牌则在更多价位段争夺用户。 另外，还有电商新锐品牌则依靠高性价比抢占下沉市场。 产品越出越密，但大厂对耳夹式品类的态度，可以概括为跟进但不押注。它们看到了增长，愿意出产品占位，但研发资源和渠道重心仍然放在手机、PC和智能眼镜这些真正的AI入口上。 一位智能",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-10-07",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "刚刚，OpenAI甩出722篇数学论文，准黎曼猜想也来了，奥特曼要让数字家“瘫坐”",
+   "link": "https://www.huxiu.com/article/4895597.html",
+   "summary": "好家伙，OpenAI刚刚直接给数学界端上了722篇论文。这是OpenAI一款内部未发布模型产出的数学成果，已经打包放进了GitHub。这些手稿归为372组成果，供所有人查看。APPSO先给你把重点划出来：722篇手稿，归为372组成果。同一组可能包含主结果、配套论证、推论和不同证明，不能直接理解成解决了722...... 本文来自微信公众号： APPSO ，作者：发布明日产品的，原文标题：《刚刚，OpenAI甩出722篇数学论文！准黎曼猜想也来了，奥特曼要让数字家「瘫坐」》 好家伙，OpenAI刚刚直接给数学界端上了722篇论文。 这是OpenAI一款内部未发布模型产出的数学成果，已经打包放进了GitHub。这些手稿归为372组成果，供所有人查看。 APPSO先给你把重点划出来： 722篇手稿，归为372组成果。同一组可能包含主结果、配套论证、推论和不同证明，不能直接理解成解决了722道独立难题。 重点课题涉及准黎曼猜想、唯一博弈猜想、霍奇猜想的特殊情形，以及自由群因子问题。光看题目，含金量已经拉满。 结果处于不同验证阶段。部分附有Lean形式化材料，公开上传也不意味着全部完成学界审查。 论文公开了，模型还没开放。人类现在拿到了研究材料，接下来要逐项检验、理解和使用它们。 GitHub🔗https://github.com/openai/math 奥特曼则发文表示： 我们正在进入一个发现的新时代。 OpenAI的说法，现有数学评测快刷满了，于是把更多开放研究问题搬上考卷。模型接到约4000个问题，输出经过归组和重要性筛选，形成了这份目录。 每项结果，平均消耗相当于约三小时ChatGPT Pro思考的算力。 看这架势，奥特曼怕是想让数学家们看完目录，先瘫坐在地上缓一缓。 准黎曼猜想，这次到底走到了哪一步？ OpenAI发布这个论文包后，罗格斯大学数学教授Alex Kontorovich在X上的反应，问号和感叹号都快装不下了： 准黎曼猜想？！？你在开玩笑吗？如果这是人类做出来的，立刻就是一枚菲尔兹奖，毫无疑问。 黎曼ζ函数与素数的分布密切相关。它在某些位置的值为零，这些「零点」的位置，会影响我们能多精确地描述素数的分布。 黎曼猜想认为，所有非平凡零点都落在实部等于1/2的直线上。这次手稿提出的结论是：实部大于7/8的区域，没有零点。 Kontorovich解释，过去在临界带靠近实部1的一侧，已知的无零点区域会随着虚部升高越收越窄。他原本以为，能把这片区域拓宽一点，就已经是重大突破。 这次手稿给出的，却是一条宽度固定、无限延伸的条带。在0到1的临界带内，7/8右侧整片区域都被划进了「零点禁区」。仓库提供了相关Lean形式化材料。 「准」字必须要加上，完整的黎曼猜想还没有因此解决。 唯一博弈猜想，多少有点给算法优化泼冷水的意思。 很多计算问题，想快速拿到最优答案太难，只好争取一个足够好的近似答案。比如Max-Cut：把关系网里的点分成两拨，尽量让更多连线跨过两拨之间。 这组论文宣称证明了唯一博弈猜想，并给出Max-Cut等问题的近似难度界限。若证明成立，在P≠NP这个尚未证实的前提下，高效算法在一般输入上的最坏情况近似保证，就无法突破相应界限。具体数据或特殊结构上的表现，仍可能继续改善。 翻到霍奇猜想，又是一个千禧年大奖难题。它关心复杂几何空间中的某类特征，能否由多项式方程定义的几何部件来表达。 这次论文处理的是CM阿贝尔簇上的有理霍奇猜想，一个特殊而重要的类别。 完整的霍奇猜想依然不能就此宣布解决。这项成果目前也未列出配套Lean形式化。 自由群因子的问题，读起来有点绕。 想象用两套基础操作，分别搭出庞大的数学运算系统。一个从两个生成元出发，另一个从三个出发：最终形成的算子代数，结构上能不能完全对应？ 论文给出的答案是可以，范围还覆盖了所有参数大于1的插值自由群因子，包括无穷参数情形。仓库提供了相关Lean形式化材料。这里相同的是构造出的算子代数结构，原来的自由群并没有因此变成同一个群。 谈到AI给数学界带来的变化，美国西北大学数学家Bryna Kra在此次发布前接受WIRED采访时说： 这是个令人不安的时刻，但也着实令人兴奋。 Lean都附上了，能开香槟了吗？ 按公开目录统计，162篇手稿的主结论附有Lean形式化材料。 所谓形式化，就是把命题、定义和证明写成有严格规则的代码，再交给计算机检查。Lean按逻辑规则核对推导，证明不能靠一句「显然成立」糊过去。验证时还要检查它依赖的公理和假设，以及有没有尚未补齐的证明。 康奈尔大学数学副教授Daniel Halpern-Leistner正在开发工具，把自动形式化接入数学家的日常研究，他前两天在采访中说： 现在这件事显得非常紧迫，因为用自然语言写出的论证正大量涌来。 不过，机器首先得拿对",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-10-07",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "高通起诉Arm：要求5年不交授权费、强制授权V10指令集",
+   "link": "https://www.huxiu.com/article/4895588.html",
+   "summary": "根据美国特拉华州地区法院披露的信息（案件编号1:24-cv-00490）显示，高通技术公司起诉Arm Holdings一案于当地时间本周一（10月5日）开始在特拉华州地区法院展开为期五天的陪审团审判。高通指控Arm未按合同提供必要的芯片测试工具，并泄露了2024年终止重要授权协议的威胁信函，损害了高通与Met...... 本文来自微信公众号： 芯智讯 ，编辑：芯智讯-浪客剑，作者：芯智讯-浪客剑，原文标题：《高通起诉Arm：要求5年不交授权费、强制授权V10指令集！》 根据美国特拉华州地区法院披露的信息（案件编号1:24-cv-00490）显示，高通技术公司起诉Arm Holdings一案于当地时间本周一（10月5日）开始在特拉华州地区法院展开为期五天的陪审团审判。 高通指控Arm未按合同提供必要的芯片测试工具，并泄露了2024年终止重要授权协议的威胁信函，损害了高通与Meta之间的芯片合作谈判。对此，高通寻求在未来最长5年内停止向Arm支付授权权利金，涉及金额可能高达数十亿美元。此外，在同一综合诉讼当中，高通还希望强制Arm授权V10指令集架构。 高通要求5年内停止向Arm支付授权费 根据Arm向美国证券交易委员会（SEC）提交的季度文件披露，高通最初于2024年4月提起诉讼，随后在2025年两次、2026年3月再次修改诉状，增加了包括Arm未能诚信谈判某些许可条款在内的额外违约指控。 高通在本案中提出两项主要指控：第一，高通称Arm拒绝交付其根据许可协议应当获得的芯片测试工具；第二，高通指控Arm向媒体泄露了其在2024年发出的终止关键授权协议的威胁信函。高通称，这一泄露行为直接损害了其与Meta Platforms之间正在洽谈的芯片合作案。 在开庭陈述中，高通的律师Karen Dunn就将陪审团的注意力引向2021年高通收购芯片初创公司Nuvia的交易，并引用了内部文件，称Arm高管曾将高通称为“敌人”，并对授权金收入下降表示担忧。Dunn表示，Arm的回应是违反合同并破坏高通与Meta的商业关系，包括通过“协调一致的媒体泄露”。 作为Arm最大的客户之一，高通正向法院寻求一项特殊救济：允许其停止向Arm支付授权权利金，期限最长可达5年。这笔费用可能高达数十亿美元。 然而，主持此案审批的法官Maryellen Noreika正在权衡是否废除这一合同条款。这意味着高通将无法直接“停付”未来的授权金，而只能寻求金额相对较小的损害赔偿（smaller amount of damages）。 Arm否认指控 对于高通的指控，Arm予以全面否认。Arm的律师Gregg LoCascio在开庭陈述中表示，高通整个案件的核心是“利用诉讼作为商业纠纷中的施压手段”。他向陪审团展示证据称，高通未能证明其遭受了任何实际损害。“他们丝毫没有受到伤害，”LoCascio说。 Arm还反驳称，高通所提及的（与Meta的潜在）芯片交易仅属于“投机性质”，（Arm）并未对其造成实质损害。此外，Arm反将一军，指出高通自己也曾向媒体泄露针对Arm反垄断调查的非公开细节，因此高通无权就终止信函泄露一事索赔。 根据Arm在其最新年报中披露的信息显示，高通在截至2026年3月31日的财年中占Arm总营收的9%。Arm在文件中表示：“我们无法就任一诉讼的结果，或诉讼将如何影响我们与高通的关系或来自高通的收入，提供任何保证。” 高通希望强制Arm授权V10架构 除了这五天的陪审团审判外，Noreika法官还将主持平行的同一综合诉讼的法官审判（bench trial），审议Arm在与高通就下一代指令集架构V10授权进行谈判时是否秉持了诚信原则。 根据披露的法庭文件，高通在修改后的诉状中除了主张Arm合同违约（测试工具、泄露信函）之外，还主张Arm违反诚信谈判义务（V10许可）。这两个主张在同一案件中审理，只是前者以陪审团审判和后者以法官审判两种形式并行。 根据披露的法庭文件来看，双方在Arm的下一代指令集架构V10的许可问题上存在激烈交锋。Arm曾试图依赖其他被许可方（如Ampere、Apple）的协议作为基准，来证明其对高通提出的v10报价是合理的。但高通反驳称，Arm是在“挑选”对其有利的协议，高通知晓全部相关协议内容才能检验Arm的主张是否成立。法庭文件还显示，Arm在2025年12月10日曾向高通提出过v10的报价。 高通与Arm的现行许可协议将持续至2033年。高通在诉状中声称：“不存在v10（Arm的下一代指令集架构）许可的替代或替换方案，Arm未能诚信谈判的后果无法通过损害赔偿来弥补。” 高通这一主张的法律逻辑在于：如果法院仅判决Arm赔偿金钱，但高通仍然无法获得v10许可，那么高通在下一代芯片竞争中可能面临结构性劣势。芯片架构的迭代具有长期性和不可",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-10-07",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "【硝烟又起】从 ChatGPT 到 Personal AI：下一代 AI （主动智能）的入口之争",
+   "link": "https://www.huxiu.com/article/4895578.html",
+   "summary": "这个国庆，很多人一天没休。从回答一个问题，到持续接管一类事情，AI正在争夺新的个人入口。国庆前，Muse爆火，很多团队直接取消休假。Personal AI的竞争被按下快进。9月8日，Meta发布Muse，把持续运行的个人AI推向用户。9月23日，Meta又在Connect公布Muse Charm，为Muse增...... 本文来自微信公众号： 取木Axel ，作者：取木，原文标题：《【硝烟又起】从 ChatGPT 到 Personal AI：下一代 AI （主动智能）的入口之争》 这个国庆，很多人一天没休。从回答一个问题，到持续接管一类事情，AI正在争夺新的个人入口。 国庆前，Muse爆火，很多团队直接取消休假。Personal AI的竞争被按下快进。 9月8日，Meta发布Muse，把持续运行的个人AI推向用户。9月23日，Meta又在Connect公布Muse Charm，为Muse增加专用硬件入口。9月28日，Instinct完成10亿美元C轮融资，估值达到100亿美元。一天后，OpenAI发布Dots，让个人Agent持续围绕用户的目标工作。 终于，阶跃星辰、豆包、Today AI、光帆科技等一众团队取消国庆休假，开始了各自的Personal AI加速计划。 21天，四个信号。大厂产品、专用硬件和百亿美元估值，密集出现在同一个方向上。 这一轮竞争的变化，在于产品开始争夺更长的用户关系。 ChatGPT让自然语言成为通用的人机接口，Agent把一次对话延伸到任务执行，Personal AI则试图继续接管任务之间的空白：记住背景，发现变化，接续工作，在用户没有重新开口时推进事情。 谁来承担这些工作，关系到下一代个人入口属于谁。过去，用户自己选择应用、组织步骤、完成操作；如果个人代理能够可靠地接手其中一部分，软件如何获得用户、服务如何被选择、个人信息如何参与决策，都可能随之改变。 对产品团队来说，现在需要形成判断。技术已经允许系统持续运行，新的交互设备正在进入市场，用户又还没有形成稳定的使用习惯。入口的竞争已经开始，围绕入口的具体用法仍在建立。 但发布节奏和资本估值，无法替代需求验证。用户愿意尝试什么，愿意长期委托什么，又愿意为此交出多少信息和权限，依然需要产品逐一回答。厂商争的是下一代入口，用户要的是自己的事情得到更好的处理。 因此，判断Personal AI，至少需要讲清楚三件事：技术走到了哪一步，Personal增加了什么，以及产品应该围绕什么持续迭代。 2026年9月，产品、硬件和资本共同加快了个人AI的竞争节奏；Muse Charm此时为公布，非面向用户上市。 1.从对话到执行，再到持续服务：AI开始接管不同层次的工作 1.1 ChatGPT建立了自然语言入口，Agent开始接管执行过程 早期ChatGPT最重要的变化，是让用户能够直接用自然语言获得帮助。 写文章、解释概念、分析材料、讨论问题，很多工作可以在对话中完成。这些已经是真实的交付，不能因为后来出现Agent，就把聊天理解成一个低价值阶段（ChatGPT本身就是一个伟大的产品创新）。 Agent扩展的是执行范围。 模型不再只生成内容，还可以选择工具、读取执行结果，再决定下一步。这个过程构成Agent Loop（智能体执行循环）。模型外部的运行系统，则负责工具、任务状态、权限和异常处理。 对用户来说，变化很直观：过去拿到答案后，还要自己往下操作；现在可以把一段过程交出去。 因此，端到端能力（End-to-End，从目标一直做到交付）的进步，最终应该表现为：同样一件事，用户需要亲自接管的次数越来越少。 模型推理、工具调用、任务恢复、多智能体协作，都要回到这个结果上来评价。 系统内部更复杂，不等于用户外部更省心。 1.2持续运行，让AI从完成一个任务走向照看一类事情 Open Claw（“龙虾”，以及后来腾讯后来居上的Work Buddy）让更多人看到了持续运行的吸引力：用户离开聊天窗口，工作仍然可以推进；时间到了，或者新事件发生了，系统可以再次启动任务。 这里的持续运行，通常是服务持续待命、任务状态得以保留，再由时间或事件触发工作。它不意味着模型需要二十四小时不停计算。 Muse这类云端产品，进一步降低了本地部署和维护的负担。用户不用自己养一台始终开着的电脑，但账号连接、权限和任务设置依然存在。 如果要划分阶段，更有用的标准是用户把什么交给了系统： 从交代一个问题，到交代一个目标，再到委托一类事情，用户逐步交出组织和跟进工作的负担。 第二种方式是“帮我规划这次旅行”。 第三种方式则是：计划已经确定，系统继续关注相关变化，发现它会影响安排时，提出调整，并在约定范围内处理。 变化在于，用户逐渐交出了“记得这件事、发现变化、重新发起任务”的工作。 我把搜索特定信息形",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-10-07",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "[新品] Live Trend Go: Free, private financial tools & calculators for everyone",
+   "link": "https://www.producthunt.com/products/live-trend-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Live Trend Go is a fast, 100% free, and privacy-focused financial toolkit. Unlike cluttered tools that demand phone numbers and spam your inbox, all calculations run client-side right in your browser.",
+   "source": "Product Hunt",
+   "date": "2026-10-07",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] symplist - a calm task workspace: The most productive thing is often the most simple.",
+   "link": "https://www.producthunt.com/products/symplist-a-calm-task-workspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "A calm, open-source task workspace. Every task has one editable Markdown page with real history tracked like Git. The surface is simple and opens to deeper features only when you need them. symplist p",
+   "source": "Product Hunt",
+   "date": "2026-10-07",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Gixo Free Tools: Free charts, slide converters and document checks, no signup",
+   "link": "https://www.producthunt.com/products/gixo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Make charts and flowcharts, preview slide conversions, and check articles, proposals and contracts without signup or AI calls. Free output carries attribution where applicable; clean chart PNG/PDF/PPT",
+   "source": "Product Hunt",
+   "date": "2026-10-07",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Vitrine — kept under glass: UI component library with copy-paste prompts, and more.",
+   "link": "https://www.producthunt.com/products/vitrine-kept-under-glass?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Vitrine is not another UI library. It's a UI library made for people who want to be unique and different. Copy-Paste prompts/files. Get ready genuinely usable portfolios, and skills for your agents to",
+   "source": "Product Hunt",
+   "date": "2026-10-07",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] Sequo: Your idea to an ordered build plan your AI agent can follow",
+   "link": "https://www.producthunt.com/products/sequo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "You describe your idea in a sentence. Sequo asks what it needs to know, then writes the plan: the steps in dependency order, eight documents that live in your repo, and one copy-ready prompt per step ",
+   "source": "Product Hunt",
+   "date": "2026-10-07",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] Nova AI: Manage humans and AI coworkers. Execute work 2x faster.",
+   "link": "https://www.producthunt.com/products/nova-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "The OS for Human + AI teams. Nova AI sets up the workspace, runs the process and executes work autonomously, with no prompt engineering required, so you can turn high-level goals into structured visua",
+   "source": "Product Hunt",
+   "date": "2026-10-07",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] DirectoryKit by AmpAlly: Launch a local business directory that earns from leads",
+   "link": "https://www.producthunt.com/products/directorykit-by-ampally?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "A Next.js + Supabase template for launching a local business directory in any niche. Pay-per-lead, Platinum subscriptions, business claims, maps, and SEO city pages are built in. One-time license; you",
+   "source": "Product Hunt",
+   "date": "2026-10-07",
+   "category": "ai_tools",
+   "level": "B"
   }
  ]
 }
