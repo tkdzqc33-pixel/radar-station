@@ -12788,6 +12788,204 @@
    "date": "2026-10-07",
    "category": "ai_tools",
    "level": "B"
+  },
+  {
+   "title": "“比特幻境”完成数亿元人民币天使轮融资",
+   "link": "https://www.36kr.com/newsflashes/4016656286781316",
+   "summary": "36氪获悉，智能眼镜品牌NIMO所属公司“比特幻境”近日完成数亿元人民币天使轮融资，最新估值达15亿元。本轮投资方包括博华资本、戈壁创投、元禾璞华，以及尚势资本等相关投资机构。融资资金将主要用于产品研发、渠道拓展及海外市场布局。",
+   "source": "36氪 - 快讯",
+   "date": "2026-10-08",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "ChatGPT 推出全新 IUI 智能用户界面；谷歌推出试验性 AI 游戏平台 Playground；苹果被曝联合 LG 开发门锁、摄像头等智能家居配件｜极客早知道",
+   "link": "http://www.geekpark.net/news/372090",
+   "summary": "2026 年诺贝尔化学奖公布：二人因解开不对称有机合成难题获奖，其中一位 96 岁高龄 10 月 7 日，2026 年诺贝尔化学奖正式公布，瑞典皇家科学院决定将 2026 年诺贝尔化学奖授予亨利 &middot;B&middot; 卡甘（Henri B. Kagan）和硖合宪三（Kenso Soai），「表彰他们在不对称有机合成中发现非线性效应和自催化现象。」 有些分子，例如氨基酸，以两种变体形式存在，互为镜像。然而，生物体只包含这些镜像之一。像这样的化学不对称性是如何出现的，长期以来对化学家来说一直是个谜。 亨利 &middot;B&middot; 卡甘和硖合宪三因发现这一难题的解决方案而荣获 2026 年诺贝尔化学奖。 亨利 &middot;B&middot; 卡甘（1930 年出生于法国，当前 96 岁，隶属法国奥尔赛省巴黎南大学）发现了一种操纵化学反应的新方法，可以创建比之前假设的更多的镜像。他的发现对于化学家来说是革命性的，可以帮助开发用于制造药物、香料、香味和新材料的反应。 硖合宪三（1950 年出生于日本广岛，当前 76 岁，隶属东京理科大学）设计了首个仅形成其中一个潜在镜像的化学反应。除了生命本身，没有人曾实现过这样的壮举。诺贝尔奖官方表示，Soai 反应是有史以来最壮观的化学实验之一。（来源：IT 之家） 黄仁勋：英伟达当初正是因 Windows 而诞生 10 月 8 日，在美国旧金山举办的发布会中，英伟达首席执行官黄仁勋表示：「英伟达当初正是因 Windows 而诞生」。 在本次活动中，微软首席执行官萨蒂亚 &middot; 纳德拉、英伟达首席执行官黄仁勋和白宫前人工智能高级政策顾问斯里拉姆 &middot; 克里希南三人展开了一场对话。 黄仁勋在开场时表示：「英伟达的创立是因为 Windows 系统。Windows 95 系统让 GPU 连接到 PC 成为可能，DirectX 对 PC 图形技术的早期发展至关重要。」这基本上就是英伟达并行计算平台 CUDA 的起源故事。 黄仁勋表示：「我们想要世界上最好的 Blender、世界上最好的 Omniverse、世界上最好的 CUDA&hellip;&hellip; 所有这些都要和 AI 一起运行在同一台电脑上。」 黄仁勋强调，AI 计算不应只存在于大型数据中心，也将逐步进入开发者和企业用户的桌面环境。随着模型规模扩大以及对隐私、低延迟和本地处理的需求增加，个人设备需要具备更强的 AI 推理和开发能力。 黄仁勋的讲话也显示，英伟达希望进一步加强与微软 Windows 生态的结合。通过将高性能 GPU、统一内存和 AI 软件栈带到 Windows 设备，开发者可以在熟悉的操作系统环境中构建和运行 AI 应用。（来源：IT 之家） &nbsp; OpenAI 推出 ChatGPT 全新交互界面：AI 不只回答问题，还能直接生成可操作的工具 10 月 7 日，OpenAI 宣布将 GPT-6 推向更广泛的 ChatGPT 用户，并同步推出全新的 Intelligent UI（智能用户界面）功能。与此前以文字对话为主的交互方式不同，ChatGPT 现在可以根据用户的问题，自动组合文字、图表、按钮、表单等元素，生成可直接操作的交互界面。&nbsp;例如，用户可以让 ChatGPT 直接生成计算器、账单分摊工具或小游戏，也可以通过交互式图表理解复杂概念。 ChatGPT 会根据问题自动选择最合适的呈现形式，而不再局限于输出一段文字。此外，GPT-6 还支持在继续推理或调用工具的同时逐步呈现回答，让用户不必等待整个任务完成。 需要注意的是，GPT-6 并非首次发布。 OpenAI 此前已推出 GPT-6 系列模型，此次更新的重点是将其引入更广泛的 ChatGPT 对话场景，并带来全新的交互体验。新功能从 10 月 7 日起向 Plus、Pro、Business 和 Enterprise 用户逐步开放，Free 和 Go 用户则从 10 月 8 日起陆续获得支持。（来源：ChatGPT release notes） &nbsp; 谷歌推出 AI 游戏平台 Playground：只要输入文字，就能生成可以玩的游戏 10 月 8 日，谷歌正式推出实验性 AI 游戏平台 Playground，允许用户通过自然语言描述，直接生成、修改和游玩浏览器游戏，无需掌握编程知识。 用户可以通过对话指定游戏角色、玩法规则、物理效果和场景，并在生成后直接测试，还可以继续通过文字指令调整游戏内容。完成的游戏可以通过链接分享，也可以发布至平台社区。 Playground 支持排行榜，以及部分游戏类型的多人玩法。 谷歌同时宣布，未来将与 Unity 推进更深层次合作，引入 Unity Spark，为用户提",
+   "source": "极客公园",
+   "date": "2026-10-08",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "早报｜苹果一大波新品曝光，最快下周发布/全球纯汽油车份额首次跌破50%/2599 美元起，Surface Laptop Ultra发布",
+   "link": "https://www.ifanr.com/1683053?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "· OpenAI 向 Chat 用户推送 GPT-6，并加入可交互界面 · 月之暗面估值据报升至约 500 亿美元，筹备明年赴港上市 · 2026 年诺贝尔奖陆续公布，目前已有 6 位得主 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-10-08",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "苹果突发收紧 Mac 权限，全是 AI 惹的祸",
+   "link": "https://www.ifanr.com/1682953?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "苹果与 Meta，一对超级冤家 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-10-08",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "Meta 展示 CRAM 内存压缩方案：只读性能接近原生 DRAM，探索替代 ZRAM",
+   "link": "https://www.ithome.com/1/010/440.htm",
+   "summary": "IT之家 10 月 8 日消息，Meta 工程师在 10 月 5 日于捷克布拉格举行的 Linux Plumbers Conference 2026（LPC 2026）上展示了名为 CRAM（Compressed RAM）的实验性内存压缩方案。 该方案的目标并非简单替代 ZRAM 或 zswap，而是让压缩后的数据继续以“内存”的形式存在，从而避免传统 Swap 路径中的软件开销。LPC 官方资料显示，CRAM 已经完成实际测试，在 TAOBench 和 FIO 基准测试中可以达到接近原生 DRAM 的性能。 众所周知，目前 Linux 常见的内存压缩方案包括 ZRAM 和 zswap。ZRAM 会在内存中创建压缩块设备，内核需要按照 Swap 路径处理其中的数据；而 CRAM 的设计则不同，压缩数据仍可保持页表映射和页缓存状态，并支持 Cacheline 及 Byte 级访问，因此读取数据时无需像传统方案一样通过缺页异常触发软件解压流程。LPC 官方介绍称，这也是 CRAM 区别于 ZRAM、zswap 的关键特征。 CRAM 的核心思路是将硬件压缩后的内存作为一种特殊的 NUMA 内存提供给 Linux，而不是模拟成块存储设备。 LPC 资料显示，CRAM 会使用一个严格控制的私有 NUMA 节点，让内核能够继续使用现有的内存管理机制，包括内存迁移、回收、降级、内存气球机制、空闲页报告以及 NUMA 内存均衡等。 这一设计针对的是传统内存压缩方案中的软件路径开销。对于只读数据，CRAM 可以直接从压缩内存中读取，而无需先将数据换入普通内存再解压。在这种模式下，CRAM 的表现可以接近原生 DRAM 水平。 根据此次演示披露的测试数据，在纯读取场景下，CRAM 最差情况下可达到每秒约 4.89 亿次操作，而 ZRAM 约为每秒 110 万次操作。按照这组数据计算，两者差距约为 444 倍，并非 452 倍，因此官方“提升 452 倍”的说法可能需要在理想环境中才能实现。 当工作负载包含写入操作时，CRAM 的优势会明显收窄。由于压缩数据无法直接在原位置进行修改，写入时需要通过缺页处理将对应 Folio 迁移回原生 NUMA 节点，再完成修改。 即便如此，素材所述最差情况下 CRAM 仍达到 ZRAM 约 5.4 倍的性能，但这一数字同样应理解为特定基准测试结果，而非通用性能结论。 LPC 官方资料显示，CRAM 目前仍属于经过测试的内核服务原型，并非已经进入 Linux 主线的成熟功能。 Meta 工程师 Gregory Price 介绍称，实现 CRAM 所需的大部分 Linux 内核基础机制已经存在，目前需要进一步解决的是如何让这种“实际容量与物理容量不一致”的内存设备符合 Linux 现有的内存模型。 IT之家提醒：目前 CRAM 仍处于研发和社区讨论阶段，尚不能视为即将进入 Linux 主线的正式功能。Meta 此次公开的重点是探索如何利用现有 Linux 内存管理机制支持这种新型压缩内存，而非宣布一项已经完成标准化或商业化部署的产品。",
+   "source": "IT之家",
+   "date": "2026-10-08",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "阶跃终端首款大模型原生智能体手机 STEPX Neo 发布定档：10 月 13 日见",
+   "link": "https://www.ithome.com/1/010/416.htm",
+   "summary": "IT之家 10 月 8 日消息，阶跃终端官微今天（8 日）上午宣布，阶跃终端首款大模型原生智能体手机 STEPX Neo 将于 10 月 13 日 19 时正式发布。 就在不久前的 9 月 23 日，阶跃终端 AI 手机端侧生成式 AI 服务 通过网信部门备案 。 值得一提的是，今年 7 月，阶跃终端首款智能体手机 STEPX Neo 亮相 2026 世界人工智能大会，IT之家现场实拍如下图： 这台手机戴着橙黄色的保护壳， 运行智能体原生系统 Step AOS 。其桌面 UI 采用近年来较为流行的圆角矩形图标，部分第三方应用的图标带有重绘版本，顶部的状态栏还可以显示 AI 的工作状态。 据现场工作人员演示， 这款手机的 Amoo 助手可以与飞书等 App 进行深度联动 。例如用户可以对助手说出“帮我处理一下明天汇报的事情”或“制作 PPT”等请求，然后 Amoo 就会读取飞书等应用的日历、群消息并判断修改 PPT 等需求。 随后，该助理会向用户请求文档修改权限， 点击允许后就能按用户风格生成 PPT 、 将汇报改期等事件同步到其他群聊 。当事件处理完成后，用户可点击 Amoo App 的按钮前往飞书，查看具体成果。",
+   "source": "IT之家",
+   "date": "2026-10-08",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "2027 年考研网上预报名 10 月 9 日启动：报名确认首次一体化，学信网 App 在线拍照",
+   "link": "https://www.ithome.com/1/010/410.htm",
+   "summary": "IT之家 10 月 8 日消息，2027 年研考生注意，网上预报名明天将启动。 根据《2027 年全国硕士研究生招生工作管理规定》，2027 年全国硕士研究生招生考试报名时间为 2026 年 10 月 15 日至 10 月 24 日 （预报名时间为 2026 年 10 月 9 日至 10 月 12 日 ，相关工作安排由各省级教育招生考试机构确定并公布）， 每日 9:00—22:00 。 据央视新闻报道，为提升考生报考体验，“中国研究生招生信息网”进一步升级了报名系统， 2027 年全国硕士研究生招生考试报名流程和照片采集模式进一步优化 。 以往研考报名包括网上报名和网上确认两个阶段，考生需分别在两个阶段登录研招网填报志愿和提交核验材料。 自 2027 年研考起，研招网将实行网上报名和网上确认一体化 ，考生在网上报名期间填写个人信息和报考志愿后，可一并提交报考点要求的核验材料。 报名结束后，各报考点将集中对考生报名信息和材料进行审核，确定考生的考试资格。对于材料不符合要求等特殊情况的考生，报考点将通过相关通知及研招网消息提醒考生及时提交补充材料，考生按要求补充材料后完成报名。 此外，以往考生需自行上传照片，不仅可能增加考生经济成本，还有可能因考生上传的照片过度美化，影响考试及后续录取环节的身份核验。自 2027 年研考起，研招网将优化报名照片采集模式：采集时间由原来的网上确认阶段提前至网上报名的基本信息填写阶段， 并且考生无需提前准备报名照片，而是直接通过学信网 App 在线拍摄并上传 ，系统会实时检测光线、角度等拍摄条件并提示调整，确保照片符合要求。 另外，报名照片将用于制作准考证，为确保打印的准考证照片清晰可用， 今年报名照片背景颜色将统一要求为白色，考生拍摄时需选择白色背景 。同时，为优化服务，系统也配套提供照片背景颜色替换等辅助功能，供考生选用。 从多年前采用线下现场确认，到 2020 年起全面推行网上确认，再到今年网上报名确认一体化和在线拍摄照片，研考报名流程在保障研考工作公平有序的基础上，持续调整优化，提升广大考生的报考体验。 IT之家注：中国高等教育学生信息网（简称“学信网”）由教育部学生服务与素质发展中心（以下简称“中心”）主办。学信网依托中心建立的集高校招生、学籍学历、毕业生就业信息一体化的大型数据仓库，开通“阳光高考”信息平台、学籍学历信息管理平台、中国研究生招生信息网、内地高校面向港澳台招生信息网等平台，开通学历查询系统、在线验证系统、硕士研究生网上报名和录取检查系统、硕士研究生招生调剂服务系统、学历认证网上办公系统等 20 余个信息系统。 图源：Pexels",
+   "source": "IT之家",
+   "date": "2026-10-08",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "蔚来乐道第 20 万台交付达成，L90 交付给知名主持人耿晨晨（绿泡泡）一家",
+   "link": "https://www.ithome.com/1/010/404.htm",
+   "summary": "IT之家 10 月 8 日消息，今天（8 日）上午，蔚来乐道汽车官微宣布：乐道汽车第 20 万台车辆 —— 一台乐道 L90 交付给「全国五好家庭」、知名主持人耿晨晨一家。自 2024 年首台乐道 L60 交付以来， 乐道用时两年，达成 20 万台交付里程碑 ，速度位列新势力品牌 Top 3，领先行业。 IT之家注：耿晨晨 2003 年起开始主持中央电视台少儿频道《智慧树》节目，主持名为“绿泡泡”；2010 年与同一节目的主持人陈苏（主持名“红果果”）结婚。 据乐道汽车介绍：“耿晨晨在长达二十余年的时间里陪伴了几代人的成长，包括不少如今已为人父母的乐道用户。今天，他和所有用户一样，把家庭出行交给了乐道。” 根据蔚来公司本月初公布的数据，2026 年 9 月，蔚来公司交付新车 37,408 辆，同比增长 7.7%。 蔚来品牌交付新车 21,318 辆，同比增长 55.3%； 乐道品牌交付新车 8,763 辆； firefly 萤火虫品牌交付新车 7,327 辆，同比增长 26.9%。 2026 年前三季度，蔚来公司共交付新车 300,301 辆，同比增长 49.2%，三品牌前三季度交付均创历史新高。 蔚来品牌交付新车 181,988 辆，同比增长 63.4%，创历史新高； 乐道品牌交付新车 70,191 辆，创历史新高； firefly 萤火虫品牌交付新车 48,122 辆，同比增长 136.7%，创历史新高。",
+   "source": "IT之家",
+   "date": "2026-10-08",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "警告“AI 或灭绝人类”的前 Anthropic 研究员：某种意义上，我曾研究让 AI 取代自己",
+   "link": "https://www.ithome.com/1/010/394.htm",
+   "summary": "IT之家 10 月 8 日消息，据《商业内幕》报道，曾在 Anthropic 和 OpenAI 任职的研究员雅各布 · 考克森警告，AI 很快就能自主开展研究，人类可能完全无法掌控此后的发展。 27 岁的考克森曾在 Anthropic 从事模型能力研究，上个月公开宣布辞职。当地时间 5 日，他向纽约市议员发出警告，称 AI 可能威胁人类生存。 考克森在纽约市议会有关 AI 风险的听证会上作证称，顶尖前沿 AI 实验室的首要目标， 是让 AI 研究实现自动化 。“我在上一份工作中，某种意义上就是在研究 怎么让 AI 取代自己 。我在 OpenAI 时，我们为自动化 AI 研究员设定了 2027 年、2028 年前后的阶段性目标，研发进度符合预期，甚至超过预期。距离那个时候只有几个月，不是几十年，连五年都不是。” 一旦 AI 能自行开展研究，人类参与和干预研究的程度会比今天低得多，而今天的情况就不太理想。以他的亲身经历来看，大部分代码都由 AI 编写，“人们也不再那么仔细地检查代码。” 考克森向议员们作证称，在 Anthropic 和 OpenAI 的工作经历令自己确信，两家公司没有充分的安全保障， 却仍在推进研发 。“人类失去控制权、让 AI 掌握控制权的概率超过一半，最终可能导致人类灭绝。根据我的经历，后果如此重大，两家公司的做法却极其鲁莽。” 考克森在 X 上宣布辞去 Anthropic 职务时，发帖指控 Anthropic 和 OpenAI 都没有负责任地行事， 拿人们的生命作赌注 。帖子随后广泛传播。 听证会上，考克森呼吁 AI 实验室提高透明度，放慢技术飞速发展的步伐。“这些公司用的是初创企业那套思路： 先快速推进，出了问题以后再修 。做照片分享应用可以这么干，开发有史以来最强大的技术可不行。” 据IT之家此前报道，今年 9 月，考克森在辞职时发出警告：“研发 AI 的人确实相信，AI 可能在本世纪 20 年代结束前杀死我们所有人。 这不是营销噱头 。” 相关阅读： 《 曾任职 OpenAI 的 Anthropic 预训练研究员离职并警告：两家公司正拿人类生命赌博 》",
+   "source": "IT之家",
+   "date": "2026-10-08",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+   "link": "https://sspai.com/post/115455",
+   "summary": "Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。 查看全文",
+   "source": "少数派",
+   "date": "2026-10-08",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "数据中心，正在拆掉Token时代的旧围墙",
+   "link": "https://www.huxiu.com/article/4895789.html",
+   "summary": "9月17日，在2026 ITValue Summit数字价值年会上，超聚变算力领域副总裁王梁栋指出，伴随大模型能力加速演进，AI进入推理为主的“干活”时代，全球Token消耗将持续爆发，促使AI基础设施同步进化。当下算力行业的竞争逻辑正在迭代，单纯依靠堆叠服务器和扩张硬件规模的粗放式发展路径，效用持续减弱。随...... 本文来自微信公众号： 硅碳变量 ，作者：沈浪 9月17日，在2026 ITValue Summit数字价值年会上，超聚变算力领域副总裁王梁栋指出，伴随大模型能力加速演进，AI进入推理为主的“干活”时代，全球Token消耗将持续爆发，促使AI基础设施同步进化。 当下算力行业的竞争逻辑正在迭代，单纯依靠堆叠服务器和扩张硬件规模的粗放式发展路径，效用持续减弱。 随着AI重心从模型训练转向海量推理，算力基础设施正在经历底层变革，传统“堆硬件、扩规模”的建设思路，越来越难以匹配新阶段的产业需求。 01 Token的真实账单 Token不是噱头，是AI产业正在面对的真实账单。 当市场还在热议大模型参数、评测榜单这些显性指标时，一组持续攀升的Token调用数据正在揭示AI产业底层逻辑的转向：算力价值的重心正从一次性训练的峰值能力，向持续不断的推理开销迁移。 3月23日召开的中国发展高层论坛2026年年会透露，今年3月，中国日均Token调用量突破140万亿，相比2024年初的1000亿，两年增长超千倍。同月，中国AI大模型周Token调用量连续三周超越美国，成为全球AI应用活跃度最高的国家之一。 来自全球最大AI模型API聚合平台OpenRouter的数据，进一步印证国内AI应用端的爆发。3月16日至22日，全球AI大模型总Token调用量为20.4万亿，仅中国就达7.359万亿，占全球的36％。 国内海量企业应用与智能体场景的规模化落地，正在推高Token消耗，让国内调用规模站上全球高位。 面向未来，多家机构给出了极具冲击力的预测数字。根据摩根大通的最新预测，中国AI推理Token消耗量将从2025年的约10千万亿增长至2030年的约3900千万亿，五年间增长约370倍。 IDC的判断则更为大胆，全球年度Token消耗量将从2025年的0.0005 Peta Token增长至2030年的15万Peta Token，年复合增长率高达3418%；到2031年，全球活跃智能体数量将达到3.5亿个，而单智能体Token消耗量可达传统对话应用的百倍乃至千倍级。 和一次性问答对话不同，智能体需要自主规划任务、多轮调用模型以及反复试错迭代，每一次动作都会持续消耗Token。一旦智能体场景规模化铺开，算力层面的成本账单或将持续走高。 当然，不同机构采用的统计口径和假设条件存在差异，数字本身不必纠结谁更精准，但背后的产业方向高度一致：AI算力的重心，正从一次性训练，向持续性推理迁移。 AI发展早期，行业叙事重心落在训练上。基座大模型训练属于一次性重投入，赛道比拼的是模型规模与参数上限。彼时客户挑选算力的思路相对简单，通常优先考量GPU显存和单卡峰值算力，市场竞争也围绕瞬时峰值性能展开。 当行业转向推理主导，算力的商业逻辑正在出现明显转变。推理不是一次性任务，而是7×24小时持续运转的流水作业。大模型嵌入各类业务系统，不间断承接用户请求和执行业务任务，算力集群必须长期在线。客户衡量算力方案的标尺，也随之调整。 客户不再只聚焦单卡峰值算力，转而更看重落地场景里的现实指标：集群单位时间能稳定输出多少Token？单个Token的电力与硬件折旧成本，能否控制在业务可承受范围？大规模集群长期运行，能不能稳定跑满负载，减少宕机带来的业务中断和额外损失？ 简单来说，训练比拼的是算力“爆发力”，推理考验的是长期稳定输出的能力与单位Token成本。 训练是阶段性投入，基座训练任务收尾，大规模算力即可释放；推理需要长期在线承接请求，每新增一个Token，都会产生一笔实打实的成本。 这正是Token数据值得重视的原因，它不只是发布会用来烘托热度的宣传素材，更是真实业务流量的写照，代表算力基础设施需要承接的业务压力，也是企业经营难以回避的成本账单。 这一变化，正在从需求端反向重塑AI算力产业链。 随着行业需求向高吞吐、低成本、高稳定性的推理集群倾斜，服务器架构、液冷方案、集群组网都迎来迭代压力。厂商竞争的评价维度，也从单卡硬件参数，向整套系统持续生产Token的效率延伸。 算力竞争的主战场，正在发生偏移：不再局限于实验室的训练任务，海量Token持续产出的真实业务场景，成为新的竞争阵地。 02 \"8卡服务器\"这层窗户纸，快捅破了 过去几年，AI数据中心的主流标准单元是8卡服务器：将8张GPU集成在单机箱内，接入网络，再批量部署数百上千台，配合配套设施，就能搭建行业",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-10-08",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "一群日本AV 女优和歌手，正在偷家大厂AI 产品经理",
+   "link": "https://www.huxiu.com/article/4895763.html",
+   "summary": "在这个被大模型和AI融资神话包裹的2026年，如果有人问：谁是国内大厂AI产品经理最危险的竞争对手？我的答案必然是日本的一群AV女优和人气偶像歌手。别误会，丝毫没有嘲讽大厂AI产品经理的意思🤓。我想讲几个我这几天看到的几个好故事，强烈推荐给所有人。主角是日本前AV女优Noa（曾用艺名「菜月ひかる」「花吹詩音」...... 本文来自微信公众号： 杉森楠 ，作者：杉森楠，原文标题：《一群日本 AV 女优和歌手，正在偷家大厂 AI 产品经理》 在这个被大模型和AI融资神话包裹的2026年，如果有人问：谁是国内大厂AI产品经理最危险的竞争对手？ 我的答案必然是日本的一群AV女优和人气偶像歌手。 别误会，丝毫没有嘲讽大厂AI产品经理的意思🤓。 我想讲几个我这几天看到的几个好故事，强烈推荐给所有人。 主角是日本前AV女优Noa（曾用艺名「菜月ひかる」「花吹詩音」）。 2026年8月初，她在X上发帖宣布退圈，转型做自由接案程序员。她没有科班背景，靠Claude Code做「vibe coding」自学网页开发和业务自动化。 帖子没有预热，几天内浏览量就过千万，国内媒体戏称为「AV转码」。 有意思的是，她原来2万粉丝的AV账号被经纪公司收走了。 结果她换了个新号，只发了一条AI帖子，一夜就涨了2万粉丝，把原来那个号的粉丝数一晚上补了回来。 她在新号上晒了自己做的东西，有带滚动交互和主题切换的个人网站，有咖啡店展示网站，还有游戏。 我认真看了她的个人网站。 论交互和排版审美，这是我在各个社区见过最好的Vibe Coding网站。网站技术栈是Next.js+TypeScript+Framer Motion，部署在Vercel上。 连字体和英日文混排这种细节，她都处理得很讲究。 我自己最早做项目也是部署在Vercel上。说实话，普通人能知道Vercel，已经算很前卫了。 她对AI的尝试不止于Vibe Coding，还在玩AI硬件LOVOT。 她甚至自己还在GitHub上开源了一个项目，分享给大家一些可以直接复制的AI生图提示词： 这套提示词我仔细读了一遍，写得比99%的人都好。 整套提示词超过500行，非常结构化。 提示词分12块，按功能大致五层，包括定调、输入与异常处理、创作规则、情绪化内容，以及收尾的禁止清单和自检。 另有8个模板，换掉预留字段即可，骨架不用改。 看到这里，我已经不把她当成尝鲜的新手了。放在AI从业者里，她的水准也够当个入门级选手了。 更有意思的是，Gumroad的运营者直接到她评论区招揽她。 Gumroad是最知名的面向创作者的「数字商品销售平台」，创始人Sahil Lavingia写过《The Minimalist Entrepreneur》（常译《极简创业家》），一直推崇个人做小而美的生意，算是国内一帮「小而美」企业的宗教级神书了。 这样一家公司来找她，看中的肯定不只是技术，还有她的商业眼光。 她的经历也能看出这份眼光。 Noa本人2002年8月生，只比我大3岁，有些汗颜。 2022年10月19日出道，2023年1月成为日本知名厂牌的专属女优。到今年8月退圈，她在这一行只待了3年多。 要知道，日本AV女优的职业生涯可以很长，比如头部的吉沢明歩从业超过15年，大槻ひびき17年拍了1300部。 所以，她在本可以继续干很多年的时候，断然选择了转向AI。 这份判断，我确实很佩服。 像这样跨行做AI的人，国内也不少。不少演员，甚至胡彦斌这样的歌手，都在亲自用AI建站、做App、做3D建模。 比如张蓝心前段时间发微博上了热搜，原因与AI无关，很多人没注意到图里她竟然在用Codex操作Blender建模。 再比如，胡彦斌为粉丝做了一个叫「彦火」的App。 不过看到这里，我能预想到很多人，包括古法程序员（不用AI、纯手写代码的程序员）肯定会挑这些人的毛病，比如嫌Noa的网站只部署在Vercel，嫌胡彦斌的App有太重的Vibe Coding风味。。。 但是，单论商业判断，Noa这样的人已经超过99%的AI产品经理，也超过了大多数普通人。 这话不好听，但我是真这么想的。 如果还有人强调，Noa、胡彦斌、张蓝心只是用AI做了些简单的东西，技术含量不高， 那就看看技术含量更高的。 前Juice=Juice成员宮本佳林，现为solo歌手。8月1日她发帖说自己不会写代码，却和AI做出了10小时直播的整套系统，到8月28日浏览量破1000万。 之后她甚至还登上了Cloudflare的开发者活动。 说一说她的自学AI过程，很有参考意义。 她从ChatGPT起步，先后用过Cursor和Claude，最后固定在Claude Code，开发速度明显提升。她会在通勤时用手机把功能写成结构化文档，回家再交给AI开发。 这套工作流，很多自诩懂AI的AI产品经理、技",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-10-08",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "河北电商硬刚拼多多",
+   "link": "https://www.huxiu.com/article/4895753.html",
+   "summary": "“亏两年，赚吆喝”。拼多多最强劲的对手，河北内卷网火了。18块的洗发水到了河北的仓库直接变一块八，还包邮，直播间熬到半夜抢来的8块抽纸，保定的批发档口8毛就能拿到……相信这段时间，不少人都在抖音上刷到过类似视频，讲的是河北内卷网。网站设计很朴素，纯纯的AI风格，功能也很简洁明了，主要集中河北各地的工厂和商家，...... 本文来自微信公众号： 东四十条资本 ，作者：韦香惠 “亏两年，赚吆喝”。 拼多多最强劲的对手，河北内卷网火了。 18块的洗发水到了河北的仓库直接变一块八，还包邮，直播间熬到半夜抢来的8块抽纸，保定的批发档口8毛就能拿到……相信这段时间，不少人都在抖音上刷到过类似视频，讲的是河北内卷网。 网站设计很朴素，纯纯的AI风格，功能也很简洁明了，主要集中河北各地的工厂和商家，有点像早期的免费黄页，上面可以查产地、找厂家、看产业带。可能是包含和“内卷”和“河北”，自带话题属性，网站上线没多久，访问数量就已经有几千万，注册企业也有几十万。 按照网站介绍，其定位是把河北的产业和工厂信息进一步整理，让采购商可以自行检索、比较，再直接联系工厂进行批量采购和长期合作。网站甚至专门强调了“直连”的规则：不撮合、不报价、不担保、不抽成，不卖排名，也不做付费认证。 根据一些媒体的报道，眼下可能有上百个人都在创办这样的“内卷网”。其中，比较有影响力的一家现在已经更名为“河北工厂网”，有可能是受到监管的影响。政府工作报告早已明确提出，“深入整治‘内卷式’竞争”。对此，有相关网站的创始人表示，“内卷”是一种自嘲，他们更多想做的，是帮助河北工厂老板走出内卷。 “打价格战我们都应战” 提到小商品，很多人自然会联想到的是浙江义乌，但论价格，河北才是真正的大哥。 河北这边有一个很有意思的行当，叫“网供”。简单来说，就是把分散的家庭作坊和零散网店组织起来，替网店把碎片化订单一单单凑起来，业内戏称为“拼好包”。这些河北“网供”的出厂价甚至低于义乌商家，以至于一些义乌商家干脆不再自己找货，而是直接从河北拿货，再运回义乌加价批发。原本做批发的商家，硬生生被河北电商逼成了“倒爷”。 现在，这些“倒爷”们直接自己做了一个平台：河北内卷网，谁想要一手低价货源，直接登陆这个网站就能找到。 不过，现在不叫“河北内卷网”，而是更名为“河北工厂网”。运营方为纬蚂科技（上海）有限公司。网站介绍称，这是公司面向河北产业做的公共项目，免费开放，公司的主营业务与本站的信息收录、排序和需求转达相互独立。 从公司业务来看，纬蚂科技主要做软件开发、海外独立站以及AI Agent的开发和落地。而“河北工厂网”则是公司此前数月开发和测试的一项新尝试。目前，小程序已经面向河北11个地市的供货方、采购方和个人买家开放。无论是寻找货源、销售产品，还是进行批量采购、在线洽谈，都可以直接在微信生态内完成。 搭建这样一个网站并不难，AI两天时间就能搞定。刚开始，有不少开发者都做了类似的产品，此外，还有小程序、APP等都已经陆续上线。 “打价格战我们都应战，电商也没别的招。”一个在河北雄安新区做珠宝的朋友告诉我，他那边的新疆和田碧玉，4mm碧玉小圆珠，总长56cm，卖290一条，同样的品质，其他平台几乎找不到。 这位朋友也了解过河北内卷网，但他跟我说，不太喜欢‘内卷’这个标签，原因是这会让大家觉得河北只有便宜货，反而让他们的生意越来越难做。 “亏两年，赚吆喝” 诚然，河北内卷网的走红一定程度上和“内卷”两个字有关，反映了“低价竞争”在河北制造业中的常态化存在，击中了河北工厂长期存在的一些真实处境。 河北人喜欢说一句话，“只要比种地强就行。” 对于那些离开家乡、跑去北京或者南方打工的人来说，外面的世界或许还有更多机会；但对于那些不想离开，或者无法离开家乡的人来说，选择并不算多。很多人最终还是留在村镇里，要么进工厂打工，要么自己想办法接订单、办一个小工厂。 院子里腾出几间房，买来几台机器，夫妻两个人先干起来。订单多了，就再找亲戚、邻居或者同村人帮忙。住房可以直接当厂房，不需要额外支付租金；家里人一起干，也能省下一部分人工成本。一个工厂就这样慢慢做起来了。 而一家工厂出现以后，下一家也就更容易出现。这种模式在市场好的时候，意味着极强的灵活性。但当越来越多的人都进入同一个行业，优势就不那么明显了。 一些刚进入行业的商家，为了先把客户做起来，盘算着“亏两年，赚吆喝”，而原来的工厂为了保住客户，只能跟着降价。有人短时间内赚不到钱，最终选择退出，剩下的库存又会被低价清掉。客户拿着清仓甩卖的价格回来问：“别人这个价格都能卖，你们为什么不能卖？” 报价于是又低了一点。这也是河北很多产业集群里容易出现的循环：有人进入，有人退出，产能却一直留在市场里；订单没有明显增加，竞争者却越来越多。 产业集群原本创造的成本优势，也就在这",
+   "source": "虎嗅资讯-全部",
+   "date": "2026-10-08",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] AEVIX: The whiteboard with a voice AI agent.",
+   "link": "https://www.producthunt.com/products/aevix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "AEVIX is a voice AI whiteboard that turns spoken ideas into clear, editable visual work. Talk naturally to a voice AI agent to create and edit diagrams, plans, explanations, and notes directly on the ",
+   "source": "Product Hunt",
+   "date": "2026-10-08",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Pi-Bolt: A faster, lighter Pi: the AI coding agent for your terminal",
+   "link": "https://www.producthunt.com/products/pi-bolt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Pi-Bolt is the Pi coding agent compiled ahead of time into one native executable for Linux and macOS on Apple silicon. Every function becomes machine code when it's built, so nothing is parsed or JIT-",
+   "source": "Product Hunt",
+   "date": "2026-10-08",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] ReleaseyourApp: Every app you ship, every asset it needs, in one place.",
+   "link": "https://www.producthunt.com/products/releaseyourapp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Manage every app you ship: versioned store assets, every icon size generated from one master, per-locale listing copy, screenshot conversion and the team roles that keep a release on track.",
+   "source": "Product Hunt",
+   "date": "2026-10-08",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Subturtle: Speak the English you hear and read, anywhere online",
+   "link": "https://www.producthunt.com/products/subturtle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Learn English from what you already watch and read. Hover a subtitle on YouTube or Netflix, or select text on any web page, and see what it means in your own language, idioms and all. Save the phrase ",
+   "source": "Product Hunt",
+   "date": "2026-10-08",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Mundane Read: News, no dramas",
+   "link": "https://www.producthunt.com/products/mundane-read?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Mundane Read keeps the calm on every news site you read. It measures the writing, not the politics. There is no left-right rating and there will not be one. It does not say whether a story is true; it",
+   "source": "Product Hunt",
+   "date": "2026-10-08",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Supplier Catalog Change Checker: Compare supplier CSV prices and flag product changes",
+   "link": "https://www.producthunt.com/products/supplier-catalog-change-checker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Compare two authorized supplier CSV catalogs by SKU. Get JSON and CSV reports of normalized unit-price changes, packaging changes, added or removed products, and uncertain records requiring review. Bu",
+   "source": "Product Hunt",
+   "date": "2026-10-08",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] ChromaBoard: Define your color language.",
+   "link": "https://www.producthunt.com/products/chromaboard?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Chroma is a visual workspace for creating, organizing, and refining color palettes. Build consistent color systems, explore combinations, save references, and keep your visual language organized in on",
+   "source": "Product Hunt",
+   "date": "2026-10-08",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] SEODojo: See if AI recommends you, and get the page that fixes it",
+   "link": "https://www.producthunt.com/products/seodojo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "SEODojo checks what ChatGPT, Perplexity, Gemini and Google's AI answers say about your brand and shows which AI bots read your site. Then it researches, writes and publishes the article that gets you ",
+   "source": "Product Hunt",
+   "date": "2026-10-08",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] OfficeSquats: Squat breaks for your Mac, with camera-counted reps",
+   "link": "https://www.producthunt.com/products/officesquats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Turn desk time into short movement breaks. OfficeSquats runs from your Mac menu bar, prompts a full-screen break, and counts squats with on-device camera processing. Set your schedule and rep target, ",
+   "source": "Product Hunt",
+   "date": "2026-10-08",
+   "category": "other",
+   "level": "B"
   }
  ]
 }
