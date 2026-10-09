@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "StoryGen-Atelier",
-   "what": "Gemini+Veo+ffmpeg全流程分镜视频生成工具，直接用于短剧制作",
-   "why_today": "S级情报，可直接批量生产短剧分镜和过渡片段，评估出片质量和效率",
-   "time_est": "2小时",
-   "source": "[S] [GitHub] 0xsline/StoryGen-Atelier"
+   "name": "ChatGPT IUI（智能用户界面）",
+   "what": "ChatGPT 新推出的可生成交互式工具界面的功能，零代码把想法变成可用的 AI 小工具。",
+   "why_today": "S 级情报，直接降低 SaaS 开发门槛，机会信号明确：用 IUI 零代码快速生成可售 AI 小工具，建议立刻测试原型。",
+   "time_est": "1-2 小时",
+   "source": "ChatGPT 推出全新 IUI 智能用户界面"
   },
   {
-   "name": "Open-Generative-AI",
-   "what": "无过滤、600+模型、自托管的开源视频生成替代方案",
-   "why_today": "S级情报，可大幅降低视频生成成本，替代付费API，接入短剧制作流程",
-   "time_est": "3小时",
-   "source": "[S] [GitHub] Anil-matcha/Open-Generative-AI"
+   "name": "Claude Haiku 5.5",
+   "what": "Anthropic 新模型，操作能力暴涨、成本降 75%，适合浏览器自动化和批量任务。",
+   "why_today": "S 级情报，可低成本自动化短剧投放和工具开发，建议接入测试浏览器自动化操作和批量任务。",
+   "time_est": "2-3 小时",
+   "source": "Claude Haiku 5.5 降本背后：操作能力暴涨，复杂编程为何仍差一截？"
   },
   {
-   "name": "Toonflow-app",
-   "what": "开源AI创作平台，融合无限画布、AI Agent，支持本地部署和MCP扩展",
-   "why_today": "S级情报，高星开源短剧创作平台，测试短剧创作全流程，评估付费插件或课程机会",
-   "time_est": "2小时",
-   "source": "[S] [GitHub] HBAI-Ltd/Toonflow-app"
+   "name": "Toonflow v2.0.4",
+   "what": "开源 AI 短剧创作平台，融合无限画布、AI Agent，专为短剧设计。",
+   "why_today": "S 级版本更新，直接相关核心业务，可本地部署测试智能分镜和短剧创作流程，提升短剧产能。",
+   "time_est": "2-4 小时",
+   "source": "Toonflow短剧工具 v2.0.4: Toonflow 2.0.4"
+  },
+  {
+   "name": "Vidu Q4 Preview",
+   "what": "AI 视频生成工具，9 分钱/秒，成本极低。",
+   "why_today": "A 级情报，短剧制作成本极低，建议测试生成短剧片段，对比现有工具效果。",
+   "time_est": "1-2 小时",
+   "source": "我用 Vidu Q4 Preview 把奥特曼和 Dario 凑成男团，跳起了 APT"
   },
   {
    "name": "Gemini 4",
-   "what": "写作能力强于代码的前沿模型，适合生成短剧剧本和课程文案",
-   "why_today": "A级情报，测试生成短剧剧本质量，对比现有工具，提升产能",
-   "time_est": "1小时",
-   "source": "[A] Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型"
-  },
-  {
-   "name": "GPT-6.1 Sol",
-   "what": "价格极低的GPT模型，可大幅降低AI内容生成成本",
-   "why_today": "A级情报，测试短剧剧本和视频生成能力，评估成本节省",
-   "time_est": "1小时",
-   "source": "[A] 早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一"
+   "what": "Google 新发布的前沿模型，写作能力强于代码。",
+   "why_today": "A 级情报，可提升短剧剧本/文案质量，降低创作成本，建议测试生成短剧剧本和营销文案。",
+   "time_est": "1-2 小时",
+   "source": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代工具迁移进展",
-   "reason": "Sora关停导致依赖它的短剧生产管线断裂，需紧急迁移，竞品迁移期出现内容空窗，可趁机抢占流量"
+   "item": "Sora 相关动态（Sora 正式开放、Sora 2 升级、Sora 关停风险）",
+   "reason": "Sora 开放和升级是机会，但关停是重大风险信号，需持续跟踪并准备备选方案，避免工作流断链。"
   },
   {
-   "item": "Claude Code Mods插件生态发展",
-   "reason": "Mods机制开放插件生态，类似早期App Store机会，可抢先开发热门Mod并变现"
+   "item": "OpenAI 按用量收费模式转变",
+   "reason": "AI 工具成本结构将变，需重新核算 API 成本，评估替代模型方案。"
   },
   {
-   "item": "DeepSeek开源算子工具与华为昇腾合作进展",
-   "reason": "国产算力工具链成熟可能大幅降低AI推理成本，影响短剧制作成本结构"
+   "item": "AI 视频公司崛起（全球第二的 AI 视频公司）",
+   "reason": "可能成为短剧制作合作方或竞品，需研究其产品，评估合作或对标可能。"
   }
  ],
  "research_topics": [
   {
-   "topic": "GEO优化方法及其在短剧/课程获客中的应用",
-   "why": "AI驱动购物流量增393%，GEO优化是新流量入口，可帮助短剧和知识付费获取AI推荐流量"
+   "topic": "抖音短剧版权中心 AI 混拍扶持政策细节",
+   "why": "真人+AI 混拍成平台扶持方向，可借鉴到出海短剧，降本做海外短剧。"
   },
   {
-   "topic": "中东短剧市场本地化策略",
-   "why": "中东是短剧出海蓝海，本地化经验可直接迁移，先发优势明显"
+   "topic": "中东短剧市场本地化策略（参考成功 SLG 手游）",
+   "why": "中东短剧市场蓝海，竞争小，本地化经验可复用，评估中东短剧题材。"
   },
   {
-   "topic": "AI营销工具在游戏出海中的投放效果和ROI数据",
-   "why": "AI营销降买量成本的思路可直接用于短剧出海投流，降低获客成本"
+   "topic": "AI 营销工具在短剧投流中的实际降本效果",
+   "why": "出海游戏企业买量成本高，AI 营销降本直接关系短剧投流 ROI。"
   }
  ],
- "daily_focus": "立即部署测试StoryGen-Atelier，评估其短剧分镜视频生成质量和效率，并排查现有短剧制作流程是否依赖Sora，准备替代方案。"
+ "daily_focus": "立即测试 ChatGPT IUI 功能，评估用其零代码快速生成可售 AI 小工具原型的可行性。"
 }
