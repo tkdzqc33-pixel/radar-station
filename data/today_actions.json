@@ -2,67 +2,67 @@
  "tools_to_test": [
   {
    "name": "Vidu Q4 Preview",
-   "what": "AI视频生成模型，9分钱每秒，可低成本生成短剧片段",
-   "why_today": "S级情报显示其成本极低且能生成爆款风格视频（如奥特曼男团跳舞），直接降低短剧制作成本，机会明确",
+   "what": "支持最多15张图片和3个语音合成4K场景的AI视频生成工具，成本低至9分钱每秒",
+   "why_today": "S级情报，成本极低且支持多图多语音，可直接用于批量生产短剧素材，今天注册测试能快速验证短剧片段生成效果",
    "time_est": "1-2小时",
    "source": "我用 Vidu Q4 Preview 把奥特曼和 Dario 凑成男团，跳起了 APT"
   },
   {
-   "name": "Claude Haiku 5.5",
-   "what": "低成本大模型，成本降75%且操作能力暴涨，适合批量生成脚本和自动化",
-   "why_today": "S级情报强调其降价10倍且操作能力提升，可大幅降低短剧脚本生成和工具开发成本，需立即测试对比",
-   "time_est": "1小时",
-   "source": "Claude Haiku 5.5 降本背后：操作能力暴涨，复杂编程为何仍差一截？"
+   "name": "Toonflow v2.0.5",
+   "what": "开源AI短剧/漫剧制作工具，集成剧本创作、分镜、角色一致性等全流程",
+   "why_today": "S级情报，刚发布v2.0.5版本，17k星验证，可本地部署测试分镜与角色一致性，直接降本替代付费管线",
+   "time_est": "2-3小时",
+   "source": "Toonflow短剧工具 v2.0.5: Toonflow 2.0.5"
   },
   {
-   "name": "Toonflow-app v2.0.5",
-   "what": "开源AI短剧全流程平台，1.7万星，支持分镜与视频生成",
-   "why_today": "S级情报显示其专为短剧设计且刚更新，可零成本搭建生产线，直接替代付费工具，需测试新功能",
-   "time_est": "2-3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: Toonflow 是开源 AI 创作平台... 及 [版本更新] Toonflow短剧工具 v2.0.5"
+   "name": "Open-Sora",
+   "what": "开源视频生成模型，近3万星，可自建短剧视频生产线",
+   "why_today": "S级情报，零API成本批量产短剧视频，今天部署测试生成短剧片段质量，评估自建生产线的可行性",
+   "time_est": "3-4小时",
+   "source": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video"
   },
   {
    "name": "StoryGen-Atelier",
-   "what": "AI辅助分镜和视频生成工具，集成Gemini+Veo+ffmpeg",
-   "why_today": "S级情报推荐克隆部署，测试用Veo生成短剧片段的效果和成本，可搭建自动化生产管线",
-   "time_est": "2-3小时",
+   "what": "AI辅助分镜到视频生成的管线，使用Gemini+Veo自动化流程",
+   "why_today": "A级情报，可参考其自动化流程复刻低成本短剧批量生成管线，今天研究其Gemini分镜提示词与Veo拼接逻辑",
+   "time_est": "1-2小时",
    "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
   },
   {
-   "name": "Saluki 27B",
-   "what": "2-bit量化的Qwen3.8-27B模型，7.89GB大小，可本地运行智能体",
-   "why_today": "A级情报指出其可省API成本且做离线工具，适合开发本地化短剧脚本工具，测试生成效果",
-   "time_est": "1-2小时",
-   "source": "Underdog AI 发布 Saluki 27B 模型：2-bit 量化 Qwen3.8-27B，7.89GB 大小"
+   "name": "Claude Haiku 5.5",
+   "what": "Anthropic发布的新模型，可能降低AI短剧制作成本",
+   "why_today": "A级情报，更便宜的模型可用于批量生成短剧剧本和翻译，今天测试其在剧本生成和翻译上的效果，评估成本优化空间",
+   "time_est": "1小时",
+   "source": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后续影响及替代工具迁移",
-   "reason": "S级情报显示Sora关停，依赖它的短剧制作流程需紧急迁移，替代工具可能有先发红利，需持续关注迁移进展和替代方案"
+   "item": "Sora关停后续影响及替代方案",
+   "reason": "Sora关停导致依赖它的短剧工作流需紧急迁移，迪士尼退出OpenAI合作，需持续关注替代工具（如Veo、Vidu）的稳定性和生态发展"
   },
   {
-   "item": "AI短剧'不烧心文学'套路在海外平台的复制效果",
-   "reason": "S级情报指出该套路已全网爆火，可复制投海外，需跟踪海外用户反馈和爆款率，以调整内容策略"
+   "item": "ChatGPT IUI智能用户界面",
+   "reason": "可生成可操作工具界面，降低AI小工具开发门槛，可能催生新的短剧辅助工具形态，需关注其开放进度和案例"
   },
   {
-   "item": "政策层面电商出海扶持细则",
-   "reason": "A级情报提到七部门构建电商出海良好生态，短剧出海可搭政策顺风车，需关注后续细则以评估补贴或资源申请机会"
+   "item": "Claude Code Mods插件生态",
+   "reason": "开放插件生态可能允许开发短剧脚本插件并变现，需关注其开发文档和上架政策，评估机会"
   }
  ],
  "research_topics": [
   {
-   "topic": "短剧出海日本市场的本地化运营策略",
-   "why": "A级情报提到国产手游融入日本文化元素后本地化运营成功，可迁移到短剧内容，研究具体文化适配和运营方法"
+   "topic": "海外短剧平台分成规则与投流成本优化",
+   "why": "情报中提到AI营销降低买量成本，需研究各平台分成规则和AI投放策略，以提升短剧出海ROI"
   },
   {
-   "topic": "AI营销工具在短剧投流中的降本效果",
-   "why": "A级情报指出出海游戏买量成本高，AI营销可降本，短剧投流可复用此方法，需调研实际工具和ROI"
+   "topic": "日本短剧市场本地化策略",
+   "why": "国产手游日本本地化方法论可迁移，日本短剧市场有差异化空间，需研究文化适配和运营策略"
   },
   {
-   "topic": "中东短剧市场本地化适配清单",
-   "why": "A级情报显示中东是短剧出海蓝海，本地化方法论可复用，需研究文化差异和内容偏好，制定适配清单"
+   "topic": "开源视频生成模型自托管成本与效果对比",
+   "why": "多个开源模型（Open-Sora、Open-Generative-AI等）可自托管降低API成本，需系统对比其生成质量、速度和总拥有成本"
   }
  ],
- "daily_focus": "立即测试Vidu Q4 Preview生成一段短剧片段，并核算其成本与效果，以决定是否批量用于低成本短剧制作。"
+ "daily_focus": "立即注册Vidu Q4 Preview并测试生成一段短剧片段，验证9分钱每秒成本下的视频质量和多图多语音功能，评估批量生产可行性。"
 }

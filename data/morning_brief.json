@@ -1,11 +1,12 @@
 {
- "top_story": "Sora关停，迪士尼退出OpenAI合作，依赖Sora的短剧制作流程必须紧急迁移。",
- "judgment": "Sora关停是今天最大的黑天鹅，但也是红利窗口。替代工具（Vidu Q4、Toonflow、StoryGen-Atelier）会迎来一波迁移潮，谁先跑通新管线，谁就能在1-2个月内吃到先发红利。同时Claude Haiku 5.5降价10倍，制作成本直接打下来，利润空间拉大。",
+ "top_story": "Sora突然关停，迪士尼退出合作，所有依赖Sora的短剧工作流必须紧急迁移。",
+ "judgment": "Sora关停是AI视频平台风险的总爆发，但也是开源工具和低价API的窗口期。Vidu Q4每秒9分钱、Toonflow开源管线、Open-Sora自建，三条路都能接住迁移需求。红利窗口约3-6个月，等大厂重新洗牌就没了。",
  "actions": [
-  "立刻测试Vidu Q4 Preview和Toonflow 2.0.5，把现有Sora流程迁移过去，跑通一条完整短剧管线。",
-  "用Claude Haiku 5.5批量生成短剧脚本和翻译，成本降75%，先跑10条测试效果。",
-  "复制国内'摆摊老板立规矩'爆款模板，用AI翻译后投海外TikTok，测试中东和日本市场。"
+  "立刻把Sora工作流切到Vidu Q4或Toonflow，先跑通一条短剧素材测试成本和质量",
+  "用Open-Sora或Open-Generative-AI自建生成管线，把API成本压到零",
+  "研究Toonflow v2.0.5和StoryGen-Atelier，搭一套自动化分镜到成片的批量生产流程",
+  "用Claude Haiku 5.5批量生成短剧剧本，测试成本降幅"
  ],
- "risk_alert": "别把宝押在单一视频模型上，Sora就是前车之鉴，多模型备份才是保命策略。",
- "mood": "谨慎乐观，窗口期就这一两个月，赶紧动手。"
+ "risk_alert": "别把宝押在单一AI视频平台上，Sora就是前车之鉴，多平台+开源自建才是保命策略。",
+ "mood": "谨慎乐观，窗口期短，赶紧动手迁移和自建。"
 }
