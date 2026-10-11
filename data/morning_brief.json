@@ -1,12 +1,12 @@
 {
- "top_story": "Sora突然关停，迪士尼退出合作，所有依赖Sora的短剧工作流必须紧急迁移。",
- "judgment": "Sora关停是AI视频平台风险的总爆发，但也是开源工具和低价API的窗口期。Vidu Q4每秒9分钱、Toonflow开源管线、Open-Sora自建，三条路都能接住迁移需求。红利窗口约3-6个月，等大厂重新洗牌就没了。",
+ "top_story": "Sora关停，AI视频赛道洗牌，短剧制作工具需紧急切换，竞品真空期出现。",
+ "judgment": "Sora关停是重大转折，短期造成工具真空，但Vidu Q4、开源模型等迅速补位，成本更低。红利窗口约1-2个月，快速切换工具、批量产内容抢占流量，同时布局开源自托管降本。",
  "actions": [
-  "立刻把Sora工作流切到Vidu Q4或Toonflow，先跑通一条短剧素材测试成本和质量",
-  "用Open-Sora或Open-Generative-AI自建生成管线，把API成本压到零",
-  "研究Toonflow v2.0.5和StoryGen-Atelier，搭一套自动化分镜到成片的批量生产流程",
-  "用Claude Haiku 5.5批量生成短剧剧本，测试成本降幅"
+  "立即测试Vidu Q4和Toonflow 2.0.5，替换Sora工作流，批量生成短剧素材。",
+  "部署Open-Sora或Open-Generative-AI，搭建零成本素材生产线，省API费用。",
+  "用Claude Code Mods机制开发短剧插件，探索付费变现。",
+  "研究中东、日本本地化短剧，用AI营销工具降低投流成本。"
  ],
- "risk_alert": "别把宝押在单一AI视频平台上，Sora就是前车之鉴，多平台+开源自建才是保命策略。",
- "mood": "谨慎乐观，窗口期短，赶紧动手迁移和自建。"
+ "risk_alert": "Sora关停可能导致依赖其的团队断档，需紧急备份多工具方案，避免生产停滞。",
+ "mood": "谨慎乐观，快速行动抢占真空期红利。"
 }
