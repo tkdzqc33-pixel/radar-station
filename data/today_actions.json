@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Vidu Q4 Preview",
-   "what": "支持多图多语音的4K视频生成工具，9分钱每秒",
-   "why_today": "S级情报，成本极低且支持多角色场景，直接降低短剧制作成本，竞品Sora关停后出现真空期，需立即测试抢占",
-   "time_est": "1-2小时",
-   "source": "我用 Vidu Q4 Preview 把奥特曼和 Dario 凑成男团，跳起了 APT"
-  },
-  {
    "name": "Toonflow v2.0.5",
-   "what": "开源AI短剧/漫剧全流程制作工具，集成剧本创作到视频生成",
-   "why_today": "S级版本更新，直接关系核心业务生产效率，需对比旧版评估新功能",
-   "time_est": "2-3小时",
-   "source": "Toonflow短剧工具 v2.0.5"
+   "what": "开源AI短剧/漫剧制作全流程工具，集成剧本创作到视频生成",
+   "why_today": "S级情报，1.7万星，刚发布v2.0.5版本更新，是短剧制作核心工具，可直接降低制作成本，替代付费方案",
+   "time_est": "2-3小时（部署+测试剧本到视频全流程）",
+   "source": "HBAI-Ltd/Toonflow-app + Toonflow短剧工具 v2.0.5"
   },
   {
-   "name": "Open-Sora",
-   "what": "开源视频生成模型，近3万星，可低成本替代付费工具",
-   "why_today": "S级开源项目，可零成本批量产短剧素材，Sora关停后需紧急寻找替代方案",
-   "time_est": "3-4小时（含部署）",
-   "source": "hpcaitech/Open-Sora: Democratizing Efficient Video"
-  },
-  {
-   "name": "Claude Code Mods",
-   "what": "Claude Code的插件生态机制，允许开发者创建付费Mod插件",
-   "why_today": "S级机会，抢先做付费Mod插件是AI工具变现新渠道，需研究机制并开发测试",
-   "time_est": "2-3小时",
-   "source": "Claude Code 的「乐高」模式，让程序员彻底玩「上头」了"
+   "name": "Open-Generative-AI",
+   "what": "3万星无审查自托管视频生成平台，集成600+模型",
+   "why_today": "S级情报，零API成本批量生成短剧素材，自托管可大幅降低制作成本，与短剧出海业务高度契合",
+   "time_est": "3-4小时（自托管部署+测试模型生成短剧素材）",
+   "source": "Anil-matcha/Open-Generative-AI"
   },
   {
    "name": "StoryGen-Atelier",
-   "what": "AI辅助分镜和视频生成工具，集成Gemini+Veo流程",
-   "why_today": "A级但可优化短剧前期制作，用Veo生成过渡片段提升成片质量，值得测试对比现有分镜流程",
-   "time_est": "1-2小时",
-   "source": "0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "what": "Gemini+Veo+ffmpeg全流程分镜生成工具，AI辅助故事板和视频生成",
+   "why_today": "A级情报，可参考搭建短剧自动化管线，集成到短剧制作流程降本增效，技术路线清晰",
+   "time_est": "1-2小时（克隆仓库+测试Gemini分镜+Veo转场）",
+   "source": "0xsline/StoryGen-Atelier"
+  },
+  {
+   "name": "TOONOOT",
+   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画",
+   "why_today": "A级情报，与核心业务高度契合，可低成本批量产出漫剧投海外，小说转短剧全流程值得验证",
+   "time_est": "2-3小时（部署+测试小说转短剧全流程）",
+   "source": "winsentrobot008/TOONOOT"
+  },
+  {
+   "name": "Claude Haiku 5.5 / GPT-6",
+   "what": "Anthropic和OpenAI最新模型，用于剧本生成和分镜效率提升",
+   "why_today": "A级情报，新模型发布直接影响AI工具选型和短剧制作效率，需第一时间测试剧本生成效果",
+   "time_est": "1小时（对比测试剧本生成质量和速度）",
+   "source": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代工具生态",
-   "reason": "Sora关停导致AI视频赛道洗牌，需持续关注哪些替代工具能快速补位，避免工作流中断"
+   "item": "Sora关停后的替代工具迁移（Runway/Kling/Veo）",
+   "reason": "Sora关停+迪士尼撤资，AI视频赛道洗牌，竞品真空期是快速切换工具抢占先机的窗口，需持续跟踪替代品优惠和迁移方案"
   },
   {
-   "item": "Claude Haiku 5.5和GPT-6在剧本生成上的表现",
-   "reason": "新模型可能提升AI短剧制作效率，但需观望实际效果和成本，再决定是否替换现有模型"
+   "item": "Claude Code Mods插件生态",
+   "reason": "Mods机制开放，可开发插件上架变现，是新的变现渠道，需关注插件商店规则和热门插件类型"
   },
   {
-   "item": "中东和日本短剧市场本地化机会",
-   "reason": "出海游戏本地化经验可复用，但需持续跟踪文化差异和受众偏好，不急于动手"
+   "item": "中东短剧出海市场动态",
+   "reason": "中东是短剧出海蓝海市场，SLG手游本地化成功案例可借鉴，先发优势明显，需持续跟踪当地政策和竞品动向"
   }
  ],
  "research_topics": [
   {
-   "topic": "Vidu Q4和Open-Sora的短剧素材生成质量与成本对比",
-   "why": "Sora关停后需紧急切换工具，需系统评估替代方案的质量、成本和合规边界"
+   "topic": "AI营销工具在游戏买量中的实际降本效果及短剧投流迁移方案",
+   "why": "出海游戏企业买量成本居高不下，短剧出海同样面临此痛点，AI营销方案可复用，需调研实际ROI数据"
   },
   {
-   "topic": "海外短剧受众审美偏好与AI角色生成策略",
-   "why": "AI默认审美偏差可能影响爆款逻辑，差异化审美角色或成突围点，需研究调整策略"
+   "topic": "迪士尼IP授权模式及AI短剧IP合作可行性",
+   "why": "迪士尼10亿美元投资OpenAI并允许角色用于Sora，IP+AI短剧新赛道可能开放，需研究授权模式和合规路径"
   },
   {
-   "topic": "AI营销工具在短剧投流中的降本效果",
-   "why": "出海游戏买量成本高，AI营销经验可迁移，需研究具体工具和投放策略以提升ROI"
+   "topic": "DeepSeek隐藏Bug（空格触发翻车）对AI工作流的影响及稳定性检测方案",
+   "why": "用DeepSeek做短剧脚本/翻译时可能因格式字符触发翻车，需排查现有工作流并开发稳定性检测工具"
   }
  ],
- "daily_focus": "立即测试Vidu Q4 Preview生成多角色短剧片段，评估其成本和质量是否可替代Sora，并同步部署Open-Sora作为备选方案"
+ "daily_focus": "立即部署Toonflow v2.0.5并跑通一个短剧从剧本到视频的完整流程，验证其能否替代现有付费方案"
 }

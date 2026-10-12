@@ -1,12 +1,12 @@
 {
- "top_story": "Sora关停，AI视频赛道洗牌，短剧制作工具需紧急切换，竞品真空期出现。",
- "judgment": "Sora关停是重大转折，短期造成工具真空，但Vidu Q4、开源模型等迅速补位，成本更低。红利窗口约1-2个月，快速切换工具、批量产内容抢占流量，同时布局开源自托管降本。",
+ "top_story": "Sora关停+迪士尼撤资，AI视频赛道一夜洗牌，短剧出海的生产管线必须紧急迁移。",
+ "judgment": "Sora是很多短剧团队的默认生成引擎，它一关，依赖它的管线直接断粮。但危中有机——竞品真空期，开源工具（Toonflow、Open-Sora）和替代模型会疯狂抢用户，现在切换成本最低，红利窗口大概1-2个月。",
  "actions": [
-  "立即测试Vidu Q4和Toonflow 2.0.5，替换Sora工作流，批量生成短剧素材。",
-  "部署Open-Sora或Open-Generative-AI，搭建零成本素材生产线，省API费用。",
-  "用Claude Code Mods机制开发短剧插件，探索付费变现。",
-  "研究中东、日本本地化短剧，用AI营销工具降低投流成本。"
+  "今天就把你管线里所有Sora调用点列出来，测试Open-Sora和Toonflow v2.0.5能否平替，跑通一条最短生成链路。",
+  "去GitHub给Toonflow和Open-Generative-AI点星并读issue区，看别人踩过什么坑，顺手薅替代品的迁移优惠。",
+  "用awesome-nano-banana-pro-prompts里的提示词，生成3组短剧角色图，投TikTok测试AI美女模板的拉新效果。",
+  "把StoryGen-Atelier的Gemini+Veo+ffmpeg分镜流程跑一遍，评估能否替代你现在的分镜外包。"
  ],
- "risk_alert": "Sora关停可能导致依赖其的团队断档，需紧急备份多工具方案，避免生产停滞。",
- "mood": "谨慎乐观，快速行动抢占真空期红利。"
+ "risk_alert": "别把宝押在单一闭源视频模型上，Sora就是前车之鉴，多模型冗余+开源兜底才是活路。",
+ "mood": "谨慎偏激进——洗牌期是抢跑窗口，但动作要快、备份要足。"
 }
