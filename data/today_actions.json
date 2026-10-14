@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Toonflow v2.0.5",
-   "what": "开源AI短剧/漫剧全流程制作工具，集成剧本创作到视频生成",
-   "why_today": "S级开源工具刚发布v2.0.5版本，1.7万星验证可用性，直接匹配短剧核心业务，可替代付费SaaS并支持二次开发",
-   "time_est": "2-3小时（本地部署+跑通一个短剧demo）",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app + [版本更新] Toonflow短剧工具 v2.0.5"
-  },
-  {
-   "name": "ai0-video-creator",
-   "what": "专为短剧设计的Tauri v2桌面AI视频工具，含生成+翻译功能",
-   "why_today": "S级情报，一站式短剧制作+翻译直接加速出海流程，与核心业务完全对齐，桌面端部署快",
-   "time_est": "1-2小时（下载安装+测试短剧生成与翻译）",
-   "source": "[GitHub] ajoesoft/ai0-video-creator"
+   "name": "Toonflow",
+   "what": "开源AI短剧/漫剧全流程创作平台，集成剧本创作到视频生成",
+   "why_today": "1.7万星开源项目，可直接本地部署测试剧本到视频全流程产出效率，评估二次开发插件或SaaS变现可能性",
+   "time_est": "2-3小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
   },
   {
    "name": "Open-Generative-AI",
-   "what": "3万星无审查开源视频生成平台，600+模型可自托管",
-   "why_today": "S级情报，零API成本生成短剧素材，Sora关停后急需备选方案，自托管可规避单一工具风险",
-   "time_est": "3-4小时（部署+测试1-2个模型生成短剧片段）",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
+   "what": "无内容过滤的开源AI视频生成平台，集成600+模型",
+   "why_today": "无审查批量生成海外短剧素材，自托管部署可测试Kling/Sora等模型生成短剧片段，解决内容合规限制",
+   "time_est": "2-3小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
   },
   {
    "name": "StoryGen-Atelier",
-   "what": "Gemini+Veo分镜到成片的AI辅助流水线",
-   "why_today": "A级但直接对标短剧生产管线，可集成进批量生产流程，验证分镜与Veo拼接效果",
-   "time_est": "2小时（本地部署+测试分镜到成片流程）",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier"
+   "what": "Gemini+Veo+ffmpeg自动分镜成片的AI辅助故事板与视频生成工具",
+   "why_today": "可作短剧生产管线参考，研究其分镜到成片的自动化流程，评估接入自有管线的可行性",
+   "time_est": "1-2小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
   },
   {
    "name": "Vibe-Workflow",
-   "what": "免费开源节点式AI工作流，可替代Weavy/Krea做视频管线",
-   "why_today": "A级但能省下订阅费自建管线，节点式灵活适配短剧生成流程，降低长期成本",
-   "time_est": "1-2小时（部署+搭建一个简单短剧生成工作流）",
-   "source": "[GitHub] SamurAIGPT/Vibe-Workflow"
+   "what": "免费开源的节点式AI工作流工具，可替代付费工作流平台",
+   "why_today": "基于此搭建短剧AI生产管线，省去付费工具订阅费，测试短剧图像/视频生成工作流",
+   "time_est": "1-2小时",
+   "source": "[GitHub] SamurAIGPT/Vibe-Workflow: Free, open-source alternative to We"
+  },
+  {
+   "name": "PineDrama",
+   "what": "字节海外免费短剧平台，上线九个月下载破亿",
+   "why_today": "字节免费短剧出海模式跑通，直接冲击投放和分账策略，需研究其免费+广告模式评估是否入驻或对标",
+   "time_est": "1-2小时",
+   "source": "[S] 上线九个月下载破亿，字节在海外再造「红果」"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后续影响及AI视频工具链洗牌",
-   "reason": "Sora关停导致迪士尼撤资，验证单一AI视频工具不可持续依赖，需持续跟踪备选工具成熟度和行业格局变化"
+   "item": "Sora关停与Sora 2发布的后续影响",
+   "reason": "Sora关停意味着依赖它的短剧工作流需紧急迁移，但Sora 2发布可能带来画质和一致性突破，需持续关注替代方案和升级机会"
   },
   {
-   "item": "字节Seed大模型安全与对齐部门动向及Anthropic蒸馏防护",
-   "reason": "大模型安全趋严+蒸馏攻击防护升级，AI工具合规门槛将提高，依赖API/蒸馏的方案成本可能上升，需关注政策风向"
+   "item": "可灵与Seedance在短剧场景的竞争格局",
+   "reason": "Seedance占短剧95%份额，可灵转电影赛道，影响视频模型选择策略，需关注可灵是否发力差异化及早期用户扶持红利"
   },
   {
-   "item": "GEO（生成引擎优化）赛道及深度云海融资后的产品动向",
-   "reason": "GEO获资本认可，AI营销工具需求真实存在，可能成为短剧和课程推广的新渠道，值得跟踪其玩法成熟度"
+   "item": "豆包手机助手第三方屏幕自动化操作权限开放进展",
+   "reason": "屏幕自动化权限开放可能催生新AI工具机会，阿里、腾讯系App明确拒绝，需关注SAEP协议发展及自动化工具开发可能性"
   }
  ],
  "research_topics": [
   {
-   "topic": "《沙幕之下》AI短片的分镜与提示词工作流拆解",
-   "why": "40天278万赞验证AI短剧内容爆发力，拆解其可复用方法论可直接指导自己的短剧起号和商单接洽"
+   "topic": "PineDrama免费+广告模式的分账规则与入驻条件",
+   "why": "字节免费短剧出海模式跑通，直接冲击现有投放和分账策略，需深入研究其商业模式以评估入驻或对标策略"
   },
   {
-   "topic": "中东和日本短剧出海本地化策略",
-   "why": "中东是短剧出海蓝海先入者红利大，日本市场本地化运营经验可直接复用，两个市场均有明确机会信号"
+   "topic": "GEO（生成引擎优化）让AI推荐短剧和课程的方法",
+   "why": "深度云海获千万级融资，GEO可低成本获取海外短剧用户，需研究GEO优化方法并测试让AI推荐短剧和课程"
   },
   {
-   "topic": "AI视频工具多备份方案与成本对比（开源vs付费API）",
-   "why": "Sora关停+蒸馏防护升级+QClaw关停三重信号，必须建立多工具备份方案并评估自托管开源方案的长期成本优势"
+   "topic": "中东和日本短剧市场本地化策略",
+   "why": "中东短剧市场蓝海且本地化经验稀缺，日本市场本地化经验可直接用于短剧出海，需研究国产手游本地化运营细节并迁移到短剧"
   }
  ],
- "daily_focus": "本地部署Toonflow v2.0.5并跑通一个短剧从剧本到视频的完整demo，同时排查现有流程中对Sora等单一工具的依赖并列出备选方案"
+ "daily_focus": "本地部署Toonflow并测试剧本到视频全流程产出效率，评估二次开发插件或SaaS卖给同行的可行性"
 }
