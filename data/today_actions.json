@@ -1,6 +1,68 @@
 {
- "tools_to_test": [],
- "things_to_watch": [],
- "research_topics": [],
- "daily_focus": "研究今日 S 级情报并决定测试哪个工具"
+ "tools_to_test": [
+  {
+   "name": "Gemini 4",
+   "what": "Google 最新发布的高性价比大模型，写代码和内容生成能力大幅提升",
+   "why_today": "S级情报，性价比极高，可直接降低短剧AI制作和工具开发成本，替代高价模型",
+   "time_est": "1-2小时",
+   "source": "刚刚，Gemini 4 发布！性价比「斩杀」"
+  },
+  {
+   "name": "Toonflow v2.0.6",
+   "what": "开源AI短剧/漫剧制作全流程工具，集成剧本创作到视频生成",
+   "why_today": "S级情报+版本更新，直接降低核心业务制作成本，新版本可能提升AI漫剧生产效率",
+   "time_est": "2-3小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app + [版本更新] Toonflow短剧工具 v2.0.6"
+  },
+  {
+   "name": "ai0-video-creator",
+   "what": "Tauri v2桌面AI视频创作工具，明确支持短剧创作+翻译视频",
+   "why_today": "S级情报，与核心业务高度匹配，可能成为短剧出海核心生产工具",
+   "time_est": "1-2小时",
+   "source": "[GitHub] ajoesoft/ai0-video-creator"
+  },
+  {
+   "name": "Open-Generative-AI",
+   "what": "3万星无审查开源AI视频生成平台，支持600+模型自托管",
+   "why_today": "S级情报，零成本无审查批量生成短剧视频素材，可测试Flux/Kling/Sora替代方案",
+   "time_est": "2-3小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
+  },
+  {
+   "name": "StoryGen-Atelier",
+   "what": "Gemini+Veo+ffmpeg全流程AI分镜生成工具",
+   "why_today": "A级情报，可优化短剧制作管线，降低人工分镜成本，与Gemini 4测试形成协同",
+   "time_est": "1-2小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier"
+  }
+ ],
+ "things_to_watch": [
+  {
+   "item": "PineDrama的IAA分账规则和入驻门槛",
+   "reason": "S级情报，免费短剧出海9个月破亿下载验证模式可行，直接关系核心业务对标策略"
+  },
+  {
+   "item": "Sora关停后的替代工具迁移进度",
+   "reason": "S级情报，需紧急盘点现有制作流程是否依赖Sora，避免业务中断，同时关注迪士尼退出后的行业连锁反应"
+  },
+  {
+   "item": "红果/腾讯免费短剧IAA分账模式及爆款题材",
+   "reason": "A级情报，国内模式验证成熟后可复制到海外新兴市场，腾讯入局意味着竞争加剧但模式可迁移"
+  }
+ ],
+ "research_topics": [
+  {
+   "topic": "PineDrama海外免费短剧IAA分账规则与入驻门槛",
+   "why": "S级情报直接指向核心业务机会，需评估YourChannel是否可对标，抓住印尼/巴西红利窗口"
+  },
+  {
+   "topic": "红果最新分账规则与投流ROI模型",
+   "why": "S级情报显示平台分账下调、爆率仅千分之四，需重新评估自身投流ROI模型，决定是否转向海外"
+  },
+  {
+   "topic": "印度新数据安全政策对出海应用的低成本合规方案",
+   "why": "A级情报，若工具上架印度区需关注合规避免下架风险，同时合规工具需求增加可开发SaaS"
+  }
+ ],
+ "daily_focus": "立即测试Gemini 4在短剧脚本/分镜/翻译上的效果，同时研究PineDrama的IAA分账规则和入驻门槛，评估YourChannel对标可行性"
 }
