@@ -2,67 +2,67 @@
  "tools_to_test": [
   {
    "name": "Gemini 4",
-   "what": "Google最新发布的高性价比多模态大模型，支持文本、图像生成。",
-   "why_today": "情报显示其性价比高，可大幅降低AI短剧脚本和素材的制作成本，需立即测试生成效果。",
-   "time_est": "1-2小时",
+   "what": "谷歌最新发布的高性价比AI模型，可用于文本与图像生成。",
+   "why_today": "情报显示Gemini 4性价比高，可降本用于短剧脚本和图像生成，替代高价API。",
+   "time_est": "1小时",
    "source": "刚刚，Gemini 4 发布！性价比「斩杀」"
   },
   {
-   "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作到视频生成的全流程。",
-   "why_today": "开源短剧漫剧全流程工具，可替代付费管线直接降本，适合本地部署测试。",
-   "time_est": "2-3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
+   "name": "Toonflow v2.0.6",
+   "what": "开源AI短剧/漫剧制作工具，集成剧本创作到视频生成全流程。",
+   "why_today": "版本更新至v2.0.6，直接影响漫剧生产效率，需实测新功能与出片速度。",
+   "time_est": "2小时",
+   "source": "[版本更新] Toonflow短剧工具 v2.0.6"
   },
   {
-   "name": "SceneAnvil",
-   "what": "聚合38个SOTA模型的4K AI视频与图像工作室。",
-   "why_today": "多模型聚合降低试错成本，可批量产漫剧，需注册测试Kling/Wan/Seedance出片质量。",
-   "time_est": "1-2小时",
-   "source": "[新品] SceneAnvil: Unified 4K AI video & image studio with 38 SOTA model"
+   "name": "Open-Generative-AI",
+   "what": "3万星无审查自托管视频生成平台，支持600+模型。",
+   "why_today": "可零成本替代付费视频API，降本制作短剧素材，且开源可控。",
+   "time_est": "2小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
+  },
+  {
+   "name": "StoryGen-Atelier",
+   "what": "AI辅助分镜与视频生成工具，集成Gemini+Veo。",
+   "why_today": "可补短剧制作链，低成本生成分镜与转场，需测试对比现有工作流。",
+   "time_est": "1.5小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier"
   },
   {
    "name": "TOONOOT",
    "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画。",
-   "why_today": "开源短剧全流程工具，可低成本批量产漫剧投海外，需克隆部署测试分镜与角色一致性。",
-   "time_est": "2-3小时",
-   "source": "[GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具"
-  },
-  {
-   "name": "StoryGen-Atelier",
-   "what": "AI辅助故事板与视频生成管线，基于Gemini+Veo。",
-   "why_today": "可借鉴其分镜到成片管线快速产漫剧，需研究分镜与Veo拼接流程并测试出片质量。",
-   "time_est": "1-2小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "why_today": "直接对标生产管线，可批量产出漫剧投海外，需本地跑通对比效率。",
+   "time_est": "2小时",
+   "source": "[GitHub] winsentrobot008/TOONOOT"
   }
  ],
  "things_to_watch": [
   {
-   "item": "PineDrama免费IAA模式的分账规则与入驻政策",
-   "reason": "上线九个月下载破亿，免费短剧新兴市场流量红利，需持续关注其规则变化以评估批量供片机会。"
+   "item": "Sora关停及迪士尼退出OpenAI合作后的AI视频工具格局",
+   "reason": "Sora关停导致工具链变动，需紧急评估替代方案，关注竞品窗口期机会。"
   },
   {
-   "item": "Sora关停后的替代工具迁移方案",
-   "reason": "Sora关停影响现有制作流程，需关注替代工具（如Gemini 4、SceneAnvil）的成熟度与迁移成本。"
+   "item": "PineDrama免费模式在新兴市场的增长数据",
+   "reason": "免费短剧模式验证成功，可能改变海外竞争格局，需跟踪其用户增长与变现策略。"
   },
   {
-   "item": "AI逆向工具（REA/IDA MCP）的竞品分析应用",
-   "reason": "可加速竞品拆解与差异化插件开发，但需关注其合法性与技术门槛。"
+   "item": "AI监管草案对生成内容标注与出海合规的影响",
+   "reason": "巨头游说定规则，小玩家需预判合规要求，避免内容下架风险。"
   }
  ],
  "research_topics": [
   {
-   "topic": "PineDrama入驻与分账规则",
-   "why": "免费短剧IAA模式爆发，改变海外分账格局，研究规则以评估批量供片与投放策略。"
+   "topic": "海外短剧IAP内购模式与付费点设计",
+   "why": "国金证券指出海外短剧市场渗透率低、空间大，优化付费点可提升收入。"
   },
   {
-   "topic": "国内红果爆款题材榜单与海外改编可行性",
-   "why": "国内免费短剧模式验证，题材与节奏可迁移海外，筛选可改编出海选题。"
+   "topic": "PineDrama免费+广告模式及新兴市场打法",
+   "why": "免费模式验证成功，可研究其广告变现策略与新兴市场用户获取方式。"
   },
   {
-   "topic": "中东与日本短剧市场本地化策略",
-   "why": "中东是短剧出海新兴市场，日本本地化经验可直接复用，拆解成功SLG手游的本地化细节。"
+   "topic": "中东短剧市场本地化题材与宗教文化禁忌",
+   "why": "中东是短剧出海蓝海，本地化决定成败，需调研文化适配与合规要求。"
   }
  ],
- "daily_focus": "立即测试Gemini 4生成短剧脚本和素材，评估其成本与质量，并同步部署Toonflow测试全流程。"
+ "daily_focus": "立即测试Gemini 4在短剧脚本生成上的效果与成本，并与现有API对比降本幅度。"
 }
