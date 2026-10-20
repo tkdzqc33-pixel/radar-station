@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Toonflow v2.0.6",
+   "name": "Toonflow-app",
    "what": "开源AI短剧/漫剧全流程制作工具，集成剧本创作到视频生成",
-   "why_today": "S级情报，新版本v2.0.6发布，直接提升漫剧生产效率，可抢爆款窗口期",
-   "time_est": "2小时",
-   "source": "[版本更新] Toonflow短剧工具 v2.0.6: Toonflow 2.0.6"
+   "why_today": "S级情报，直接降本增效，可替代付费SaaS，今天部署测试全流程",
+   "time_est": "2-3小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
   },
   {
    "name": "Open-Generative-AI",
-   "what": "3万星无审查多模型视频生成平台，可自托管",
-   "why_today": "S级情报，零成本替代付费视频平台，600+模型出片质量待验证",
-   "time_est": "1.5小时",
+   "what": "3万星无审查自托管AI视频生成平台，聚合600+模型",
+   "why_today": "S级情报，可绕开平台限制降本，今天测试Flux/Kling/Sora出片质量与成本",
+   "time_est": "2-3小时",
    "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
   },
   {
+   "name": "automate-for-growth",
+   "what": "Sora2批量生成+多平台分发的自动化指南",
+   "why_today": "S级情报，批量产短剧投TikTok测爆款的打法可直接复用，今天通读并搭建流程",
+   "time_est": "1-2小时",
+   "source": "[GitHub] cporter202/automate-for-growth: Complete guide to automating"
+  },
+  {
+   "name": "TOONOOT",
+   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画",
+   "why_today": "A级情报，直接对标核心业务，今天部署测试小说转分镜效果",
+   "time_est": "2-3小时",
+   "source": "[GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具"
+  },
+  {
    "name": "StoryGen-Atelier",
-   "what": "AI辅助分镜与视频生成管线，基于Gemini+Veo",
-   "why_today": "A级情报，Veo转场片段可提升漫剧产能，测试分镜生成对比现有工作流",
-   "time_est": "1小时",
+   "what": "AI辅助分镜和视频生成全流程工具（Gemini+Veo+ffmpeg）",
+   "why_today": "A级情报，可参考搭建自有短剧管线，今天克隆跑通流程并评估替换Veo为低成本模型",
+   "time_est": "2小时",
    "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
-  },
-  {
-   "name": "clipturbo",
-   "what": "AI驱动的一键营销视频生成工具",
-   "why_today": "A级情报，可批量产出TikTok投流短视频素材，补足投流素材产能",
-   "time_est": "1小时",
-   "source": "[GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具"
-  },
-  {
-   "name": "MoneyPrinter v1.3.8",
-   "what": "批量短视频生成工具，新增进度日志功能",
-   "why_today": "A级版本更新，适合量产投流素材，测试批量生成10条短视频",
-   "time_est": "1小时",
-   "source": "[版本更新] MoneyPrinter v1.3.8: v1.3.8"
   }
  ],
  "things_to_watch": [
   {
-   "item": "PineDrama在巴西印尼的免费+广告模式进展",
-   "reason": "S级情报，下载破亿验证模式可行，需持续关注其分账规则和内容缺口变化"
+   "item": "腾讯短剧生态入驻政策与分账规则",
+   "reason": "S级情报，腾讯入场带来新平台红利，早期入驻可拿流量扶持，需持续关注政策变化"
   },
   {
-   "item": "Sora关停后的替代工具生态（Runway/Pika/Kling）",
-   "reason": "S级情报，工具空窗期需建立多工具备份方案，避免单点依赖"
+   "item": "Sora关停后的替代模型迁移进展",
+   "reason": "S级情报，依赖Sora的生产链需紧急迁移，关注竞品工具窗口期红利和迁移方案"
   },
   {
-   "item": "微信短剧小程序的分账规则和流量玩法",
-   "reason": "A级情报，国内短剧格局变化，早期红利可复制到海外"
+   "item": "AI短剧成本与分账暴跌的行业洗牌信号",
+   "reason": "S级情报，行业洗牌明确，需持续跟踪成本变化和分账预期调整"
   }
  ],
  "research_topics": [
   {
-   "topic": "PineDrama入驻和分账规则",
-   "why": "S级情报建议立即研究，评估投放巴西印尼市场的可行性"
+   "topic": "绿泡泡短剧入驻政策与分账规则",
+   "why": "S级情报建议研究，评估投放ROI，抢占腾讯短剧早期红利"
   },
   {
-   "topic": "AI营销工具在短剧投流中的降本效果",
-   "why": "A级情报指出买量成本高，AI投流直接关系出海利润"
+   "topic": "AI短剧投流ROI重算与分账预期调整",
+   "why": "S级情报建议重新核算，应对成本骤降和分账暴跌的行业变化"
   },
   {
-   "topic": "中东短剧市场本地化策略",
-   "why": "A级情报显示中东是蓝海，可复用SLG手游本地化经验"
+   "topic": "中东短剧市场本地化策略（借鉴SLG手游经验）",
+   "why": "A级情报指出中东是短剧出海蓝海，本地化经验可直接复用"
   }
  ],
- "daily_focus": "本地部署Toonflow v2.0.6并测试剧本到视频全流程，对比旧版出片质量"
+ "daily_focus": "今天部署Toonflow-app并跑通剧本到视频全流程，评估其替代付费SaaS的降本效果"
 }
