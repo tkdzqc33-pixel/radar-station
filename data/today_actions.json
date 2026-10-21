@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Toonflow-app",
-   "what": "开源AI短剧/漫剧全流程制作工具，集成剧本创作到视频生成",
-   "why_today": "S级情报，直接降本增效，可替代付费SaaS，今天部署测试全流程",
-   "time_est": "2-3小时",
+   "name": "Toonflow v2.0.7",
+   "what": "开源AI短剧/漫剧全流程创作工具，集成剧本到视频生成",
+   "why_today": "S级情报，版本更新v2.0.7，1.8万星，可直接降本增效，替代付费工具",
+   "time_est": "2小时",
    "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
   },
   {
    "name": "Open-Generative-AI",
-   "what": "3万星无审查自托管AI视频生成平台，聚合600+模型",
-   "why_today": "S级情报，可绕开平台限制降本，今天测试Flux/Kling/Sora出片质量与成本",
-   "time_est": "2-3小时",
+   "what": "3万星无审查开源AI视频生成平台，支持600+模型自托管",
+   "why_today": "S级情报，零API成本批量产短剧素材，绕开平台限制",
+   "time_est": "3小时",
    "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
   },
   {
-   "name": "automate-for-growth",
-   "what": "Sora2批量生成+多平台分发的自动化指南",
-   "why_today": "S级情报，批量产短剧投TikTok测爆款的打法可直接复用，今天通读并搭建流程",
-   "time_est": "1-2小时",
-   "source": "[GitHub] cporter202/automate-for-growth: Complete guide to automating"
-  },
-  {
-   "name": "TOONOOT",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画",
-   "why_today": "A级情报，直接对标核心业务，今天部署测试小说转分镜效果",
-   "time_est": "2-3小时",
-   "source": "[GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具"
+   "name": "minimax-H3",
+   "what": "开源视频生成模型，可替代Seedance用于短剧片段生成",
+   "why_today": "S级情报，测试token成本对比Seedance，实现降本或私有化部署",
+   "time_est": "1.5小时",
+   "source": "[S] AI群雄时代，仍有落地机会。"
   },
   {
    "name": "StoryGen-Atelier",
-   "what": "AI辅助分镜和视频生成全流程工具（Gemini+Veo+ffmpeg）",
-   "why_today": "A级情报，可参考搭建自有短剧管线，今天克隆跑通流程并评估替换Veo为低成本模型",
+   "what": "AI辅助分镜与视频生成工具，集成Gemini+Veo+ffmpeg自动成片",
+   "why_today": "A级情报，直接对标短剧生产，可批量产漫剧降本",
    "time_est": "2小时",
    "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+  },
+  {
+   "name": "DramaBuddy",
+   "what": "阅文IP漫剧创作与变现平台，提供IP库和算力补贴",
+   "why_today": "S级情报，阅文开放版权库，注册申请创作者评级与IP合作，头部破600万",
+   "time_est": "1小时",
+   "source": "[S] 在人人都能做漫剧之后，阅文打开了自己的版权库"
   }
  ],
  "things_to_watch": [
   {
-   "item": "腾讯短剧生态入驻政策与分账规则",
-   "reason": "S级情报，腾讯入场带来新平台红利，早期入驻可拿流量扶持，需持续关注政策变化"
+   "item": "Sora关停后续影响与替代方案",
+   "reason": "S级风险，依赖Sora的团队面临断供，需持续关注替代工具成熟度与迁移成本"
   },
   {
-   "item": "Sora关停后的替代模型迁移进展",
-   "reason": "S级情报，依赖Sora的生产链需紧急迁移，关注竞品工具窗口期红利和迁移方案"
+   "item": "红果IAA分账规则与绿泡泡早期红利",
+   "reason": "A级机会，国内短剧格局变化，IAA变现模式验证，可能复制到海外"
   },
   {
-   "item": "AI短剧成本与分账暴跌的行业洗牌信号",
-   "reason": "S级情报，行业洗牌明确，需持续跟踪成本变化和分账预期调整"
+   "item": "热梗版权松动（字节撤销著作权登记）",
+   "reason": "A级机会，可安全用梗引流，需跟踪可商用热梗清单更新"
   }
  ],
  "research_topics": [
   {
-   "topic": "绿泡泡短剧入驻政策与分账规则",
-   "why": "S级情报建议研究，评估投放ROI，抢占腾讯短剧早期红利"
+   "topic": "阅文IP漫剧分成规则与创作者评级标准",
+   "why": "S级机会，直接关系IP合作变现，需明确分成比例、评级门槛和算力补贴细节"
   },
   {
-   "topic": "AI短剧投流ROI重算与分账预期调整",
-   "why": "S级情报建议重新核算，应对成本骤降和分账暴跌的行业变化"
+   "topic": "红果IAA分账模式及海外复制可行性",
+   "why": "A级机会，国内验证的IAA模式可能适用于海外短剧市场，需研究分账规则和用户习惯"
   },
   {
-   "topic": "中东短剧市场本地化策略（借鉴SLG手游经验）",
-   "why": "A级情报指出中东是短剧出海蓝海，本地化经验可直接复用"
+   "topic": "中东短剧市场本地化题材与竞争格局",
+   "why": "A级机会，中东蓝海竞争少，需拆解SLG本地化策略迁移到短剧选题"
   }
  ],
- "daily_focus": "今天部署Toonflow-app并跑通剧本到视频全流程，评估其替代付费SaaS的降本效果"
+ "daily_focus": "注册DramaBuddy并申请创作者评级，同时本地部署Toonflow v2.0.7测试全流程"
 }
