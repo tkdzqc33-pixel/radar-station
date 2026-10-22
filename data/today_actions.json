@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Toonflow v2.0.7",
-   "what": "开源AI短剧/漫剧全流程创作工具，集成剧本到视频生成",
-   "why_today": "S级情报，版本更新v2.0.7，1.8万星，可直接降本增效，替代付费工具",
-   "time_est": "2小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
+   "name": "MiniMax M3.1 Flash",
+   "what": "低价高性价比的AI模型，在Agent任务上排名第一",
+   "why_today": "情报显示其拿下Agent任务第一，可显著降低短剧AI制作与工具开发成本，今天实测脚本生成与代码任务效果",
+   "time_est": "1-2小时",
+   "source": "大肥鱼遇劲敌：MiniMax M3.1 Flash 拿下 Agent 任务第一，我们实测了"
   },
   {
-   "name": "Open-Generative-AI",
-   "what": "3万星无审查开源AI视频生成平台，支持600+模型自托管",
-   "why_today": "S级情报，零API成本批量产短剧素材，绕开平台限制",
-   "time_est": "3小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
-  },
-  {
-   "name": "minimax-H3",
-   "what": "开源视频生成模型，可替代Seedance用于短剧片段生成",
-   "why_today": "S级情报，测试token成本对比Seedance，实现降本或私有化部署",
-   "time_est": "1.5小时",
-   "source": "[S] AI群雄时代，仍有落地机会。"
+   "name": "Toonflow-app",
+   "what": "开源AI视频创作平台，集成剧本创作、分镜、视频生成的全流程短剧/漫剧制作工具",
+   "why_today": "开源方案可直接替代付费SaaS降本，且今日有v2.0.7版本更新，需测试新版本出片质量与稳定性",
+   "time_est": "2-3小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作 | 开源短剧漫剧全流程工具，直接降本增效"
   },
   {
    "name": "StoryGen-Atelier",
-   "what": "AI辅助分镜与视频生成工具，集成Gemini+Veo+ffmpeg自动成片",
-   "why_today": "A级情报，直接对标短剧生产，可批量产漫剧降本",
-   "time_est": "2小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "what": "AI辅助分镜与视频生成工具，基于Gemini+Veo",
+   "why_today": "可低成本快速产出短剧样片，补足短剧前期分镜环节，今天测试分镜与转场片段生成效果",
+   "time_est": "1-2小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge | Gemini+Veo分镜生成，可补短剧前期环节"
   },
   {
-   "name": "DramaBuddy",
-   "what": "阅文IP漫剧创作与变现平台，提供IP库和算力补贴",
-   "why_today": "S级情报，阅文开放版权库，注册申请创作者评级与IP合作，头部破600万",
+   "name": "clipturbo",
+   "what": "AI驱动的视频生成工具，一键生成高质量营销视频",
+   "why_today": "可批量生产短剧投流素材，降低测试成本，今天下载测试批量生成投流短视频",
    "time_est": "1小时",
-   "source": "[S] 在人人都能做漫剧之后，阅文打开了自己的版权库"
+   "source": "[GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered"
+  },
+  {
+   "name": "WatermarkRemover-AI",
+   "what": "AI去水印工具，可清洗素材",
+   "why_today": "短剧二创和AI视频去标是刚需，可封装成在线去水印SaaS按次收费，今天本地部署测试去水印效果",
+   "time_est": "1小时",
+   "source": "[GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后续影响与替代方案",
-   "reason": "S级风险，依赖Sora的团队面临断供，需持续关注替代工具成熟度与迁移成本"
+   "item": "Sora关停传闻与Sora 2能力升级",
+   "reason": "若Sora关停，依赖它的短剧生产链需紧急迁移；同时Sora 2升级可能带来更高质感漫剧机会，需持续关注官方动态"
   },
   {
-   "item": "红果IAA分账规则与绿泡泡早期红利",
-   "reason": "A级机会，国内短剧格局变化，IAA变现模式验证，可能复制到海外"
+   "item": "美国政府对DeepSeek等中国AI模型的禁用政策",
+   "reason": "出海工具需规避合规风险，需跟踪政策范围及对自有AI工具依赖模型的影响"
   },
   {
-   "item": "热梗版权松动（字节撤销著作权登记）",
-   "reason": "A级机会，可安全用梗引流，需跟踪可商用热梗清单更新"
+   "item": "AI投流工具在短剧出海中的实测效果",
+   "reason": "投流成本是短剧出海核心成本项，AI营销能否降本提效需持续跟踪案例与数据"
   }
  ],
  "research_topics": [
   {
-   "topic": "阅文IP漫剧分成规则与创作者评级标准",
-   "why": "S级机会，直接关系IP合作变现，需明确分成比例、评级门槛和算力补贴细节"
+   "topic": "日本短剧市场本地化偏好与爆款题材",
+   "why": "日本是短剧出海高价值市场，本地化是关键，需研究文化偏好以指导内容制作"
   },
   {
-   "topic": "红果IAA分账模式及海外复制可行性",
-   "why": "A级机会，国内验证的IAA模式可能适用于海外短剧市场，需研究分账规则和用户习惯"
+   "topic": "中东短剧市场本地化运营细节（参考SLG手游案例）",
+   "why": "中东是短剧出海蓝海，拆解成功SLG手游的本地化运营可复用先发优势"
   },
   {
-   "topic": "中东短剧市场本地化题材与竞争格局",
-   "why": "A级机会，中东蓝海竞争少，需拆解SLG本地化策略迁移到短剧选题"
+   "topic": "印度新数据安全政策对SaaS工具出海的影响",
+   "why": "印度市场合规成本影响工具上架与运营，需评估具体要求以低成本完成合规"
   }
  ],
- "daily_focus": "注册DramaBuddy并申请创作者评级，同时本地部署Toonflow v2.0.7测试全流程"
+ "daily_focus": "今天用MiniMax M3.1 Flash跑通一个短剧脚本生成与代码任务测试，并记录成本与效果对比。"
 }
