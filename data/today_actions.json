@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "MiniMax M3.1 Flash",
-   "what": "低价高性价比的AI模型，在Agent任务上排名第一",
-   "why_today": "情报显示其拿下Agent任务第一，可显著降低短剧AI制作与工具开发成本，今天实测脚本生成与代码任务效果",
-   "time_est": "1-2小时",
-   "source": "大肥鱼遇劲敌：MiniMax M3.1 Flash 拿下 Agent 任务第一，我们实测了"
+   "name": "Toonflow v2.0.7",
+   "what": "开源AI短剧/漫剧全流程制作工具，集成剧本创作与视频生成",
+   "why_today": "S级情报显示TK分成暴跌、产能内卷，急需降本增效；Toonflow刚发新版v2.0.7，开源可替代付费管线，直接测试分镜与视频生成效率",
+   "time_est": "2小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app + [版本更新] Toonflow短剧工具 v2.0.7"
   },
   {
-   "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作、分镜、视频生成的全流程短剧/漫剧制作工具",
-   "why_today": "开源方案可直接替代付费SaaS降本，且今日有v2.0.7版本更新，需测试新版本出片质量与稳定性",
-   "time_est": "2-3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作 | 开源短剧漫剧全流程工具，直接降本增效"
+   "name": "Open-Generative-AI",
+   "what": "无内容过滤的自托管AI生成平台，集成600+模型（含Flux/Kling/Sora等）",
+   "why_today": "S级情报强调精品漫剧需独特品味且题材不受限，自托管可省API成本并规避内容过滤，适合测试差异化题材生成",
+   "time_est": "3小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
   },
   {
-   "name": "StoryGen-Atelier",
-   "what": "AI辅助分镜与视频生成工具，基于Gemini+Veo",
-   "why_today": "可低成本快速产出短剧样片，补足短剧前期分镜环节，今天测试分镜与转场片段生成效果",
-   "time_est": "1-2小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge | Gemini+Veo分镜生成，可补短剧前期环节"
-  },
-  {
-   "name": "clipturbo",
-   "what": "AI驱动的视频生成工具，一键生成高质量营销视频",
-   "why_today": "可批量生产短剧投流素材，降低测试成本，今天下载测试批量生成投流短视频",
+   "name": "新版DeepSeek",
+   "what": "低成本大模型，可生成脚本与代码",
+   "why_today": "情报显示4块钱即可让特斯拉飞起来，成本极低；当前漫剧脚本产能是瓶颈，测试批量生成漫剧脚本与工具代码可显著提效",
    "time_est": "1小时",
-   "source": "[GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered"
+   "source": "[A] 我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来"
   },
   {
-   "name": "WatermarkRemover-AI",
-   "what": "AI去水印工具，可清洗素材",
-   "why_today": "短剧二创和AI视频去标是刚需，可封装成在线去水印SaaS按次收费，今天本地部署测试去水印效果",
+   "name": "Nevazu",
+   "what": "云端持久Chrome+独立IP，用于多账号防关联管理",
+   "why_today": "短剧出海依赖TikTok/YouTube多账号矩阵，IP隔离是刚需；新品可测试其稳定性和防关联效果，解决运营痛点",
+   "time_est": "1.5小时",
+   "source": "[新品] Nevazu: Your persistent Chrome in the cloud, with a dedicated IP"
+  },
+  {
+   "name": "MoneyPrinter v1.3.9",
+   "what": "批量短视频生成工具，新版支持pip安装和CLI批量生成",
+   "why_today": "版本更新降低批量生成门槛，配合TK投放ROI重算，可快速测试批量产素材降本效果",
    "time_est": "1小时",
-   "source": "[GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using"
+   "source": "[版本更新] MoneyPrinter v1.3.9"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停传闻与Sora 2能力升级",
-   "reason": "若Sora关停，依赖它的短剧生产链需紧急迁移；同时Sora 2升级可能带来更高质感漫剧机会，需持续关注官方动态"
+   "item": "Sora关停后的替代工具格局（Runway、Kling、Pika等）",
+   "reason": "Sora关停导致迪士尼退出，AI视频赛道洗牌，替代工具早期红利期，需持续跟踪各平台分账与商用条款变化"
   },
   {
-   "item": "美国政府对DeepSeek等中国AI模型的禁用政策",
-   "reason": "出海工具需规避合规风险，需跟踪政策范围及对自有AI工具依赖模型的影响"
+   "item": "Grok插件生态入驻门槛与分成规则",
+   "reason": "SpaceX超级智能合作伙伴网络已有130+公司参与，Grok开放插件生态是新渠道，早期红利值得跟踪但暂不急于开发"
   },
   {
-   "item": "AI投流工具在短剧出海中的实测效果",
-   "reason": "投流成本是短剧出海核心成本项，AI营销能否降本提效需持续跟踪案例与数据"
+   "item": "Meta广告审核趋严对投流素材合规的影响",
+   "reason": "Meta因欺诈性广告被起诉，审核收紧可能影响短剧投流素材过审率，需持续关注政策变化"
   }
  ],
  "research_topics": [
   {
-   "topic": "日本短剧市场本地化偏好与爆款题材",
-   "why": "日本是短剧出海高价值市场，本地化是关键，需研究文化偏好以指导内容制作"
+   "topic": "TK海外漫剧最新分成规则与ROI重算模型",
+   "why": "S级情报指出分成暴跌直接影响核心业务收益，必须量化新规则下的盈亏平衡点，决定砍掉哪些低分成题材"
   },
   {
-   "topic": "中东短剧市场本地化运营细节（参考SLG手游案例）",
-   "why": "中东是短剧出海蓝海，拆解成功SLG手游的本地化运营可复用先发优势"
+   "topic": "中东短剧市场本地化运营清单（参考SLG手游成功案例）",
+   "why": "中东是短剧出海蓝海，先发优势明显，需研究文化差异、题材偏好和运营细节，评估可行性"
   },
   {
-   "topic": "印度新数据安全政策对SaaS工具出海的影响",
-   "why": "印度市场合规成本影响工具上架与运营，需评估具体要求以低成本完成合规"
+   "topic": "AI营销工具在短剧买量中的降本效果与定向能力",
+   "why": "出海游戏买量成本高企，AI营销可复用至短剧投流，需调研具体工具的成本数据和素材生成能力"
   }
  ],
- "daily_focus": "今天用MiniMax M3.1 Flash跑通一个短剧脚本生成与代码任务测试，并记录成本与效果对比。"
+ "daily_focus": "本地部署Toonflow v2.0.7并跑通一条漫剧分镜到视频的完整流程，量化对比现有付费管线的成本与效率"
 }
