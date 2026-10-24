@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
+   "name": "Seedance 2.5 4K",
+   "what": "字节跳动旗下AI视频生成模型，支持4K分辨率输出",
+   "why_today": "正式发布，直接提升短剧画质竞争力，可做差异化精品短剧",
+   "time_est": "1-2小时",
+   "source": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道"
+  },
+  {
    "name": "Toonflow v2.0.7",
-   "what": "开源AI短剧/漫剧全流程制作工具，集成剧本创作与视频生成",
-   "why_today": "S级情报显示TK分成暴跌、产能内卷，急需降本增效；Toonflow刚发新版v2.0.7，开源可替代付费管线，直接测试分镜与视频生成效率",
-   "time_est": "2小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app + [版本更新] Toonflow短剧工具 v2.0.7"
+   "what": "开源AI短剧/漫剧全流程制作工具，集成剧本创作到视频生成",
+   "why_today": "版本更新，修复bug或加新功能，可提效多产短剧测试投放",
+   "time_est": "2-3小时",
+   "source": "[版本更新] Toonflow短剧工具 v2.0.7: Toonflow 2.0.7"
   },
   {
    "name": "Open-Generative-AI",
-   "what": "无内容过滤的自托管AI生成平台，集成600+模型（含Flux/Kling/Sora等）",
-   "why_today": "S级情报强调精品漫剧需独特品味且题材不受限，自托管可省API成本并规避内容过滤，适合测试差异化题材生成",
-   "time_est": "3小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
+   "what": "3万星无审查自托管AI视频平台，聚合600+模型",
+   "why_today": "可零成本替代付费视频平台，大幅降低短剧素材生成成本",
+   "time_est": "3-4小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
   },
   {
-   "name": "新版DeepSeek",
-   "what": "低成本大模型，可生成脚本与代码",
-   "why_today": "情报显示4块钱即可让特斯拉飞起来，成本极低；当前漫剧脚本产能是瓶颈，测试批量生成漫剧脚本与工具代码可显著提效",
-   "time_est": "1小时",
-   "source": "[A] 我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来"
+   "name": "ai0-video-creator",
+   "what": "基于Tauri v2的桌面端AI短剧创作工具，支持短剧与翻译视频",
+   "why_today": "直接匹配核心业务，可搭建本地化短剧生产工作流",
+   "time_est": "1-2小时",
+   "source": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI"
   },
   {
-   "name": "Nevazu",
-   "what": "云端持久Chrome+独立IP，用于多账号防关联管理",
-   "why_today": "短剧出海依赖TikTok/YouTube多账号矩阵，IP隔离是刚需；新品可测试其稳定性和防关联效果，解决运营痛点",
-   "time_est": "1.5小时",
-   "source": "[新品] Nevazu: Your persistent Chrome in the cloud, with a dedicated IP"
-  },
-  {
-   "name": "MoneyPrinter v1.3.9",
-   "what": "批量短视频生成工具，新版支持pip安装和CLI批量生成",
-   "why_today": "版本更新降低批量生成门槛，配合TK投放ROI重算，可快速测试批量产素材降本效果",
-   "time_est": "1小时",
-   "source": "[版本更新] MoneyPrinter v1.3.9"
+   "name": "StoryGen-Atelier",
+   "what": "AI辅助故事板与视频生成工具，集成Gemini+Veo+ffmpeg全流程",
+   "why_today": "可替代部分人工制作环节，搭建自有AI短剧流水线降本",
+   "time_est": "2-3小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代工具格局（Runway、Kling、Pika等）",
-   "reason": "Sora关停导致迪士尼退出，AI视频赛道洗牌，替代工具早期红利期，需持续跟踪各平台分账与商用条款变化"
+   "item": "Sora关停后续影响及替代方案",
+   "reason": "Sora关停导致依赖它的短剧生产管线断供，需持续关注Runway/可灵/Pika等替代平台的稳定性和迁移成本"
   },
   {
-   "item": "Grok插件生态入驻门槛与分成规则",
-   "reason": "SpaceX超级智能合作伙伴网络已有130+公司参与，Grok开放插件生态是新渠道，早期红利值得跟踪但暂不急于开发"
+   "item": "TK平台短剧分成规则变化",
+   "reason": "TK月上新20万部、分成暴跌，直接影响核心业务，需跟踪平台政策调整和ROI变化"
   },
   {
-   "item": "Meta广告审核趋严对投流素材合规的影响",
-   "reason": "Meta因欺诈性广告被起诉，审核收紧可能影响短剧投流素材过审率，需持续关注政策变化"
+   "item": "AI虚拟人情感诈骗监管收紧",
+   "reason": "监管与平台审核将收紧，需关注合规要求，避免自有AI内容涉及虚假人设与诱导打赏"
   }
  ],
  "research_topics": [
   {
-   "topic": "TK海外漫剧最新分成规则与ROI重算模型",
-   "why": "S级情报指出分成暴跌直接影响核心业务收益，必须量化新规则下的盈亏平衡点，决定砍掉哪些低分成题材"
+   "topic": "OPC平台签约精品漫剧分成规则",
+   "why": "TK分成暴跌后，OPC平台可能成为新机会，需研究其分成模式和签约条件"
   },
   {
-   "topic": "中东短剧市场本地化运营清单（参考SLG手游成功案例）",
-   "why": "中东是短剧出海蓝海，先发优势明显，需研究文化差异、题材偏好和运营细节，评估可行性"
+   "topic": "AI投流工具与精准定向方案",
+   "why": "出海买量成本高企，AI营销可降低短剧投流成本，需调研具体工具和效果"
   },
   {
-   "topic": "AI营销工具在短剧买量中的降本效果与定向能力",
-   "why": "出海游戏买量成本高企，AI营销可复用至短剧投流，需调研具体工具的成本数据和素材生成能力"
+   "topic": "日本及中东短剧市场本地化运营",
+   "why": "日本和中东是短剧出海高潜力市场，可借鉴国产手游本地化经验，研究题材和文化适配"
   }
  ],
- "daily_focus": "本地部署Toonflow v2.0.7并跑通一条漫剧分镜到视频的完整流程，量化对比现有付费管线的成本与效率"
+ "daily_focus": "立即测试Seedance 2.5 4K生成效果与成本，评估用4K画质做差异化精品短剧的可行性"
 }
