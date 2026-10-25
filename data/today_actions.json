@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Seedance 2.5 4K",
-   "what": "字节跳动旗下AI视频生成模型，支持4K分辨率输出",
-   "why_today": "正式发布，直接提升短剧画质竞争力，可做差异化精品短剧",
-   "time_est": "1-2小时",
-   "source": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道"
-  },
-  {
    "name": "Toonflow v2.0.7",
-   "what": "开源AI短剧/漫剧全流程制作工具，集成剧本创作到视频生成",
-   "why_today": "版本更新，修复bug或加新功能，可提效多产短剧测试投放",
-   "time_est": "2-3小时",
-   "source": "[版本更新] Toonflow短剧工具 v2.0.7: Toonflow 2.0.7"
+   "what": "开源 AI 短剧/漫剧全流程制作工具，集成剧本、分镜、视频生成",
+   "why_today": "S 级情报明确建议本地部署测试分镜与视频生成，且今日发布 v2.0.7 版本更新，可能修复影响出片效率的问题，直接降本增效",
+   "time_est": "2-3 小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow + [版本更新] Toonflow短剧工具 v2.0.7"
   },
   {
-   "name": "Open-Generative-AI",
-   "what": "3万星无审查自托管AI视频平台，聚合600+模型",
-   "why_today": "可零成本替代付费视频平台，大幅降低短剧素材生成成本",
-   "time_est": "3-4小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
+   "name": "Seedance 2.5 4K",
+   "what": "支持 4K 画质的 AI 视频生成模型，可用于短剧素材生产",
+   "why_today": "A 级情报显示 Seedance 2.5 正式发布并支持 4K，在 TK 漫剧红海化背景下，4K 画质可作为精品化差异化竞争点，需尽快测试生成质量与一致性",
+   "time_est": "1-2 小时",
+   "source": "[A] iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道"
   },
   {
-   "name": "ai0-video-creator",
-   "what": "基于Tauri v2的桌面端AI短剧创作工具，支持短剧与翻译视频",
-   "why_today": "直接匹配核心业务，可搭建本地化短剧生产工作流",
-   "time_est": "1-2小时",
-   "source": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI"
+   "name": "即梦（接入小云雀后）",
+   "what": "字节旗下 AI 创作工具，小云雀并入后可能增强短剧生成能力",
+   "why_today": "A 级情报指出字节 AI 应用整合，即梦可能获得新能力，借机测试短剧生成链路，评估能否提效漫剧产能",
+   "time_est": "1-2 小时",
+   "source": "[A] 独家｜字节AI应用再整合：小云雀并入即梦"
   },
   {
-   "name": "StoryGen-Atelier",
-   "what": "AI辅助故事板与视频生成工具，集成Gemini+Veo+ffmpeg全流程",
-   "why_today": "可替代部分人工制作环节，搭建自有AI短剧流水线降本",
-   "time_est": "2-3小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "name": "Lovart 2.0 的 Arti",
+   "what": "个人设计 Agent，可辅助批量产出短剧封面与投流物料",
+   "why_today": "A 级情报推荐注册测试 Arti 设计流程，在投流成本高企的背景下，批量生成高质量封面/素材有助于降低获客成本",
+   "time_est": "1 小时",
+   "source": "[A] 设计师的第一个 Personal Agent，可能就是 Lovart 2.0 的 Arti 了"
+  },
+  {
+   "name": "MoneyPrinter v1.3.9",
+   "what": "批量短视频生成工具，新增 pip 打包便于集成自动化",
+   "why_today": "A 级版本更新情报建议用 mpt cli 测试批量生成，评估接入投流素材产线，可节省人力成本",
+   "time_est": "1 小时",
+   "source": "[版本更新] MoneyPrinter v1.3.9"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后续影响及替代方案",
-   "reason": "Sora关停导致依赖它的短剧生产管线断供，需持续关注Runway/可灵/Pika等替代平台的稳定性和迁移成本"
+   "item": "Sora 关停后的替代方案与多工具备份",
+   "reason": "S 级情报显示 Sora 关停导致依赖它的短剧生产链断供，迪士尼退出 OpenAI 合作，需持续关注 Veo 等替代工具的可用性与稳定性，建立多工具备份方案"
   },
   {
-   "item": "TK平台短剧分成规则变化",
-   "reason": "TK月上新20万部、分成暴跌，直接影响核心业务，需跟踪平台政策调整和ROI变化"
+   "item": "TK 漫剧分成规则与红海化趋势",
+   "reason": "S 级情报指出 TK 月上新 20 万部、分成暴跌，红海化信号明确，需持续跟踪分成政策变化与竞争格局，以便及时调整投放 ROI 与平台策略"
   },
   {
-   "item": "AI虚拟人情感诈骗监管收紧",
-   "reason": "监管与平台审核将收紧，需关注合规要求，避免自有AI内容涉及虚假人设与诱导打赏"
+   "item": "元宝搜索 API 开放进展",
+   "reason": "A 级情报提到元宝搜索 API 开放，可做联网 Agent 工具底座，属于潜在变现机会，但需关注 API 稳定性、定价与接入门槛，暂不急于动手"
   }
  ],
  "research_topics": [
   {
-   "topic": "OPC平台签约精品漫剧分成规则",
-   "why": "TK分成暴跌后，OPC平台可能成为新机会，需研究其分成模式和签约条件"
+   "topic": "TK 漫剧投放 ROI 重算与精品化/换平台策略",
+   "why": "S 级情报明确建议重算 TK 投放 ROI，转向精品化或换平台，需系统分析当前成本结构、分成比例与竞品数据，支撑决策"
   },
   {
-   "topic": "AI投流工具与精准定向方案",
-   "why": "出海买量成本高企，AI营销可降低短剧投流成本，需调研具体工具和效果"
+   "topic": "中东/日本短剧出海本地化题材与运营方法论",
+   "why": "多条 A 级情报指出中东是蓝海、日本本地化运营可借鉴游戏出海经验，研究本地化细节有助于差异化选题与降低文化风险"
   },
   {
-   "topic": "日本及中东短剧市场本地化运营",
-   "why": "日本和中东是短剧出海高潜力市场，可借鉴国产手游本地化经验，研究题材和文化适配"
+   "topic": "AI 营销工具降低短剧投流成本的具体方案",
+   "why": "A 级情报关联出海游戏买量痛点，AI 精准定向与个性化生成可能直接改善短剧投流 ROI，需调研可落地的工具与案例"
   }
  ],
- "daily_focus": "立即测试Seedance 2.5 4K生成效果与成本，评估用4K画质做差异化精品短剧的可行性"
+ "daily_focus": "本地部署 Toonflow v2.0.7 并跑通一个短剧分镜到视频生成的完整流程，评估其替代付费工具的降本效果。"
 }
