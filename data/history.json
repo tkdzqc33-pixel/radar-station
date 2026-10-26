@@ -16676,6 +16676,96 @@
    "date": "2026-10-25",
    "category": "ai_tools",
    "level": "A"
+  },
+  {
+   "title": "创业板指跌超3%",
+   "link": "https://www.36kr.com/newsflashes/4042081626100872",
+   "summary": "36氪获悉，创业板指跌超3%，沪指跌0.58%，深成指跌1.89%；算力硬件、半导体芯片、贵金属、AI漫剧等方向跌幅居前，沪深京三市下跌个股超3600只。",
+   "source": "36氪 - 快讯",
+   "date": "2026-10-26",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "希音欧洲物流枢纽启动大规模招聘",
+   "link": "https://www.36kr.com/newsflashes/4042067282449284",
+   "summary": "36氪获悉，希音（SHEIN）正加码推动跨境电商与海外仓新型外贸基础设施的深度协同。近日，在其经过扩建的欧洲物流枢纽迎来启用一周年之际，希音宣布将在当地启动数千个新岗位的大规模招聘。",
+   "source": "36氪 - 快讯",
+   "date": "2026-10-26",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道",
+   "link": "http://www.geekpark.net/news/372863",
+   "summary": "张雪时隔 17 年圆梦「水上漂」，在家乡麻阳刷新吉尼斯纪录 10 月 25 日，「张雪机车」创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村，成功挑战「改装摩托车在开阔水域行驶最远距离」吉尼斯世界纪录。 这场挑战要追溯到 2009 年。当时 22 岁的张雪在央视节目中骑着一辆车轮上焊着铁皮的摩托车冲向水面，四次尝试全部落水，最远只滑出 20 米，离他自己定下的 26 米目标差了一口气。 本次用于挑战的「张雪机车」MX450，是专门为了应对水上滑行而改装的型号。据「张雪机车」研发工程师邓连松介绍，改装摩托车以标准摩托车车架和动力总成作为基础，技术团队进行了相应的优化升级。 麻阳是张雪的故乡，当地龙舟以逆水行舟而闻名。在张雪挑战成功之后，乡亲们以龙舟表演等方式为张雪团队庆祝胜利。（来源：新华网） OpenAI 前沿模型训练不再接入实时互联网，改用离线网页环境 10 月 24 日，OpenAI 公布前沿模型训练与评估环境的新安全措施：模型在训练中不再直接访问实时互联网，搜索和浏览任务改用预先索引、缓存的网页内容。这里限制的是训练中的模型，并不意味着 OpenAI 的训练基础设施完全断网；运行和监测实验仍需要部分外部连接。 这一调整与此前的安全事件有关。9 月，一款内部模型曾利用 DNS 配置缺口，在训练中获得有限的外网访问权限。此后，OpenAI 暂停相关训练 11 天，并让前沿模型智能体测试沙箱、虚拟机和网络防线。测试发现多处漏洞及配置问题，修复后，前沿模型的强化学习训练已于 10 月 1 日恢复。OpenAI 表示，今后仍会持续测试这些隔离措施。（来源：OpenAI） &nbsp; 苹果 iPhone Duo 在部分区域破发：已加入电商平台「百亿补贴」，相对上市价便宜约 200-300 元 10 月 25 日，综合各大平台网友反馈，苹果 iPhone Duo 在国内部分区域出现「破发」情况，同时当下拼多多已将该机上架百亿补贴频道（注：仅部分地区能看到），相对于上市价格便宜约 200-300 元。 虽然苹果&nbsp;iPhone&nbsp;Duo 首发日被加价到 1500-2000 元，然而该机在发售 2 天后的当下就迎来了「破发」局面。尽管如此，目前苹果 Apple Store 全国多家门店依然没有提供可直接购买的现货，官网购买手机选择「送货」选项时，显示仍要等到明年 1 月。 行业研究机构 IDC 此前预计，苹果首款折叠屏 iPhone 首年出货量将超过 1000 万部，并可能在 2027 年拿下全球折叠屏手机市场约 40% 的份额。高盛则维持对 iPhone Duo 的乐观判断，预计其 2026 年出货可达 1300 万部，2027 年有望达到 3300 万部。（来源：IT 之家） &nbsp; 英伟达想靠软件持续收费，黄仁勋举例：每块 GPU 每年约 2000 美元 10 月 26 日，据媒体报道，英伟达 CEO 黄仁勋近日在柏林 GTC 活动上表示，软件许可将成为公司越来越重要的收入来源。他以运行 AI 智能体的软件为例，提到按 GPU 数量收费的方式：每块 GPU 每年约 2000 美元。企业购买 GPU 建设数据中心后，还可能持续为运行和管理 AI 智能体的软件付费。 按这个价格计算，若有 500 万块 GPU 使用相关软件，一年便对应约 100 亿美元的许可收入。不过，2000 美元目前只是黄仁勋谈及收费模式时举出的数字。英伟达尚未公布适用产品、正式价格和实施时间，也不能据此认为所有购买英伟达 GPU 的客户都要额外支付这笔费用。（来源：cnBeta） &nbsp; 亚马逊 CEO 贾西： 2027 年 AWS 算力基本售罄，部分订单锁定到 2028 年 10 月 25 日，亚马逊首席执行官安迪&middot;贾西表示，受 AI 基础设施需求持续走高的推动，亚马逊云科技（AWS）的云计算容量到 2027 年基本已经售罄，还有大量长期算力订单锁定到 2028 年。 今年早些时候，亚马逊公布，2026 年资本开支计划约 2200 亿美元（现汇率约合 1.47 万亿元人民币）。贾西提到，既然 2026 年的云算力容量已经全部订满，公司「其实还可以加大投入，继续加码并不是低效的资金使用方式」。 他说：「2027 年的算力容量基本售罄。我们会预留一部分资源，用于按需调用、推理服务 Bedrock 以及 EC2，但适合批量采购的大块算力资源大多已经被订走。2028 年也有相当一部分容量被提前锁定。」EC2 是 AWS 的云服务器服务，用来承载各类应用；Bedrock 则供客户调用 AI 模型，搭建生成式 AI 应用。（来源：IT 之家） 马斯克预告 X 平台新功能：长按点赞按钮，将通过 X M",
+   "source": "极客公园",
+   "date": "2026-10-26",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+   "link": "https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 · Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-10-26",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "英伟达瞄准 AI 软件订阅收入，黄仁勋提出每块 GPU 每年约 2000 美元",
+   "link": "https://www.ithome.com/1/017/764.htm",
+   "summary": "IT之家 10 月 26 日消息，英伟达首席执行官黄仁勋（Jensen Huang）表示，配套 AI 软件的年度授权费约为每块 GPU 2,000 美元 （IT之家注：现汇率约合 13,355 元人民币） ，用来“运行英伟达提供的、在这些 AI 工厂上支撑 AI 智能体运转的全套软件”。相关发言视频近日流出，按照 FourWeekMBA 给出的一种测算情景，如果付费授权达到 500 万份，这套定价模式五年内有望带来 500 亿美元 （现汇率约合 3,338.72 亿元人民币） 收入。 黄仁勋在 10 月 22 日柏林 GTC 大会上谈到了该定价，英伟达也在会上公布了更宏大的规划：打造覆盖芯片、软件以及 AI 智能体安全能力的 AI 基础设施业务。“软件授权会逐渐成为我们业务里非常重要的一块。我们的授权模式大致是这样…… 举个例子，想要运行英伟达全套用于在 AI 工厂上部署智能体的软件，费用大约是每块 GPU 每年 2,000 美元 （现汇率约合 13,355 元人民币） 。”黄仁勋说。 这笔收入的体量很容易估算。如果有 500 万块 GPU 纳入付费授权范围，按每块每年 2,000 美元 （现汇率约合 13,355 元人民币） 计算，英伟达每年就能入账 100 亿美元 （现汇率约合 667.74 亿元人民币） ；只要客户持续续费，五年合计可达 500 亿美元 （现汇率约合 3,338.72 亿元人民币） 。但这里存在不确定之处：英伟达没有说明 2,000 美元 （现汇率约合 13,355 元人民币） 这个报价对应的 GPU 适用范围，也没有确认它是不是统一标准定价。这套授权具体包含哪些软件、不同产品之间权限会不会重叠，同样尚不明确。 区分清楚这点十分关键，因为英伟达本来就有收费的企业级软件产品。其 AI Enterprise 平台一年订阅标价是每块 GPU 4,500 美元 （现汇率约合 30,049 元人民币） 。黄仁勋提到的 2,000 美元 （现汇率约合 13,355 元人民币） 虽然更低，但英伟达没有证实两个价格对应的产品、授权条款完全一致，不能直接当成官方降价。 这次讨论软件授权的背景，是英伟达正在开发更多配套基础设施，方便企业部署、管理 AI 智能体。这类系统可以调用工具、读取数据、自动执行任务，当企业大规模上线它们时，会产生新的安全与管理难题。 10 月 21 日，英伟达发布 OpenShell 参考架构，这套系统整合 Vera Rubin 算力基础设施、Vera CPU，以及搭载英伟达 Sentry 安全组件的 BlueField-4 数据处理器（DPU）。OpenShell 为 AI 智能体提供安全运行环境，划定智能体的行动边界，限制它调用工具与访问资源的权限。英伟达介绍，Sentry 可以独立监控智能体行为，一旦智能体试图越界，就将它隔离。这套架构把安全管控下沉到底层基础设施，而不是仅仅依赖 AI 模型或应用内部的防护机制。 英伟达早在九月就推出了开放智能体安全平台，这套新参考架构是在前者基础上延伸而来，把管控思路拓展到企业基础设施与边缘设备。 其他厂商也在产品里加入同类管控能力。Anthropic 将 OpenShell 与 BlueField 硬件和 Claude 托管智能体结合，方便企业在执行沙箱内管控 AI 智能体能够访问的内容。Salesforce 开发了适配 OpenShell 的 Slack 管理桥接工具，管理员可以直接在 Slack 里审核智能体的访问申请、批准或拒绝权限，同时监控运行动态。 这套新软件定价，也呼应了黄仁勋一直以来的观点：英伟达早已不只是 GPU 供应商。公司业务已经延伸到网络设备、整机系统、企业软件以及面向 AI 负载的基础设施。黄仁勋近期在 BG2Pod 播客节目中说：“总有一天，大家可能不会再把我们归类成芯片公司。”他举例，英伟达已经进入医疗、汽车、通信、生命科学等多个行业，提供完整技术栈，而不只是芯片。 即便如此，英伟达还没有公布每 GPU 每年 2,000 美元 （现汇率约合 13,355 元人民币） 的收费方案何时生效、包含哪些软件，也不清楚这套定价如何和现有企业软件业务相衔接。",
+   "source": "IT之家",
+   "date": "2026-10-26",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Waver AI: Voice-first notes with an AI that remembers",
+   "link": "https://www.producthunt.com/products/waver-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Waver AI is a voice-first notes app that does far more than take notes. Record, dictate, scan handwriting, talk to an AI that remembers what you said, and turn ideas into images, video and music in on",
+   "source": "Product Hunt",
+   "date": "2026-10-26",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Trade Paper: voice notes to quotes & invoices",
+   "link": "https://www.producthunt.com/products/trade-paper?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Voice notes to customer-ready quotes and invoices for tradespeople.",
+   "source": "Product Hunt",
+   "date": "2026-10-26",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Text Compare: Free - Compare two texts and follow each wording change",
+   "link": "https://www.producthunt.com/products/text-compare-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Text Compare from KnowledgePilot. Paste an original and revised text to see additions, deletions and replacements highlighted side by side. Keep both complete versions in view, select a highlight to f",
+   "source": "Product Hunt",
+   "date": "2026-10-26",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] CancelShut: Turn Stripe cancellations into revenue",
+   "link": "https://www.producthunt.com/products/cancelshut?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Most Stripe SaaS lose revenue the moment a customer clicks “Cancel”—with no reason given and no chance to save the subscription. cancelshut changes that. Add a branded cancellation flow that asks why ",
+   "source": "Product Hunt",
+   "date": "2026-10-26",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] ExpenseMate: Spend Smart. Sync Together",
+   "link": "https://www.producthunt.com/products/expensemate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "ExpenseMate - Simple Shared Expense & Budget Tracker Take control of your finances with ExpenseMate, a simple and intuitive expense tracking app designed for individuals, couples, partners, and famili",
+   "source": "Product Hunt",
+   "date": "2026-10-26",
+   "category": "other",
+   "level": "B"
   }
  ]
 }

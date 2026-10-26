@@ -2,67 +2,67 @@
  "tools_to_test": [
   {
    "name": "Seedance 2.5 4K",
-   "what": "支持4K画质的AI视频生成模型，可产出高清短剧素材",
-   "why_today": "今日正式发布，4K画质能直接提升短剧竞争力，适合做差异化高端投放",
-   "time_est": "1-2小时",
+   "what": "字节跳动最新视频生成模型，支持4K分辨率输出",
+   "why_today": "正式发布，4K短剧画质升级窗口开启，抢先测试生成质量与成本，做高清爆款差异化",
+   "time_est": "2小时",
    "source": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道"
   },
   {
    "name": "Toonflow v2.0.7",
-   "what": "开源AI视频创作平台，集成剧本创作与分镜生成，专注短剧/漫剧制作",
-   "why_today": "今日发布新版本，开源可替代付费SaaS降本，且是短剧制作主力工具更新，需测试稳定性与新功能",
-   "time_est": "2-3小时",
-   "source": "[版本更新] Toonflow短剧工具 v2.0.7: Toonflow 2.0.7"
+   "what": "开源AI短剧/漫剧全流程制作工具，集成剧本创作到视频生成",
+   "why_today": "版本更新至2.0.7，可能修复bug或加新功能，且是S级开源短剧工具，直接降本提效",
+   "time_est": "3小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作；[版本更新] Toonflow短剧工具 v2.0.7"
   },
   {
-   "name": "Lovart 2.0 Arti",
-   "what": "个人设计Agent，能沉淀风格记忆并批量生成设计物料",
-   "why_today": "新发布，可批量产出短剧封面与投流素材，提升物料产能，且有机会用Arti做差异化",
-   "time_est": "1小时",
-   "source": "设计师的第一个 Personal Agent，可能就是 Lovart 2.0 的 Arti 了"
+   "name": "Open-Generative-AI",
+   "what": "3万星无审查多模型视频生成开源项目，可自托管",
+   "why_today": "S级情报，零成本替代付费视频平台，自托管部署测试600+模型出片，紧急应对Sora关停",
+   "time_est": "4小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
   },
   {
-   "name": "MoneyPrinter v1.3.9",
-   "what": "批量生成短视频的工具，新增pip打包和CLI，便于集成到流水线",
-   "why_today": "版本更新，CLI化后更适合批量生产投流素材，低成本测试流水线自动化",
-   "time_est": "1小时",
-   "source": "[版本更新] MoneyPrinter v1.3.9: v1.3.9"
+   "name": "ai0-video-creator",
+   "what": "基于Tauri v2的桌面端AI短剧创作工具",
+   "why_today": "S级情报，直接对标核心业务，下载测试评估替代现有制作流程，构建本地化短剧生产工作流",
+   "time_est": "2小时",
+   "source": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI"
   },
   {
    "name": "StoryGen-Atelier",
-   "what": "基于Gemini+Veo的分镜与视频生成方案，可借鉴做漫剧流水线",
-   "why_today": "开源项目，Veo生成转场可提升漫剧产能，适合跑通流程测试效果",
-   "time_est": "2小时",
+   "what": "Gemini+Veo+ffmpeg全链路分镜生成工具",
+   "why_today": "A级情报，可低成本批量产出短剧分镜，克隆项目跑通流程测试Veo转场片段质量",
+   "time_est": "3小时",
    "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代工具生态与迁移教程需求",
-   "reason": "Sora关停导致生产链断裂，迪士尼撤资引发洗牌，替代工具测评和迁移教程有流量机会，需持续跟踪哪些工具能补位"
+   "item": "Sora关停后的替代方案与市场空缺",
+   "reason": "Sora关停致迪士尼撤资，依赖其的工作流需紧急迁移，竞品退出留下市场空缺，需持续关注替代工具早期红利"
   },
   {
-   "item": "即梦接入小云雀后的短剧生成能力变化",
-   "reason": "字节AI应用整合，小云雀并入即梦，可能影响工具选型与竞争格局，需观察整合后功能与海外版Dreamina动向"
+   "item": "TK短剧分成模型与红海信号",
+   "reason": "TK月上新20万部、分成暴跌，红海信号明确，需核算分成模型，决定转向精品化或换平台"
   },
   {
-   "item": "TK短剧分成暴跌与产能内卷的后续影响",
-   "reason": "情报显示TK短剧赚钱变难，需持续关注ROI变化，决定是否转向精品化或新平台"
+   "item": "即梦接入小云雀短剧能力后的工作流",
+   "reason": "小云雀并入即梦，短剧创作工具格局生变，即梦加大海外版Dreamina投入，可提前布局"
   }
  ],
  "research_topics": [
   {
-   "topic": "红果短剧防沉迷新规对短剧投放策略的影响",
-   "why": "红果上线防沉迷可能改变用户时长与内容偏好，需研究规则细节以调整投放题材和节奏"
+   "topic": "TK短剧分成规则与ROI模型",
+   "why": "分成暴跌，红海信号明确，需核算投入产出比，决定是否继续投入或转向其他平台"
   },
   {
-   "topic": "日本与中东市场本地化运营细节（从SLG手游案例拆解）",
-   "why": "情报提到日本和中东本地化经验可复用到短剧题材与运营，需深入研究文化元素适配点，寻找蓝海机会"
+   "topic": "日本市场本地化运营方法在短剧出海中的应用",
+   "why": "国产RPG和SLG手游融入日本文化元素后本地化运营经验可直接用于短剧出海题材改编，针对日本市场定制短剧题材"
   },
   {
-   "topic": "AI营销工具在短剧出海买量中的降本效果",
-   "why": "出海游戏买量成本高，AI营销打法可迁移到短剧投流，需调研具体工具与实测数据，优化投放成本"
+   "topic": "AI营销工具在短剧投流中的实测效果",
+   "why": "出海企业买量成本居高不下，AI营销降买量成本直接关系短剧投流ROI，需调研实测效果"
   }
  ],
- "daily_focus": "立即测试Seedance 2.5 4K生成一段短剧素材，评估画质提升对投放竞争力的实际影响"
+ "daily_focus": "立即测试Seedance 2.5 4K生成质量与成本，并盘点现有Sora依赖环节，制定迁移方案"
 }
