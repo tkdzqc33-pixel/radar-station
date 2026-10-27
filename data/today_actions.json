@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Seedance 2.5 4K",
-   "what": "字节跳动最新视频生成模型，支持4K分辨率输出",
-   "why_today": "正式发布，4K短剧画质升级窗口开启，抢先测试生成质量与成本，做高清爆款差异化",
-   "time_est": "2小时",
-   "source": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道"
+   "name": "Kimi K3.1 Pro API",
+   "what": "Kimi 最新大模型 API，编程能力逼近 Opus 5.5 且价格更低",
+   "why_today": "S 级情报，加量降价直接降低 AI 工具开发成本，适合批量生成代码和小工具原型",
+   "time_est": "1-2 小时",
+   "source": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5"
   },
   {
    "name": "Toonflow v2.0.7",
-   "what": "开源AI短剧/漫剧全流程制作工具，集成剧本创作到视频生成",
-   "why_today": "版本更新至2.0.7，可能修复bug或加新功能，且是S级开源短剧工具，直接降本提效",
-   "time_est": "3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作；[版本更新] Toonflow短剧工具 v2.0.7"
+   "what": "开源 AI 短剧/漫剧制作工具，集成剧本创作与视频生成",
+   "why_today": "S 级开源项目且今日发布 v2.0.7 更新，可直接本地部署测试分镜与视频生成，降本提效",
+   "time_est": "2-3 小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app 及 [版本更新] Toonflow v2.0.7"
+  },
+  {
+   "name": "TOONOOT",
+   "what": "开源一站式 AI 短剧创作工具，将小说/剧本快速转为动画",
+   "why_today": "S 级开源项目，可克隆本地部署测试小说转分镜全流程，批量产漫剧投海外",
+   "time_est": "2-3 小时",
+   "source": "[GitHub] winsentrobot008/TOONOOT"
+  },
+  {
+   "name": "Seedance 2.5 4K",
+   "what": "支持 4K 视频生成的 AI 模型，提升漫剧画质",
+   "why_today": "A 级情报，4K 画质可做高端漫剧差异化，今日正式发布值得测试片段生成效果",
+   "time_est": "1 小时",
+   "source": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布"
   },
   {
    "name": "Open-Generative-AI",
-   "what": "3万星无审查多模型视频生成开源项目，可自托管",
-   "why_today": "S级情报，零成本替代付费视频平台，自托管部署测试600+模型出片，紧急应对Sora关停",
-   "time_est": "4小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
-  },
-  {
-   "name": "ai0-video-creator",
-   "what": "基于Tauri v2的桌面端AI短剧创作工具",
-   "why_today": "S级情报，直接对标核心业务，下载测试评估替代现有制作流程，构建本地化短剧生产工作流",
-   "time_est": "2小时",
-   "source": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI"
-  },
-  {
-   "name": "StoryGen-Atelier",
-   "what": "Gemini+Veo+ffmpeg全链路分镜生成工具",
-   "why_today": "A级情报，可低成本批量产出短剧分镜，克隆项目跑通流程测试Veo转场片段质量",
-   "time_est": "3小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "what": "无内容过滤的开源自托管 AI 生成平台，支持 600+ 模型",
+   "why_today": "S 级开源项目，可低成本批量生成素材，适合自建无审查生成站做 SaaS 或内部用",
+   "time_est": "2-3 小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代方案与市场空缺",
-   "reason": "Sora关停致迪士尼撤资，依赖其的工作流需紧急迁移，竞品退出留下市场空缺，需持续关注替代工具早期红利"
+   "item": "Sora 关停后的替代工具链迁移",
+   "reason": "Sora 关停导致依赖它的短剧制作流程断供，需持续关注替代工具（如 Seedance、Veo3、Open-Sora）的成熟度和迁移成本"
   },
   {
-   "item": "TK短剧分成模型与红海信号",
-   "reason": "TK月上新20万部、分成暴跌，红海信号明确，需核算分成模型，决定转向精品化或换平台"
+   "item": "TikTok 短剧分成规则与 ROI 变化",
+   "reason": "TK 分成暴跌、产能内卷，需持续跟踪平台政策调整，重算投放 ROI 并转向精品与多平台策略"
   },
   {
-   "item": "即梦接入小云雀短剧能力后的工作流",
-   "reason": "小云雀并入即梦，短剧创作工具格局生变，即梦加大海外版Dreamina投入，可提前布局"
+   "item": "AI 搜索引用权重变化（豆包/抖音）",
+   "reason": "豆包对抖音引用权重飙升，AI 搜索引用视频权重上升，影响短剧引流曝光策略，需持续观察关键词优化效果"
   }
  ],
  "research_topics": [
   {
-   "topic": "TK短剧分成规则与ROI模型",
-   "why": "分成暴跌，红海信号明确，需核算投入产出比，决定是否继续投入或转向其他平台"
+   "topic": "中东短剧市场本地化运营策略",
+   "why": "中东是短剧出海蓝海，可复用成功 SLG 手游的本地化经验，切入市场空白"
   },
   {
-   "topic": "日本市场本地化运营方法在短剧出海中的应用",
-   "why": "国产RPG和SLG手游融入日本文化元素后本地化运营经验可直接用于短剧出海题材改编，针对日本市场定制短剧题材"
+   "topic": "Anthropic 招股书中的 AI Agent 商业化与定价模式",
+   "why": "借鉴 Claude Code 的收费与客户结构，设计 AI 工具的订阅制变现路径"
   },
   {
-   "topic": "AI营销工具在短剧投流中的实测效果",
-   "why": "出海企业买量成本居高不下，AI营销降买量成本直接关系短剧投流ROI，需调研实测效果"
+   "topic": "单集短剧 Token 成本测算与多模型对比",
+   "why": "Kimi 降价但 Agent 任务 Token 消耗暴涨，需精确测算成本以优化模型选型和批量生产经济性"
   }
  ],
- "daily_focus": "立即测试Seedance 2.5 4K生成质量与成本，并盘点现有Sora依赖环节，制定迁移方案"
+ "daily_focus": "立即注册 Kimi K3.1 Pro API 并测试代码生成能力，同时本地部署 Toonflow v2.0.7 跑通一条短剧分镜生成流程，评估降本效果。"
 }
