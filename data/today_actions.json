@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "GPT-6.1 Terra",
-   "what": "骨折价Agent模型，API价格减半，适合批量生成短剧脚本与投流文案。",
-   "why_today": "情报显示其API价格减半，直接降低AI短剧制作成本，且Agent能力适合批量脚本生成，需立即测试成本与效果对比。",
-   "time_est": "1-2小时",
-   "source": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营"
-  },
-  {
-   "name": "Kimi K3.1 Pro",
-   "what": "编程与3D能力接近Opus 5.5且降价的模型，可低成本替代Opus做Agent与3D生成。",
-   "why_today": "发布即降价，编程与3D能力接近Opus，适合重跑短剧脚本与代码工作流，对比成本降幅。",
-   "time_est": "1-2小时",
-   "source": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5"
-  },
-  {
-   "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作、分镜与视频生成，专注短剧/漫剧制作。",
-   "why_today": "开源短剧全流程工具，直接降本提效核心生产力，且今日有v2.0.8版本更新，需本地部署测试分镜与视频生成质量。",
-   "time_est": "2-3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作"
+   "name": "即梦短剧工作室",
+   "what": "一站式短剧制作平台，集成剧本、导演和剪辑功能",
+   "why_today": "S级情报，直接提升制作效率降本，可批量产漫剧投海外平台",
+   "time_est": "2小时",
+   "source": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步"
   },
   {
    "name": "Seedance 2.5 4K",
-   "what": "支持4K视频生成的模型，提升短剧画质竞争力。",
-   "why_today": "正式发布4K能力，可测试生成短剧片段的成本与质量，用于高端短剧差异化。",
-   "time_est": "1-2小时",
+   "what": "支持4K视频生成的AI模型，提升短剧画质",
+   "why_today": "S级情报，4K画质可做差异化短剧抢流量，需立即测试生成短剧片段",
+   "time_est": "1.5小时",
    "source": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道"
   },
   {
-   "name": "StoryGen-Atelier",
-   "what": "AI辅助分镜与视频生成工具，基于Gemini+Veo自动化分镜转视频。",
-   "why_today": "可借鉴搭建Gemini+Veo自动化短剧生产管线，测试其分镜到视频拼接流程，对比现有管线效率。",
-   "time_est": "2-3小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "name": "Toonflow-app",
+   "what": "开源AI视频创作平台，集成剧本创作、分镜、角色一致性",
+   "why_today": "S级情报，开源短剧漫剧全流程工具，可本地部署测试分镜与角色一致性，并考虑做插件或定制工作流售卖",
+   "time_est": "3小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作"
+  },
+  {
+   "name": "GPT-6.1 Terra",
+   "what": "骨折价发布的Agent时代打工模型，低成本生成脚本与素材",
+   "why_today": "S级情报，大幅降低短剧与工具开发成本，需测算替代现有模型的成本降幅",
+   "time_est": "1小时",
+   "source": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了"
+  },
+  {
+   "name": "ai0-video-creator",
+   "what": "基于Tauri v2的桌面端AI短剧创作工具，含生成与翻译功能",
+   "why_today": "S级情报，直接匹配核心业务，可下载测试短剧生成与翻译功能，并考虑二次开发做本地化工具",
+   "time_est": "2小时",
+   "source": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代工具迁移",
-   "reason": "Sora关停导致依赖它的短剧管线需紧急迁移，替代工具窗口期出现，需持续关注可用替代方案与迁移教程需求。"
+   "item": "Sora关停后的替代工具迁移与AB测试",
+   "reason": "Sora关停导致依赖该工具的短剧生产链断裂，需紧急排查并切换替代工具，同时竞品退场是抢占产能窗口的机会"
   },
   {
-   "item": "GLM-5.5/GLM-Omni开源进展",
-   "reason": "统一多模态模型迭代可能提升漫剧画面一致性，影响工具选型，需关注开源发布动态。"
+   "item": "腾讯WorkBuddy Skills上架规则与分成",
+   "reason": "20万Skills上架验证Agent插件分发变现路径，可开发短剧制作类Agent技能上架"
   },
   {
-   "item": "AI营销投流降本案例",
-   "reason": "出海游戏企业买量成本高，AI营销降本逻辑可迁移到短剧出海买量，需跟踪相关工具与效果数据。"
+   "item": "腾讯混元Hy4/Hy4 flash发布",
+   "reason": "首次引入视觉理解能力，低价flash模型可降短剧分镜与工具开发成本，发布后需测试图生视频与分镜能力"
   }
  ],
  "research_topics": [
   {
-   "topic": "日本短剧平台热门题材与本地化元素",
-   "why": "日本市场本地化经验可复用到短剧出海，研究热门题材与文化符号，指导日本向AI漫剧创作。"
+   "topic": "红果免费短剧模式与AI剧题材分布",
+   "why": "红果日活1.68亿、AI剧占比超九成，验证短剧赛道热度，可切入细分题材差异化"
   },
   {
-   "topic": "中东短剧市场本地化适配点",
-   "why": "中东短剧蓝海，本地化内容稀缺，拆解成功SLG手游本地化清单，提炼短剧题材与配音适配点。"
+   "topic": "中东短剧市场本地化运营细节",
+   "why": "中东是短剧出海蓝海，可复用成功SLG手游的本地化经验，研究文化差异与题材偏好"
   },
   {
-   "topic": "AI营销工具在短剧投流中的降本效果",
-   "why": "AI投流降本逻辑可直接迁移到短剧出海买量，调研文中提到的AI营销工具并规划小预算测试。"
+   "topic": "AI营销工具在短剧投流中的实际降本数据",
+   "why": "出海企业买量成本高企，AI投流降本直接关系短剧投放ROI，需调研实际效果"
   }
  ],
- "daily_focus": "立即测试GPT-6.1 Terra的API，用同一批短剧脚本对比现有模型（如Opus）的成本与生成质量，确定是否切换主力模型。"
+ "daily_focus": "立即注册即梦短剧工作室并实测全流程，评估其批量产漫剧投海外平台的效率与成本"
 }
