@@ -2,67 +2,67 @@
  "tools_to_test": [
   {
    "name": "即梦短剧工作室",
-   "what": "一站式短剧制作平台，集成剧本、导演和剪辑功能",
-   "why_today": "S级情报，直接提升制作效率降本，可批量产漫剧投海外平台",
-   "time_est": "2小时",
+   "what": "字节跳动旗下即梦平台推出的短剧制作全流程工具，打通剧本、导演、剪辑，集成Seedance 2.5模型。",
+   "why_today": "情报显示即梦短剧工作室能大幅提升短剧制作效率，且Seedance 2.5 4K发布提升画质，性价比高，适合立即测试跑通一条测试片。",
+   "time_est": "2-3小时",
    "source": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步"
   },
   {
-   "name": "Seedance 2.5 4K",
-   "what": "支持4K视频生成的AI模型，提升短剧画质",
-   "why_today": "S级情报，4K画质可做差异化短剧抢流量，需立即测试生成短剧片段",
-   "time_est": "1.5小时",
-   "source": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道"
+   "name": "Kimi K3.1 Pro",
+   "what": "月之暗面发布的最新大模型，编程能力逼近Opus 5.5且价格更低。",
+   "why_today": "情报指出K3.1 Pro加量降价，可大幅降低AI插件开发成本，今天应用它重跑现有插件开发流程，对比成本与效果。",
+   "time_est": "1-2小时",
+   "source": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5"
   },
   {
    "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作、分镜、角色一致性",
-   "why_today": "S级情报，开源短剧漫剧全流程工具，可本地部署测试分镜与角色一致性，并考虑做插件或定制工作流售卖",
-   "time_est": "3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作"
+   "what": "开源AI视频创作平台，集成剧本创作、分镜、视频生成，专注于短剧和漫剧制作。",
+   "why_today": "情报提到Toonflow开源且更新至v2.0.8，可替代付费SaaS降本，今天本地部署测试分镜与视频生成流程。",
+   "time_est": "3-4小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
   },
   {
-   "name": "GPT-6.1 Terra",
-   "what": "骨折价发布的Agent时代打工模型，低成本生成脚本与素材",
-   "why_today": "S级情报，大幅降低短剧与工具开发成本，需测算替代现有模型的成本降幅",
-   "time_est": "1小时",
-   "source": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了"
+   "name": "Open-Generative-AI",
+   "what": "3万星开源无审查自托管AI视频生成平台，支持600+模型。",
+   "why_today": "情报强调其零API成本批量生成能力，适合接入短剧生成管线测试，今天自托管部署验证出片效果与成本。",
+   "time_est": "2-3小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
   },
   {
-   "name": "ai0-video-creator",
-   "what": "基于Tauri v2的桌面端AI短剧创作工具，含生成与翻译功能",
-   "why_today": "S级情报，直接匹配核心业务，可下载测试短剧生成与翻译功能，并考虑二次开发做本地化工具",
-   "time_est": "2小时",
-   "source": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI"
+   "name": "Seedance 2.5 4K",
+   "what": "即梦平台发布的视频生成模型，支持4K分辨率。",
+   "why_today": "情报指出4K画质可做高端短剧差异化，今天测试其生成质量与成本，评估是否用于提升短剧竞争力。",
+   "time_est": "1-2小时",
+   "source": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代工具迁移与AB测试",
-   "reason": "Sora关停导致依赖该工具的短剧生产链断裂，需紧急排查并切换替代工具，同时竞品退场是抢占产能窗口的机会"
+   "item": "Sora关停后的替代工具格局",
+   "reason": "Sora关停导致迪士尼撤资，AI视频赛道洗牌，需持续关注替代工具（如即梦、Seedance、Open-Sora）的成熟度和市场机会。"
   },
   {
-   "item": "腾讯WorkBuddy Skills上架规则与分成",
-   "reason": "20万Skills上架验证Agent插件分发变现路径，可开发短剧制作类Agent技能上架"
+   "item": "红果短剧的爆款题材与AI短剧占比",
+   "reason": "红果免费短剧模式爆发，AI生成占90%，验证赛道可行性，可研究其爆款题材复制到海外。"
   },
   {
-   "item": "腾讯混元Hy4/Hy4 flash发布",
-   "reason": "首次引入视觉理解能力，低价flash模型可降短剧分镜与工具开发成本，发布后需测试图生视频与分镜能力"
+   "item": "印度DPDP数据合规政策",
+   "reason": "出海印度应用需合规，否则下架风险，需跟踪政策细节，评估合规成本与工具机会。"
   }
  ],
  "research_topics": [
   {
-   "topic": "红果免费短剧模式与AI剧题材分布",
-   "why": "红果日活1.68亿、AI剧占比超九成，验证短剧赛道热度，可切入细分题材差异化"
+   "topic": "AI短剧投流素材生成与ROI优化",
+   "why": "出海游戏企业买量成本高，AI营销可降本，研究AI批量生成投流素材的方法与效果，提升短剧投放ROI。"
   },
   {
-   "topic": "中东短剧市场本地化运营细节",
-   "why": "中东是短剧出海蓝海，可复用成功SLG手游的本地化经验，研究文化差异与题材偏好"
+   "topic": "开源短剧制作工具链的整合与自动化",
+   "why": "多个开源工具（Toonflow、SceneFlow、TOONOOT等）可组合成低成本生产线，研究如何整合实现批量生产。"
   },
   {
-   "topic": "AI营销工具在短剧投流中的实际降本数据",
-   "why": "出海企业买量成本高企，AI投流降本直接关系短剧投放ROI，需调研实际效果"
+   "topic": "Android 16适配与工具开发机会",
+   "why": "Android 16份额登顶，工具开发需适配新API，研究抢先适配做差异化工具的可能性。"
   }
  ],
- "daily_focus": "立即注册即梦短剧工作室并实测全流程，评估其批量产漫剧投海外平台的效率与成本"
+ "daily_focus": "立即注册即梦短剧工作室，用Seedance 2.5 4K跑通一条测试短剧，评估全流程效率与成本。"
 }
