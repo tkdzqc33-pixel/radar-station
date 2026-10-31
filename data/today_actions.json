@@ -2,67 +2,67 @@
  "tools_to_test": [
   {
    "name": "即梦短剧工作室",
-   "what": "字节跳动旗下即梦平台推出的短剧制作全流程工具，打通剧本、导演、剪辑，集成Seedance 2.5模型。",
-   "why_today": "情报显示即梦短剧工作室能大幅提升短剧制作效率，且Seedance 2.5 4K发布提升画质，性价比高，适合立即测试跑通一条测试片。",
-   "time_est": "2-3小时",
+   "what": "一站式短剧生产平台，打通剧本、导演、剪辑全流程",
+   "why_today": "S级情报，直接提升短剧产能，且Seedance 2.5性价比高，建议立即注册跑通全流程",
+   "time_est": "2小时",
    "source": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步"
   },
   {
    "name": "Kimi K3.1 Pro",
-   "what": "月之暗面发布的最新大模型，编程能力逼近Opus 5.5且价格更低。",
-   "why_today": "情报指出K3.1 Pro加量降价，可大幅降低AI插件开发成本，今天应用它重跑现有插件开发流程，对比成本与效果。",
-   "time_est": "1-2小时",
+   "what": "编程能力逼近Opus 5.5且降价的AI模型",
+   "why_today": "S级情报，可低成本开发AI插件，建议测试短剧脚本/工具代码生成",
+   "time_est": "1小时",
    "source": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5"
   },
   {
    "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作、分镜、视频生成，专注于短剧和漫剧制作。",
-   "why_today": "情报提到Toonflow开源且更新至v2.0.8，可替代付费SaaS降本，今天本地部署测试分镜与视频生成流程。",
-   "time_est": "3-4小时",
+   "what": "开源AI视频创作平台，集成剧本创作，2万星验证",
+   "why_today": "S级情报，开源全流程短剧工具，可降本替代付费管线，建议本地部署跑通漫剧全流程",
+   "time_est": "3小时",
    "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
   },
   {
-   "name": "Open-Generative-AI",
-   "what": "3万星开源无审查自托管AI视频生成平台，支持600+模型。",
-   "why_today": "情报强调其零API成本批量生成能力，适合接入短剧生成管线测试，今天自托管部署验证出片效果与成本。",
-   "time_est": "2-3小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
+   "name": "TRAE",
+   "what": "项目级AI编程助理，支持跨项目记忆和并行任务",
+   "why_today": "A级情报，可加速SaaS工具开发，缩短上线周期，建议下载测试",
+   "time_est": "1.5小时",
+   "source": "TRAE 开发者个人助理，打响 AI Coding 的下半场"
   },
   {
-   "name": "Seedance 2.5 4K",
-   "what": "即梦平台发布的视频生成模型，支持4K分辨率。",
-   "why_today": "情报指出4K画质可做高端短剧差异化，今天测试其生成质量与成本，评估是否用于提升短剧竞争力。",
-   "time_est": "1-2小时",
-   "source": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道"
+   "name": "StoryGen-Atelier",
+   "what": "AI辅助分镜转视频工具，基于Gemini+Veo",
+   "why_today": "A级情报，分镜自动化提效，可参考技术路线接入自有流程",
+   "time_est": "2小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代工具格局",
-   "reason": "Sora关停导致迪士尼撤资，AI视频赛道洗牌，需持续关注替代工具（如即梦、Seedance、Open-Sora）的成熟度和市场机会。"
+   "item": "Sora关停后续影响及替代方案（Veo等）",
+   "reason": "Sora关停导致依赖它的短剧生产链断裂，需持续关注替代工具生态和迁移成本"
   },
   {
-   "item": "红果短剧的爆款题材与AI短剧占比",
-   "reason": "红果免费短剧模式爆发，AI生成占90%，验证赛道可行性，可研究其爆款题材复制到海外。"
+   "item": "国行Apple智能千问接入进展（11月推送）",
+   "reason": "国行iPhone原生AI能力增强，工具生态窗口期开启，需跟踪API开放时间和能力边界"
   },
   {
-   "item": "印度DPDP数据合规政策",
-   "reason": "出海印度应用需合规，否则下架风险，需跟踪政策细节，评估合规成本与工具机会。"
+   "item": "巴西雷亚尔汇率波动及配音外包回款周期",
+   "reason": "汇率贬值9%和45天回款周期直接影响巴西短剧投放成本和现金流，需持续监控"
   }
  ],
  "research_topics": [
   {
-   "topic": "AI短剧投流素材生成与ROI优化",
-   "why": "出海游戏企业买量成本高，AI营销可降本，研究AI批量生成投流素材的方法与效果，提升短剧投放ROI。"
+   "topic": "红果短剧的变现路径与AI增量价值模式",
+   "why": "情报指出红果短剧是AI唯一被验证的增量价值案例，值得深挖其商业模式和变现路径"
   },
   {
-   "topic": "开源短剧制作工具链的整合与自动化",
-   "why": "多个开源工具（Toonflow、SceneFlow、TOONOOT等）可组合成低成本生产线，研究如何整合实现批量生产。"
+   "topic": "日本AI工具高价订阅定价策略（CPA 4200日元）",
+   "why": "日本市场CPA高企，可复用出海经验，研究高价订阅的可行性和定价模型"
   },
   {
-   "topic": "Android 16适配与工具开发机会",
-   "why": "Android 16份额登顶，工具开发需适配新API，研究抢先适配做差异化工具的可能性。"
+   "topic": "短剧巴西葡语配音外包的返工率控制与排期优化",
+   "why": "返工率40%拖垮上线节奏，需研究供应商评分表和并行试跑方案，建立返工率红线"
   }
  ],
- "daily_focus": "立即注册即梦短剧工作室，用Seedance 2.5 4K跑通一条测试短剧，评估全流程效率与成本。"
+ "daily_focus": "立即注册即梦短剧工作室，用现有剧本跑通从剧本到成片的完整流程，评估出片效率和质量。"
 }
