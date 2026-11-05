@@ -1,6 +1,68 @@
 {
- "tools_to_test": [],
- "things_to_watch": [],
- "research_topics": [],
- "daily_focus": "研究今日 S 级情报并决定测试哪个工具"
+ "tools_to_test": [
+  {
+   "name": "腾讯WorkRally",
+   "what": "腾讯官方短剧全流程制作工具，支持生成与局部编辑",
+   "why_today": "功能全面升级，直接降低一人公司制作成本，可低成本批量产短剧试水海外",
+   "time_est": "1-2小时",
+   "source": "腾讯WorkRally功能全面升级"
+  },
+  {
+   "name": "即梦短剧工作室",
+   "what": "一站式短剧生产工具，集成剧本、导演和剪辑",
+   "why_today": "把剧本、导演和剪辑放进同一个工作室，直接降低制作成本，可批量产短剧投海外",
+   "time_est": "1-2小时",
+   "source": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步"
+  },
+  {
+   "name": "Toonflow-app",
+   "what": "开源AI视频创作平台，集成剧本创作、分镜与视频生成",
+   "why_today": "开源短剧漫剧全流程工具，可本地部署省成本，替代付费SaaS",
+   "time_est": "2-3小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
+  },
+  {
+   "name": "Open-Generative-AI",
+   "what": "3.2万星无审查开源AI视频生成平台，支持600+模型自托管",
+   "why_today": "零成本替代付费视频生成API，短剧素材生成成本可大降",
+   "time_est": "2-3小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
+  },
+  {
+   "name": "Kimi Hosted Agents",
+   "what": "云端托管智能体服务，可低成本搭建自动化流水线",
+   "why_today": "用托管Agent做短剧批量脚本+多语字幕流水线，提升生产效率",
+   "time_est": "1-2小时",
+   "source": "Kimi Hosted Agents 托管智能体发布，将 Harness 作为云端服务提供"
+  }
+ ],
+ "things_to_watch": [
+  {
+   "item": "Sora关停后的替代方案与多平台备份策略",
+   "reason": "Sora关停导致依赖它的短剧生产链需紧急切换，迪士尼退出OpenAI Deal验证平台依赖致命风险，需建立多工具组合降低断供风险"
+  },
+  {
+   "item": "阿里内测Agent短剧平台Looogen的Skill生态",
+   "reason": "红果拿下豆包后国内短剧生态剧变，抢先入驻新平台Skill生态可能吃红利，需关注其开放进度与复用可能性"
+  },
+  {
+   "item": "中东（沙特、阿联酋）短剧内容审核尺度",
+   "reason": "审核尺度直接卡排期和投放预算，中东短剧有先发内容红利，需持续跟踪政策变化以制定可执行清单"
+  }
+ ],
+ "research_topics": [
+  {
+   "topic": "印尼本地拍摄短剧的单集成本与CPA回本模型",
+   "why": "直接暴露东南亚短剧成本模型和CPA回本线，需核算在CPA 3美元下跑正的单集成本公式"
+  },
+  {
+   "topic": "短剧付费心理定价与海外订阅模型",
+   "why": "0.9元解锁一集案例揭示小额高频付费逻辑，可借鉴设计海外定价档位与免密支付，优化海外订阅收入"
+  },
+  {
+   "topic": "欧美ATT弹窗合规与SKAdNetwork归因策略",
+   "why": "ATT弹窗前置导致欧美买量成本涨四成，短剧投放同样踩坑，需研究合规补丁与归因方案以保障ROI"
+  }
+ ],
+ "daily_focus": "立即注册并实测腾讯WorkRally的短剧生成与局部编辑功能，评估其能否将单集制作成本降低50%以上"
 }
