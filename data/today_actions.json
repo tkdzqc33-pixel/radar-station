@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "腾讯WorkRally",
-   "what": "腾讯官方短剧全流程制作工具，支持生成与局部编辑",
-   "why_today": "功能全面升级，直接降低一人公司制作成本，可低成本批量产短剧试水海外",
-   "time_est": "1-2小时",
-   "source": "腾讯WorkRally功能全面升级"
-  },
-  {
-   "name": "即梦短剧工作室",
-   "what": "一站式短剧生产工具，集成剧本、导演和剪辑",
-   "why_today": "把剧本、导演和剪辑放进同一个工作室，直接降低制作成本，可批量产短剧投海外",
-   "time_est": "1-2小时",
-   "source": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步"
-  },
-  {
-   "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作、分镜与视频生成",
-   "why_today": "开源短剧漫剧全流程工具，可本地部署省成本，替代付费SaaS",
-   "time_est": "2-3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
+   "name": "Toonflow v2.0.10",
+   "what": "开源AI短剧/漫剧全流程制作工具，集成剧本创作到视频生成",
+   "why_today": "版本更新至v2.0.10，且Sora关停后需迁移管线，开源工具可替代付费方案并降本",
+   "time_est": "2小时",
+   "source": "[版本更新] Toonflow短剧工具 v2.0.10: Toonflow 2.0.10"
   },
   {
    "name": "Open-Generative-AI",
-   "what": "3.2万星无审查开源AI视频生成平台，支持600+模型自托管",
-   "why_today": "零成本替代付费视频生成API，短剧素材生成成本可大降",
-   "time_est": "2-3小时",
+   "what": "无内容过滤的开源AI视频生成平台，支持600+模型自托管",
+   "why_today": "Sora关停导致依赖断供，需测试替代工具；无过滤特性适合批量生成短剧素材",
+   "time_est": "3小时",
    "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
   },
   {
-   "name": "Kimi Hosted Agents",
-   "what": "云端托管智能体服务，可低成本搭建自动化流水线",
-   "why_today": "用托管Agent做短剧批量脚本+多语字幕流水线，提升生产效率",
-   "time_est": "1-2小时",
-   "source": "Kimi Hosted Agents 托管智能体发布，将 Harness 作为云端服务提供"
+   "name": "Open-Sora",
+   "what": "开源视频生成模型，可本地部署降低短剧制作成本",
+   "why_today": "Sora关停后开源替代方案价值凸显，且可自建低成本视频生产管线",
+   "time_est": "4小时",
+   "source": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video"
+  },
+  {
+   "name": "TOONOOT",
+   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画",
+   "why_today": "直接对口短剧出海核心业务，可低成本批量产漫剧投海外",
+   "time_est": "2小时",
+   "source": "[GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具"
+  },
+  {
+   "name": "StoryGen-Atelier",
+   "what": "基于Gemini+Veo的分镜转视频流水线工具",
+   "why_today": "可批量生成短剧过渡镜头，且Veo为Sora关停后的可行替代方案之一",
+   "time_est": "2小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代方案与多平台备份策略",
-   "reason": "Sora关停导致依赖它的短剧生产链需紧急切换，迪士尼退出OpenAI Deal验证平台依赖致命风险，需建立多工具组合降低断供风险"
+   "item": "Sora关停后的替代工具生态与迁移成本",
+   "reason": "Sora关停引发连锁反应（Disney退出合作），需持续跟踪哪些工具能稳定替代，避免制作管线断供"
   },
   {
-   "item": "阿里内测Agent短剧平台Looogen的Skill生态",
-   "reason": "红果拿下豆包后国内短剧生态剧变，抢先入驻新平台Skill生态可能吃红利，需关注其开放进度与复用可能性"
+   "item": "广电总局对AI微短剧的监管细则与审核流程",
+   "reason": "AI剧监管趋严，凡播必审全量人审影响合规成本，先合规者占先机，需跟踪具体执行标准"
   },
   {
-   "item": "中东（沙特、阿联酋）短剧内容审核尺度",
-   "reason": "审核尺度直接卡排期和投放预算，中东短剧有先发内容红利，需持续跟踪政策变化以制定可执行清单"
+   "item": "中东（沙特/阿联酋）短剧内容审核尺度与排期影响",
+   "reason": "中东是短剧出海新增量市场，审核卡点直接拖排期烧预算，需持续关注政策变化"
   }
  ],
  "research_topics": [
   {
-   "topic": "印尼本地拍摄短剧的单集成本与CPA回本模型",
-   "why": "直接暴露东南亚短剧成本模型和CPA回本线，需核算在CPA 3美元下跑正的单集成本公式"
+   "topic": "印尼短剧单集成本与CPA 3美元下的回本模型",
+   "why": "直接暴露东南亚短剧成本模型与CPA回本线，需核算本地拍摄vs AI制作的成本差异，指导投放决策"
   },
   {
-   "topic": "短剧付费心理定价与海外订阅模型",
-   "why": "0.9元解锁一集案例揭示小额高频付费逻辑，可借鉴设计海外定价档位与免密支付，优化海外订阅收入"
+   "topic": "北美AI短剧订阅定价（10-30美金）与付费意愿打法",
+   "why": "AI短剧Q3新剧增长25倍，北美付费意愿强，需研究订阅定价策略和内容偏好以抢占高价值市场"
   },
   {
-   "topic": "欧美ATT弹窗合规与SKAdNetwork归因策略",
-   "why": "ATT弹窗前置导致欧美买量成本涨四成，短剧投放同样踩坑，需研究合规补丁与归因方案以保障ROI"
+   "topic": "ATT弹窗前置后欧美买量成本优化与SKAdNetwork归因",
+   "why": "ATT授权率影响短剧买量ROI，欧美买量成本涨四成，需研究合规坑的补法以降低获客成本"
   }
  ],
- "daily_focus": "立即注册并实测腾讯WorkRally的短剧生成与局部编辑功能，评估其能否将单集制作成本降低50%以上"
+ "daily_focus": "立即部署Toonflow v2.0.10并跑通一个短剧片段的全流程，同时盘点现有Sora依赖的工作流并制定迁移方案"
 }
