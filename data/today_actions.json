@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Gemini Omni 1.2 Flash",
-   "what": "谷歌新一代视频生成模型，支持15秒视频、多轮编辑与角色一致性",
-   "why_today": "S级情报，直接提升漫剧产能，建议立即申请测试并跑一条短剧样片",
+   "name": "Toonflow v2.0.10",
+   "what": "开源AI短剧/漫剧制作工具，集成剧本创作与视频生成",
+   "why_today": "S级情报，2万星开源项目刚发布v2.0.10版本，可直接降低制作成本，需对比现用流程测出片速度",
    "time_est": "2小时",
-   "source": "谷歌发布新一代视频生成模型"
-  },
-  {
-   "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作、分镜与视频生成的全流程短剧漫剧工具",
-   "why_today": "S级开源项目，可本地部署测试分镜与视频生成，直接降本增效",
-   "time_est": "3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
+   "source": "Toonflow短剧工具 v2.0.10"
   },
   {
    "name": "Open-Generative-AI",
-   "what": "3.2万星无审查自托管平台，集成600+模型免费生图生视频",
-   "why_today": "S级开源项目，可替代付费API大幅降本，重点验证Kling/Sora/Veo生成质量与成本",
-   "time_est": "3小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
+   "what": "无内容过滤、支持600+模型的自托管AI生成平台",
+   "why_today": "S级情报，可零成本批量产短剧素材，需部署测试跑通分镜生成流程",
+   "time_est": "1.5小时",
+   "source": "Anil-matcha/Open-Generative-AI"
   },
   {
-   "name": "synthid.com",
-   "what": "检测AI生成图像隐形水印的在线工具",
-   "why_today": "S级情报，iOS 27.2新增隐形水印影响素材合规，需立即检测现有AI素材水印情况并调整工具链",
+   "name": "automate-for-growth",
+   "what": "多平台批量发布与自动化内容生产指南/工具",
+   "why_today": "S级情报，直接对应短剧出海投流，需研究其多平台发布API集成方案并测试",
    "time_est": "1小时",
-   "source": "肉眼不可见：苹果 iOS 27.2 新增隐形水印，图像工具 AI 生图 / 修图均有迹可查"
+   "source": "cporter202/automate-for-growth"
+  },
+  {
+   "name": "ComfyUI v0.44.0",
+   "what": "节点式AI图像/视频生成工作流工具，新增VEED配音节点",
+   "why_today": "版本更新，新增VEED Dubbing节点可实现短剧多语配音自动化，直接扩展海外市场",
+   "time_est": "1小时",
+   "source": "ComfyUI v0.44.0"
   },
   {
    "name": "StoryGen-Atelier",
-   "what": "AI辅助分镜与视频生成流水线，基于Gemini+Veo",
-   "why_today": "A级项目但可借鉴搭建自动化分镜生成流水线，测试分镜到成片效果",
-   "time_est": "2小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "what": "AI辅助分镜与视频生成工具，集成Gemini+Veo管线",
+   "why_today": "A级情报，其Veo转场拼接方案可复用，需测试分镜到Veo转场拼接效果",
+   "time_est": "1.5小时",
+   "source": "0xsline/StoryGen-Atelier"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停与Sora 2发布的矛盾信息",
-   "reason": "多条情报显示Sora可能关停或发布新一代，需核实消息并备份现有素材与工作流，评估迁移到Veo/可灵等替代工具"
+   "item": "Sora关停与Sora 2升级的后续影响",
+   "reason": "Sora关停可能导致现有产线断供，需排查依赖；Sora 2升级带来画质与可控性提升，需关注可用性"
   },
   {
-   "item": "中东短剧内容审核尺度",
-   "reason": "沙特和阿联酋审核尺度直接卡上线排期和投放预算，需持续关注并制定可执行清单模板"
+   "item": "API中转站失效风险",
+   "reason": "Anthropic动态可能影响中转站稳定性，需持续关注并评估直连方案"
   },
   {
-   "item": "国行Apple智能接入千问的进展",
-   "reason": "11月推送，12月正式版后可能影响国内用户工具习惯，系统级翻译工具或降低短剧本地化成本"
+   "item": "谷歌AI搜索切断流量趋势",
+   "reason": "影响海外内容获客与分发，需跟踪对短剧投放搜索流量的实际影响"
   }
  ],
  "research_topics": [
   {
-   "topic": "印尼本地拍摄短剧单集成本与CPA回本模型",
-   "why": "直接给出东南亚短剧成本与CPA回本公式，核算印尼单集成本与CPA 3美元下的回本模型"
+   "topic": "印尼短剧单集成本与CPA 3美元下的回本模型",
+   "why": "东南亚短剧成本模型验证直接影响出海投放策略，需研究本地拍摄+AI辅助降本公式"
   },
   {
-   "topic": "巴西PIX支付接入后转化未起量的本地化素材方法论",
-   "why": "拉美本地化素材方法论可复用到短剧投放，研究巴西支付话术与卖点表达优先级"
+   "topic": "中东（沙特/阿联酋）短剧内容审核尺度与清单",
+   "why": "审核清单缺失会拖慢上线节奏，标准化可抢占蓝海先机"
   },
   {
-   "topic": "ATT弹窗前置后欧美买量成本上涨的合规补丁方案",
-   "why": "欧美投放合规影响短剧App买量ROI，需检查自家App ATT弹窗时机与归因配置"
+   "topic": "巴西PIX支付接入后的本地化素材策略",
+   "why": "拉美本地化素材打法可直接迁移短剧投流，提升转化"
   }
  ],
- "daily_focus": "立即申请Gemini Omni 1.2 Flash测试权限，并用现有素材跑一条15秒一致性短剧样片，同时用synthid.com检测素材水印合规性。"
+ "daily_focus": "本地部署Toonflow v2.0.10并跑通一条短剧分镜到视频生成流程，对比现用管线测出片速度与成本"
 }

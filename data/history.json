@@ -19781,6 +19781,96 @@
    "date": "2026-11-07",
    "category": "industry",
    "level": "B"
+  },
+  {
+   "title": "Meta首席战略官离职 转投AI推理初创公司Fireworks",
+   "link": "https://www.36kr.com/newsflashes/4059085827527815",
+   "summary": "Meta首席战略官戴夫·韦纳周五确认，他将离开公司，出任AI推理初创企业Fireworks的首席财务官。韦纳2012年加入脸书，担任企业财务与业务规划副总裁，2014年升任首席财务官，在该岗位任职逾八年，2022年转任首席战略官。(财联社)",
+   "source": "36氪 - 快讯",
+   "date": "2026-11-08",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "Meta首席战略官离职",
+   "link": "https://www.36kr.com/newsflashes/4059310472615049",
+   "summary": "据报道，Meta首席战略官戴夫·韦纳确认将离开公司，出任AI推理初创企业Fireworks的首席财务官。（界面）",
+   "source": "36氪 - 快讯",
+   "date": "2026-11-08",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "创业者做 Personal Agent，有没有一线生机？",
+   "link": "http://www.geekpark.net/news/373650",
+   "summary": "最近一阶段，Personal Agent 很热。有趣的是，这个概念迅速火爆又迅速有了一个共识，几波讨论下来大家的观点似乎是： Personal Agent 的机会是大厂的，创业者基本没戏。 虽然一般情况下，「入口级机会归大厂」确实是大概率发生的事情，但 Personal Agent 真的是个「入口」的问题吗？真的意味着「这件事里没有创业者的位置」吗？ 这依旧值得认真聊一聊。 &nbsp; 真正值得兴奋的事：价值可以长在基模外 我们换一个视角看，Personal Agent 为什么让人兴奋？ 因为它给创业者提供了一种新的可能： 产品的 终极价值不来自于 今天 大模型 公司提供的智能 ， 而是 可以借助大模型的 能力 来 孕育 产品 ，最终在和用户的共同发展中，把 大部分 能力和价值留在创业公司自身。 回顾过去三年 AI 和 Agent 的演进，通用大模型就像一个营养丰富的「蛋」。绝大多数 AI 应用和 Agent 产品，本质上都没能离开大模型这层「卵壳」。无论是从最初的「套壳」，还是后来开始做 Environment Engineering、Harness Engineering，努力让模型能用工具、能执行更长的任务，很多时候仍然受制于同一个事实：产品的智商、响应能力和行为边界，很大程度上由底层模型决定。 早期生长依赖大模型提供的「养分」，这本身没有问题。问题在于，如果产品一直只能从基础模型里「吸收营养」，无法破壳去真实世界里独立生长，最后就容易沦为模型厂商的「Token 分销商」。并且始终难以摆脱在沙滩上建城堡的风险：模型一升级，别人也能跟上；模型一涨价，自己的成本就被牵着走；模型一迭代，你的产品可能就被基模能力吞没了。 Personal Agent 提供了一种「破壳」的可能性，这是那个真正值得兴奋的地方。 在今天，虽然很多时候接入最好的模型才能让 Personal Agent 产品有最好的用户体验，但总要用发展的眼光看问题。 Personal Agent 产品的终极价值，不必然取决于你是否拥有 或接入 全世界最强的通用模型。 解决具体场景里的个人问题，未必总需要最昂贵、参数最大的顶级模型。产品的终极价值更多会取决于大模型之外的东西 ， 例如高密度的个人上下文、以及对用户理解的深度建模、长周期交付价值沉淀下来的信任关系。 当然，这要求团队本身具备强大的数据工程和后训练能力来打底。但不意味着需要一步到位配置齐全才能下场。创业公司起步阶段可以动用的解决方案可以有很多，例如，可以先把上下文管理、任务编排、评估做起来，或者通过架构设计组合出更高效适配的模型，甚至把「熟能生巧」级别的 RSI 能力跑起来。随着真实任务里的高质量数据和用户反馈的逐步积累，创业团队最终也有机会训练出更适合自身场景的模型。 这有点像建设 一条 自己的「核心供应链」 。重点不是一开始就拥有所有环节，而是逐步掌握那些决定交付质量和服务成本的关键能力。长期来看，这些能力会影响用户服务的成本和利润空间。 所以，如果说两年前的大模型热潮更像是一场「硅基竞赛」，比拼的是谁有更多的卡、更顶级的研究员、更多更好的数据。那么 Personal Agent 把 AI 创业带到了一个新阶段：价值和竞争力可以长在基模之外。 这是 Personal Agent 对创业者真正有吸引力的地方。 &nbsp; Personal Agent 不是新产品概念，是一个技术新阶段 如果只把 Personal Agent 理解为一个新产品形态，可能并不完整。我现在越来越觉得，我们讨论的其实不只是 Personal Agent，而是 更大的问题：Personal AI 。 Agent 解决的是 AI 能不能替用户行动，而 Personal AI 则是更具方向性的话题：技术能不能长期理解一个人，围绕这个人的上下文、目标和动机，持续提供有效的、主动性的服务，并以「忠于个人」为出发点建立有效的商业模式。 把这件事放进更长的技术演进里去看，会比较清楚： 互联网让用户能够获取信息，推荐系统让信息开始适应用户，生成式 AI 让系统能够理解用户的意图，Agent 让系统能够代表用户行动，而 Personal AI 试图将这些能力组织成一种长期、连续的个人智能。 Personal AI 的目标不只是把用户明确表达的需求通过 agent 多快好省地实现，更在于用户能感受到「个人智能」的存在让自己在变得更好。 Personal 不是某个单点功能，而是一整套技术栈。 就像此前我拆解过「陪伴类」产品，得出「陪伴不是新产品类型，而是一条新技术栈」一样。Personal 的难度可能比「陪伴」更高。因为「陪伴类」产品还可以靠卖个萌、装个傻来抬高容错率，但 Personal AI 在用户面前多半难以「萌混过关」。 回看过去 4 年，从",
+   "source": "极客公园",
+   "date": "2026-11-08",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "芝加哥大学教授：AI 时代数学人才招聘将更看重研究愿景与表达能力",
+   "link": "https://www.ithome.com/1/023/859.htm",
+   "summary": "IT之家 11 月 8 日消息，人工智能正在降低数学研究取得突破的门槛，但这也意味着，学术界可能需要重新审视人才招聘方式。芝加哥大学一位知名数学教授认为，未来招聘数学研究人员时，个人交流能力和清晰表达研究构想的能力将变得更加重要。 芝加哥大学数学领域的杰出学者弗兰克 · 卡莱加里（Frank Calegari）近日在一篇文章中谈到了自己对研究人员的招聘标准。他写道：“我想了解你希望数学走向何方，也需要具备能解释这为何可能实现的专业能力。” 卡莱加里担忧，随着人工智能工具不断进步，学术界各个领域的初级研究岗位可能会被一些学生占据，而这些人之所以能够获得相关成果，可能只是因为他们大量使用人工智能生成证明。 不过，他认为，一场 30 分钟的面对面交流，就足以区分两类候选人：一类只是批量制造低质量研究成果的人，另一类则拥有清晰的研究愿景，并且善于表达。 卡莱加里在发布于陶哲轩（Terence Tao）博客上的文章中表示： “招聘流程将不得不更多地依赖人与人之间的直接交流，而不是仅仅审查书面材料。” 他还批评了一些他所称的“懒惰的评审委员会”，认为这些委员会过去仅凭一篇论文或一项学术成果就决定是否录用学生，而如今，这类成果完全可能由人工智能生成。 他表示：“一旦我们采取这种方式，就有责任培养自己的研究生，让他们具备更好的数学表达能力。我们本应更加认真地对待这件事。” 上个月，康奈尔大学教授史蒂文 · 斯特罗加茨（Steven Strogatz）也曾指出，具备“rizz”（俚语，意为个人魅力）特质的数学家如今更受重视，因为他们能够解释人工智能生成的研究结果，并以此提出新的数学问题。 IT之家注意到，人工智能公司迅速进军数学领域，已经让不少数学研究人员感到不安和困惑。随着 OpenAI 向这一领域大量推出针对世界上最复杂数学难题的解决方案，数量达到数百项，整个数学界都在思考如何在人工智能时代保持自身价值。 一些教授已经明确表示不再使用人工智能。不过，大多数人仍在尝试寻找将这项技术融入自身研究的方法。 美国各地的学生也在努力适应这一变化，并要求教授明确公布人工智能使用指南，说明学生是否可以使用这类工具，以及应该如何使用。 一名学生在麻省理工学院（MIT）近期开展的一项调查中写道：“整个学术界目前缺乏高层次的领导和指导。”",
+   "source": "IT之家",
+   "date": "2026-11-08",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Kontext Studio: AI-Native Data Analysis Workspace",
+   "link": "https://www.producthunt.com/products/kontext?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "The AI-native workspace for data analysis. Connect your lakehouse, securely choose your LLM provider, and turn data into actionable insights with agentic workflows.",
+   "source": "Product Hunt",
+   "date": "2026-11-08",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Echoa: Speak a language in weeks, not years. Learning. Accelerated.",
+   "link": "https://www.producthunt.com/products/echoa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Your speaking bootcamp. Short, focused lessons where you do the talking: Sam explains in English, a native voice demonstrates, you answer out loud and Echoa listens. Each new piece combines with what ",
+   "source": "Product Hunt",
+   "date": "2026-11-08",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Weekend Studio: Free in-browser creative suite that labels human-made work",
+   "link": "https://www.producthunt.com/products/weekend-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "In a feed full of AI, show what you made yourself. Weekend Studio is free creative apps, from images and 3D to design and websites, in any browser on your phone, iPad or computer, with no account. You",
+   "source": "Product Hunt",
+   "date": "2026-11-08",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Luminova: AI Astrology Readings, Horoscope, Compatibility & More",
+   "link": "https://www.producthunt.com/products/luminova-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Discover personalized astrology with Luminova. Get AI-powered daily horoscope readings, explore your natal birth chart, uncover insights through tarot readings, check zodiac compatibility, and discove",
+   "source": "Product Hunt",
+   "date": "2026-11-08",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] OSMEXO AI Model Exchange: The AI Model Exchange that costs less than going direct",
+   "link": "https://www.producthunt.com/products/osmexo-ai-model-exchange?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "The AI gateway that costs less than going direct. One OpenAI-compatible API for GPT, Claude, Gemini, DeepSeek, Qwen, Kimi and more, up to 60% below list price. Change the base URL and keep your code: ",
+   "source": "Product Hunt",
+   "date": "2026-11-08",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] Habe: everything I want & own: Add in a snap, sort into lists, share with friends",
+   "link": "https://www.producthunt.com/products/habe-everything-i-want-own?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "No more wishlists lost in notes, screenshots and saved posts. Habe keeps everything you want and everything you own in one place. Paste a link from any store and it fills itself in, or snap a photo. S",
+   "source": "Product Hunt",
+   "date": "2026-11-08",
+   "category": "other",
+   "level": "B"
   }
  ]
 }
