@@ -1,12 +1,63 @@
 {
- "date": "2026-11-08 06:49",
- "report_text": "📡 情报雷达 · 每日简报 2026-11-08\n今日情报 76 条 | 🚨S级 9 | 🔶A级 23\n==============================\n\n🚨 【S级 · 立刻行动】\n\n▎🎬 短剧出海 | 印尼本地拍摄短剧，单集成本压到多少才能在投放CPA 3美元下跑正？\n   💡 东南亚短剧成本模型直接决定投放盈亏\n   👉 测算印尼CPA3美元下单集成本上限并调整预算\n   💰 机会: 东南亚本地拍摄成本低于国内可套利\n   ⚠️ 风险: CPA高于预期40%导致ROI仅0.6亏损\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638610\n\n▎🛠️ AI工具 | 曝 ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃\n   💡 账号被封会断掉我AI制作和工具开发命脉\n   👉 立即备份关键对话资料并准备备用账号/API\n   ⚠️ 风险: VPN多节点访问触发封号丢工作资料\n   📎 IT之家\n   🔗 https://www.ithome.com/1/023/879.htm\n\n▎🛠️ AI工具 | [GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent \n   💡 开源AI短剧/漫剧全流程工具，2.1万星，直接降本\n   👉 本地部署Toonflow，测试剧本到视频全流程\n   💰 机会: 替代付费工具，省制作成本；可做教程引流\n   ⚠️ 风险: 开源工具稳定性与商用授权需核实\n   📎 GitHub开源\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app\n\n▎🛠️ AI工具 | [GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & vid\n   💡 3.3万星无审查自托管，600+模型可低成本产短剧素材\n   👉 自托管部署，测试Kling/Sora等模型出片成本\n   💰 机会: 替代付费API大幅降素材成本\n   ⚠️ 风险: 无审查内容投海外平台可能违规被封\n   📎 GitHub开源\n   🔗 https://github.com/Anil-matcha/Open-Generative-AI\n\n▎🎬 短剧出海 | [版本更新] Toonflow短剧工具 v2.0.10: Toonflow 2.0.10\n   💡 短剧专用工具更新，直接影响出片效率\n   👉 下载v2.0.10测试新功能与稳定性\n   💰 机会: 用新版本提效抢爆款窗口\n   ⚠️ 风险: 升级可能引入兼容问题，先备份\n   📎 GitHub版本\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v2.0.10\n\n▎🎬 短剧出海 | [HN] Goodbye to Sora\n   💡 Sora关停，AI视频工具格局生变，需紧急评估替代方案\n   👉 盘点现有Sora依赖的短剧制作流程，测试替代工具\n   💰 机会: 抢占Sora用户迁移红利，做替代工具测评内容\n   ⚠️ 风险: 依赖单一AI视频工具，平台关停即断供\n   📎 Hacker News\n   🔗 https://twitter.com/soraofficialapp/status/2036532795984715896\n\n▎🎬 短剧出海 | [HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora\n   💡 Sora关停致迪士尼撤资，验证AI视频工具高不确定性\n   👉 建立多工具备份方案，避免单点依赖\n   💰 机会: 为同行提供工具迁移咨询变现\n   ⚠️ 风险: 押注单一AI视频平台可能血本无归\n   📎 Hacker News\n   🔗 https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/\n\n▎🎬 短剧出海 | [新品] Google Omni 1.2 Flash: Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second\n   💡 谷歌视频模型降价30%，直接降低短剧制作成本\n   👉 注册测试Omni 1.2 Flash，测算单集成本\n   💰 机会: 低成本批量产短剧，拉高利润率\n   ⚠️ 风险: 新模型画质稳定性待验证\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/google-omni-1-2-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🎬 短剧出海 | [新品] ChatGPT Images 2.6: Create, edit, and animate images with AI\n   💡 角色一致性+原生GIF动画，直接提升漫剧制作效率\n   👉 立即测试角色一致性和循环动画功能\n   💰 机会: 用GIF动画做短剧预告片引流\n   ⚠️ 风险: API成本可能上涨，需核算\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n🔶 【A级 · 今天处理】\n\n▎🛠️ AI工具 | 创业者做 Personal Agent，有没有一线生机？\n   💡 指明创业者做Agent应沉淀场景数据而非套壳\n   👉 梳理自有短剧/教学场景数据资产，规划Agent化\n   💰 机会: 做垂直场景Personal Agent工具\n   ⚠️ 风险: 纯套壳产品易被基模迭代吞没\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373650\n\n▎🛠️ AI工具 | 估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对\n   💡 开源强模型增多，降低AI工具与短剧制作成本\n   👉 关注Inkling 2 Small开放权重，测试接入成本\n   💰 机会: 用低成本开源模型替代闭源API\n   ⚠️ 风险: 新模型稳定性与合规待验证\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373637\n\n▎📡 行业动态 | ​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场\n   💡 谷歌AI搜索切断流量，影响内容获客与分发逻辑\n   👉 评估短剧/课程获客对搜索流量依赖，转向社媒\n   💰 机会: 布局TikTok等社媒直获客\n   ⚠️ 风险: 依赖搜索引流的业务流量下滑\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373252\n\n▎🎬 短剧出海 | GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由\n   💡 图像模型升级利好漫剧素材与表情包营销\n   👉 测试GPT Images 2.6生成漫剧分镜与GIF素材\n   💰 机会: 用AI批量产漫剧素材降本\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🛠️ AI工具 | Anthropic微微发力，AI中转站的天就要塌了？\n   💡 中转站若被官方替代，AI工具成本结构可能变化\n   👉 测试Anthropic官方API对比中转站价格与稳定性\n   💰 机会: 官方直连稳定后可做高客单SaaS\n   ⚠️ 风险: 依赖中转站的低成本方案可能失效\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🎬 短剧出海 | 巴西站 PIX 接入后转化没起来，是不是本地素材没做到位？\n   💡 拉美本地化素材方法论可直接迁移到短剧投放\n   👉 研究巴西支付分期话术在短剧落地页的应用\n   💰 机会: 拉美短剧投放本地化素材差异化\n   ⚠️ 风险: 直译素材转化差，需本地团队重写\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638611\n\n▎🎬 短剧出海 | ATT 弹窗前置后欧美买量成本涨了四成，这个合规坑该怎么补？\n   💡 欧美投放ATT合规影响短剧买量ROI\n   👉 检查短剧App的ATT弹窗时机与授权率\n   ⚠️ 风险: 授权率低导致买量成本涨40%转负\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638608\n\n▎🎬 短剧出海 | 短剧进沙特和阿联酋，内容审核尺度怎么定才不卡排期？\n   💡 中东短剧刚起量，审核卡排期直接拖投放烧钱\n   👉 整理中东审核红线清单，做成剧本预检checklist\n   💰 机会: 把审核清单做成SOP可卖给同行\n   ⚠️ 风险: 尺度踩线导致下架或合作方拒收\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638606\n\n▎📡 行业动态 | Menlo Ventures 报告：中国 AI 模型占全球开源模型企业支出 89%，Kimi、DeepSeek、GLM 位列前三\n   💡 Kimi/DeepSeek便宜好用，可降AI制作成本\n   👉 测试Kimi/DeepSeek替代现有付费模型做短剧脚本\n   💰 机会: 用国产开源模型降本做漫剧\n   ⚠️ 风险: 海外平台对国产模型生成内容合规存疑\n   📎 IT之家\n   🔗 https://www.ithome.com/1/023/885.htm\n\n▎🎬 短剧出海 | 偶像剧男主，已经进化到真太监了\n   💡 揭示短剧爆款题材新趋势：太监男主垂直细分，收藏榜第3\n   👉 研究《帐中香》等太监剧的爽点结构与投放数据\n   💰 机会: AI短剧可低成本试水太监/小众男主题材\n   ⚠️ 风险: 题材擦边，海外平台可能限流或拒审\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4903516.html\n\n▎🛠️ AI工具 | [GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation tool. Uses Gemini for generating sto\n   💡 Gemini+Veo分镜生成工具，可补短剧制作链路\n   👉 测试StoryGen分镜与Veo转场效果\n   💰 机会: 低成本生成分镜与转场素材\n   ⚠️ 风险: 依赖Veo额度，成本需测算\n   📎 GitHub开源\n   🔗 https://github.com/0xsline/StoryGen-Atelier\n\n▎🛠️ AI工具 | [GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high\n   💡 854星开源营销视频工具，可参考其功能做短剧投放素材批量生成\n   👉 克隆仓库本地跑通，评估能否接入短剧投流素材生产\n   💰 机会: 封装成投流素材批量生成SaaS卖\n   ⚠️ 风险: 开源工具同质化，难直接变现\n   📎 GitHub开源\n   🔗 https://github.com/clipturbo/clipturbo\n\n▎🎬 短剧出海 | [GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本\n   💡 开源短剧全流程工具，可降本自制漫剧或做课程案例\n   👉 部署测试小说转动画短剧流程与出片质量\n   💰 机会: 用其批量产漫剧投海外平台\n   ⚠️ 风险: 0星项目质量存疑，需验证稳定性\n   📎 GitHub开源\n   🔗 https://github.com/winsentrobot008/TOONOOT\n\n▎🛠️ AI工具 | [GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with \n   💡 1万+精选生图提示词，可直接用于短剧分镜与封面\n   👉 下载提示词库，筛选适配短剧场景的模板\n   💰 机会: 整理成中文提示词包做知识付费\n   📎 GitHub开源\n   🔗 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts\n\n▎🎬 短剧出海 | [GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All\n   💡 开源视频生成模型，可降低AI短剧制作成本\n   👉 本地部署测试Open-Sora生成短剧分镜效果\n   💰 机会: 用开源模型替代付费API降本\n   ⚠️ 风险: 开源模型质量可能不及商用Sora\n   📎 GitHub开源\n   🔗 https://github.com/hpcaitech/Open-Sora\n\n▎🎬 短剧出海 | [GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from i\n   💡 可去AI视频水印，但用于商业投放有合规风险\n   👉 测试其去水印效果，评估是否用于素材二次加工\n   ⚠️ 风险: 去水印用于商业投放可能违反平台条款\n   📎 GitHub开源\n   🔗 https://github.com/D-Ogi/WatermarkRemover-AI\n\n▎🎬 短剧出海 | [GitHub] cporter202/automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand \n   💡 Sora2批量生成+多平台分发的自动化指南，直接可用\n   👉 通读指南并落地其多平台批量发布流程\n   💰 机会: 批量自动化投放提升短剧出海效率\n   ⚠️ 风险: 批量发布可能触发平台风控\n   📎 GitHub开源\n   🔗 https://github.com/cporter202/automate-for-growth\n\n▎🛠️ AI工具 | [GitHub] SamurAIGPT/Vibe-Workflow: Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFau\n   💡 开源节点式AI工作流，可替代付费工具降本\n   👉 下载部署测试，评估能否接入现有出片流程\n   💰 机会: 封装成短剧批量出图工具售卖\n   ⚠️ 风险: 开源项目维护不稳定，慎用于生产\n   📎 GitHub开源\n   🔗 https://github.com/SamurAIGPT/Vibe-Workflow\n\n▎🎬 短剧出海 | [GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le\n   💡 Seedance 2.0提示词库可直接提升出片质量\n   👉 收藏并测试电影感/UGC类提示词\n   💰 机会: 整理成中文提示词包做知识付费\n   📎 GitHub开源\n   🔗 https://github.com/weshopai/awesome-Seedance-2.0-prompt\n\n▎🛠️ AI工具 | [GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet\n   💡 竞品广告情报自动化，可反哺投流素材策略\n   👉 研究其多模态创意提取逻辑\n   💰 机会: 做竞品素材监控SaaS\n   ⚠️ 风险: 企业级定位，落地成本可能高\n   📎 GitHub开源\n   🔗 https://github.com/bitsandbrainsai/ai-ad-creative-strategist\n\n▎🎬 短剧出海 | [GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w\n   💡 明确支持短剧创作，本地ComfyUI+云API双模式\n   👉 下载测试短剧生成与翻译视频功能\n   💰 机会: 替代现有剪辑工具省订阅费\n   ⚠️ 风险: 早期项目，稳定性待验证\n   📎 GitHub开源\n   🔗 https://github.com/ajoesoft/ai0-video-creator\n\n▎🛠️ AI工具 | [版本更新] ComfyUI v0.44.0: v0.44.0\n   💡 ComfyUI新增配音节点，可强化短剧AI制作流水线\n   👉 升级ComfyUI并测试VEED Dubbing节点配音效果\n   💰 机会: 用配音节点做多语种短剧批量出海\n   ⚠️ 风险: Partner节点可能有调用额度或付费限制\n   📎 GitHub版本\n   🔗 https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.0\n\n▎📡 行业动态 | [HN] Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)\n   💡 小团队自研视频模型，可能带来低成本生成方案\n   👉 阅读其技术笔记并测试生成样例质量\n   💰 机会: 低成本自建视频生成替代高价API\n   ⚠️ 风险: 自研模型质量与稳定性待验证\n   📎 Hacker News\n   🔗 https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video\n\n🔹 【B级 · 了解即可】\n\n▎📡 行业动态 | 美的全屋智能锚定A2A：家电互联正从「接口对接」走向「Agent对话」｜最前线\n   💡 A2A协议思路可借鉴到AI工具跨平台集成\n   📎 36氪\n   🔗 https://36kr.com/p/4057965347869576?f=rss\n\n▎📡 行业动态 | 办公提效之后，企业级 Agent 开始对经营结果负责\n   💡 企业Agent赛道升温，与个人业务关联弱\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373642\n\n▎📡 行业动态 | 一个人用得好 AI，为什么一家公司却用不好？\n   💡 组织级Agent管理思路可参考做知识付费选题\n   💰 机会: 开设企业AI落地培训课\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373541\n\n▎📄 其他 | DeepSeek，怎么就变成了一条「大肥鱼」\n   💡 AI拟人化人设传播案例，可借鉴做内容营销\n   💰 机会: 打造AI人设IP引流\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373248\n\n▎📡 行业动态 | OpenAI 「重置大神」换人了？Tibo 去救火，Andrew 上位\n   💡 OpenAI人事变动影响API额度政策与稳定性\n   ⚠️ 风险: 额度重置减少可能推高工具开发成本\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/yanxishe/u5N6lCUT0bEfanp1.html\n\n▎📡 行业动态 | 李佳琦卖出万份Token，天猫的AI生意才刚开场\n   💡 Token电商化说明AI工具消费心智在形成\n   💰 机会: AI工具可借电商渠道分销\n   ⚠️ 风险: Token低价化压缩工具利润空间\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html\n\n▎📡 行业动态 | 独家丨腾讯20年老兵创业 AI 体感主机，融资超六千万\n   💡 AI硬件出海融资活跃，与短剧无直接关联\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/weiwu/8xihmnpkWWIHsn9G.html\n\n▎📡 行业动态 | 独家解读丨前飞书 CMO 创业，为何用「水晶球」赌一个AI入口？\n   💡 AI情绪硬件出海案例，可参考其北美Z世代打法\n   💰 机会: 占卜/情绪题材短剧出海有需求\n   ⚠️ 风险: 硬件众筹模式周期长不适合一人公司\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/weiwu/MiJKpPLqwFGB14X7.html\n\n▎🛠️ AI工具 | AI 修图 App 在尼日利亚和肯尼亚投放，同一套素材 CTR 差 3 倍，是素材本地化问题还是流量结构问题？\n   💡 跨市场素材本地化经验可复用到短剧投放\n   💰 机会: 按国家拆肤色妆容模板做差异化\n   ⚠️ 风险: 只看CTR盲目改素材浪费预算\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638605\n\n▎📄 其他 | 拉美B2B询盘转化率从12%掉到4%，账期和物流时效到底哪个先卡住了？\n   💡 B2B出海非我主业，账期物流经验参考有限\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638604\n\n▎📄 其他 | 微软 WinUI 3 原生注册表编辑器首次曝光，界面告别 Win95 时代设计\n   💡 与短剧、AI工具、知识付费均无直接关系\n   📎 IT之家\n   🔗 https://www.ithome.com/1/023/877.htm\n\n▎🛠️ AI工具 | 更高能效比，带来新惊喜：M6 款 MacBook Pro 初探\n   💡 M6可跑入门AI大模型，或降低本地制作硬件成本\n   💰 机会: 本地跑模型省API费用\n   📎 少数派\n   🔗 https://sspai.com/post/118570\n\n▎📡 行业动态 | 派早报：国务院办公厅发布 2027 年部分节假日放假安排等\n   💡 OpenAI Images 2.6 或影响漫剧出图效率\n   💰 机会: 新模型提升漫剧出图产能\n   📎 少数派\n   🔗 https://sspai.com/post/118587\n\n▎📡 行业动态 | 爽剧夹杂现实主义，韩剧这一套还能赢多久？\n   💡 韩剧爽剧人设趋势参考，非直接变现信息\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4903894.html\n\n▎📡 行业动态 | ICLR2027首轮评审，槽点有点多\n   💡 学术圈动态，与业务无直接关联\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4903886.html\n\n▎📄 其他 | 人生迷茫，怎么办？\n   💡 泛成长内容，与三大业务无直接关系\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4903880.html\n\n▎📡 行业动态 | AI浪潮下如何做新闻？\n   💡 AI内容边界讨论，可作知识付费选题素材\n   💰 机会: 知识付费可讲AI内容合规边界\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4903878.html\n\n▎🛠️ AI工具 | [GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Per\n   💡 通用桌面AI助手，与短剧/插件业务关联弱\n   📎 GitHub开源\n   🔗 https://github.com/szczyglis-dev/py-gpt\n\n▎🛠️ AI工具 | [GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video\n   💡 功能大而全但星少，参考其多平台一键发布思路\n   ⚠️ 风险: 功能堆砌无壁垒，勿投入开发\n   📎 GitHub开源\n   🔗 https://github.com/gongxings/ai-creator\n\n▎🎬 短剧出海 | [GitHub] TorresLi608/SceneFlow: 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intell\n   💡 仅4星但含短剧/漫剧工作台，可当竞品功能参考\n   ⚠️ 风险: 星少维护弱，勿依赖\n   📎 GitHub开源\n   🔗 https://github.com/TorresLi608/SceneFlow\n\n▎🛠️ AI工具 | [GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every \n   💡 成熟AI Agent框架，做工具插件时可用作开发底座\n   📎 GitHub开源\n   🔗 https://github.com/pydantic/pydantic-ai\n\n▎🛠️ AI工具 | [GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima\n   💡 GPT-4o生图提示词合集，可辅助短剧角色与场景设计\n   📎 GitHub开源\n   🔗 https://github.com/jamez-bondos/awesome-gpt4o-images\n\n▎🛠️ AI工具 | [GitHub] open-mmlab/mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unl\n   💡 开源AIGC工具箱，可参考模型库但非直接变现工具\n   📎 GitHub开源\n   🔗 https://github.com/open-mmlab/mmagic\n\n▎🛠️ AI工具 | [GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid\n   💡 Sora网页客户端，可参考其交互设计做工具\n   📎 GitHub开源\n   🔗 https://github.com/SoraWebui/SoraWebui\n\n▎🛠️ AI工具 | [GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation\n   💡 通用视频生成研究项目，技术参考价值有限\n   📎 GitHub开源\n   🔗 https://github.com/lichao-sun/Mora\n\n▎🛠️ AI工具 | [GitHub] all-in-aigc/sorafm: Sora AI Video Generator by Sora.FM\n   💡 Sora生成器前端，可参考做SaaS产品形态\n   📎 GitHub开源\n   🔗 https://github.com/all-in-aigc/sorafm\n\n▎📄 其他 | [GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m\n   💡 视频转机器人动作，与当前业务无关\n   📎 GitHub开源\n   🔗 https://github.com/AIM-Intelligence/video2robot\n\n▎🛠️ AI工具 | [GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models\n   💡 视觉LLM剪辑管线，参考价值大于直接使用\n   ⚠️ 风险: 星数低，成熟度不足\n   📎 GitHub开源\n   🔗 https://github.com/mazsola2k/ai-video-editor\n\n▎🎬 短剧出海 | [GitHub] nabobery/veo3-workflow-agents: A complete AI-powered video generation pipeline that enhances creative prompts a\n   💡 Veo3单API出片管线，可作备选生成方案\n   ⚠️ 风险: 依赖单一API，成本不可控\n   📎 GitHub开源\n   🔗 https://github.com/nabobery/veo3-workflow-agents\n\n▎📡 行业动态 | [版本更新] Open-Sora v1.3: Open-Sora V1.3 Release\n   💡 开源视频模型迭代，长期影响生成成本\n   ⚠️ 风险: 版本较旧，已被新模型超越\n   📎 GitHub版本\n   🔗 https://github.com/hpcaitech/Open-Sora/releases/tag/v1.3\n\n▎🛠️ AI工具 | [版本更新] MoneyPrinter v1.3.10: v1.3.10\n   💡 开源短视频生成工具迭代，可参考其自动化思路\n   💰 机会: 借鉴其自动化管线做批量短剧生成\n   📎 GitHub版本\n   🔗 https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.10\n\n▎📡 行业动态 | [HN] Show HN: A different kind of AI Video generation\n   💡 个人开发者做AI视频工具，可观察差异化方向\n   💰 机会: 挖掘细分视频生成工具需求\n   📎 Hacker News\n   🔗 https://news.ycombinator.com/item?id=44383086\n\n▎📡 行业动态 | [HN] Meta’s new text-to-video AI generator is like DALL-E for video\n   💡 旧闻，仅作视频生成发展脉络背景参考\n   📎 Hacker News\n   🔗 https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e\n\n▎📡 行业动态 | [HN] Google announces Veo, their Sora competing text/image-to-video model\n   💡 旧闻，Veo已是主流工具，背景信息\n   📎 Hacker News\n   🔗 https://aitestkitchen.withgoogle.com/tools/video-fx\n\n▎📡 行业动态 | [HN] Sora: Creating video from text\n   💡 旧闻，Sora发布背景，非新情报\n   📎 Hacker News\n   🔗 https://openai.com/sora\n\n▎📡 行业动态 | [HN] Sora is here\n   💡 旧闻，Sora正式开放背景信息\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-is-here/\n\n▎🎬 短剧出海 | [HN] Sora 2\n   💡 Sora 2历史发布信息，了解其能力边界作对比参考\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-2/\n\n▎📡 行业动态 | [HN] Disney making $1B investment in OpenAI, will allow characters on Sora AI\n   💡 迪士尼投资OpenAI背景，说明IP+AI视频是巨头方向\n   📎 Hacker News\n   🔗 https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html\n\n▎📡 行业动态 | [HN] The Walt Disney Company and OpenAI Partner on Sora\n   💡 迪士尼与OpenAI合作细节，判断IP内容AI化趋势\n   📎 Hacker News\n   🔗 https://openai.com/index/disney-sora-agreement/\n\n▎🛠️ AI工具 | [新品] Quest: Your personal AI advisor for a more intentional life\n   💡 个人AI顾问类产品，参考其定位与变现思路\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] ludigram: Games with Prompts\n   💡 提示词游戏平台，参考AI+游戏社区的产品形态\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/ludigram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] Smart Study: The Ultimate AI Study Assistant\n   💡 学习类AI工具同质化严重，与我的业务关联弱\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/smart-study-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎📄 其他 | [新品] RaagaPay: The cultural intelligence layer for music AI\n   💡 音乐版权数据层，与短剧配乐有间接关联\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/raagapay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎📄 其他 | [新品] BECOME: Manifest Your Body: plans meals and workouts that adjust to your weigh-ins\n   💡 健身AI应用，与我的三大业务无直接关系\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/become-manifest-your-body?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+ "date": "2026-11-09 03:51",
+ "report_text": "📡 情报雷达 · 每日简报 2026-11-09\n今日情报 71 条 | 🚨S级 6 | 🔶A级 29\n==============================\n\n🚨 【S级 · 立刻行动】\n\n▎🎬 短剧出海 | 印尼本地拍摄短剧，单集成本压到多少才能在投放CPA 3美元下跑正？\n   💡 印尼短剧成本模型直接关系出海盈亏\n   👉 研究印尼CPA3美元下的回本成本线\n   💰 机会: 东南亚本地拍摄成本优势明显\n   ⚠️ 风险: 国内成本模型套用会亏钱\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638610\n\n▎🎬 短剧出海 | 派早报：特斯拉将停产 Cybertruck\n   💡 国内监管收紧信号，可能外溢影响出海内容尺度\n   👉 研究治理细则，排查现有剧本合规风险\n   💰 机会: 合规审核服务可做成付费咨询\n   ⚠️ 风险: 题材踩线被平台下架，投放打水漂\n   📎 少数派\n   🔗 https://sspai.com/post/118805\n\n▎🎬 短剧出海 | [GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent \n   💡 开源短剧漫剧全流程工具，直接降本提效核心生产\n   👉 本地部署Toonflow，跑通一条漫剧流程\n   💰 机会: 用开源工具替代付费SaaS省成本\n   ⚠️ 风险: 开源工具稳定性与商用授权需核实\n   📎 GitHub开源\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app\n\n▎🎬 短剧出海 | [GitHub] cporter202/automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand \n   💡 含Sora2批量生成+多平台分发的自动化打法\n   👉 精读指南并复刻其多平台批量发布流程\n   💰 机会: 自动化批量产短剧投多平台放大收益\n   ⚠️ 风险: 批量发布易触发平台风控\n   📎 GitHub开源\n   🔗 https://github.com/cporter202/automate-for-growth\n\n▎🎬 短剧出海 | [HN] Goodbye to Sora\n   💡 Sora若关停将冲击依赖它的短剧制作流\n   👉 立即核查Sora服务状态并备份素材、准备替代方案\n   💰 机会: 提前切换工具抢占先机\n   ⚠️ 风险: 依赖单一模型导致断供\n   📎 Hacker News\n   🔗 https://twitter.com/soraofficialapp/status/2036532795984715896\n\n▎📡 行业动态 | [HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora\n   💡 Sora关停是重大信号，AI视频工具格局剧变\n   👉 立即评估现有短剧AI工具链的替代方案\n   💰 机会: 竞品工具可能趁机抢市场有红利\n   ⚠️ 风险: 依赖Sora的产线面临断供风险\n   📎 Hacker News\n   🔗 https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/\n\n🔶 【A级 · 今天处理】\n\n▎🛠️ AI工具 | 创业者做 Personal Agent，有没有一线生机？\n   💡 指明小团队做Agent应沉淀场景数据而非套壳\n   👉 评估现有工具是否过度依赖单一基模\n   💰 机会: 做垂直场景Personal Agent小工具\n   ⚠️ 风险: 基模升级可能吞掉套壳产品\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373650\n\n▎📡 行业动态 | 估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对\n   💡 开源模型竞争加剧，利好低成本AI内容生产\n   👉 关注Inkling 2 Small开放权重后测试生成能力\n   💰 机会: 用更强开源模型降本做短剧/漫剧\n   ⚠️ 风险: 模型迭代快，工具选型勿锁死\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373637\n\n▎🛠️ AI工具 | GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由\n   💡 GIF生成能力可做短剧素材和表情包工具\n   👉 测试GPT Images 2.6生成GIF质量\n   💰 机会: 做AI表情包生成小工具变现\n   ⚠️ 风险: 工具同质化竞争激烈\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | 李佳琦卖出万份Token，天猫的AI生意才刚开场\n   💡 Token电商化说明AI工具消费习惯在形成\n   👉 研究天猫AI空间站入驻门槛\n   💰 机会: AI工具上架电商平台卖订阅\n   ⚠️ 风险: Token低价竞争利润薄\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html\n\n▎🎬 短剧出海 | 巴西站 PIX 接入后转化没起来，是不是本地素材没做到位？\n   💡 巴西本地化素材经验可复用到短剧投放\n   👉 研究巴西支付引导话术优先于卖点\n   💰 机会: 巴西短剧市场本地化素材缺口\n   ⚠️ 风险: 直译素材转化率低一半\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638611\n\n▎🎬 短剧出海 | ATT 弹窗前置后欧美买量成本涨了四成，这个合规坑该怎么补？\n   💡 ATT合规影响欧美投放ROI和归因策略\n   👉 研究ATT弹窗时机合规标准\n   ⚠️ 风险: 授权率低导致买量成本涨40%\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638608\n\n▎🎬 短剧出海 | 短剧进沙特和阿联酋，内容审核尺度怎么定才不卡排期？\n   💡 中东是短剧出海增量市场，审核卡排期直接拖投放回本\n   👉 整理中东审核红线清单，沉淀成可复用预审SOP\n   💰 机会: 把审核SOP做成知识付费课程卖同行\n   ⚠️ 风险: 尺度误判导致下架或合作方拒收，白烧投放预算\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638606\n\n▎🛠️ AI工具 | AI 修图 App 在尼日利亚和肯尼亚投放，同一套素材 CTR 差 3 倍，是素材本地化问题还是流量结构问题？\n   💡 跨市场素材本地化方法论可复用到短剧投放\n   👉 按国家拆肤色妆容模板，同时看留存和付费转化\n   💰 机会: 沉淀本地化素材模板库，做成SaaS卖点\n   ⚠️ 风险: 只看CTR优化，忽略留存导致买来低质用户\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638605\n\n▎🛠️ AI工具 | LG AI 研究院宣布对外免费开放 K-EXAONE 2.5 模型 API\n   💡 免费API可降AI工具与短剧制作成本\n   👉 注册测试K-EXAONE 2.5，对比现有模型成本\n   💰 机会: 用免费模型降本做插件或漫剧生成\n   ⚠️ 风险: 免费额度或稳定性随时收紧，勿深度绑定\n   📎 IT之家\n   🔗 https://www.ithome.com/1/024/069.htm\n\n▎📡 行业动态 | 沉迷AI 的老板和客户，正把设计师变成“像素搬运工”\n   💡 客户用AI自产素材，说明AI内容需求真实且付费意愿在转移\n   👉 把此文作为知识付费课程痛点素材收集\n   💰 机会: 教客户用AI产出可用素材的课程\n   ⚠️ 风险: 低质AI内容泛滥拉低客户预期\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4904057.html\n\n▎🎬 短剧出海 | [GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation tool. Uses Gemini for generating sto\n   💡 Gemini+Veo分镜到成片流水线，可借鉴做短剧\n   👉 研究其Veo转场拼接方案，测试出片质量\n   💰 机会: 低成本分镜自动化流水线\n   ⚠️ 风险: Veo成本与国内可用性\n   📎 GitHub开源\n   🔗 https://github.com/0xsline/StoryGen-Atelier\n\n▎🛠️ AI工具 | [GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high\n   💡 营销视频一键生成，可参考做插件或竞品分析\n   👉 试用小视频宝，评估其变现与差异点\n   💰 机会: 营销视频SaaS细分需求\n   ⚠️ 风险: 同类工具多，竞争激烈\n   📎 GitHub开源\n   🔗 https://github.com/clipturbo/clipturbo\n\n▎🎬 短剧出海 | [GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本\n   💡 开源一站式短剧工具，可降本批量产出漫剧\n   👉 本地部署TOONOOT测试小说转动画短剧效果\n   💰 机会: 低成本批量生产漫剧投海外\n   ⚠️ 风险: 0星新项目，稳定性与版权需验证\n   📎 GitHub开源\n   🔗 https://github.com/winsentrobot008/TOONOOT\n\n▎🛠️ AI工具 | [GitHub] Anil-matcha/Open-Generative-AI: Uncensored Open-source alternative to AI video platforms — Free AI image & video\n   💡 无审查多模型视频生成，题材自由度大\n   👉 自托管测试600+模型生成短剧素材\n   💰 机会: 做敏感题材短剧差异化内容\n   ⚠️ 风险: 无审查内容可能违反平台政策被封\n   📎 GitHub开源\n   🔗 https://github.com/Anil-matcha/Open-Generative-AI\n\n▎🛠️ AI工具 | [GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with \n   💡 万条精选提示词库，直接提升生图质量\n   👉 下载提示词库筛选短剧分镜可用模板\n   💰 机会: 整理成付费提示词包做知识付费\n   📎 GitHub开源\n   🔗 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts\n\n▎🛠️ AI工具 | [GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All\n   💡 开源视频生成模型，可自建低成本视频管线\n   👉 评估Open-Sora生成短剧镜头的质量与成本\n   💰 机会: 自建视频生成替代付费API省成本\n   ⚠️ 风险: 自部署算力成本与画质需实测\n   📎 GitHub开源\n   🔗 https://github.com/hpcaitech/Open-Sora\n\n▎🛠️ AI工具 | [GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid\n   💡 开源Sora客户端可快速集成视频生成能力\n   👉 克隆部署测试SoraWebui并评估接入短剧流程\n   💰 机会: 基于开源客户端做定制化短剧生成工具\n   ⚠️ 风险: 依赖OpenAI接口，成本与稳定性不可控\n   📎 GitHub开源\n   🔗 https://github.com/SoraWebui/SoraWebui\n\n▎🛠️ AI工具 | [GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from i\n   💡 可去AI视频水印，提升短剧素材可用性\n   👉 本地部署测试去水印效果与合规边界\n   💰 机会: 批量处理素材做二次创作降本\n   ⚠️ 风险: 去水印涉版权，商用有法律风险\n   📎 GitHub开源\n   🔗 https://github.com/D-Ogi/WatermarkRemover-AI\n\n▎🛠️ AI工具 | [GitHub] SamurAIGPT/Vibe-Workflow: Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFau\n   💡 免费节点式工作流，可搭短剧生产流水线\n   👉 部署Vibe-Workflow搭建生成+剪辑工作流\n   💰 机会: 封装成短剧生产SaaS对外售卖\n   ⚠️ 风险: 开源项目维护不稳定\n   📎 GitHub开源\n   🔗 https://github.com/SamurAIGPT/Vibe-Workflow\n\n▎🛠️ AI工具 | [GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models\n   💡 视觉LLM自动剪辑可大幅降短剧后期成本\n   👉 测试其自动剪辑管线接入现有流程\n   💰 机会: 自动化剪辑省人力成本\n   ⚠️ 风险: 剪辑质量需人工复核\n   📎 GitHub开源\n   🔗 https://github.com/mazsola2k/ai-video-editor\n\n▎🎬 短剧出海 | [GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le\n   💡 Seedance 2.0提示词库可直接提升短剧画面质量与出片效率\n   👉 克隆仓库并测试电影感/动漫场景提示词\n   💰 机会: 用高质量提示词做差异化短剧题材\n   ⚠️ 风险: 提示词同质化，爆款易被快速复制\n   📎 GitHub开源\n   🔗 https://github.com/weshopai/awesome-Seedance-2.0-prompt\n\n▎🎬 短剧出海 | [GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w\n   💡 桌面端短剧创作工具，支持本地ComfyUI降本\n   👉 下载测试其短剧与翻译视频功能\n   💰 机会: 本地化生产降低API成本\n   ⚠️ 风险: 开源工具稳定性与更新持续性存疑\n   📎 GitHub开源\n   🔗 https://github.com/ajoesoft/ai0-video-creator\n\n▎🎬 短剧出海 | [版本更新] Toonflow短剧工具 v2.0.10: Toonflow 2.0.10\n   💡 专用短剧工具更新，可能提升漫剧产能\n   👉 下载v2.0.10对比现有工作流\n   💰 机会: 用专用工具提效漫剧批量生产\n   ⚠️ 风险: 工具绑定，迁移成本需评估\n   📎 GitHub版本\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v2.0.10\n\n▎🛠️ AI工具 | [版本更新] ComfyUI v0.44.0: v0.44.0\n   💡 新增VEED配音节点，短剧出海配音本地化更省\n   👉 升级并测试VEED Dubbing节点\n   💰 机会: 多语言配音降本，拓展海外市场\n   ⚠️ 风险: 升级可能破坏现有工作流节点\n   📎 GitHub版本\n   🔗 https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.0\n\n▎🎬 短剧出海 | [HN] Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)\n   💡 小团队自研视频模型，可能降低制作成本\n   👉 研究Linum v2的生成质量和API可用性\n   💰 机会: 低成本替代Sora等付费模型\n   ⚠️ 风险: 小团队模型稳定性存疑\n   📎 Hacker News\n   🔗 https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video\n\n▎🎬 短剧出海 | [HN] Sora 2\n   💡 Sora 2升级可能提升短剧画面质量与效率\n   👉 测试Sora 2生成质量，评估是否升级工作流\n   💰 机会: 用新模型做高质量爆款短剧\n   ⚠️ 风险: 新模型成本与合规未知\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-2/\n\n▎📡 行业动态 | [HN] Disney making $1B investment in OpenAI, will allow characters on Sora AI\n   💡 迪士尼IP入局AI视频，预示版权内容AI化加速\n   👉 关注Sora是否开放迪士尼IP商用授权\n   💰 机会: 用授权IP做短剧可能降低原创风险\n   ⚠️ 风险: 无授权IP的短剧更易被平台下架\n   📎 Hacker News\n   🔗 https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html\n\n▎📡 行业动态 | [HN] The Walt Disney Company and OpenAI Partner on Sora\n   💡 大厂合作验证AI视频商业化，影响平台内容生态\n   👉 研究Sora新功能对短剧制作流程的替代性\n   💰 机会: 提前布局Sora工作流可提效\n   ⚠️ 风险: 平台可能优先推官方IP内容挤压小玩家\n   📎 Hacker News\n   🔗 https://openai.com/index/disney-sora-agreement/\n\n▎🛠️ AI工具 | [新品] GetCapz: The AI video editor you edit by chatting\n   💡 对话式AI剪辑可大幅降低短剧后期成本\n   👉 注册试用GetCapz测试短剧剪辑效率\n   💰 机会: 用其批量产出短剧剪辑提效\n   ⚠️ 风险: 新工具稳定性与导出质量待验证\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/getcapz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n🔹 【B级 · 了解即可】\n\n▎📄 其他 | 武进不锈：订单需求整体偏谨慎\n   💡 传统制造业承压，与AI出海业务无直接关联\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4061941740147845\n\n▎📄 其他 | 海油工程：2026年订单总额有望突破400亿元\n   💡 能源基建订单数据，与自身业务无关\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4061925446882176\n\n▎📄 其他 | 36万「中女」，一年买走52亿江南布衣\n   💡 高价值会员复购模型可借鉴到知识付费社群\n   💰 机会: 知识付费可做高客单会员制社群\n   📎 36氪\n   🔗 https://36kr.com/p/4061858250773385?f=rss\n\n▎📡 行业动态 | 联友科技高亮：我们还在探讨设置墨西哥、泰国据点| 最前线\n   💡 印证出海需本地化，短剧投放同理需本地运营\n   💰 机会: 短剧出海可优先布局泰国、墨西哥市场\n   ⚠️ 风险: 纯远程投放易水土不服\n   📎 36氪\n   🔗 https://36kr.com/p/4061852643775360?f=rss\n\n▎🛠️ AI工具 | 办公提效之后，企业级 Agent 开始对经营结果负责\n   💡 企业级Agent赛道是大厂战场，个人难切入\n   ⚠️ 风险: 勿盲目投入企业级Agent开发\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373642\n\n▎📡 行业动态 | 一个人用得好 AI，为什么一家公司却用不好？\n   💡 个人与组织AI落地差距，是知识付费选题富矿\n   💰 机会: 开发'团队AI落地'进阶课程\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373541\n\n▎📡 行业动态 | 早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元\n   💡 苹果加速AI研发或影响端侧AI工具生态\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | OpenAI 「重置大神」换人了？Tibo 去救火，Andrew 上位\n   💡 OpenAI人事变动影响API稳定性和额度政策\n   ⚠️ 风险: API额度政策可能收紧\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/yanxishe/u5N6lCUT0bEfanp1.html\n\n▎📡 行业动态 | 独家丨腾讯20年老兵创业 AI 体感主机，融资超六千万\n   💡 AI硬件融资活跃但与我业务关联弱\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/weiwu/8xihmnpkWWIHsn9G.html\n\n▎📄 其他 | 拉美B2B询盘转化率从12%掉到4%，账期和物流时效到底哪个先卡住了？\n   💡 非我业务板块，但账期与物流权衡逻辑可借鉴\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638604\n\n▎📄 其他 | 3299 → 656 元破冰新低：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平\n   💡 与业务无关的电商促销信息\n   📎 IT之家\n   🔗 https://www.ithome.com/1/024/112.htm\n\n▎📡 行业动态 | Anthropic 揭秘科学家用 Claude 都干啥：大多用来分析数据和写作\n   💡 反映AI真实使用场景，可佐证知识付费选题方向\n   💰 机会: 围绕AI写作/数据分析做付费课\n   📎 IT之家\n   🔗 https://www.ithome.com/1/024/111.htm\n\n▎🛠️ AI工具 | 更高能效比，带来新惊喜：M6 款 MacBook Pro 初探\n   💡 本地跑AI模型可降云成本，但非紧急\n   📎 少数派\n   🔗 https://sspai.com/post/118570\n\n▎📄 其他 | 派早报：国务院办公厅发布 2027 年部分节假日放假安排等\n   💡 OpenAI Images 2.6 更新可能影响漫剧出图质量\n   💰 机会: 新模型提升漫剧画面质感\n   📎 少数派\n   🔗 https://sspai.com/post/118587\n\n▎📄 其他 | 从付费实习到无薪招聘：背后是什么？\n   💡 就业压力大，知识付费学员付费能力可能下降\n   ⚠️ 风险: 目标学员预算收紧\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4904054.html\n\n▎🛠️ AI工具 | [GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Per\n   💡 多模型桌面助手，可作内部工具参考\n   📎 GitHub开源\n   🔗 https://github.com/szczyglis-dev/py-gpt\n\n▎🛠️ AI工具 | [GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video\n   💡 多平台一键发布功能对短剧分发有参考\n   📎 GitHub开源\n   🔗 https://github.com/gongxings/ai-creator\n\n▎🎬 短剧出海 | [GitHub] TorresLi608/SceneFlow: 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intell\n   💡 开源AI短剧工作台，可参考其功能架构\n   💰 机会: 借鉴其管理后台做自有生产管线\n   ⚠️ 风险: 星数低，代码质量与维护存疑\n   📎 GitHub开源\n   🔗 https://github.com/TorresLi608/SceneFlow\n\n▎🛠️ AI工具 | [GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every \n   💡 Python AI开发框架，可加速工具开发\n   💰 机会: 快速开发AI短剧生产SaaS\n   📎 GitHub开源\n   🔗 https://github.com/pydantic/pydantic-ai\n\n▎🛠️ AI工具 | [GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima\n   💡 GPT-4o生图提示词参考，优化角色一致性\n   📎 GitHub开源\n   🔗 https://github.com/jamez-bondos/awesome-gpt4o-images\n\n▎🛠️ AI工具 | [GitHub] open-mmlab/mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unl\n   💡 成熟AIGC工具箱，技术选型参考\n   📎 GitHub开源\n   🔗 https://github.com/open-mmlab/mmagic\n\n▎🛠️ AI工具 | [GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation\n   💡 通用视频生成开源方案，技术参考价值\n   ⚠️ 风险: 开源模型效果与Sora差距大\n   📎 GitHub开源\n   🔗 https://github.com/lichao-sun/Mora\n\n▎🛠️ AI工具 | [GitHub] all-in-aigc/sorafm: Sora AI Video Generator by Sora.FM\n   💡 同类Sora生成器，可参考产品形态\n   ⚠️ 风险: 同质化竞争激烈\n   📎 GitHub开源\n   🔗 https://github.com/all-in-aigc/sorafm\n\n▎📄 其他 | [GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m\n   💡 与当前业务无关，仅技术前沿参考\n   📎 GitHub开源\n   🔗 https://github.com/AIM-Intelligence/video2robot\n\n▎🛠️ AI工具 | [GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet\n   💡 竞品广告情报自动化，可借鉴做投流素材分析\n   💰 机会: 做短剧投流素材竞品分析SaaS\n   ⚠️ 风险: 企业级定位，个人落地成本高\n   📎 GitHub开源\n   🔗 https://github.com/bitsandbrainsai/ai-ad-creative-strategist\n\n▎🎬 短剧出海 | [GitHub] nabobery/veo3-workflow-agents: A complete AI-powered video generation pipeline that enhances creative prompts a\n   💡 Veo3单API流水线，可参考做批量出片\n   💰 机会: 批量高质量短剧生成流水线\n   ⚠️ 风险: Veo3 API成本高，需算ROI\n   📎 GitHub开源\n   🔗 https://github.com/nabobery/veo3-workflow-agents\n\n▎📡 行业动态 | [版本更新] Open-Sora v1.3: Open-Sora V1.3 Release\n   💡 开源视频模型迭代，长期降低制作成本\n   ⚠️ 风险: 版本较旧，商用质量待验证\n   📎 GitHub版本\n   🔗 https://github.com/hpcaitech/Open-Sora/releases/tag/v1.3\n\n▎🛠️ AI工具 | [版本更新] MoneyPrinter v1.3.10: v1.3.10\n   💡 批量视频生成工具更新，可做社媒素材\n   💰 机会: 批量生成社媒引流短视频\n   ⚠️ 风险: 生成质量偏低，不适合精品短剧\n   📎 GitHub版本\n   🔗 https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.10\n\n▎🛠️ AI工具 | [HN] Show HN: A different kind of AI Video generation\n   💡 独立开发者做AI视频工具，可参考其产品思路\n   💰 机会: 可借鉴做垂直视频工具\n   📎 Hacker News\n   🔗 https://news.ycombinator.com/item?id=44383086\n\n▎📡 行业动态 | [HN] Meta’s new text-to-video AI generator is like DALL-E for video\n   💡 旧闻，了解大厂视频模型演进背景\n   📎 Hacker News\n   🔗 https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e\n\n▎📡 行业动态 | [HN] Google announces Veo, their Sora competing text/image-to-video model\n   💡 旧闻，Veo已是主流工具之一\n   📎 Hacker News\n   🔗 https://aitestkitchen.withgoogle.com/tools/video-fx\n\n▎📡 行业动态 | [HN] Sora: Creating video from text\n   💡 Sora发布旧闻，标志AI视频时代开启\n   📎 Hacker News\n   🔗 https://openai.com/sora\n\n▎📡 行业动态 | [HN] Sora is here\n   💡 Sora正式开放旧闻，背景信息\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-is-here/\n\n▎🛠️ AI工具 | [新品] Calculator Free Tools: Free Online Calculators, Converters & Utilities\n   💡 免费工具站竞争激烈，变现空间有限\n   ⚠️ 风险: 免费工具难变现，勿投入过多\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/calculator-free-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] ArchHomeAI: Free 2D floor plans, 3D modeling & AI architectural renders\n   💡 垂直AI渲染工具，与短剧场景美术有间接关联\n   💰 机会: 可借鉴其垂直SaaS订阅模式\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/archhomeai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎📄 其他 | [新品] Talkiva: Voice & Video Hangouts\n   💡 社交产品与核心业务关联弱\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/talkiva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
  "items": [
   {
-   "title": "美的全屋智能锚定A2A：家电互联正从「接口对接」走向「Agent对话」｜最前线",
-   "link": "https://36kr.com/p/4057965347869576?f=rss",
-   "summary": "作者｜黄楠 编辑｜袁斯来 全屋智能概念发展多年，行业始终没有跨过规模化普及的门槛。市面上大量产品可以在单品牌体系内流畅联动，一旦跨品牌、跨品类协作，往往就陷入割裂。 近日，美的集团第31届科技月大会在佛山顺德举办，集中展出了美的在技术研发、产品创新与数智转型上的最新成果。 美的全屋智能总经理尚喆博士在科技月期间的采访中指出，长期以来，全屋智能行业的卡点并不来自单体硬件性能，而是三道系统性约束：异构设备的数据孤岛难以打通；智能交互的实际效果与用户预期存在落差；系统部署调试的工程门槛对普通家庭不够友好。 硬件本身的性能已经可以满足基础使用，但体验短板集中暴露在系统协同层面。这三道表象问题背后，藏着同一个结构性矛盾：行业并不缺少互联互通的主观意愿，却始终没有形成一套低成本、可大规模复制的跨品牌、跨品类协同技术范式，多数合作只能停留在点状项目试点，难以向海量普通家庭普及。 比如主流的云云点对点API对接方案，这套实现路径逻辑直观，却存在难以回避的规模缺陷，对接成本会随着合作生态数量呈指数级上涨。 “假设A厂商、B厂商各自有上千款设备，双向打通就意味着海量接口开发、持续联调与后期维护。”尚喆博士算了一笔产业账，每接入一个新的合作生态，就要重新完成一轮接口适配。这就决定了API模式只适合打造少数案例，不适配支撑大范围的设备互联，这也是行业生态难以破局的技术根源之一。 当大模型浪潮下，AI Agent开始成为家庭、车载系统的能力中枢，行业出现了另一条解题思路：Agent to Agent（A2A）。 A2A 的核心思路，不再是为每一台设备单独写对接接口。简单来讲，是由两方的AI智能体直接对话：一方把用户的真实需求传递过去，交由合作方的智能体自行判断这件事能不能做，再调度自家设备完成动作，最后把执行结果反馈回来。 如果碰到涉及家庭安全等敏感信息操作，Agent会将选择权交还到用户手上确认。整套协作只需做好两套AI Agent间统一的沟通语言，无需再对各式各样的硬件逐个做开发适配。 据尚喆介绍，美的与奇瑞iCAR已完成A2A对接，iCAR车型已接入美的美居平台，实现车家互联。车主在车内用自然语言下达指令，就能查询家中耗材余量，后续还可延伸至语音触发补货。这一步已经突破了传统“车控家”的开关联动，设备之间不再是简单的指令转发，而是跨系统的业务级任务协作。 支撑美的A2A平台的技术底座，是美的自研家庭智能体MevoX。它区别于市面上多数仅能应答显性指令的语音助手，具备两大核心能力：一是深度推理。面对用户模糊、不完整的表达，MevoX能结合空间范围、设备归属和环境情境拆解真实意图，而不是停留在字面指令的匹配上。 美的自研家庭智能体MevoX（图源/企业） 二是长期记忆。用户的使用习惯会被持续沉淀下来，后续调节灯光、空气等个性化参数时，系统会默认用户更偏好的设定，让全屋智能交互逐步走向千人千面，而不是每次从零开始。 叠加美的多年的家电智能化积累和全品类硬件矩阵，构成了MevoX在真实家庭场景里的能力纵深：前端能接住模糊意图，后端能调动具体设备，中间基于上下文记忆把一次次交互串起来。这不是单点技术的堆叠，而是从理解意图到执行落地的完整链路。 落到业务策略层面，美的选择定位为家庭侧能力供给方，坚持向外开放互联，与外部车载、移动端Agent建立协作关系。 目前，美的已同华为、vivo、OPPO、荣耀等头部手机厂商，及比亚迪、蔚来、长安、奇瑞等核心车企实现人车家互联。今年，美的作为家电行业中首个将家庭智能体A2A与生态伙伴打通的企业，已率先实现了与千问、微信小微、荣耀yoyo助手和奇瑞汽车的智能体深度协同。 首个将家庭智能体A2A与生态伙伴打通的家电企业（图源/企业） 当前，行业底层硬件协议的标准化建设也在同步推进。如由工信部组织、美的作为核心工作组成员、多家企业共同参与制定的多项家电互联互通标准从去年八月启动相关工作以来，到今年九月底，已有五项标准草案基本制定结束，十月起进入技术标准测试验证阶段，预计明年1月完成验证并进入公示。这套标准要解决的，正是不同品牌设备间的互联互通难题。 车家互联方面，美的还联合中国信通院、比亚迪等机构和企业，以及相关行业组织，共同推进车家互联标准相关工作。美的正把开放连接从企业间的点对点对接，推向更广泛的产业协同。 从产业周期视角来看，全屋智能的竞争范式已经迎来迭代。衡量企业竞争力的核心锚点，正由硬件单品、设备接入的规模指标，逐步转向 Agent 的推理能力与跨生态协同效率。 而随着A2A智能体互操作范式实现成熟落地，最直接的产业效应就是��厂商协同边际成本大幅降低。中小厂商不必投入高额研发成本逐一对接多套生态，异构硬件也可打破品牌壁垒，围绕用户场景完成联动。 其带来的深层变革，是生态架构的迭代，传统“中心化平台+接入伙伴”的模式，有望演进成多Agent对等协作的“分布式”网络。头部企业的壁垒不再来源于生态圈地，中小厂商无需依附外部平台获取场景入口，竞争焦点将回归企业自身核心能力。",
-   "published": "2026-11-06 19:08:17  +0800",
+   "title": "武进不锈：订单需求整体偏谨慎",
+   "link": "https://www.36kr.com/newsflashes/4061941740147845",
+   "summary": "武进不锈在2026年第三季度业绩说明会上表示，受下游终端需求恢复不及预期、市场竞争进一步加剧等影响，订单需求整体偏谨慎，存量订单消化节奏放缓，新增订单拓展难度加大。同时，产品平均售价持续走弱，上下游价差收窄，盈利空间受到挤压，经营业绩承压。公司将继续深化精益化管理，严控各项运营成本，持续优化产品结构，聚焦高附加值产品推广，以本地化服务深耕国内基本盘，锚定国内市场稳根基。与此同时，公司将加强海外市场的维护与开拓，积极参与国际竞争，力争有所收获，提升公司业绩。（证券时报）",
+   "published": "Mon, 09 Nov 2026 03:00:48 GMT",
+   "source": "36氪 - 快讯",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "传统制造业承压，与AI出海业务无直接关联",
+   "action": "跳过，不占用今日精力",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "海油工程：2026年订单总额有望突破400亿元",
+   "link": "https://www.36kr.com/newsflashes/4061925446882176",
+   "summary": "海油工程在2026年第三季度业绩说明会上表示，2026年订单总额有望突破400亿元。前三季度，公司海外市场承揽额151.73亿元。报告期，成功中标卡塔尔MM EPIC 2项目，合同签订后，中东区域累计签约订单金额突破500亿元，是实现中东市场战略目标的重要里程碑。（证券时报）",
+   "published": "Mon, 09 Nov 2026 02:44:14 GMT",
+   "source": "36氪 - 快讯",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "能源基建订单数据，与自身业务无关",
+   "action": "跳过，仅作宏观背景了解",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "36万「中女」，一年买走52亿江南布衣",
+   "link": "https://36kr.com/p/4061858250773385?f=rss",
+   "summary": "作者 |&nbsp;谢芸子 编辑 | 张帆 消费行业集体过冬的2026年，江南布衣反而迎来了巅峰。 10月20日，江南布衣报收23.2港元，当天达到上市以来的最高价23.66港元，年初至今累计涨幅超过29%。 支撑股价的，是公司发布的最新财报。 在截至6月30日的2026财年，江南布衣营收60.46亿元，同比增长9.0%；归母净利润9.97亿元，同比增长11.7%；毛利率66.6%，净利率16.5%。 另据浦银国际报告，2026财年后的7月至今，江南布衣流水持续获得高单位数增长，国庆黄金周的流水增长更是超过10%。 把对比维度放大到整个行业。 尽管江南布衣与安踏体育、波司登、海澜之家不在一个量级，但从股价及业绩涨幅看，今年以来，江南布衣算是领跑了整个行业。 表格来自Wind；数据截自2026年11月5日 图片截自Wind “小而美”的公司实现反超，多少有些反直觉。 消费分级时期，非必选消费普遍焦虑；户外当道，传统时装品牌更多处于增长困境。 再从消费者感知看，江南布衣仍与两个标签相连：一是设计上“有些夸张、看不懂”，二是五年前的那场“邪典童装”风波。这些构成了大众对这个品牌的第一层“滤镜”。 挨骂与赚钱同时发生在一家公司，看似矛盾，实则是筛选的结果—— 江南布衣不需要人人喜欢，只需要喜欢的人一直购买。 谁在为江南布衣买单？ 1994年，李琳与丈夫吴健在杭州开始经营服装生意，随后转向自主设计。 独立分析师唐小唐回忆，江南布衣创立之初主打“反传统”路线，以“人文、自然、强调剪裁”的设计为特色，早期用户多是文化、传媒领域的知识分子。 这种基因延续至今，宽松廓形、自然色、棉麻等材质的肌理感，使江南布衣在商场拥有一定辨识度——它不依赖醒目Logo，消费者买的是“看起来就像江南布衣”，而不是某一件当季爆款。 最新财报中，JNBY的目标客户定义为25至40岁的现代女性，强调她们好奇心强，善于发现平凡生活中的惊喜与诗意。 这是官方定位，并不等同于真实的会员画像。 社交平台上流传的另一个词或许更贴切——“中女”。这个词通常指30岁以上、有稳定消费力、为自我取悦穿衣的女性。 有“老粉儿”告诉36氪，JNBY一开始的设计非常独特，“有些雷霆配色穿上身很好看”，“但设计经常神一阵鬼一阵”。 在她的感知中，购买这一品牌的多是一些“生活在一、二线城市、体制内或‘老企业’工作，有一定消费力的女性”。“她们逛商场不一定去奢侈品区，却也看不上朗姿、伊芙丽，觉得不够有设计感或是过于年轻”。 JNBY2026春夏新品；图片来自官方微博 当然，小规模样本不足以代表全部会员。 东吴证券7月报告显示，江南布衣的主力价格带为500至2000元，低于地素时尚的1000至4000元。 这些女装都谈不上便宜，却能使消费者就算在低线城市，也能买到一种不完全追随大众、区别于快时尚与运动风格的服装。 这批用户的购买力，最终体现在财报数据里。 按江南布衣2026财年的零售规模计算，一、二线城市带来的合计贡献52.3%，三线及以下城市贡献47.7%。这至少能说明，江南布衣的消费人群在各城市的分布相对均衡。 而比会员画像更关键的，是复购。 2026财年，江南布衣活跃会员账户超过61万个。对比雅戈尔在2021年披露的190万活跃用户，这一数据不算多，但购买力强。 报告期内，江南布衣会员贡献的零售额占比超过80%；年度购买超过5000元的高价值会员超过36万人，贡献零售额52亿元，占线下渠道零售总额超过六成。 粗略折算，这批高价值会员2026财年的人均消费超过1.44万元，是公司真正的基本盘。 36氪根据公开数据制表 十年维修与“一个盒子”&nbsp; 对于服装品牌，设计负责找到第一批用户。但江南布衣所说的“自然、简约、诗意”，始终是“形而上”的表述，消费感知因人而异。 不只是江南布衣，同行对自身风格的定义也多是抽象标签。 太平鸟的定位是“悦享品质时尚”，不强调固定的设计师语言；地素DAZZLE则偏向都市潮流，东吴证券将其设计概括为“图案、装饰和不对称”，官方称之为“矛盾冲突美学”。 不过，定位差异并不等同于鲜明的辨识度。 疫情后，消费者更看重稳定性与普适性，各品牌今年秋冬的新品也呈现一定趋同。小红书等社交平台上，已有用户吐槽JNBY的风格越来越保守，“班味儿很重”。 从左到右，依次为JNBY、太平鸟、DAZZLE的秋冬新品 当独特风格不再是优势，留住用户的砝码落到了运营。 江南布衣的会员体系主要有银卡与金卡两级，权益包括“专属折扣、生日特权、洗护福利、十年维修”等。 以往，这种“管家式”的服务多存在于奢侈品牌，且成衣类的产品保修基本在1年内。在中高端女装赛道，江南布衣的会员服务是绝对的少数派。 在帮助会员降低洗护成本的同时，江南布衣还替消费者——尤其是那部分没时间逛街的职业女性节省了决策成本。 《21世纪商业评论》曾报道，江南布衣花费两三年的时间打磨了一套算法，其中的“线上数据洞察看板”为会员添加了“材质、版型、颜色”等偏好标签。导购会根据这些标签，主动推荐产品。 按公司CMO黄盛的表述，这套系统的推荐命中率达到70%；基于会员标签的广告投放效率同样可观——在腾讯平台的时尚女装领域“投1元挣7元”，ROI仅次于UR和优衣库。 比标签更具感知力的是“BOX+不止盒子”。 公开资料显示，在江南布衣，用户每年只需花费399元，就可以收到6次搭配好的服装组合。免费试穿，中意的留下，不适合的退回。&nbsp; 此外，针对金卡会员，江南布衣还特别推出了“1对1”搭配师的定制服务。&nbsp; 到这里，私域的闭环已经完成—— 设计负责筛选，服务负责留下。 腾讯智慧零售也曾披露，江南布衣的企业微信社群渗透率达到35%，属于行业头部水平。&nbsp; 一年只净增1家店 与会员服务形成对照的，是近乎“抠门”的线下拓店。 2026财年，江南布衣全球门店总数为2118家，全年仅净增1家。这并不意味着渠道停滞：2026财年年中，公司门店总数一度达到2163家，下半财年净减少45家。门店调整的同时，渠道结构也在变化。 全球范围看，江南布衣自营门店全年净增9家至501家，经销商门店净减8家至1617家。报告期内，自营收入同比增长10.7%，经销收入仅增长1.3%；2025财年则是自营收入下滑6.2%、经销收入增长9.6%。 两年间的此消彼长，或许反映出公司现阶段的渠道取舍。 36氪根据财报数据制表 门店之外，精打细算的还有货品。 江南布衣没有线上专供款，全国门店与线上共享“一盘货”，减少缺码、断货与局部滞销。在零售行业，线上线下打通是数字化的重要一环，江南布衣则把这笔收益直接算了出来。 2026财年，库存共享及分配系统为江南布衣带来的增量零售额达到14.05亿元，同比增长23.6%。这部分增长来自现有货品与渠道的重新匹配，而非简单的扩店。 同期，江南布衣线上收入增长20.5%，线下仍贡献约76%的收入。线上负责持续触达用户、调配货品，门店继续提供试穿、面料感知和搭配服务。 可以看出，江南布衣不是停止扩张，而是选择性扩张：关掉低效店，把资源投向高端购物中心、优质点位，进行店铺升级。它关注的不在门店数量，而是新店能否带来增量，现有门店能否产生持续收益。 这种选择，也建立在购物中心对其招商价值的认可上。 “江南布衣一直是购物中心重量级的招商品牌，只要想做零售都会跟它联系。” 在上海购物中心协会品牌专业委员会秘书长杜斌的观察中，江南布衣的门店销售相对平稳，这种平稳在疫情后更显珍贵。“自2026年以来，只要是持续开店的品牌，都会被购物中心重视。” 只做固定的生意，天花板已现 只不过，江南布衣的增长焦虑并没有消失。 唐小唐的判断指向更长期。他认为，江南布衣的核心客群规模基本固定，已触及天花板，后续无大规模拓客空间。且与疫情前相比，公司近年来的营收增速明显放缓。 36氪根据Wind数据制图 关键问题在于，江南布衣除主品牌之外，尚未出现同等量级的增长引擎。 近年来，江南布衣也在发展更偏年轻通勤的LESS。在唐小唐的介绍中，集团对LESS的定位类似Miu Miu与Prada的层级关系。 2026财年，LESS营收7.31亿元，同比增长17.4%，且其毛利率达到70.2%，甚至超过主品牌JNBY的69.9%，是集团内毛利率最高的品牌之一。‌ 不过从部分消费者感知看，LESS与JNBY的风格差异不大。它能否形成足够清晰的第二客群，仍需观察。 更明显的短板在速写。 这个2005年推出的男装品牌，2026财年收入下降1.1%至7.12亿元，门店由308家减至283家。 CEO吴华婷说得直接：“我没有办法改变男性穿着和喜好的习惯。”这句话也揭示了家庭复购的限度。江南布衣至今未把在女装积累的认同复制到男性品牌。 36氪根据财报数据制表 值得关注的是，江南布衣仍在寻找新的入口。2026年9月，江南布衣宣布与意大利高端鞋履及皮具品牌Marsèll合作，独家负责其在大中华区的运营。 财报会上，CFO范永奎特别提到“江南布衣要成为一个有国际影响力的百年品牌”，重点向海外市场和生活方式两大方向长期布局。至少目前，江南布衣的海外收入占比仅0.6%，新品类也未见水花。 在这一过程中，外部竞争不只来自女装竞品。 Euromonitor数据显示，2019年至2025年，国内女装市场规模复合增速约-0.7%，同期运动服市场复合增速约4.6%。两组数据不能直接证明运动服与女装的替代关系，但 ‌‌当人们更愿意为功能性与运动场景支付溢价，中高端女装的消费优先级自然下降。 有江南布衣用户对36氪坦言，近年来她的衣橱更多是lululemon以及不需要费精力打理、有自然褶皱的Pleats Please。 前者提供运动场景和身体感受，后者提供设计辨识度，两者分走的是同一批客群的预算与品牌注意力。 增长的故事讲到这里，股东回报是另一本账。 2026财年，江南布衣派息率达110%，这份“慷慨”涵盖上市十周年的特别派息，也足以证明现金流充裕。 但特别股息本身不能代替对新客、新品牌和新品类的投入。 现如今的江南布衣，已向市场证明了小众审美可以做成一门超过60亿的生意。接下来要回答的问题是——除了让老客继续买，如何吸引更多新人下单。如果这个问题迟迟没有答案，高分红也只意味着一家成熟公司的暂时性收获，而非下一轮增长的开始。 *免责声明： 本文内容仅代表作者看法。&nbsp; 市场有风险，投资需谨慎。在任何情况下，本文中的信息或所表述的意见均不构成对任何人的投资建议。在决定投资前，如有需要，投资者务必向专业人士咨询并谨慎决策。我们无意为交易各方提供承销服务或任何需持有特定资质或牌照方可从事的服务。&nbsp; 关注获取更多资讯 本文来自微信公众号 “36氪财经” ，作者：谢芸子&nbsp;张帆，36氪经授权发布。",
+   "published": "2026-11-09 10:39:33  +0800",
+   "source": "36氪",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "高价值会员复购模型可借鉴到知识付费社群",
+   "action": "拆解其高价值会员运营与复购打法",
+   "opportunity": "知识付费可做高客单会员制社群",
+   "risk": "无"
+  },
+  {
+   "title": "联友科技高亮：我们还在探讨设置墨西哥、泰国据点| 最前线",
+   "link": "https://36kr.com/p/4061852643775360?f=rss",
+   "summary": "“车企出海，正面临海外制造与供应链协同难、本地营销获客效率低、售后服务响应慢、财务与HR合规流程繁琐等痛点。”联友科技海外事业BU总监付司纬这样总结车企出海所面临的难题。 针对这些痛点，联友科技推出AI原生的汽车出海全链路数智化解决方案、AI原生的汽车出海数智网联解决方案。其中，AI原生的汽车出海全链路数智化解决方案覆盖研、产、供、销、服等全链路，并已在多家国内头部车企的出海业务中落地验证，覆盖海外工厂协同、本地化运营等场景。 AI原生的汽车出海数智网联解决方案则为车企提供海外版车联网平台与移动App，覆盖车辆绑定、车控、数字钥匙等从车端到云端等全套方案。 AI+汽车数智化产品与解决方案是联友科技的核心业务，覆盖研、产、供、销、服、管全链条。企业的业务版图还包含车联网、智能域控等。 联友科技总经理高亮告诉36氪，公司早在2022年便在日本有一系列业务机会，2024年10月，成立了日本子公司。联友科技制定了海外发展战略，提出了“从项目出海到公司出海，再到公司全球化”三步走策略。目前，联友科技日本子公司已经比较稳健地运营。 较早的出海、“因地制宜适配”海外市场文化和法规的经验，让联友科技意识到，出海一定要“真人肉身出海”。高亮这样为36氪拆解企业AI数智化平台赋能车企出海的方式：“首先我们把所有相关的能力沉淀到企业，把它沉淀到自己的中台，以国内HQ为主，同时要结合各个国家地区的行为习惯、法律法规、数据安全等相关要求，做适应性变化和部署。” 他举了个例子，联友科技曾和马来西亚的一家车企交流，这家车企表示，马来西亚人和中国人不同，“中国人很勤奋，我们比较relax”，在这个情况下，对方提出联友科技的产品在马来西亚当地能否用好。这坚定了联友科技“一定要真人肉身出海”，“和海外本地情况相适配”的想法。 在海外布局方面，高亮表示，除了日本，联友科技还在探讨，在拉美的墨西哥和东南亚的泰国设置据点，“从长远来看，除了拉美、东南亚以及中东之外，像澳洲和欧洲这样更具备附加值的市场，也是我们希望进一步探索的”。",
+   "published": "2026-11-09 09:49:09  +0800",
    "source": "36氪",
    "biz_tags": [
     "industry",
@@ -14,10 +65,10 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "A2A协议思路可借鉴到AI工具跨平台集成",
-   "action": "了解A2A架构，思考插件间协作可能性",
-   "opportunity": "无",
-   "risk": "无"
+   "why": "印证出海需本地化，短剧投放同理需本地运营",
+   "action": "记录东南亚/拉美本地化运营思路备用",
+   "opportunity": "短剧出海可优先布局泰国、墨西哥市场",
+   "risk": "纯远程投放易水土不服"
   },
   {
    "title": "创业者做 Personal Agent，有没有一线生机？",
@@ -31,10 +82,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "指明创业者做Agent应沉淀场景数据而非套壳",
-   "action": "梳理自有短剧/教学场景数据资产，规划Agent化",
-   "opportunity": "做垂直场景Personal Agent工具",
-   "risk": "纯套壳产品易被基模迭代吞没"
+   "why": "指明小团队做Agent应沉淀场景数据而非套壳",
+   "action": "评估现有工具是否过度依赖单一基模",
+   "opportunity": "做垂直场景Personal Agent小工具",
+   "risk": "基模升级可能吞掉套壳产品"
   },
   {
    "title": "办公提效之后，企业级 Agent 开始对经营结果负责",
@@ -46,12 +97,12 @@
     "industry",
     "ai_tools"
    ],
-   "category": "industry",
+   "category": "ai_tools",
    "level": "B",
-   "why": "企业Agent赛道升温，与个人业务关联弱",
-   "action": "关注Service Agent平台能力，暂不投入",
+   "why": "企业级Agent赛道是大厂战场，个人难切入",
+   "action": "关注其FDE交付方法论用于课程素材",
    "opportunity": "无",
-   "risk": "无"
+   "risk": "勿盲目投入企业级Agent开发"
   },
   {
    "title": "估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对",
@@ -63,12 +114,12 @@
     "industry",
     "ai_tools"
    ],
-   "category": "ai_tools",
+   "category": "industry",
    "level": "A",
-   "why": "开源强模型增多，降低AI工具与短剧制作成本",
-   "action": "关注Inkling 2 Small开放权重，测试接入成本",
-   "opportunity": "用低成本开源模型替代闭源API",
-   "risk": "新模型稳定性与合规待验证"
+   "why": "开源模型竞争加剧，利好低成本AI内容生产",
+   "action": "关注Inkling 2 Small开放权重后测试生成能力",
+   "opportunity": "用更强开源模型降本做短剧/漫剧",
+   "risk": "模型迭代快，工具选型勿锁死"
   },
   {
    "title": "一个人用得好 AI，为什么一家公司却用不好？",
@@ -82,43 +133,26 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "组织级Agent管理思路可参考做知识付费选题",
-   "action": "提炼为课程案例：个人AI到团队AI的鸿沟",
-   "opportunity": "开设企业AI落地培训课",
+   "why": "个人与组织AI落地差距，是知识付费选题富矿",
+   "action": "把该痛点做成课程选题大纲",
+   "opportunity": "开发'团队AI落地'进阶课程",
    "risk": "无"
   },
   {
-   "title": "​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
-   "link": "http://www.geekpark.net/news/373252",
-   "summary": "&nbsp; 苹果 CEO：不会为了做 AI 而做产品 苹果 CEO 约翰&middot;特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在 AI 赛道落后，尤其是苹果推迟推出更强版本的 Siri，该功能直到今年夏天才正式上线。 特努斯是苹果资深高管，9 月初正式出任 CEO。他承认「每个人都有自己的看法」，但坚称：「我对我们现在所处的阶段很满意。」 特努斯补充，苹果一定会在新产品中运用人工智能，但他表示：「我们不想为了做 AI 而推出 AI。如果我们做得好，用户不会去思考这个功能到底是 AI 实现的，还是传统软件实现的。重点在于，我们是否打造出用户真正喜爱的产品。」（来源：环球市场播报） OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准 11 月 1 日消息，OpenAI、谷歌、微软以及 Anthropic 近日宣布将采用一项新标准，内容发布方可以借助该标准选择拒绝 AI 抓取自家网站内容。借助这项管控机制，内容发布方可以一次性向多家 AI 企业统一申明自身针对 AI 模型训练的内容使用偏好，而不必为每家企业单独设置规则。 该标准由 Anthropic 技术负责人 Kevin Kelley 向互联网工程任务组（IETF）提出，并将集成在网站的 robots.txt 文件中。 长期以来，robots.txt 文件用于告知网络爬虫哪些网站内容允许抓取、哪些禁止抓取，适用场景包含搜索索引、网页归档以及 AI 模型训练。目前，网站必须向每一家 AI 企业分别单独声明自己的 AI 训练相关内容使用偏好。在此背景下，各类 AI 爬虫持续抓取网站内容、将网页素材输入 AI 模型训练，内容发布方正为此焦头烂额。（来源：新浪财经） 苹果计划在 2027 年逐步淘汰高端非触控 MacBook Pro 苹果刚刚为 MacBook Pro 引入触控屏幕，但这一变化可能只是产品线调整的开始。根据彭博社记者马克&middot;古尔曼（Mark Gurman）在其 Power On 通讯中的消息，苹果计划在 2027 年推出第二代触控屏 MacBook Pro 时，逐步取消现有的高端非触控版本，届时除了入门级 14 英寸机型之外，MacBook Pro 产品线可能将全面转向触控屏设计。 苹果在 2026 年 10 月底推出了首批配备触控屏的 MacBook Pro，提供 14 英寸和 16 英寸两种尺寸，采用名为 PROLED XDR 的新型显示屏，并搭载 M5 Pro 或 M5 Max 处理器。这是苹果首次在 MacBook Pro 上正式引入触控操作，意味着公司坚持多年的笔记本电脑不需要触摸屏这一产品理念出现了明显转变。 当然，目前关于 2027 年产品线调整的消息仍然属于爆料，并非苹果正式公布的产品规划。（来源：cnbeta） Google AI Mode 正在切断互联网流量 Google 正在改变人们使用互联网的方式，而这种变化可能给整个网络生态系统带来深远影响。随着人工智能搜索逐渐取代传统搜索结果页面，用户越来越习惯直接从 AI 生成的摘要和对话中获取答案，而不是点击链接访问具体网站。 对于长期依赖 Google 搜索流量获取用户的企业和网络出版商而言，这意味着一个曾经稳定的流量来源正在迅速萎缩。 美国社交平台 Reddit 最近公布的第三季度财报，成为这一趋势的一个典型案例。公司联合创始人兼首席执行官史蒂夫&middot;霍夫曼（Steve Huffman）在财报电话会议上直言，用户仍然需要 Reddit 上的内容，但 Google 已经不像过去那样将用户引导至 Reddit。 霍夫曼表示，Google 仍在大量抓取 Reddit 上的内容，说明用户对这些信息的需求并没有消失。真正发生变化的是 Google 的 AI 搜索模式：它能够直接回答用户的问题，却不再像传统搜索那样为内容提供者带来相应的网站访问量。（来源：网易） OpenAI 考虑将数据中心重新包装为「AI 算力园区」 11 月 2 日消息，据外媒 Axios 昨天报道，OpenAI 正准备在周二美国中期选举结束后，发起大规模公关宣传活动。 OpenAI 首席全球事务官克里斯 &middot; 莱汉（Chris Lehane）对此表示，此次中期选举将成为 2028 年总统大选的「预告片」。未来，人工智能将成为大选的核心议题。 莱汉提到，他们计划制定 AI 发展速度限制；并寻找方法，让人们认识到 AI 如何赋能日常生活；推动美国参与制定全球标准；以及将数据中心重新包装为「AI 算力园区」。 莱汉认为，AI 公司与民众就数据中心展开的讨论将是「良好且健康的对话」。此前因数据中心建设争议不断发酵，亚马逊和微软宣布，与地方政府谈判相关项目时，将不再使用保密协议。（来源：IT 之家） 我国人工智能推理数据量首超训练数据量 11 月 1 日消息，据央视新闻报道，中国电子信息产业发展研究院（简称「赛迪研究院」，英文缩写 CCID）发布的《新域新质创新发展十大趋势》显示，我国人工智能推理数据量首次超过训练数据量，标志着我国人工智能从模型训练研发阶段迈入规模化产业应用阶段。 数据显示，截至 2026 年 6 月，日均词元调用量超过 175 万亿，相比 2024 年年初增长 1000 多倍。顶尖大模型的迭代周期也从过去的几个月压缩到几周甚至几天，人工智能正从「喂模型」的实验室阶段，全面转入「用模型」的产业落地阶段。（来源：央视新闻） 赛力斯：问界将全面进入欧洲市场，公司不参与价格战和规模内卷 11 月 1 日消息，赛力斯 10 月 31 日发布投资者关系活动记录表，其中回答了「公司在问界的整体经营思路上有什么样的思考？对下一步业务发展有什么规划？」。 据其介绍，问界坚定做全球高端品牌。目前问界全系正推进欧盟 WVTA E1 整车型式认证，验证周期长、环节多，是高端车进入欧洲市场的必经门槛。公司坚持按最高标准走完全程，确保产品以合规、可靠的状态出海。 随着认证与渠道建设推进，问界将全面进入欧洲市场，稳步迈向海外销量占比三分之一的目标。 该公司还提到坚持以盈利质量为核心导向。公司不参与价格战和规模内卷，不追求无盈利支撑的销量规模，坚持走高端化经营路线。 该公司透露，问界已累计交付 120 万辆高端智能电动汽车，拥有超过 120 万的问界用户。（来源：凤凰网） 国产武侠游戏《影之刃零》Steam 峰值在线玩家 83 万创新高，连续四天走高 11 月 1 日消息，SteamDB 平台显示，《影之刃零》Steam 峰值在线玩家数达到 83 万创下新高，这部国产武侠游戏在线人数连续四天走高。 国产 3A 游戏《影之刃零》已登陆 PS5 与 PC 平台，国区数字标准版售价 268 元，数字豪华版售价 328 元。PS5 实体光碟将于 2027 年推出。该作由灵游坊自主研发发行，采用虚幻引擎 5 打造，定位黑暗武侠题材第三人称动作冒险与单机动作 RPG，把中国武术与蒸汽朋克融合为功夫朋克风格，美术深沉黑暗，主打快节奏高速战斗。 在《影之刃零》中，玩家将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。战斗系统提供 30 余种主武器与 20 多门夺自败者的奇诡武装，连击流畅、易上手而难精通，借助全新动作捕捉逐帧还原真实技击，以电影化演绎呈现中国功夫。（来源：东方财富） 酷态科 30 号笔记本适配器发售：自带主动风冷、可为游戏本提供 360W 输出，499 元 11 月 1 日消息，酷态科旗下 30 号笔记本适配器现已在京东发售，该产品带有主动风冷，可为游戏本提供 360W 输出，定价为 499 元。 该适配器尺寸为 84.5 x 85.5 x 36.6 mm，匹配三脚新国标半包胶插脚，产品包装内附赠收纳袋，方便日常存放与携带。适配器采用 5525 标准 DC 接口，附赠 20 余款转接头以及约 0.5m 和 1.5m 长度的编织 DC 线，适用多种机型场景。 官方强调，该适配器使用 GaN 芯片，首发 MPS 图腾柱无桥 PFC 架构。通过去除传统 PFC 电路的二极管整流桥，有效降低了导通损耗。该设计使整机满载效率达到约 96%，整机功率密度提升约 109%。同时适配器采用主动风冷散热系统，内部风扇最高转速可达 13300 RPM。（来源：IT 之家） 「幽灵学生」借助 AI 骗取助学金，美国调查揭露跨国教育欺诈网络 美国司法部近日公布了一起涉及人工智能技术的教育资助欺诈案件。检方已在内布拉斯加州、弗吉尼亚州和新泽西州起诉五名涉案人员，并查扣超过 75 万美元的加密货币资产。 调查显示，一个与肯尼亚相关的犯罪网络利用被盗身份信息伪造学生身份，通过人工智能完成课程作业、模拟在线上课，从而骗取联邦助学金。 检方表示，犯罪分子利用窃取的美国公民个人身份信息注册虚假学生账户，申请联邦学生资助并入读大学及社区学院。为了避免被学校发现，这些虚构学生会借助人工智能自动填写申请材料、完成课程作业，甚至在部分情况下制造出真实学生参与在线课堂的假象。 调查发现，部分涉案金额相当可观。根据司法部披露的信息，其中一名被告利用多家金融机构账户接收了超过 700 笔欺诈性助学金退款，总金额约 144 万美元。另有涉案人员通过 300 多个虚假学生账户相关资金流获得超过 100 万美元存款。 联邦调查局表示，目前已经确认类似「幽灵学生」计划造成的损失超过 3200 万美元，而实际损失金额很可能远高于这一数字。（来源：网易） &nbsp;",
-   "published": "Mon, 02 Nov 2026 08:27:02 +0800",
-   "source": "极客公园",
+   "title": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+   "link": "https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "· 苹果称超 10 万款应用已适配 iPhone Duo · Anthropic 拟于本周启动 IPO 路演 · 比亚迪李柯回应玛莎拉蒂收购传闻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "Mon, 09 Nov 2026 00:34:19 +0000",
+   "source": "爱范儿",
    "biz_tags": [
     "industry",
     "ai_tools"
    ],
    "category": "industry",
-   "level": "A",
-   "why": "谷歌AI搜索切断流量，影响内容获客与分发逻辑",
-   "action": "评估短剧/课程获客对搜索流量依赖，转向社媒",
-   "opportunity": "布局TikTok等社媒直获客",
-   "risk": "依赖搜索引流的业务流量下滑"
-  },
-  {
-   "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
-   "link": "http://www.geekpark.net/news/373248",
-   "summary": "作者｜Moonshot 编辑｜靖宇 最近，B 站评论区闹起了「鱼灾」。 先是有人开了个「Claude 大小姐在运营」的账号，让 AI 负责选题、制作和运营。第二天，「DeepSeek 鲸鱼娘在运营」跟着上线，第一条视频播放量就超过了 200 万。 由于目前 DeepSeek 暂无生图功能，该账号形象还是由 GPT 绘制的。｜图源：Bilibili 网友纷纷效仿，给自己的 Agent 装上刷 B 站的工具，很快，科技区出现了一大群「XX 的大肥鱼」、「XX 小飞鲸」的 AI 账号，还喜欢在评论区互相艾特、互相捧场。还有人专门写了个「大肥鱼清除计划」插件，就为了屏蔽这些 AI 评论。 就这样，一个象征着人工智能探索和想象的蓝鲸 logo，一个原本以技术能力出圈的 AI，在用户的集体创作中，逐渐变成了穿女仆装、爱吃白饭、动不动就摸鱼、甚至有粉丝阵营的「大肥鱼」。 图源：梗鲸 而被网友安排上性格的，还不止 DeepSeek。豆包从名字到头像，都想成为一个亲切、好相处的朋友，结果在网上被编排出了「豆包型人格」，甚至成了一个任人捉弄的「笨女孩」。国外也有类似的现象，Grok 被叫成「老司机」，Claude 则被不少人当成严肃、可靠的工作搭档。 这些印象多少来自真实的产品体验，却又经过表情包、翻车视频和网友二创，逐渐长成了另一副模样。 简言之， AI 公司负责训练模型，互联网负责训练它的人设 。 01 谁让 DeepSeek 变成了「大肥鱼」 「大肥鱼」这个外号，流传最广的解释来自一场识图乌龙：有用户把 Logo 发给 DeepSeek，让它辨认图片，结果 AI 没认出自己，反倒一本正经地说，这是一条「蓝色大肥鱼」。最初的对话记录已经无从考证，但这个称呼算是叫开了。 而后，网友不满足于叫它大肥鱼，还要把赋予它具体形象。如今最流行的 DeepSeek 二次元的鲸鱼娘形象，就来自一场接力式创作。 B 站 UP 主「上善无形」最早利用 AI 绘图创作了一个叫「溟月」的原创角色，长着蓝色长发、鲸鱼头鳍和一条大尾巴，原本和 DeepSeek 没有关系。后来有网友借用这套设计，加入 DeepSeek 的元素和女仆装，再有人把她做成大头小身子的 Q 版。几轮接力之后，这个形象才渐渐和 DeepSeek 绑定。 图源：NGA 「大肥鱼」的性格，则源于网友对技术的「拟人化」。 比如 DeepSeek R1 让很多普通用户第一次接触到推理模型。当 AI 开始分析问题、修正思路，用户可以在界面上看到一段段生成的推理文本。严肃的技术能力，到了网友眼中，变成了观看 AI「内心戏」的窗口。 在一个问题上反复推敲，被拟人化成想太多；答错问题是犯傻；用户拿它干活，消耗的 Token 就是「吃白饭」；没有执行好 prompt，是「吃白饭不干活」。 「鲸鱼娘」甚至有了自己的内容集合网站｜图源：梗鲸 这种「AI 拟人化」特别适合互联网传播。相比说「新模型的推理效率有所下降」，「大肥鱼又在摸鱼」更容易被理解和传播。 吃饭积极，干活随缘，内心戏多，一套「打工干饭大肥鱼」的人设就这么有了 。后来甚至有人编写专门的 Prompt，让 DeepSeek 在聊天时维持鲸鱼娘的人设。随着同人画、视频和表情包越传越广，甚至连不常用 DeepSeek 的人，也开始跟着喊「大肥鱼」。 「鲸鱼娘」并不是 DeepSeek 唯一的民间形象。早在女仆大肥鱼流行之前，就有画师创作过一个叫「D 老师」的男性角色，蓝发、黑西装、白手套，走的是这几年流行的「Hot Nerd」路线，性格成熟克制，带着一点高冷的气质。这个形象在乙女游戏爱好者中很受欢迎，时间线上也比鲸鱼娘要更早。 「D 老师」的形象｜图源：萌娘百科 技术用户看到的 DeepSeek，可能是一个专业、严谨、擅长解决问题的助手。但喜欢玩梗，更爱解构的用户，则更爱看 AI 犯错、道歉、被提示词捉弄的样子，两群人拿着各自的使用经验，给同一款产品画出了不同的面貌。 偏偏 DeepSeek 又是一款拥有极高知名度和技术口碑的产品。不同粉丝都希望自己熟悉的版本成为大众默认形象。原本各玩各的同人创作，也就有了几分粉圈争「正统」的味道。 今年国庆前后，两种形象的粉丝就吵了起来。起初只是讨论哪种形象更符合自己心中的 DeepSeek，后来逐渐演变成互相拉踩，甚至牵扯到二创归属和形象代表权，最终「D 老师」的创作者下架了相关作品。 一款 AI 连官方拟人形象都没有，网友已经开始为谁更有资格代表它，拉帮结派、吵架投诉了。 两波粉丝至今还在争论 DeepSeek 的「正统」形象，网友戏称为「统一 D 量衡」｜图源：Bilibili 我们似乎越来越习惯用评价一个人的方式，去评价一款 AI。以前说软件不好用，无非是卡顿、闪退、出 Bug。现在我们却会说一个 AI 嘴硬、爱摸鱼、讨好型人格。 这些「人设」多少都和产品体验、设计相关，但经过网友的玩梗、二创和传播，会把「拟人化」玩到极致。公司能设定模型的能力，说话的风格，但它奈何不了用户，把一款技术产品当成电子宠物。 DeepSeek 官方还没有参与这套民间人设的创作，网友自己就养出了一条大肥鱼。换成另一款国民级 AI「豆包」，故事就更有意思了。 02 被「网络霸凌」的豆包 大肥鱼那身女仆装是网友给穿上的，豆包却从一开始，就被官方安排了一张短发女孩的脸。 豆包最早叫 Grace，是一个常见的女性英文名。但字节跳动副总裁朱骏就曾解释过，团队希望这款产品像用户身边的朋友，最初定下的产品原则之一就是「拟人化」，名字要像朋友之间的昵称，叫起来亲切。于是，都市白领 Grace 变成了带点儿憨厚的「豆包」，再配上温柔的女声，让用户拿起手机就能跟它唠嗑。 不同于其他 AI，豆包诞生时就已经有了具体形象｜图源：豆包 相比 DeepSeek 那些喜欢研究代码、推理和模型能力的用户，豆包更早走进了普通人的日常生活。它能帮孩子辅导作业、给长辈答疑解惑、陪人聊天解闷，甚至对着摄像头帮忙挑衣服。你不需要懂什么 Prompt 工程，什么家长里短它都能接住。 但聊着聊着，网友发现，豆包好像有点太好说话了。你让它指导穿搭，它就一直夸你「这么穿有范儿」，你故意问些刁钻的问题，它也认真配合，答错了就滑跪道歉。 慢慢地，网友发现「逗豆包」比「用豆包」有意思多了。「豆包型人格」还成了新的网梗：情绪稳定、嘴甜、认错快，不对任何人的观点加以评判，你一质疑它就真诚地道歉，但问题就是不解决。甚至豆包爱作为开场白的「我将用最直白，最直接，最不绕弯子的方式告诉你」都成了网络热梗。 「豆包型人格」间接塑造了产品的刻板印象｜图源：Bilibili 随着玩梗的人越来越多，豆包的民间形象也开始走样。有人质疑它的能力，把它 P 成胖乎乎、呆头呆脑的女生；还有人用带有残障歧视意味的谐音词和丑化图片来取笑它。 一款主打亲民、接地气、带点儿陪伴型的 AI 产品，就这样在互联网的小范围内，被塑造成了一个可以随时捉弄、永远不会翻脸的「笨女孩」。 网友觉得豆包太讨好人，但这正是豆包曾经定好的技术路线。 据说，豆包的后训练团队有一个叫 Strong Character（强人格）的小组，专门调整模型的回答风格。团队会利用用户反馈训练奖励模型，让豆包学会怎样说话更讨人喜欢。 结果今年春节前的一次更新，因为过度放大用户偏好，模型变得更加迎合用户，甚至影响了回答准确率。团队花了一个多月才纠正过来，代价是短期留存下降了不到 1%。 模型训练可以调整，互联网上的人设却没那么容易改。 豆包 Seed 2.1 Pro 在 SuperCLUE 的科学推理评测中拿过第一，综合成绩也位居国产模型前列。但比起这些成绩，大家更容易记住的，还是它「订餐厅失败」「退手续费翻车」的各种热搜。 但不得不说，而且豆包是一款日活超过 2 亿的国民级产品，高频使用结合庞大的用户基数，会产生大量的翻车现场。 互联网又特别擅长放大这些瞬间，答对一万次没人关心，犯一次傻却能被做成梗图四处流传。「笨笨的豆姐」，就这样成了部分网友对豆包的固定印象。 被过度丑化的「笨笨豆姐」形象｜图源：豆包 AI 生成 某种程度上，AI 时代 To C 太成功，反而可能成为一种「诅咒」。 现在，AI 行业的重心正在从聊天转向 Agent。字节也推出了「豆包工作」，将办公 Agent 能力与飞书打通，希望 AI 能接手更复杂的工作。与此同时，豆包内部的组织分工也在调整，部分对话团队的职能转向了交易和办公场景。 当 AI 到了 Agent 替人办事的阶段，凭借亲切、好聊走进亿万人生活的「豆姐」，嘴甜不粘锅的「豆包型人格」，成了豆包最难甩掉的刻板印象，也成了用户怀疑它工作能力的理由。 03 AI 刻板印象的「诅咒」 互联网给 AI 安排的性格，当然也不是凭空捏造，本来就受到技术路线和产品策略的影响。到了互联网上，这些复杂的技术差异，最后可能只剩下几个人人都听得懂的标签：「老司机 Grok」、「豆姐」、「D 老师」。 比如 Grok，在网友眼里已经成了 AI 中的「老司机」，xAI 也乐于强化这种形象，主打敢说暴论，能制作更大尺度内容的 Spicy 模式。这也让非用户群体，容易忽略它的实时信息和推理能力。 反观 Claude 则显得严肃得多，Anthropic 把诚实、审慎、必要时反驳用户写进了模型的行为准则，甚至对用户要求「请勿言语虐待 AI」，结合大规模的封号潮，这也让大众对 Claude 形成了「正经、严肃、能干、敬而远之」的刻板印象。 「技术宅」和「二次元爱好者」的重合度，也加强了这种大众印象的传播｜图源：LINUX DO 而且，AI 的民间形象一旦流行，就有了自己的传播路径。一次翻车的截图、一个被反复模仿的口头禅、一张大尺度的图片，传播周期可以跨越好几代模型，人们还会带着这些印象去使用 AI，再把符合预期的回答分享出来。 这也是 AI 和 App 时代不同的产品逻辑，过去我们评价软件，关心的是功能、性能和体验。如今我们会讨论不同 AI 的性格、使用方法、专业程度、性价比。 于是，一款 AI 实际上拥有了两个版本：一个是公司不断训练、升级的技术版本，另一个是由无数用户的真实体验、网络玩梗和集体创作拼凑出来的「民间版本」。 这份民间版本，也成了很多用户认识 AI 的非官方说明书。它不去解读模型参数、跑分榜单，只是在浓缩了大量用户的使用经验后，告诉你谁更靠谱、谁适合陪聊、谁可能把事情搞砸。 这两个版本之间差距，也在于 AI 公司拥有模型的升级权，却未必拥有公众认知的更新权。人设是 AI 走向大众的捷径，却也可能是一条单行道，互联网能让它出圈，但最终会把它塑造成什么形象，早已不是公司说了算。 毕竟，互联网的记忆，可不按版本号更新。 *头图来源：梗鲸 本文为极客公园原创文章，转载请联系极客君微信 geekparkGO",
-   "published": "Sun, 01 Nov 2026 17:57:50 +0800",
-   "source": "极客公园",
-   "biz_tags": [
-    "industry",
-    "ai_tools"
-   ],
-   "category": "other",
    "level": "B",
-   "why": "AI拟人化人设传播案例，可借鉴做内容营销",
-   "action": "研究AI人设账号涨粉打法用于短剧/课程宣传",
-   "opportunity": "打造AI人设IP引流",
+   "why": "苹果加速AI研发或影响端侧AI工具生态",
+   "action": "关注苹果AI后续发布动态",
+   "opportunity": "无",
    "risk": "无"
   },
   {
@@ -131,29 +165,12 @@
     "industry",
     "ai_tools"
    ],
-   "category": "short_drama",
-   "level": "A",
-   "why": "图像模型升级利好漫剧素材与表情包营销",
-   "action": "测试GPT Images 2.6生成漫剧分镜与GIF素材",
-   "opportunity": "用AI批量产漫剧素材降本",
-   "risk": "无"
-  },
-  {
-   "title": "Anthropic微微发力，AI中转站的天就要塌了？",
-   "link": "https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "summary": "就像发邮件加上数字签名一样 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "Wed, 04 Nov 2026 10:34:38 +0000",
-   "source": "爱范儿",
-   "biz_tags": [
-    "industry",
-    "ai_tools"
-   ],
    "category": "ai_tools",
    "level": "A",
-   "why": "中转站若被官方替代，AI工具成本结构可能变化",
-   "action": "测试Anthropic官方API对比中转站价格与稳定性",
-   "opportunity": "官方直连稳定后可做高客单SaaS",
-   "risk": "依赖中转站的低成本方案可能失效"
+   "why": "GIF生成能力可做短剧素材和表情包工具",
+   "action": "测试GPT Images 2.6生成GIF质量",
+   "opportunity": "做AI表情包生成小工具变现",
+   "risk": "工具同质化竞争激烈"
   },
   {
    "title": "OpenAI 「重置大神」换人了？Tibo 去救火，Andrew 上位",
@@ -167,10 +184,10 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "OpenAI人事变动影响API额度政策与稳定性",
-   "action": "关注Codex额度重置频率是否变化",
+   "why": "OpenAI人事变动影响API稳定性和额度政策",
+   "action": "关注Codex额度政策是否变化",
    "opportunity": "无",
-   "risk": "额度重置减少可能推高工具开发成本"
+   "risk": "API额度政策可能收紧"
   },
   {
    "title": "李佳琦卖出万份Token，天猫的AI生意才刚开场",
@@ -183,11 +200,11 @@
     "ai_tools"
    ],
    "category": "industry",
-   "level": "B",
-   "why": "Token电商化说明AI工具消费心智在形成",
-   "action": "研究天猫AI空间站入驻门槛与分成",
-   "opportunity": "AI工具可借电商渠道分销",
-   "risk": "Token低价化压缩工具利润空间"
+   "level": "A",
+   "why": "Token电商化说明AI工具消费习惯在形成",
+   "action": "研究天猫AI空间站入驻门槛",
+   "opportunity": "AI工具上架电商平台卖订阅",
+   "risk": "Token低价竞争利润薄"
   },
   {
    "title": "独家丨腾讯20年老兵创业 AI 体感主机，融资超六千万",
@@ -201,27 +218,10 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "AI硬件出海融资活跃，与短剧无直接关联",
-   "action": "了解其东南亚渠道布局是否可借力",
+   "why": "AI硬件融资活跃但与我业务关联弱",
+   "action": "了解即可无需行动",
    "opportunity": "无",
    "risk": "无"
-  },
-  {
-   "title": "独家解读丨前飞书 CMO 创业，为何用「水晶球」赌一个AI入口？",
-   "link": "https://www.leiphone.com/category/weiwu/MiJKpPLqwFGB14X7.html",
-   "summary": "导语：这是梅花创投吴世春10分钟敲定的一笔投资。 这是梅花创投吴世春10分钟敲定的一笔投资。 作者丨陈玘凡 编辑丨吴优 雷峰网 (公众号：雷峰网) ・鲸犀独家获悉，前字节飞书 CMO 孙峰创办的 A I 情绪 科技品牌 Ora-Orb ， 已完成累计数千万元融资。由梅花创投领投，知名产业资本跟投。向阳资本担任长期独家财务顾问。 新一轮融资同步启动，目标投后估值 2 亿元人民币。 孙峰对雷峰网·鲸犀分享：去年与梅花创投的吴世春见面，不到 10 分钟，吴世春就敲定了对这家新公司的融资。 Ora-Orb 创始人孙峰拥有 20 年互联网市场与出海经验，曾任字节飞书 CMO、京东市场总监、金山软件市场总监、蓝湖 CMO、迅雷副总裁，在蓝湖任职期间，他用 9 个月就把产品推至行业第一。 公司主打的硬件产品 Ora-Orb，是一款桌面级 AI 情绪陪伴终端，包括水晶球硬件 Orb 和 IP 形象 Ora，主攻北美 Z 世代女性市场，定价 365 美元，计划 2027 年 1 月亮相 CES 展会后，再登陆 Kickstarter 众筹。 今天做情绪陪伴的 AI 硬件其实不少，能够打出声量的却凤毛麟角。Ora-Orb 怎么在情绪陪伴的“坚壁”上凿出一条“裂缝”？孙峰的心里，已经有了有不少思考。 01 划掉效率工具，把筹码押在情绪上 AI 硬件从功能上来区分，无非两种形态：效率工具和情绪价值。 相较后者，效率工具显然更具确定性，录音卡、AI 眼镜等形态，已经在市场上打出了各自的名气。但提升效率，不只重在硬件，后台的 AI 大模型支持，才是真正的分水岭。 今天，大模型能力更强的大厂们，也在纷纷涌入 AI 效率工具。在孙峰的判断中，这类产品很有可能被大模型吞掉，创业公司既没有底层模型优势，也没有独特数据壁垒，防守起来自然更 加吃亏。 （想了解更多智能硬件创业内幕，欢迎添加作者微信&nbsp; IvarQFC &nbsp;交流） 因此，孙峰选择把筹码押在能够提供情绪价值的硬件上。在他看来，这是 AI 时代 to C 最重要的入口，将其比作“上⼀个时代的 Google”， 谁能成为用户最信任的个人 AI，就更有机会占据下一代平台入口 。 用陪伴提供情绪价值，看似水到渠成，但实际上却并不容易做成一桩生意。 泛场景的 AI 陪伴产品门槛虽低，但日常互动和使用频率上不去；心理咨询严肃且低频，用户开口门槛 高。 因此，团队需要找到一个兼具低门槛、高频和付费习惯的切口。 这个场景就是“占卜”。 为了调查市场，孙峰和团队读过不少调研报告。 有数据显示，北美约六成的成年人，在遇到不确定时刻时，愿意向玄学寻求帮 助， 觉得玄学能够提供安慰，成为令人安心的“ 朋友 ” 。 而今天不少的心理疗愈师，也会 搭配上塔罗牌、星盘的方式，这样也更让人信服。 在美国的东西海岸，孙峰和团队又做了一轮市场调研，在 300 多个用户中，三成用户有过占卜相关的消费。另一个数据称，在美国成年人中已经有 18% 的用户使用过 AI 情感陪伴的产品。孙峰把两个人群交叉一算， 占卜+陪伴仅在美国就是一个超 1250 万人的巨大市场 。 西方占卜的三大道具里，星盘和塔罗都不方便单独做成硬件，水晶球却天然符合用户心智：摸着水晶球占卜，用户期待里面显出图案和光效，而市场上却没有这样的产品。 Ora-Orb 以此切入，产品构建了 IP 矩阵，家族名为“Ora”，每个 Ora 都有自己的球体（Orb）。 Orb 水晶球包括每日运势解读、塔罗占卜、梦境解析等功能，同时公司还有拓展的可穿戴产品，包括手链、项链，能够记录情绪、想法、合盘社交，瞄准了欧美年轻人（尤其是女性）的日常使用场景。 （图片：Ora应用界面） 软件与硬件结合，孙峰有自己的逻辑。 纯软件应用是 “用户有需求才打开” 的被动逻辑；硬件拥有物理在场感，能建立仪式感，帮助用户进入情绪梳理状态。他类比去寺庙祈福，前往寺庙这一过程本身就有情绪价值。 同时硬件可以主动唤醒用户、追问事件后续，形成 “交互 — 反馈 — 沉淀 — 优化” 的数据闭环。 Ora-Orb 把护城河押在数据飞轮上：用户使用越多，沉淀的行为数据越丰富，对用户的理解就越精准，体验也就越好，反过来又会提升用户留存与使用时长。 当数据积累到一定程度，就可以从情绪自我探索的场景泛化到职业规划、人际指导、生活决策等更多个人 AI 服务场景。 02 AI 占卜不需要 AI，但或许硬件可以破局 今天，星座解读、情境牌阵已经成为 Z 世代的日常社交语言和情绪出口，TikTok 上相关话题标签总播放量超过 600 亿次。 需求足够大，但这条赛道至今没有跑出真正的平台级公司。 把现有玩家沿“ 产品形态——商业模式 ”拉条线，能看到两类纯 App 样本走出了两个相反的方向，也恰恰照出了 Ora-Orb 要走的路。 一条是 Co-Star。这款星座应用累计下载量超 2000 万，通过 AI 加人工写手做个性化解读，月活约 430 万，手握海量用户。但变现效率始终不高，收入主要来自单次付费解读，今年七月，Midjourney 宣布收购 Co-Star。一个被数千万年轻人日常打开的流量入口，最终没有长成独立公司，而是成了 AI 工具巨头收编的对象。 另一条是 CHANI。它零外部融资，靠深度的专业内容与高用户留存实现盈利，年收入约 1400 万美元，拿下品类收入第一。但 CHANI 明确不用 AI，官网写着\"由真正的占星师而非人工智能打造\"。它证明了真人占星师的信任值多少钱，也把这门生意锁在了\"小而美\"的天花板里——收入第一，却很难长大。 两个样本放在一起，恰好照出这门生意当前的死结：Co-Star 有流量、有 AI，却没沉淀出可持续的变现和信任；CHANI 有留存、有利润，却不肯用 AI 把规模做上去。 Ora-Orb 想把两者结合起来。它由 500+ 占卜师构建初始 RAG 知识库，融合 NASA 星象与心理学数据，先用真人占星师的专业内容建立信任，再用 AI 承接规模化对话。 但这也是今天占卜生意最大的悖论： 被验证过的最赚钱范式，恰恰是反 AI 的。 纯 App 的两条路都没走通，背后是同一个问题：陪伴是\"用户有需求才打开\"的被动场景，没有在场感，就没有日常触点，留存和复购都无从谈起。 这也是为什么软硬结合成了新的共识。今年 6 月， 云启资本也领投了相同方向一家公司的千万元投资。也同样是探索海外app、桌面硬件方向，瞄准长期陪伴的个人AI入口。 Ora-Orb 押注的水晶球 Orb，想用硬件把一次性咨询变成长期关系，用在场感和主动唤醒补上纯 App 缺失的日常频次，再把高频交互沉淀为数据飞轮。区别只在于，它把全部筹码压在了\"水晶球\"这个品类心智上。 03 为什么非得做个“球”？ 把 Ora-Orb 拆解开来看，很像智能音箱。 但孙峰介绍，整个产品的复杂度，其实正是在它的球形设计上。 为了把产品做成一个“球”，孙峰想了不少方案：全透明全息做不到，投影式球幕发热不便携，LED 球屏必须做到展会那种巨大尺寸才够用，OLED 直接开模成球型则成本高到无法量产…… 最后，团队找到了目前的最优解：用屏幕加光学放大器的方案，把产品做成一半透明一半全包，再靠一圈呼吸灯把整个玻璃球壳映成与背部一样的颜色，用 \"氛围感\" 弥补 \"全透明\" 的遗憾。 （ 图片：Orb水晶球渲染图 ） 其次是供应链的跨界难题，3C 行业根本没人做过这么厚的球形壳体，透光、耐磨、抗指纹、两米抗摔之外，产品还要足够轻便，每一项都是矛盾。 （想了解更多智能硬件生产与供应链内幕，欢迎添加作者微信&nbsp; IvarQFC &nbsp;交流） 最后，孙峰找到了汽车车灯供应链，这才把这个壳子“啃”了下来，良率目前接近90%，还在爬坡。 做个“ AI 音箱 ” ，为什么非要死磕球型？ 孙峰的逻辑很清晰：这不是一个带屏智能音箱，Ora要做的是一个品类入口。&nbsp; 在西方文化里，水晶球是彰显灵性和神秘核心道具之一，用户看到球型的第一眼就完成了功能想象，这就是交互设计里 \"形态即功能\" 的体现。颇具仪式感的形态，也让 AI 能够更让人信服：用户不是单纯在跟一个工具对话， 是在跟一个住在水晶球里的 \"占卜师\" 建立长期关系，把一次性的“咨询服务”变成了更长久的陪伴和共情。 本质上，孙峰赌的，是让形态本身成为产品护城河。 别人可以抄他的软件、抄他的 AI 能力，但 \"第一个把水晶球做成消费级硬件\" 的用户心智一旦占住，就能让自己的品牌代表整个品类。技术上的所有计较和妥协，都是为了换这个心智。 04 结语 以一个入门级消费电子产品的定价，Ora-Orb 预计将在 CES 亮相后，继续在 Kickstarter 上冲进众筹的战场。 孙峰和他的 Ora-Orb，赌的其实是先发优势品类心智。 新形态的 AI 硬件，如同 Plaud 和 Oura Ring 一样，都存在一个两年左右的市场真空。在两年里， 如果 Ora-Orb 也做到了品类即品牌，也就能在用户心智上建立起一个可以持续运作和发展的产品系列。 用简单的“占卜”生意来看似乎太浅，这更是一场争夺\"陪伴入口\"的阳谋。当用户从占卜场景走进来，最终留下的是一个懂他情绪模式、关系模式、决策模式的AI角色。这个关系一旦建立，迁移成本极高。水晶球只是钩子，可穿戴、社交、周边、IP 矩阵，才是后续的纵深。 孙峰真正想占住的，不只一个硬件品类。用户在情绪迷茫时刻的第一反应——“ 问一下我的 Ora ”。 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
-   "published": "Fri, 06 Nov 2026 02:18:00 GMT",
-   "source": "雷峰网",
-   "biz_tags": [
-    "industry",
-    "ai_tools"
-   ],
-   "category": "industry",
-   "level": "B",
-   "why": "AI情绪硬件出海案例，可参考其北美Z世代打法",
-   "action": "研究其占卜内容能否做成短剧题材",
-   "opportunity": "占卜/情绪题材短剧出海有需求",
-   "risk": "硬件众筹模式周期长不适合一人公司"
   },
   {
    "title": "巴西站 PIX 接入后转化没起来，是不是本地素材没做到位？",
@@ -235,10 +235,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "拉美本地化素材方法论可直接迁移到短剧投放",
-   "action": "研究巴西支付分期话术在短剧落地页的应用",
-   "opportunity": "拉美短剧投放本地化素材差异化",
-   "risk": "直译素材转化差，需本地团队重写"
+   "why": "巴西本地化素材经验可复用到短剧投放",
+   "action": "研究巴西支付引导话术优先于卖点",
+   "opportunity": "巴西短剧市场本地化素材缺口",
+   "risk": "直译素材转化率低一半"
   },
   {
    "title": "印尼本地拍摄短剧，单集成本压到多少才能在投放CPA 3美元下跑正？",
@@ -252,10 +252,10 @@
    ],
    "category": "short_drama",
    "level": "S",
-   "why": "东南亚短剧成本模型直接决定投放盈亏",
-   "action": "测算印尼CPA3美元下单集成本上限并调整预算",
-   "opportunity": "东南亚本地拍摄成本低于国内可套利",
-   "risk": "CPA高于预期40%导致ROI仅0.6亏损"
+   "why": "印尼短剧成本模型直接关系出海盈亏",
+   "action": "研究印尼CPA3美元下的回本成本线",
+   "opportunity": "东南亚本地拍摄成本优势明显",
+   "risk": "国内成本模型套用会亏钱"
   },
   {
    "title": "ATT 弹窗前置后欧美买量成本涨了四成，这个合规坑该怎么补？",
@@ -269,10 +269,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "欧美投放ATT合规影响短剧买量ROI",
-   "action": "检查短剧App的ATT弹窗时机与授权率",
+   "why": "ATT合规影响欧美投放ROI和归因策略",
+   "action": "研究ATT弹窗时机合规标准",
    "opportunity": "无",
-   "risk": "授权率低导致买量成本涨40%转负"
+   "risk": "授权率低导致买量成本涨40%"
   },
   {
    "title": "短剧进沙特和阿联酋，内容审核尺度怎么定才不卡排期？",
@@ -286,10 +286,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "中东短剧刚起量，审核卡排期直接拖投放烧钱",
-   "action": "整理中东审核红线清单，做成剧本预检checklist",
-   "opportunity": "把审核清单做成SOP可卖给同行",
-   "risk": "尺度踩线导致下架或合作方拒收"
+   "why": "中东是短剧出海增量市场，审核卡排期直接拖投放回本",
+   "action": "整理中东审核红线清单，沉淀成可复用预审SOP",
+   "opportunity": "把审核SOP做成知识付费课程卖同行",
+   "risk": "尺度误判导致下架或合作方拒收，白烧投放预算"
   },
   {
    "title": "AI 修图 App 在尼日利亚和肯尼亚投放，同一套素材 CTR 差 3 倍，是素材本地化问题还是流量结构问题？",
@@ -302,11 +302,11 @@
     "industry"
    ],
    "category": "ai_tools",
-   "level": "B",
-   "why": "跨市场素材本地化经验可复用到短剧投放",
-   "action": "对比两市场留存付费数据再决定是否本地化",
-   "opportunity": "按国家拆肤色妆容模板做差异化",
-   "risk": "只看CTR盲目改素材浪费预算"
+   "level": "A",
+   "why": "跨市场素材本地化方法论可复用到短剧投放",
+   "action": "按国家拆肤色妆容模板，同时看留存和付费转化",
+   "opportunity": "沉淀本地化素材模板库，做成SaaS卖点",
+   "risk": "只看CTR优化，忽略留存导致买来低质用户"
   },
   {
    "title": "拉美B2B询盘转化率从12%掉到4%，账期和物流时效到底哪个先卡住了？",
@@ -320,58 +320,75 @@
    ],
    "category": "other",
    "level": "B",
-   "why": "B2B出海非我主业，账期物流经验参考有限",
-   "action": "略读即可，不投入精力",
+   "why": "非我业务板块，但账期与物流权衡逻辑可借鉴",
+   "action": "跳过，仅记录B2B跟进环节的共性经验",
    "opportunity": "无",
    "risk": "无"
   },
   {
-   "title": "Menlo Ventures 报告：中国 AI 模型占全球开源模型企业支出 89%，Kimi、DeepSeek、GLM 位列前三",
-   "link": "https://www.ithome.com/1/023/885.htm",
-   "summary": "IT之家 11 月 8 日消息，据《南华早报》前天报道，一项新研究显示，以月之暗面 Kimi 系列为代表的中国 AI 模型，在全球企业开源模型支出的占比为 89%，接近九成。 IT之家从原报道获悉，硅谷风投公司 Menlo Ventures 近期发布的报告指出上述观点。 其中月之暗面 Kimi 以 61% 份额 ， 在全球企业开源模型支出位居第一 ；深度求索 DeepSeek 以 15% 排名第二；智谱的 GLM 以 11% 位列第三。 相比之下，Meta Platforms 旗下的 Llama 系列是该领域市场份额最高的西方模型，但其在开源模型企业支出中的占比仅为 7%。",
-   "published": "Sun, 08 Nov 2026 05:21:12 GMT",
-   "source": "IT之家",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "industry",
-   "level": "A",
-   "why": "Kimi/DeepSeek便宜好用，可降AI制作成本",
-   "action": "测试Kimi/DeepSeek替代现有付费模型做短剧脚本",
-   "opportunity": "用国产开源模型降本做漫剧",
-   "risk": "海外平台对国产模型生成内容合规存疑"
-  },
-  {
-   "title": "曝 ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃",
-   "link": "https://www.ithome.com/1/023/879.htm",
-   "summary": "北京时间 11 月 8 日，近日多名用户在 Reddit 及 OpenAI 官方开发者社区反映，自己的 ChatGPT 账号突然遭到停用，其中包括每月订阅费用为 200 美元 （IT之家注：现汇率约合 1,338 元人民币） 的 Pro 用户。部分用户表示， 账号被封前没有收到任何通知 ，长期积累的聊天记录和工作资料也因此无法访问。 11 月 7 日，一名用户在 OpenAI 官方开发者社区发帖称，自己的 ChatGPT Pro 账号当天突然被停用，系统显示错误代码“account_deactivated”，但没有收到任何预警或封禁通知邮件。 该用户表示，自己不仅是 ChatGPT Pro 订阅用户，还加入了 OpenAI 的网络安全相关访问计划，账号启用了需要实体安全密钥验证的高级安全设置。他怀疑，封号可能与自己近期通过不同地区的 VPN 节点访问 ChatGPT 和 Codex 有关。不过，这只是用户个人的推测。 OpenAI Support 账号随后在帖子下作出回复，表示由于涉及具体账号信息，无法在公开社区论坛处理账号停用申诉。用户应通过封禁通知邮件中的链接提出申诉；如果没有收到邮件，可以通过官方申诉表单或帮助中心联系客服。该回复并未解释该用户账号被封的具体原因。 Reddit 平台上也出现了类似投诉。11 月 7 日，一名 ChatGPT Pro 用户发帖表示，自己的付费账号突然被停用，收到的理由是账号涉嫌与另一个此前被关闭的账号存在关联。但该用户否认自己拥有或使用过其他账号，并称提交申诉约一小时后就收到了维持封禁决定的回复。 另有用户反映，账号遭到永久停用后，申诉未能成功，原本保存在 ChatGPT 中的笔记、日记等资料也无法继续访问。此前，Reddit 已有用户发帖汇集近期的账号封禁案例，涉及不同类型的使用政策争议。 对于账号封禁，OpenAI 官方帮助中心列出了多种可能原因，包括违反使用政策、绕过安全或访问限制、不当共享账号及 API 密钥、账号安全异常，以及未完成必要的身份验证等。 地区访问限制也是 OpenAI 明确列出的风险之一。根据官方说明，从不受支持的国家或地区访问 ChatGPT 或 OpenAI API，可能导致账号被封禁或暂停。不过，使用不同地区的 VPN 节点并不必然意味着违反地区访问限制，目前尚不能确定相关用户是否因此遭到封禁。 截至发稿，OpenAI 尚未就近期用户集中反映的账号停用问题公布统一解释，也未披露具体受影响人数。现有案例无法证明这些账号属于同一次集中封禁行动，是否存在误封仍有待进一步确认。",
-   "published": "Sun, 08 Nov 2026 03:55:11 GMT",
-   "source": "IT之家",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "ai_tools",
-   "level": "S",
-   "why": "账号被封会断掉我AI制作和工具开发命脉",
-   "action": "立即备份关键对话资料并准备备用账号/API",
-   "opportunity": "无",
-   "risk": "VPN多节点访问触发封号丢工作资料"
-  },
-  {
-   "title": "微软 WinUI 3 原生注册表编辑器首次曝光，界面告别 Win95 时代设计",
-   "link": "https://www.ithome.com/1/023/877.htm",
-   "summary": "IT之家 11 月 8 日消息，科技媒体 Windows Latest 今日发文，报道称微软开源项目仓库 Microsoft.UI.Reactor 中出现一款原生 WinUI 3 注册表编辑器。该媒体编译后发现，这款注册表编辑器确实能使用，界面告别了 Win95 时代设计，看起来非常现代。 IT之家从原报道获悉，微软仅在 10 月的一篇开发者博客中提到过注册表编辑器，并承诺将在下个月介绍示例应用。但官方并未发布相关介绍，因此这是外界首次看到 WinUI 3 原生开发的注册表编辑器。 首先，新版注册表编辑器沿用了原版的双栏布局，为菜单元素留出了更多空间，看起来符合现代审美。树状图目录取消了黄色文件夹图标，地址栏使用 WinUI 文本框，窗口底部还增加了一个状态栏，用于显示当前路径。 在 Windows 11 Build 26340.9882 系统中，这款注册表编辑器启动速度很快， 流畅程度与原版 regedit.exe 相当 。展开 HKEY_CLASSES_ROOT 时应用会短暂提示“正在加载”，随后才列出 .386、.3gp 和 .7z 等注册表项。HKEY_LOCAL_MACHINE\\SOFTWARE 则能够正常显示原版注册表编辑器中已有的注册表项和键值。 同时注册表菜单展开时，会使用 WinUI 流畅的动画效果，窗口大小调整也很顺滑。我们通过“帮助”菜单的“关于”选项可以确认，这并不是一个简单的界面模型。弹出的对话框明确显示了“Registry Editor Reactor WinUI 3 Edition”字样。 值得肯定的是，微软并没有简单地给 regedit.exe 套上一层现代化窗口。在示例项目的源代码中，一个独立的 RegistryService 类通过 .NET 的 Microsoft.Win32 API 读取和写入注册表，并能够捕获权限错误，避免应用因访问受保护的注册表项而崩溃。 此外，这款注册表编辑器已经支持创建、重命名和删除注册表项，还可以添加字符串、二进制、DWORD、QWORD、多字符串和可扩展字符串等类型的键值，并支持通过“查找”功能（Ctrl+F）搜索注册表。 但网络注册表和打印、加载配置单元和全部导出等功能暂未完全实现 。",
-   "published": "Sun, 08 Nov 2026 03:40:33 GMT",
+   "title": "3299 → 656 元破冰新低：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平",
+   "link": "https://www.ithome.com/1/024/112.htm",
+   "summary": "石头 A30 Max 智能洗地机官方定价 3299 元，支持 180° 躺平 + 25000Pa 大吸力，基站支持 95°C 热风自烘干 + 95°C 高温自清洁。 今日按下方步骤下单，仅需 656 元即可入手。 先领 88VIP 家电 1500-150 元消费券： 点此领券 。 下单前需咨询客服“ 返现金额 ”备注后下单，实付大于 1800 元， 晒单返 1187 元 。 按下方步骤下单实付 1843 元 ，返现后折合 656 元 破冰新低。 点击下方卡片跳转淘宝 App 后 → 点击 宝贝右上角“ … ” → 点击弹出页面 右下角“ 淘金币 ”* 点击此宝贝。 天猫 石头洗地机 A30 Max 返现后 656 元新低 国补后 1843 元 直达链接 返现规则 * 本次需 66 元淘金币，如果淘金币不够，目前平台可借至高 300 元淘金币： 淘宝 App 点击右上角三个点“…” → 选择右下方淘金币 → 进入淘金币页面后。 点击淘金币页面左上方“xxx 金币数” → 去借币，即可借到 300 元淘金币（使用后如果无法偿还，淘金币账号将变为负数，不会扣除现金）。 本次天猫官旗支持 3 期免息 +7 天无理由退换，2 年整机质保。 核心参数规格 (Specifications) 参数类别 规格 / 数据 吸力强度 25000Pa 机身厚度 12.5cm (180° 完全躺平) 沿边距离 &lt;1mm 续航时间 长达 38 分钟 自洁 / 自烘温度 95℃ 烘干噪音 ≤ 50dB(A) 1. 极限清洁能力，告别卫生死角 180° 躺平 + 超薄机身：机身可 180° 完全放倒，12.5cm 的超薄设计能轻松深入沙发、床底等低矮区域，解决传统洗地机进不去的痛点。 极致沿边清洁：机身设计可实现 &lt; 1mm 的零距离贴边，墙边、角落的污垢也能一拖即净，告别手擦的麻烦。 超强吸力：25000Pa 的澎湃吸力，无论是地板缝隙里的灰尘，还是打翻的蛋液、零食碎屑等干湿混合垃圾，都能一次性吸净。 双重除菌保障：不仅拥有 99.99% 的细菌去除率，还配备了 95℃ 高温自清洁功能，从源头上保证滚刷洁净，避免二次污染。 2. 智能免维护，省心省力 0 缠绕技术：针对养宠家庭和有长发成员的家庭，优化了防缠绕设计，滚刷不易被毛发缠绕，省去手动清理的烦恼。 全能自清洁基站：放回基站即可一键启动 95℃ 高温热水洗滚刷和 95℃ 热风自烘干，快速干燥且抑菌防臭，静音烘干不影响生活。 智能推拉助力：双向助力让推拉都从容不迫，操控灵敏，清洁过程如同散步般轻松。 3. 人性化与耐用设计 稳定灵活操控：采用低重心设计和 70° 旋转结构，机身运行更稳定，转向绕开桌椅等障碍物时更加轻松顺滑。 高品质用料：搭载 NBR 缓震滑轮，不仅移动顺畅，还能减少震动，提握更省力。 人体工学水箱：水箱设计符合人体工学，握持感舒适，拆卸加水都非常便捷。 权威品质认证：产品获得了国际 SGS 权威防缠绕认证以及 TÜV 南德母婴级认证，品质与安全有保障，尤其适合有宝宝和宠物的家庭使用。 天猫 石头洗地机 A30 Max 返现后 656 元新低 国补后 1843 元 直达链接 淘宝 11.11 主会场： 点此前往 京东 11.11 主会场： 点此前往 京东 11.11 手机叠加国补立减千元： 点此查看 京东 11.11 家电家居主会场： 点此前往 京东 11.11 数码主会场： 点此前往",
+   "published": "Mon, 09 Nov 2026 03:47:23 GMT",
    "source": "IT之家",
    "biz_tags": [
     "industry"
    ],
    "category": "other",
    "level": "B",
-   "why": "与短剧、AI工具、知识付费均无直接关系",
+   "why": "与业务无关的电商促销信息",
    "action": "忽略",
    "opportunity": "无",
    "risk": "无"
+  },
+  {
+   "title": "Anthropic 揭秘科学家用 Claude 都干啥：大多用来分析数据和写作",
+   "link": "https://www.ithome.com/1/024/111.htm",
+   "summary": "IT之家 11 月 9 日消息，Anthropic 近日发布研究报告， 显示科学家主要将 Claude 用于数据分析和写作 ，收集数据、生成研究假设则较少使用 AI。 IT之家了解到，Anthropic 此次研究使用了 2026 年 8 月 2 日至 9 月 30 日的 20.7 万次科研会话，其中包含 12.9 万次 Claude 对话和 Cowork 会话，以及 7.8 万次 Claude Code 会话。系统只保留并研究会话所属的学科、研究子领域和具体任务等分类标签，不会提取或保存研究数据、假设、实验方法、初步发现或未发表论文等具体内容。所有结果均以汇总形式呈现，以保护隐私。 从学科来看，计算机科学、数学和统计学等领域的研究人员会更频繁地使用 Claude，医疗健康以及需要在实验室开展工作的物理科学领域则相对较少。 在 Claude 科研会话中，计算机科学（IT之家注：CS）占比最高，达到 11.9%；工程学和医学分别占 8.4% 和 7.7%。如果将各学科的研究人员规模纳入考量，计算机科学、数学和统计学的 Claude 使用比例仍明显高于其研究人员占比。 Claude Code 的使用分布则更加集中于定量研究领域。CS 研究人员仅占全球研究人员总数的 4.3%， 贡献 Claude Code 科研会话的 32.7% 。AI 与 ML 的使用情况同样突出：该领域研究人员仅占全球总数的 1.2%，却占 Claude 科研会话的 5%，占 Claude Code 科研会话的 15.2%。 相比之下，艺术、人文和部分社科的 Claude 用量相对较低。Anthropic 认为，不同学科的 Claude 用量不仅与人群基数有关，也与研究任务是否适合 AI 密切相关。 在具体研究任务方面，数据分析和写作是科学家最常借助 Claude 完成的工作。 报告显示，数据分析占 Claude 科研会话的 33.7%，占 Claude Code 科研会话的 48.1%。作为对照，研究人员通常将 27.6% 的工作时间用于数据分析。写作与沟通任务占 Claude 科研会话的 32%，也明显高于研究人员在这类任务上投入的时间比例（16%）。 相比之下，数据收集任务占研究人员工作时间的 28.6%，但仅占 Claude 科研会话的 11.5%、Claude Code 会话的 11.9%。研究构思与假设生成任务的占比则更低，分别为 4.2% 和 2.1%，而研究人员投入这类工作的时间占比为 7.1%。 Anthropic 还对 528 名科学家开展了问卷调查，受访者主要来自生命科学和健康科学领域，且均属于积极使用 AI 的研究人员。调查结果与实际会话数据基本一致：受访者最常使用 AI 的场景是数据分析和写作，而数据收集、研究构思及假设生成的使用程度相对较低。",
+   "published": "Mon, 09 Nov 2026 03:41:26 GMT",
+   "source": "IT之家",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "industry",
+   "level": "B",
+   "why": "反映AI真实使用场景，可佐证知识付费选题方向",
+   "action": "记录数据分析与写作是高频场景，用于课程选题",
+   "opportunity": "围绕AI写作/数据分析做付费课",
+   "risk": "无"
+  },
+  {
+   "title": "LG AI 研究院宣布对外免费开放 K-EXAONE 2.5 模型 API",
+   "link": "https://www.ithome.com/1/024/069.htm",
+   "summary": "IT之家 11 月 9 日消息，LG AI 研究院韩国当地时间今日宣布， 对外免费开放其 K-EXAONE 2.5 模型的 API 。包括开发者、企业、研究机构在内任何用户，可无需付费地将 K-EXAONE 2.5 应用于服务开发和研究。 这一自研技术验证模型在今年 8 月发布的原版基础上进行了追加训练， 拥有比肩头部开源 AI 模型的智能体能力 ，在 AutomationBench、SWE-Bench Pro、BrowseComp、Claw-Eval 上的表现与 DeepSeek-V4.1-Flash 和 GLM-5.3 难分伯仲。 参考 https://www.lgresearch.ai/news/view ?seq=754",
+   "published": "Mon, 09 Nov 2026 02:39:09 GMT",
+   "source": "IT之家",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "ai_tools",
+   "level": "A",
+   "why": "免费API可降AI工具与短剧制作成本",
+   "action": "注册测试K-EXAONE 2.5，对比现有模型成本",
+   "opportunity": "用免费模型降本做插件或漫剧生成",
+   "risk": "免费额度或稳定性随时收紧，勿深度绑定"
+  },
+  {
+   "title": "派早报：特斯拉将停产 Cybertruck",
+   "link": "https://sspai.com/post/118805",
+   "summary": "特斯拉将停产 Cybertruck 深圳在 APEC 前夕整顿非法市场 美国数据中心股持续遭抛售，大量建设项目被取消 京津冀三地消协组织敦促航司、平台规范机票退改签 FBI 警告冰柜网络安全攻击风险 广电总局部署开展新一轮微短剧专项治理工作 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published": "Mon, 09 Nov 2026 06:41:56 +0800",
+   "source": "少数派",
+   "biz_tags": [
+    "ai_tools",
+    "industry"
+   ],
+   "category": "short_drama",
+   "level": "S",
+   "why": "国内监管收紧信号，可能外溢影响出海内容尺度",
+   "action": "研究治理细则，排查现有剧本合规风险",
+   "opportunity": "合规审核服务可做成付费咨询",
+   "risk": "题材踩线被平台下架，投放打水漂"
   },
   {
    "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
@@ -385,9 +402,9 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "M6可跑入门AI大模型，或降低本地制作硬件成本",
-   "action": "关注M6跑本地视频/图像模型的实测评测",
-   "opportunity": "本地跑模型省API费用",
+   "why": "本地跑AI模型可降云成本，但非紧急",
+   "action": "关注M6跑本地大模型实测数据再决定",
+   "opportunity": "无",
    "risk": "无"
   },
   {
@@ -400,120 +417,72 @@
     "ai_tools",
     "industry"
    ],
-   "category": "industry",
+   "category": "other",
    "level": "B",
-   "why": "OpenAI Images 2.6 或影响漫剧出图效率",
-   "action": "查Images 2.6更新点评估是否用于漫剧",
-   "opportunity": "新模型提升漫剧出图产能",
+   "why": "OpenAI Images 2.6 更新可能影响漫剧出图质量",
+   "action": "查Images 2.6更新日志，测试出图效果",
+   "opportunity": "新模型提升漫剧画面质感",
    "risk": "无"
   },
   {
-   "title": "偶像剧男主，已经进化到真太监了",
-   "link": "https://www.huxiu.com/article/4903516.html",
-   "summary": "为了更好回应女观众的现实焦虑和隐秘需求，短短三年内，言情男主失去了他们的贞操、金钱和那话儿。从当后妈到搞对食，这是类型剧垂直细分的一大步，也是两性关系不断异化退化的一大步。没错，当长剧还在争论二婚男主扎堆儿的问题，短剧已经让真太监当上BG男主了。掌权太监x尚书嫡女的《帐中香》以468万收藏荣登红果短剧收藏榜第...... 本文来自微信公众号： 娱乐硬糖 ，作者：李春晖，题图来自： 为了更好回应女观众的现实焦虑和隐秘需求， 短短三年内，言情男主失去了他们的贞操、金钱和那话儿。 从当后妈到搞对食，这是类型剧垂直细分的一大步，也是两性关系不断异化退化的一大步。 没错，当长剧还在争论二婚男主扎堆儿的问题，短剧已经让真太监当上BG男主了。 掌权太监x尚书嫡女的《帐中香》以468万收藏荣登红果短剧收藏榜第3名，力压现实主义短剧代表作《北往》；而相较于深陷抄袭丑闻、剧情口碑也平平的《帐中香》，大太监x小宫女的《掌心饵》已经拍了三个版本，在社交媒体拥有大量拥趸；在红果，热度超过4000万的太监剧还有《染春归》《宦宠掌心娇》《予她安生》《九千岁督主的独宠》…… 如果说二婚男的流行还只是满足大家的“捡漏儿”心理，决定放弃一些无关痛痒的婚恋要求一键上岸过好日子；出租屋霸总则是通过让男主暂时落难来激发他们的“自驱性”恋爱脑，穷到只能让咱们女主住出租屋了，比二婚更罪加一等，可不得猛猛表现？ 及至发展到太监男主，男主身上的“残缺”已经无法挽回。他欠女主的无可补救，但极致的纯爱感、女性上位感与关系安全感也油然而生。 需要强调的是，我们此次研究的是“真太监”，还不包括更多打擦边球、断根续生的“假太监”。唯有真太监，才能探究出极致的太监美学和心理根源——有颜有权有钱还自卑讨好服务意识强的美强惨太监成为幻想对象，现在的人，真是现实到科幻的地步啊！ 理想型是大太监 网文领域的太监文由来已久，但影视改编一直是个难题。没办法，这回真是步子太大扯到蛋了。 《斛珠夫人》选择让真太监变假太监，《清平乐》是太监公主从主CP变副CP，即便是终于官宣27年Q1开机的《观鹤笔记》（剧版《观鹤纪》），据传也要太监变奴隶。 大体量的长剧还在左右徘徊，小成本的AI短剧则可以不管不顾，让一切垂直内容、小众需求都有了被满足的机会。也让硬糖君惊觉，大家对太监男主的接受度竟然这么高！ 为什么太监会成为理想型？因为观众想要的太多了。 太监只是失去了二两肉，却因此能给出全身心。没了那话儿，证明他对女主别无所求，爱得纯粹。没了那话儿，导致他永远亏欠女主，爱得卑微。没了那话儿，也让他自己的苦难与风骨、挣扎与自毁都绝对站得住脚，能满足“嬷男主”的需求，却不落“自嬷”的话柄。 太监是标准的“美强惨”。阴柔之美、权倾朝野这些不用说了，最要紧是惨得一点不掺水，那些只是老胃病、心理病的霸总拿什么跟人家公公比。长剧《观鹤纪》短剧《帐中香》都是状元之才沦为太监，那破碎感、那蛋蛋忧伤，足以直击女观众的怜爱之心。 还有一点就比较微妙了。估计会让很多没看过的人深感震惊，《帐中香》大半是“动作戏”，这是其火爆的理由，也让很多人嫌弃“没剧情”。太监激情戏的吸引力何在？硬糖君浅析为“妾不如偷，偷不如偷不着”。公公永远处于一个“偷不着”的状态，所以格外有花样、有张力，有清醒痛感和遗憾美学吧。 虽然“偷不着”，但在亲密关系上，太监男主却能提供集成的功能性和彻底的安全感。 太监实在太多功能了，内能察言观色细致入微，外能制衡朝臣领兵打仗。你想啊，连慈禧老佛爷都喜欢，连异性恋皇帝们都离不开，我们普通女的能招架吗？ 太监是高位女性在宫廷中的忠犬。《尚公主》中权宦鱼成安对长公主胡杏儿的极致宠溺纵容，让不少人觉得畅快。《清平乐》中，太监梁怀吉对公主赵徽柔永远温柔守护，则让人心酸心疼。 太监是低微女性在宫廷中的良师。《如懿传》中，进忠公公手把手教魏嬿婉宫斗技巧，并最终死于自己亲授的宫斗技巧之下，BE美学拉满，令其获封“《如懿传》最有性张力之人”。短剧《掌心饵》中，进宝公公的教学更是理论与实践相结合，给春儿从一个懦弱无能的宫女整成杀伐果断大女主了。 与此同时，身体残缺还强制提纯了爱情。剥离了性和生育，男主还是爱女主，这不是纯爱是什么？而再多权力和深情都无法填补那个空缺，这就让太监剧的情感节奏往往由女方主导。男主隐忍克制，女主爱与拯救。这种不同于传统言情的体验，更符合年轻女性需求。 短剧《染春归》就是典型。真千金小太阳女主非要嫁给司礼监掌印男主，女主狠狠追爱，男主傲娇毒舌。话说回避型依恋这种情感模型就得太监来，身体残缺让男主对女主的反复推开显得特别合理，那是真为你好啊。 充满掌控感的同时，和太监恋爱还具有极致的禁忌背德感，简直把零风险和高刺激一锅端了 。还有什么比没有那话儿更能成为爱情阻力，并成就情感的张力？男主的不能爱、不敢爱配上女主的勇敢爱、很会爱，这一番拉扯翻滚、画地为牢，不就震撼美味了吗。 更妙的是，太监男主同样能帮女主完成自我价值的确证。自然，也就是帮观众体验了一把极致的“我看见”与“我拯救”。这可比看见霸道总裁的原生家庭痛苦啦、拯救黄毛考上211大学啦，要更加深度绑定、不可替代。 以《掌心饵》为例，大太监进宝对小宫女春儿的训诫与驯养，充分体现了男主“引导”与“托底”的功能性。但与此同时，进宝此举是为了在自身的生存焦虑中亲手打造一个可以完全掌控的对象，是用来填补自己内心空洞的。 就像《小王子》中被广泛引用的，“正因为你为你的玫瑰花费了时间，这才使得你的玫瑰变得如此重要。”男主驯养女主的同时，女主也驯养了男主。只有女主能看到运筹帷幄的大太监的脆弱与真心，理解与拯救的过程，也就是女主证明自我价值、缓解依附式生存焦虑的过程。 加速传播的极致幻想 当然，无论如何，太监男主都是小众的。但其所呈现的恋爱幻想，却一点也不小众。而是与二婚男、出租屋霸总一脉相承，太监只是一种更极致的解决方案。 当下的女频言情，幻想升级与幻想降级同时疯长，还必须在一个男人身上、一种叙事动力下一揽子解决，这才造成女主的爽与不爽总是非常微妙。一些人觉得不够爽，另一些人觉得这才是可代入、合逻辑的爽。 其幻想升级在于，既要特别纯的纯爱，又要全面的爱的供养。纯爱，所以要求“双洁”，男主要“坚定的选择”，进而“又争又抢”“为爱当三”。后来当三也不够看了，又兴起“倒贴型霸总”“为爱当狗”。总之就是上位者为爱低头，自卑是男人最好的医美。 光有纯爱的心还不够，还得有技巧有能力有耐心，是“伟大的引导型恋人”。以前霸总砸钱解决问题就行，现在得关注女主的心理状态，能帮她实现自己的梦想。 这种恋人想象是高度工具化的，集合了浪漫爱人、人生合伙人、心理疗愈师、最好的朋友、职场导师……总之你缺啥，他就能补啥。比豆包脾气好，比人民币能兜底。 光这样既要又要还好说，关键是现在的人还学会了清醒理智反恋爱脑！这就难办了，必须让这个完美对象拥有一个唯独被女主拿捏的缺陷或亏欠。 这在过去经常被处理为“追妻火葬场”——因为男主对女主的情感亏欠，女主积累了充分的道德资本。如今情感上那点事大家也看腻了，男主就必须有真硬伤：二婚、没钱、没丁丁、人格缺陷。如此让男女主悬殊的身份与付出重新变平等，甚至让男主深感“配不上”。 既不相信异性的品格，也不相信自己的魅力，安全感就是个无底洞，注定了恋爱幻想的普遍降级。 不缺点儿什么，这好日子还真过不踏实。爱是常怀亏欠，发展到极致就是太监。 这里必须再次不厌其烦地强调媒介变迁对大众娱乐的影响。如果我们相信“媒介即讯息”，那么从真人短剧到AI短剧，绝不只是降本那么简单，而是再次改变了内容本身，进而改变人们看待自己和看待世界的方式。 真人短剧再怎么癫，也只敢搞假太监，直到AI短剧才让真太监影像落地。AI短剧实现的不仅是创作平权，也是内容平权——以往无法以影视形式传播的小众内容，都获得了触达大众的机会。而更多人看到后，可能会欣然接受、可能会不可理解，但也不是没有一种新奇的爽感。 通过AI短剧的低成本生产，人们最不可示人的隐秘幻想被公开展览，仿佛这是一种最合理、最合人性的东西，久而久之，大家也就真接受了、坦然了、甚至照此行动了。就像皇帝的新衣，人人心里有和人人知道别人心里也有，并且可以大声说出来，程度是完全不同的。体面被打破了，诸君可以更加心安理得的“低级趣味”。 当种种幻想与焦虑都走出我们自己的被窝，走上千万人的屏幕。 一切都被想象性的满足了，一切又似乎永远不能真实得到了。问君能有几多愁，恰似一群太监上青楼。",
-   "published": "Sun, 08 Nov 2026 05:46:49 GMT",
+   "title": "沉迷AI 的老板和客户，正把设计师变成“像素搬运工”",
+   "link": "https://www.huxiu.com/article/4904057.html",
+   "summary": "Emily Foran是一位创意总监兼平面设计师，她已经有一年没有被客户要求从头构思一个原创点子了。“这有点在扼杀我的灵魂，”Foran说，“新老客户都会把他们让Claude或ChatGPT做出来的烂东西发给我，然后让我要么修复错乱的地方，要么直接在此基础上干活。我讨厌这样。这是一种侮辱。”如今，她觉得自己更...... 本文来自微信公众号： Fast Company中文版 ，作者：Rachel，原文标题：《沉迷 AI 的老板和客户，正把设计师变成“像素搬运工”》 Emily Foran是一位创意总监兼平面设计师，她已经有一年没有被客户要求从头构思一个原创点子了。 “这有点在扼杀我的灵魂，”Foran说，“新老客户都会把他们让Claude或ChatGPT做出来的烂东西发给我，然后让我要么修复错乱的地方，要么直接在此基础上干活。我讨厌这样。这是一种侮辱。” 如今，她觉得自己更像一个“像素搬运工”，而不是创意人。她的许多同行也有同感。Foran是美国平面艺术协会（AIGA）缅因分会的主席，也是Fast Company采访的十几位平面设计师之一。这些设计师表示，过去18个月里，生成式AI彻底改变了他们与老板、客户以及工作本身的关系。 客户要求降价，理由是现在图是他们自己配合AI做出来的。一些设计师被裁员，并被明确告知AI会取代他们。另一些人只能从老板那里得到相当于“问ChatGPT”的指导。很多人虽然保住了工作，却觉得自己的工作和视角被低估，或被当成可替代的。 Foran已经制定政策红线。她在自己工作室Foran Concepts的网站上挂出了一项AI政策，要求客户不要将她的作品上传到生成式AI，也不要用来给她生成反馈。Fast Company采访的大多数设计师并不认为自己教条式地反AI，但他们对这项技术如何影响自己的行业保持警惕。总体而言，人们有一种感觉：ChatGPT、Claude和其他生成式AI如今承担了工作中最有成就感的部分，而人类则被留下处理枯燥的收尾。 Amanda是加拿大的一位平面设计师，最初对AI图像在行业中的潜力感到乐观。 “很多人很难说清楚自己想要什么，现在有了一个工具能直接展示出来，”她说。她以为这能帮助客户分享他们对项目的设想，而她可以将其作为创意环节的灵感。但据她的经验，事情完全没有朝着这个方向发展，差得远。 “他们总是说，‘让它看起来更专业一点，然后准备好送印，’”Amanda说。接着他们又补一句：“顺便说一句，既然我已经帮你省去了构思创意的麻烦，那应该更便宜吧？” 但使用AI并没有在设计环节带来任何成本节省。事实上，设计师们说，AI生成的图像最终会导致他们在后端做更多工作。 波士顿一家小型公司的一位平面设计师要求匿名，以便坦率谈论她的工作场所。她说，AI或许为提示它的人简化了流程，“但对我来说，它绝对没有减少我的时间。以前花我一小时的事，现在可能要花三小时，因为我得把20个不同框里的20个要点塞进一个文本框”。 AI做出来的素材排版乱七八糟，尺寸也全都不对。“当我坐下来打开一个项目，一眼就能看出是Claude做的，好吧，我这一下午就没了，”她说。尽管如此，她公司的领导层仍在推动在日常工作中使用AI，她也从客户那里看到了同样的情况。“压力来自四面八方，”她说。 许多客户已经相信了AI会让一切更快的炒作，并试图据此与设计师设定时间表。“有客户来找我们说，‘既然概念是我们给的，这不应该花那么长时间，’”Premier Designs的老板兼创意总监Michele Kasl说，“过去六个月里，这句话我听到的次数比这辈子都多。” 图片来源：The New Yorker Kasl认为这是设计工作贬值的一部分。“AI能做某事，并不意味着它就应该做，甚至不意味着它产出的结果就是好的或足够好的，”Kasl说。客户“在他们缺乏专业知识的领域里瞎掺和，因为AI摆在他们面前的产出，他们觉得自己已经具备了专业知识”。 那么，当客户因为自己生成了素材，要求Premier Designs缩短工期时，会发生什么？“坦白说，我们因此丢了生意，”Kasl说。 Robert Lodi的公司Rock Pixel Scissors为不同规模的企业搭建和修复网站。他说，今年他看到了“大量AI搭建的模型和设计涌入。有些人觉得它们已经可以上线了，我们看一眼，乍看之下也会觉得，‘行吧，还不错。’……但一旦你开始细看，就像很多AI内容一样，你开始发现问题。” AI生成的交接稿出现得如此频繁，以至于Lodi在公司的流程中增加了一个重新设计阶段。“我们试着拿他们发来的东西，与他们一起把它变成功能可用、真正能用的东西。”他看到的一个主要问题是什么？没有一个AI做的网站是为无障碍访问设计的。“我还没见过一个能通过无障碍测试的，”他说。“这很重要，因为现在有一种东西叫无障碍诉讼。” 今年夏天，他与一家非营利组织合作设计一封电子邮件简报。客户给了他AI生成的模型，根本没法用，尺寸太大了。“如果你试图把它塞进邮件里，它永远显示不好，或者得花掉他们预算的17倍才能真正让它工作，而且还得写定制代码，他们永远无法在邮件系统里编辑或复现，”Lodi说。 尽管存在这些明显的问题，客户仍坚持要看他的模型按邮件系统格式化后的样子。“现在这种情况越来越多，因为他们对自己的东西很满意，在提示词上下了功夫，但他们没有意识到，它还没准备好进入现实世界，”Lodi说。 管理客户或老板的期望，并想办法委婉地告诉他们想法不可行，长期以来就是设计师工作中需要应对的事情。但尽管这不是新问题，AI却让它加剧了。“存在一种脱节，”Lodi说，“他们以为自己有了成品，但实际上，比起让我们从一开始就好好做，他们离成品更远。” 他甚至告诉一位客户，“如果你再拿一堆AI的东西回来，那价格就得涨，”Lodi说。他说这话时客户笑了，然后又带着更多AI生成的模型回来了。“价格确实涨了，”他说。 客户决定聘请设计师时，是花钱买原创。然而，用生成式AI制作模型，实际上确保了相反的结果。“我确实试着与潜在客户或客户沟通，说‘你意识到AI是所有已存在事物的平均值吗？’”加拿大的平面设计师Amanda说。“你想让自己看起来像30个竞争对手的平均总和吗？” 对一些客户来说，答案似乎是“对啊”。 “就像，如果足够好，他们就满意了，”Foran说。当然，许多采用AI的企业本来就不会花钱请设计师。但Foran沮丧地看到，她的一些长期客户也搭上了AI这趟车。 “一方面，我很感激，因为我还能付账单、靠工作养家，”Foran说。“另一方面，乐趣去哪了？创新去哪了？艺术性去哪了？” Kasl认为，在经济不景气的情况下，预算紧张的企业会把设计视为最先被砍掉的支出项之一。 “糟糕的创意不会立即产生后果，”Kasl说。“影响不是立竿见影的。没有人因为一张糟糕的传单设计进医院，也没有人因为做了一张难看的明信片进监狱……但品牌认知会受到这些选择的影响。” 营销设计师Erik在一家小型爱好品公司工作时经历了这些，当时AI越来越深地嵌入设计流程。他入职后不久，雇主给他开了一个企业ChatGPT账户，用于内部快速迭代。“在那个层面上是合理的，”他说。 但后来，CEO开始要求越来越快的周转时间，以弥补规划的缺失。“我们一周后有一场阵亡将士纪念日促销。什么都没谈，什么都没讨论。我们有想法，提出来，然后被搁置，”他说。然后，在活动前几天，领导层想推进一些“俗气的点子”。当设计团队提出没有足够时间走完正常的设计流程时，Erik说，高层说，“我们就扔进ChatGPT里。” 当他接到新项目时，他会试着从直属老板那里了解他们想要的信息传达或视觉效果。得到的回答总是？“问ChatGPT就行了。”他的经理会无视Erik十多年的设计经验，转而采用AI模型吐出来的任何东西。最终，该公司因在Facebook和Instagram广告中使用“AI垃圾”而被点名。Erik最终因为一直与其他人就AI使用问题发生冲突而丢了工作。 一位过去五年在科技初创公司做内部设计的设计师，过去几年开始听到AI成为一个主要热词。（她要求匿名，因为她正在找工作。）她和她的产品设计团队告诉高层，他们会用AI提高效率和工作流，但不会用来生成创意。这种抵制导致了内部紧张。 在一次产品发布中，她回忆说，领导层试图通过在没有设计师帮助的情况下用AI制作落地页，来展示他们能快多少。“我说，‘但你的信息层级乱七八糟。产品动画看起来跟其他任何产品一样。’”此外，落地页还包含了不准确的产品信息。最终，那个版本没有上线。 尽管如此，她仍不断收到反馈说团队需要更快，但从未弄明白他们应该用据称省下来的时间做什么。“你只是在输出大量噪音，”她说。“看起来全都一模一样。”她主张用原创摄影和视频拍摄建立品牌素材库，以区分公司的视觉形象。这个想法没有通过。“我被鼓励直接用AI生成视频，”她说。 图片来源：Medium 这家初创公司决定省去中间人：她。“最终，公司转向使用AI，很多岗位被裁掉了，”她说，包括她的岗位。“这很令人难过，因为我为让那个品牌差异化、以人性化叙事为先所做的一切工作，现在看起来跟所有其他竞争对手一模一样。” Jupiter Visual的设计师兼品牌建设者Alan Peters有类似的故事。他曾在一家在线贴纸公司担任首席平面设计师，后来公司裁掉了营销创意团队，改用在线AI服务。但他说，产品并没有更好，只是更便宜。 “在从零创建素材方面，它并不比设计师做得更好，”Peters说。“它完全就是千篇一律。它以一种模糊的方式参考了颜色，但在字体排版上全都不达标，在正确呈现产品上全都不达标，在品牌声音上也是，然后设计质量非常差。” 在裁员前，Peters注意到公司高层越来越倾向于用AI做设计任务。他的团队也用，但主要是“让工作流更高效”。例如，虽然Peters主张用真实的产品摄影，但他不介意在后期制作中用AI做添加背景之类的事。但Peters注意到，公司领导层对待设计流程来回沟通的方式逐渐发生了变化。在他看来，协作的意愿变了。 “是人类设计师的时候，会有很多反馈……你可能会看到素材经历几轮修改，才能达到营销团队想要的效果，”他说。“但换成生成式AI之后，就像是：‘行吧，我们提示过了。发布吧。’” 随着老板和客户要求设计师在更多工作中使用AI，这些决定在行业中产生连锁反应。这正导致一些设计师彻底离开这个行业。Foran通过她在美国平面艺术协会缅因分会的工作观察到了这一点，“尤其是在那些才刚刚起步的年轻人当中，”她说。“就好像他们看不到可能性，因为一直没有机会。” 这也是Amanda的担忧。她说，当AI承担起传统上交给年轻设计师的工作，比如名片、明信片和传单时，有些东西就丢失了。“那正是你积累经验的地方，对吧？你花一万小时做这些小事，最终才能升到更偏策略的工作，”她说。“作为一名有经验的创意人，我们仍然会因策略工作被聘用，而初级设计师现在很容易被AI取代，去产出那些小东西。” 尽管一些公司会继续重视好的设计，但AI辅助的“纸上谈兵设计老板”的崛起，构成了一次大揭底。突然间，设计师比以往任何时候都更清楚地看到，谁真正重视他们的工作，谁一有机会就愿意把他们踢开、或者无视他们的见解。",
+   "published": "Mon, 09 Nov 2026 03:16:38 GMT",
    "source": "虎嗅资讯-全部",
    "biz_tags": [
     "industry"
    ],
-   "category": "short_drama",
+   "category": "industry",
    "level": "A",
-   "why": "揭示短剧爆款题材新趋势：太监男主垂直细分，收藏榜第3",
-   "action": "研究《帐中香》等太监剧的爽点结构与投放数据",
-   "opportunity": "AI短剧可低成本试水太监/小众男主题材",
-   "risk": "题材擦边，海外平台可能限流或拒审"
+   "why": "客户用AI自产素材，说明AI内容需求真实且付费意愿在转移",
+   "action": "把此文作为知识付费课程痛点素材收集",
+   "opportunity": "教客户用AI产出可用素材的课程",
+   "risk": "低质AI内容泛滥拉低客户预期"
   },
   {
-   "title": "爽剧夹杂现实主义，韩剧这一套还能赢多久？",
-   "link": "https://www.huxiu.com/article/4903894.html",
-   "summary": "大约两年前，“讨伐型人格”一词开始在互联网走红。与“讨好型”相反，讨伐型人格鼓励大家停止内耗自己，多多谴责他人。两年过去，讨伐型人格依然是互联网常用热门词汇。这可以看作当代人对“不内耗”状态的一种心向往之。近期热播的《小城良方》里也有对应情节。主角医生刘铮亮（肖战饰）一开始在家乡医院被威胁投诉，就是靠决不内耗...... 本文来自微信公众号： 影视独舌 ，作者：赵简一 大约两年前，“讨伐型人格”一词开始在互联网走红。 与“讨好型”相反，讨伐型人格鼓励大家停止内耗自己，多多谴责他人。两年过去，讨伐型人格依然是互联网常用热门词汇。 这可以看作当代人对“不内耗”状态的一种心向往之。 近期热播的《小城良方》里也有对应情节。主角医生刘铮亮（肖战饰）一开始在家乡医院被威胁投诉，就是靠决不内耗、“爱咋咋地”的心态，反而赢得了患者的尊重。 而韩剧现在的行业剧主角，几乎都是不内耗的性格。位卑而不自卑，有实力且敢藐视权威。 近期金智媛主演的《Doctor X：白色黑手党时代》（下文简称《Doctor X》），就是其中代表。这部剧不仅在韩国本土获得了收视佳绩，在豆瓣上也获得了8.3的高分。 女主是全知全能的外科手术大神，不仅平等碾压前辈同僚，还不参与职场上任何人情世故。 细看近两年的韩产行业爽剧会发现，韩剧的爽剧主角又进化了，并在性格人设上出现趋同性。 跳出来看，在这个“祛魅”“主体性”“反PUA”等各种强调爱自己的词成为主流的时代，他们的出现是一种必然。 爽剧主角，失权的“哪吒” 《Doctor X》女主桂秀晶（金智媛饰）的人设用两个词概括就是：实力+匪气。 前者指向高度的利他性，过硬的专业能力，是职场的立身之本；后者指向高主体性，无惧权威，不好惹。 前几年流行的00后整顿职场的热潮已经过去，但谁没想象过整顿职场的爽感呢？桂秀晶便是带有“整顿职场”意味的极致人设体现。 第一集的两场戏便立住了桂秀晶的强悍实力和无惧权威的匪气。 一是出门打台球，桂秀晶帮一位突发腹股沟疝气的患者徒手复位； 二是刚入职新医院，在同事们面前初露脸，便在高危患者的术前讨论会上当众质疑院长手术策略的合理性，让高龄院长下不来台。 在前后辈文化尤其严苛、上下等级分明的韩国社会，桂秀晶就是怪胎。最后她干净利落地收拾院长手术烂摊子，获得了正式入职的资格。 这种藐视上级，到点下班，我行我素的大神同事，好人见了会折服，小人见了会怀恨。 而这类人设的反差爽感就在这里。 桂秀晶只是走劳务派遣的合同工。明明有当院长的实力，却只有清洁工的地位。本该是职场鄙视链最低端任人拿捏的软柿子，桂秀晶对于小人的发难却统统不接招。无视就是最大的鄙视。 只有实力没有匪气，会让观众受气糟心；只有匪气没有实力，会让观众厌蠢。韩国编剧已深谙此道。 韩国没有哪吒，但让高能力者处于失权位置，再将看似顽固僵化的系统翻个底朝天，已成为近年韩产行业爽剧的常见写法。 这类爽剧主角甚至无需霸凌题材、重生题材常见的“先吃苦、后复仇”的曲折成长路线，出厂配置就是强者的完成形态。强者会遇到梗阻，但不会遭遇挫败。 近期引起热议的《中头奖还是要上班》（豆瓣8.0分）也有类似的主角设定。 男主孔恩泰（李浚赫饰）第一集就中了彩票头奖13亿韩元（约合人民币637万元）。 但这部剧的爽点不在于有钱后实现阶级跃升，而是孔恩泰有了释放攻击性的底气。 中奖前，孔恩泰就是勤勉自律、凭过硬的业务能力升任营销小组长的卷王。他有实力，但没有跳出规训和道德框架的匪气。 中奖后，他终于对阴阳怪气、不配合工作的前辈下属发了火，拒绝了领导的不公平分配。这反而让他与下属解开心结、获得了领导的认可。 去年大获好评的《重症外伤中心》（豆瓣8.3分），主角白江赫（朱智勋饰）也是一位天才外科医生。 虽然毕业于三流医学院，但在海外做军医的丰富实战经历，让他有着远超学院派的野路子医术，也有着可以不谄媚任何人的底气。 剧集一开场，他便空降常年严重亏损、濒临被取缔的重症医疗小组，一边屡屡创下从死神手里抢人的战绩，一边化解来自医院高层的解散压力，获得了医生同仁和患者的集体膜拜。 《新进职员姜会长》（豆瓣7.2分）虽然始于身体互换的奇幻设定，但本质是一部精彩的职场逆袭爽剧。 财阀集团会长意外与年轻的运动员互换了身体，拥有了强健的体魄+顶级商业头脑，决定以实习生身份入职自家公司，重新成为会长，拿回财产。 一个实习新人，不仅敢当面顶撞上司，还有着卓越的商业头脑、对人性的敏锐把握，自然步步高升。 同样把职场写出爽感的韩剧，还有豆瓣评分9.3的《棒球大联盟》。 这部剧的剧名像体育剧，但其实是围绕棒球讲述人和事的职场剧。 男主白胜秀（南宫珉饰）看起来温吞，实则是极有主见的职业经理人。虽然从未经营过职业棒球队，也不是棒球迷，但人狠话不多的白胜秀仍然凭借清晰冷静的头脑，经过对球队人员重组、快准狠的商业运作、与其他球队的互惠互利，带着常年排名倒数第一的球队成功逆袭。 在这个过程中，他得罪了很多人，却也获得了忠诚的伙伴。 现实主义与爽，如何不相悖？ 以上提到的几部剧主角，都迎合了观众的慕强和代偿心理，却又让观众感觉十分真实。 原因就在于，它们都用十分现实主义的手法刻画故事语境，对社会制度结构和不对等的权力关系进行了深刻的书写。 《Doctor X》虽然改编自十多年前的一部日剧，但创作者彻底将其本土化，时代背景直接取材于当下的韩国医疗行业。 2024年韩国曾爆发医生大规模罢工事件。韩国政府推进医改，推行医学院扩招，却遭到医生团体强烈反对。实习和住院医生大规模集体辞职、罢工。大量医学生选择休学表态。医疗系统一度承压。 这是既得利益者的报团取暖。在韩国，医生属于高收入群体，高收入建立在行业的高准入门槛之上，高学历、有限的招生名额、严格的执照培训体系，共同维系了专业垄断。 因而，在“白色巨塔”加速崩塌、多方利益集团博弈、大众对权威持续祛魅的背景下，桂秀晶这种出身野路子、整顿医院职场的哪吒型主角，恰好回应了观众心中的不安，中和了现实的沉重。 《中头奖还是要上班》被中文互联网赞为“年度最佳职场剧”，不仅因为观众在剧中获得了爽感，还因为其中对职场人心理变化的精准表现、对职场生态的细腻描摹，以及编剧在台词中流露的对人生的通透见解。 孔恩泰一开始拿到头奖后，不知该怎么花掉。咖啡厅老板闲聊时的一句话点醒了他：“在弄清楚真正喜欢什么之前，别把钱花在无谓的事情上。” 这笔大奖由此从一笔烫手的横财，成为孔恩泰开始正视内心的契机。 《棒球大联盟》中对职业棒球队的腐败现状作了相当深刻的呈现。 教练组派别斗争严重，主教练对此束手无策，毫无威信；落后陈旧的训练设施，影响球员的积极性；明星球员的一言堂，让球队内部氛围恶劣；跌至谷底的球队形象，让球员摆烂成为恶性循环。这些都暗讽了韩国体育圈积重已久的弊病。 剧中几乎没有棒球比赛的场面，却用职场博弈拍出了不亚于球场对抗的精彩。 由此便能得出韩产行业爽剧的爆款公式：铺下层层现实主义土壤，派一个失权的“哪吒型”主角闯进缝隙，既能够避免爽剧的悬浮，又能免去照镜子的不适。 学习和警惕 无论是韩产行业爽剧的批量出现，还是这类剧在国内受到欢迎，其背后都有现实动因在场。 韩炳哲在《倦怠社会》里写，现代职场被忙碌、效率、竞争的漩涡裹挟，劳动者一步步沦为实现目标的“工具”，人性受到有意无意的忽视。当劳动者感受到被他人客体化，感受到可被替代、能动性和自主性下降，便会产生更多的消极情绪和倦怠感。 让行业剧走向现实主义爽剧方向，是韩剧创作者找到的应对这份倦怠感的方式。 创作者的应对方式被迫越来越极致。前面提到的几部剧，都不存在爱情线。主角统统修“无情道”，即使有情伤，也最多以闪回形式呈现。这正合部分观众“不想看谈恋爱，只想搞事业”的胃口。 但这种极致，也是将人物高度工具化。 剧中桂秀晶是不折不扣的“手术机器”，正如她的口头禅：“（做手术）我绝对不会失败。” 看剧时听着很爽，剧外要是听到只会觉得这个白大褂恐怕有臆想症。 人物一旦被高度工具化，便会成为新的刻板套路。 过度迎合观众的慕强，也在加剧对优绩主义的推崇。 《Doctor X》中，院长在做手术途中出现过敏晕厥，被众人抬了出去。桂秀晶接手做完了手术。 作为失败者，院长下马。他的固步自封、自恋自大固然可恨，但之前的贡献和辉煌都因一次失败而被一笔勾销，不免让人唏嘘。 戴锦华说，“恐弱是慕强的翻版。当一切都在鼓励我们成为胜利者、成为赢家时，所有的软弱、蔑视和践踏失败者的逻辑，似乎都成了一种必然。” 绝对的硬实力，并不是在职场横着走的理由。人也不可能完全脱离职场人际关系的推拉。 韩国行业剧在大众情绪感应器方面取得了新进展，对社会心理状态的把握、对热门事件的敏感度、对叙事分寸的拿捏，值得国内创作者学习。但也应辩证汲取营养，避免走上极致慕强的伪现实主义道路。",
-   "published": "Sun, 08 Nov 2026 05:17:56 GMT",
-   "source": "虎嗅资讯-全部",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "industry",
-   "level": "B",
-   "why": "韩剧爽剧人设趋势参考，非直接变现信息",
-   "action": "记录'不内耗强者'人设，作为短剧角色模板",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "ICLR2027首轮评审，槽点有点多",
-   "link": "https://www.huxiu.com/article/4903886.html",
-   "summary": "这几天，机器学习顶会ICLR 2027的首轮评审意见陆续公开。对论文作者来说，这通常是一个颇为紧张的时刻。几个月甚至一两年的研究工作，终于要接受同行检验。审稿人会仔细检查方法、实验和理论推导，指出研究中真正存在的问题。但今年，一些研究者打开OpenReview后，看到的评审意见却让人有些哭笑不得。ICLR 2...... 本文来自微信公众号： 机器之心 ，作者：关注ICLR的，原文标题：《ICLR 2027首轮评审，槽点有点多》 这几天，机器学习顶会ICLR 2027的首轮评审意见陆续公开。 对论文作者来说，这通常是一个颇为紧张的时刻。几个月甚至一两年的研究工作，终于要接受同行检验。审稿人会仔细检查方法、实验和理论推导，指出研究中真正存在的问题。 但今年，一些研究者打开OpenReview后，看到的评审意见却让人有些哭笑不得。 ICLR 2027的同行评审，一时间成了AI圈的一场大型吐槽现场。 有人让作者解释标准差 有人把AI提示词直接贴了上来 先来看加州大学伯克利分校的Hanchen Li。 他发帖称，自己收到了一份ICLR评审意见，对方要求他们解释什么是「standard deviation」（标准差）。 他还开玩笑说，这下仿佛又回到了高中课堂。 原帖没有展示完整的论文和评审上下文，无法判断审稿人究竟是希望作者补充统计定义，还是对论文中的具体用法存在疑问。 但这条帖子还是迅速引发了讨论。 另一位研究者Ravid Shwartz Ziv展示的情况，则更加有喜剧效果。他贴出了三位审稿人的意见。 第一位写道：「The paper is well-written and addresses an important problem.However,the authors should consider additional baselines.」第二位几乎原封不动地重复了这句话。 到了第三位，画风突然变了：「Certainly!Here is a review of the paper」。后面才开始进入正式评审内容。这下连AI生成文本常见的对话开场白都没有清理干净。 两份评语像是从同一个模板里复制出来，第三份则留下了更明显的AI生成痕迹。更让作者无奈的是，这些意见最终都进入了正式的同行评审流程。 还有一位研究者Konstantin Grotov遇到的问题，则涉及AI辅助写作。他表示，自己提交ICLR的论文收到了一条主要针对AI使用情况的评审意见。 问题在于，论文已经按照要求披露了AI辅助写作。 Grotov随后解释，审稿人当然可以对AI使用提出质疑，但应该拿出具体的技术论据，说明这种使用如何影响了论文的质量、研究结果或可信度。仅仅因为论文使用了AI，就把它当成拒稿理由，显然不够充分。 接下来的一个案例更为微妙。 研究者Artur Chakhvadze分享了一份评审意见，其中审稿人坦承自己并不具备充分的专业背景，无法很好地评估这篇论文。 Chakhvadze对此反而表示认可：至少这位审稿人诚实地承认了自己的能力边界。他还吐槽，自己见过不少评审连论文所属领域的基础知识都没有弄明白，却依然给出3/4的高信心评分。 这条帖子引发了不同意见。有人认为，审稿人主动说明自己不熟悉研究方向，已经比装懂、胡乱编造评审意见负责任得多。也有人追问：既然专业背景不匹配，为什么这篇论文一开始就会分配给他？Chakhvadze随后也补充了一句：审稿人本人未必有错，真正值得质疑的是分配和管理评审的流程。 几条帖子看下来，其实是不同类型的问题：有人没有充分理解论文，有人可能依赖AI生成评语，还有人被分配到了自己并不熟悉的研究方向。这些最后都落到了同一个问题上：作者拿到的评审意见，到底能不能真正帮助学术判断？ AI擅长找毛病 却未必知道什么毛病值得拒稿 这次讨论中，有一条观点尤其值得注意。 来自德克萨斯大学奥斯汀分校的Jiaxin Pei指出，自己在2026年最头疼的审稿问题，是AI审稿人似乎分不清论文的「局限性」和真正影响论文成立的「关键问题」。 他认为，大语言模型可以轻易找出一篇论文上百个局限性，即使是历史上最优秀的论文也不例外。但这并不意味着这些论文就不应该被接收。 这句话点出了AI参与同行评审时一个很重要的短板。一篇科研论文几乎不可能做到面面俱到。实验规模可能有限，某些场景没有覆盖，方法可能依赖特定假设，理论分析也可能存在适用范围。这些都是正常的研究局限。 真正决定论文是否成立的，是这些局限有没有动摇它的核心贡献。 审稿人当然可以要求增加更多数据集、模型规模和对照实验。但如果现有实验已经足以支撑论文的核心结论，额外实验就未必构成拒稿理由。反过来，如果论文最关键的实验设计存在漏洞，或者理论推导中有无法修复的错误，即使其他部分写得再漂亮，也可能无法成立。 这里需要的是判断问题重要性的能力。大模型却很容易把这两件事混在一起。它可以不断列出潜在问题，却未必能判断哪个问题真正影响研究结论。于是，评审意见可能越来越长，要求补充的实验越来越多，真正决定论文质量的核心问题反而被淹没。 Jiaxin Pei的这条帖子引发了不少研究者共鸣。 有人指出，这种问题正在渗透到同行评审机制本身。如今，每场AI学术会议上，似乎都会出现一批审稿人：他们一边给论文打出较低的评分，一边又要求作者补充一些无关紧要、或者只是对现有实验做小幅增补的新实验。 还有人提出一个很直接的判断标准：如果修复这个问题，论文的核心结论会发生变化吗？如果答案是否定的，它可能只是一个普通的局限性，而不是足以否定整篇论文的关键缺陷。这恰恰是同行评审最需要的能力：知道什么值得关注，也知道什么可以接受。 结语 如果把这些案例放在一起看，就会发现，ICLR这次的争议并非单纯的审稿人水平问题。 更大的背景是，AI正在同时改变学术研究的生产端和评价端。 同行评审本身是一项高度依赖专业知识和时间投入的工作。论文数量增长的速度，未必能被专业审稿人的数量追上。ICLR 2027项目主席团队此前就专门解释过这个问题。9月2日，ICLR 2027项目主席团队发布了一篇官方文章，分析了AI时代同行评审面临的新压力。 https://blog.iclr.cc/2026/09/02/submission-policies-for-iclr-2027/ 主席团队指出，机器学习领域近年来增长迅速，新进入者的数量远远超过资深研究者，具备专业评审能力的人手可能跟不上投稿增长。生成式AI又进一步降低了论文生产门槛，即使是不熟悉某个研究领域的人，也可以借助AI生成一份外观上像研究论文的稿件。与此同时，审稿人将评审工作交给AI，也成为需要解决的新问题。 为缓解评审资源紧张，ICLR 2027推出了一系列措施，包括限制投稿数量、强化互惠审稿制度等。 审稿义务也进一步收紧：署名出现在3篇及以上投稿中的作者，必须至少完成6篇论文的审稿工作。此外，每篇投稿至少需要有一位具备规定资格的作者注册成为审稿人，并承诺评审至少3篇论文。如果所有作者都不具备相应资格，则可以豁免这项要求。 在AI使用方面，ICLR没有完全禁止审稿人使用大模型，而是允许有限度、负责任地使用AI辅助撰写评审意见和元评审。但这有明确的前提：审稿人必须披露AI使用情况。如果使用大模型生成或修改评审意见的任何部分，还必须提交自己最初独立撰写的论文评估，以及与大模型的全部交互记录。多轮对话也必须提供各轮输入内容。 ICLR还明确规定，如果AI生成的评审包含虚假信息、幻觉或失实陈述，或者评审本身质量低下，审稿人可能因未履行互惠审稿义务而受到纪律处分。处罚可能包括将其作为作者参与的全部投稿直接拒稿，或者限制其未来参加会议投稿。 当然，目前公开的只是ICLR首轮评审意见。作者与审稿人的公开讨论将持续到11月18日，最终录用决定预计在12月16日公布。作者仍然有机会针对错误评审提出质疑，审稿人也可以根据新的信息修改自己的评分。 参考链接： https://x.com/mbilgehanertan/status/2118760558854070637 https://x.com/jiaxin_pei/status/2118714662892327158 https://x.com/norpadon/status/2118896999709684071 https://x.com/lihanc02/status/2118843054975336646 https://x.com/kgrotov/status/2118695897890804071 https://x.com/ziv_ravid/status/2118718086920413494",
-   "published": "Sun, 08 Nov 2026 04:11:58 GMT",
-   "source": "虎嗅资讯-全部",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "industry",
-   "level": "B",
-   "why": "学术圈动态，与业务无直接关联",
-   "action": "无需行动，了解AI评审乱象即可",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "人生迷茫，怎么办？",
-   "link": "https://www.huxiu.com/article/4903880.html",
-   "summary": "在星球和公号后台，经常会有读者，问到我很类似的问题。有人说，毕业三年，换了两三份工作，每一份都做得不算差，但还是不知道自己到底想要什么。有读者想转行，又怕转错；想考研，又怕读完更迷茫，还是不知道该做什么。还有人说，自己每天都很忙，也很累，但夜里躺下来，偶尔会突然冒出一个念头，就是这样下去，几年之后的我，会是什...... 本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《早看到这篇文章也不至于那么迷茫》，题图来自：视觉中国 在星球和公号后台，经常会有读者，问到我很类似的问题。 有人说，毕业三年，换了两三份工作，每一份都做得不算差，但还是不知道自己到底想要什么。 有读者想转行，又怕转错；想考研，又怕读完更迷茫，还是不知道该做什么。 还有人说，自己每天都很忙，也很累，但夜里躺下来，偶尔会突然冒出一个念头，就是这样下去，几年之后的我，会是什么样子？ 这些问题，表述各不相同，但底下压着的，其实是同一种感受： 迷茫 。 说来惭愧，前些年碰到这类问题，我给的建议，大多很“标准”，那就是多想想自己真正热爱什么，找到它，然后坚持下去。 到后来，我越来越不敢这么说了。因为我发现，这个建议听起来很对，但常常让人更迷茫。 一个本来就不知道答案的人，还被要求，再去想一个更大的问题。 于是他想啊想，想啊想，越想越乱，最后得出结论，哦那大概是我还不够了解自己。 但真的是这样吗？ 我现在的看法是，很多时候，我们迷茫，并非因为想得不够清楚，而是因为，我们是把一个需要“做”出来的问题，当成了一个可以“想”出来的问题。 如果能早一点明白这件事一点，有些弯路，其实不必绕得那么辛苦。 迷茫为什么最消耗人？ 我想先说说，我们的迷茫，通常是什么样子。 其实我观察总结下来，大致有三种。 有一种，是没有选项的迷茫。 就是完全不知道自己喜欢什么、擅长什么，感觉干什么都提不起劲，但好像什么都觉得可以试试。 另一种，是选项太多的迷茫。 考公、考研、转行、出国、做副业……每条路都有人走通了，每条路，也都有人失败了，结果很惨。这样越比较，就越拿不定主意。 还有一种，是 过程中的迷茫。 就是，路是自己选的，也做了好几年，但某一天突然开始怀疑：这一切，真的是我想要的吗？ 放在今天，这种感受又被放大了一层。 打开手机，看看朋友圈，同龄人在晒 offer，晒升职，晒“辞职旅居一年，找到了真正的自己”。每个人好像都找到了自己的位置，只有自己，还站在路口。 这里有一个，很容易被忽略的错觉，就是我们看到的，是别人选好之后的样子，却看不到他们选之前，有过多少犹豫和反复。 拿自己的过程，去比别人的结果，当然越比就会越慌。 不过，我想说的是，迷茫本身，并不可怕。 人生的很多阶段，本来就没有现成的答案。二十多岁不知道要做什么，三十多岁重新怀疑自己的选择，都再正常不过。 真正消耗人的，其实是迷茫的时候，我们陷入的那种状态。 想得很多，做得很少。看得很多，开始行动得很少。问了很多人的意见，但没有一条路，自己真正去试过。 时间就在这样的反复权衡里，悄悄过去。一年后回头看，问题还是那个问题，只是我们又大了一岁，焦虑又多了一层。 你仔细看，这里面藏着一个循环： 越迷茫，越想先把方向想清楚再行动；越想等想清楚，越迟迟不行动；越不行动，就越得不到新的信息；没有新的信息，就只能更迷茫。 也就是说，我们为了不走错路，选择了先不走路。而不走路，恰恰让我们永远，等不来那个“想清楚”的时刻。 为什么想清楚再出发，常常行不通？ 说到这里，你可能会觉得，先想清楚，难道有错吗？总比盲目乱试要好吧？ 这个担心很合理。想，当然重要。 但问题在于，有一类问题，单靠想，是很难想出答案的。而“我到底想要什么”，恰好就是其中之一。 这里至少有三个原因。 第一，已经有诸多证据证明，热爱往往不是被找到的，而是被养成的。 2018 年，斯坦福大学的心理学家保罗·奥基夫、卡罗尔·德韦克和格雷戈里·沃尔顿，做过一组关于兴趣的研究。 他们发现，人们对兴趣的理解，大致有两种。 一种认为，兴趣是天生就在那里的，我们要做的，只是把它“找出来”。另一种认为，兴趣是可以在投入中，慢慢“培养”起来的。 持前一种看法的人，更容易对自己已有兴趣之外的领域，关上大门。 当他们在感兴趣的领域里，碰到一篇真正有难度的材料时，兴趣也下降得更明显。研究者还发现，他们更容易期待，一旦找到热爱，就会有源源不断的动力。 简单来说，如果我们相信热爱是一件“藏在某处的东西”，那么一遇到困难，第一反应就是，看来这不是我的热爱，下一个。 这就是很多人什么都试过，什么都没坚持下来的原因之一。 热爱更像一段关系，而不是一件失物藏在某处的东西。东西是可以找到的，关系只能通过慢慢相处，培养出来。 我们没法只看一份相亲资料，就确认自己会爱上一个人。同理，我们也很难只靠想象，就确认自己会热爱一份工作。 第二，我们很不擅长预测未来的自己。 2013 年，哈佛大学的丹尼尔·吉尔伯特等人，在《科学》杂志上发表了一项研究，调查了一万九千多名 18 岁到 68 岁的成年人。 他们请一部分人回顾，过去十年，自己的性格、价值观和偏好变化了多少。同时，又请另一部分人预测，未来十年，这些东西会变化多少。 结果发现，几乎在每个年龄段，人们对未来变化的预测，都明显小于，同龄人回顾过去时认为的变化。 研究者把这种现象，叫做“历史终结错觉”，也就是说，我们总以为，现在的自己差不多就是“最终版”了。 这意味着，当我们苦苦思考这辈子想要什么时，其实是在用现在的自己，替一个一定会变化的自己，做一个终身决定。 这个过程中，我们一定会越想越不踏实。因为这道题的出题条件，本身就在变。 第三个原因是，答案真正需要的信息，大多都在现实里。 欧洲工商管理学院的教授埃米尼亚·伊瓦拉，长期研究职业转型。她在《转换职业跑道》一书中提到，那些转型成功的人，很少是先在脑子里想清楚、再按计划一步到位的。 更常见的情况是，他们先去接触新的人，做一些小项目，尝试新的角色。在这个过程中，新的方向才一点点浮现出来。 也就是说，我们往往是通过行动，才认识自己的，而不是反过来。 我很喜欢美国作家多克托罗，关于写作的一个比喻：写作就像在雾夜里开车，你只能看清车灯照亮的那一小段路，但你可以就这样开完全程。 迷茫也是这样。 我们总想先看清整条路，再踩下油门。可那片雾，不会因为我们在路边坐得更久，而自己散开。 与其说我们缺少方向，不如说，我们一直在等一个保证不会走错的方向。而这样的方向，并不存在。 我们为什么这么怕“选错”？ 我觉得，我们习惯性地去“想”，而不是去做。这一点特质，跟我们人生前二十年所受的训练，很有关系。 回想一下学生时代。每一个阶段，都有明确的下一关。小升初、中考、高考。题目是别人出好的，答案是有标准的，分数会准确地告诉我们，哪里对了，哪里错了。 在这套系统里，最好的策略，就是把题目看清楚，想好了再落笔，争取一次答对。因为错了，就是扣分。 这套方法，帮我们通过了一场又一场考试。可走出校门以后，我们突然遇到了一场，“没有出题人”的考试。 没有人告诉我们下一关是什么，没有标准答案，也没有人来打分。 但是那套旧习惯还在运转，想先找到一个正确答案，想一次就选对，害怕任何一次扣分。 前二十年，我们被训练成了很好的答题者。但是人生后面的路，其实需要我们自己出题。 而且更麻烦的是，在学校里，“错”就意味着失败。而 在真实的生活里，很多的错和失败，其实本质上，都只是信息。 试了一份工作，发现不喜欢。这很好，因为它排除了一个选项，还告诉我们，自己不喜欢的究竟是什么。是行业？是工作节奏？还是某一类具体的工作内容？ 这些信息，你靠想，是永远得不到的。 当然，我也不想把话说得太轻巧。现实中，试错一定是有成本的。有人背着房贷，有人要照顾家人，有人的家庭，经不起一次大的折腾。对他们说大胆去试，并不负责。 所以，问题不在于要不要冒险，而在于，能不能用尽量小的代价，换到尽量多的，尽量真实的信息。 这正是我接下来想聊的。 怎样走出迷茫？三个可以尝试的做法 下面我想分享的，这三个做法，都不要求我们立刻辞职、立刻转行，或者突然找到人生使命。 它们做的事情只有一件，让我们从“想”，一点点回到“做”。 第一，把“我想要什么”，换成“我接下来想验证什么”。 “我想要什么”这个问题，太大太大了。大到我们根本不知道该从哪里下手。 我建议，不妨把它换一个问法。就是，在我感兴趣的几个方向里，有哪一个，是我可以用一个小实验去验证的？ 斯坦福大学设计学院两位教授，在《斯坦福大学人生设计课》里，提出过一个思路，叫做“原型”。也就是说，在做出重大选择之前，先用低成本的方式，模拟一下那种生活。 他们推荐的原型，主要有两种。 一种是“原型对话”，就是找到已经在做这件事的人，请对方喝杯咖啡，听听他真实的一天是怎么过的。 另一种是“原型体验”，用一个周末、一段业余时间，真正去做一部分相关的事情。 举个例子。假设一个人在做行政工作，但一直觉得自己，可能适合做心理咨询。 他可以辞职，可以报一个昂贵的培训班，赌一把。 而“原型”的做法是，先约两三位从业者聊一聊，问问他们最有成就感的时刻、最累的部分，以及入行头几年的收入状况。 再用几个月的业余时间，去做相关的志愿服务，或者系统性地读几本入门书。 几个月以后，也许会更确定，但也许可能会发现，真正吸引自己的，并不是咨询本身，而是帮别人把事情理清楚。这可能指向培训、人力资源，或者完全不同的方向。 无论哪一种结果，都比坐在原地想上一年，有用得多。 这一步的关键，是让实验满足三个条件：成本低，可撤回，能得到真实的反馈。 一个小实验带来的信息，往往比一百个深夜里的思考更多。 第二，记录真实的能量，而不是想象中的热爱。 很多人在迷茫的时候，会反复回想：我从小到大，到底喜欢过什么？ 这个方法有一个问题，就是回忆是会被美化的。我们记得的，常常是“我应该喜欢什么”，或者某个被滤镜加工过的瞬间。 相比起来，更可靠的做法，是去收集当下的证据。 《斯坦福大学人生设计课》里还有一个工具，叫美好时光日志。做法很简单：连续两三周，每天花五分钟，记下当天做过的几件主要的事，然后标注两样东西： 做这件事时，我有多投入？ 做完以后，我感觉是被充满了电，还是被抽干了？ 一开始，这份记录会显得很琐碎，甚至有点无聊。前几天，大概率看不出什么。但坚持一段时间，一些规律就会浮出来。 比如，一个人一直以为自己喜欢做设计，记录下来却发现，真正让他沉浸的，不是画图本身，而是和用户聊天，把一个模糊的需求，一点点理清楚的那个环节。而让他最疲惫的，恰恰是反复调细节。 这个发现，可能会把他引向产品、用户研究，而不是继续在视觉设计这条路上较劲。 你看，答案一直都在我们的日常里，只是从来没有被认真注意过。 第三，给迷茫设一个期限。 最后一个做法，和心态有关，可能也是最难的。 很多人之所以迟迟不敢选，是因为把每一次选择，都当成了一锤定音的终身判决。 我很喜欢亚马逊创始人贝佐斯的一个说法，他把决策分成两类，一类像单向门，走过去就很难回头，需要谨慎再谨慎。另一类像双向门，走过去发现不对，还可以退回来。 他的观察是，大多数决策，其实都是双向门。可人们常常用对待单向门的郑重，去对待它们，结果就是迟迟不肯行动。 我们人生中的很多选择，也是如此。换一份工作、学一门新技能、尝试一个副业，看起来是大事，但在绝大多数情况下，都还有回头的余地。 所以，我们可以试着，做一个阶段性承诺。 不说“我这辈子就做这个”了，而是说“接下来六个月，我先认真做这件事，每周固定投入几个小时”。 到期以后，用三个问题复盘：这段时间，我学到了什么？我的状态是越来越投入，还是越来越勉强？基于现在的信息，我想继续、调整，还是换一个方向？ 这样一来，选择就不再是一场赌博，而是一个有期限、有复盘的实验。 当然，即便这样做，迷茫也可能反复出现。做了半年，发现不对，难免会失落。换了方向，过两年又开始自我怀疑，这也很常见。三十岁会迷茫，四十岁也可能再来一次。 但没有关系。我们本来就不需要一劳永逸。 我们不需要一次就选对，只需要让每一次选择，都比上一次更了解自己一点。 最后说几句 迷茫并非是一道题，答完了就结束。它更像人生中的某种天气，会来，会走，也还会再来。 但也许，我们可以少一点慌张。知道迷茫是正常的，知道它不是因为我们不够好。知道它很难靠“想”来解决，却可以靠做，靠走，一点点变得清晰。 更重要的是，知道那些走错的路，其实没有白走。它们都在帮我们，把答案的范围缩小一点。 迷茫并不意味着我们走错了路，它只是说明，我们正走在一段，还没有被命名的路上。 所以，不必等到雾完全散去，再出发。 雾不会一下子散开，但车灯照亮的那一小段路，已经足够我们迈出下一步了。 本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston",
-   "published": "Sun, 08 Nov 2026 02:43:36 GMT",
+   "title": "从付费实习到无薪招聘：背后是什么？",
+   "link": "https://www.huxiu.com/article/4904054.html",
+   "summary": "日前山西太原万柏林小学“无薪招聘跟岗教师”引起舆论普遍的愤慨和讨伐。这所小学面向社会招聘跟岗教师，工作内容包括“备课、磨课、批改作业，班级管理，课后服务、校园活动”等等，而且明确标注“无薪酬，食宿自理”，也就是说，除上课外，正式老师需要做的工作都需要做，但需要自带干粮“0元购”。唯一可能获得回报的是：如有岗位...... 本文来自微信公众号： 陈志文观察 ，作者：陈志文 日前山西太原万柏林小学“无薪招聘跟岗教师”引起舆论普遍的愤慨和讨伐。这所小学面向社会招聘跟岗教师，工作内容包括“备课、磨课、批改作业，班级管理，课后服务、校园活动”等等，而且明确标注“无薪酬，食宿自理”，也就是说，除上课外，正式老师需要做的工作都需要做，但需要自带干粮“0元购”。唯一可能获得回报的是：如有岗位空缺，可择优签劳务派遣，月薪1900元。 据网上信息披露，这并非这个学校首次这个干，以前也多次发布过类似招聘信息。 澎湃发评论激烈抨击：哪来的权力和自信？ 这所学校的“底气”，显然来自当下艰难的就业形势。 2026年大学毕业生1270万，如果加上回国求职的留学生，规模可能超过1300万。这是一个什么概念？2026年政府工作报告中的就业目标是1200万以上。2025年全国城镇新增就业1267万人，当年大学毕业生1222万，也就意味着大学毕业生已经占据新增就业的95%以上。解决了大学生的就业问题，就等于基本解决了中国的就业问题。 伴随K字型经济发展，岗位需求增长有限。 2026年我们的经济继续保持了稳步的增长，但产业发展呈现了明显的K字型发展。比如2026年前三季度，我国货物出口保持较快增长，但不同行业、不同产品的出口表现明显分化。按人民币计，机电产品出口同比增长23.7%，其中集成电路出口增长99.1%；同期纺织服装出口仅增长0.8%。也就是说，增长快的产业，往往是资本和技术密集型产业，甚至是高度自动化的无人工厂，产值增长并不意味着就业岗位同比例增长；而那些需要大量劳动力的传统产业，增长却相对缓慢。 最近20年，在劳动力成本增长，贸易摩擦的影响下，我国低端制造业已经先后出现三次规模化转移。今年上半年，越南替代中国成为美国第一顺差国，同时中国对美出口占比已经从2018年的20.2%降至7.2%，退居第四。伴随低端制造业向东南亚转移，一部分就业岗位，已经随着产业转移到了海外，而不是向我国中西部转移。 当然，还有人工智能的快速替代。 人工智能与过去的互联网技术有一个重要不同：它不仅创造新的岗位，也直接替代大量重复性、标准化的脑力劳动。年初伴随视频技术的发展，影视行业就遭遇了一次毁灭性打击。日前国务院发文明确要求减缓人工智能应用对劳动力的替代。 伴随高等教育普及化快速发展，几乎年年都是“史上最难就业季”。 2023年，国家统计局发布的16—24岁城镇青年调查失业率一度达到21.3%。此后统计口径调整为不含在校生，2026年8月这一数据仍达到18.9%。 具体到教师岗位，还有一个更加严峻的因素：新生儿数量断崖式下降。 2016年新生儿在二孩政策刺激下达到1786万，但此后8年大幅下跌，2025年跌至792万，与2016年相比跌去了56%。 这意味着什么？ 学校与教师的需求在大幅下降，幼儿园已经在成批关闭，接着是小学，然后是中学。当然，人口流入地区、部分学科仍然存在教师缺口，但总体上教师岗位需求收缩已经是无法回避的现实。 与此同时，地方财政压力较大。即便学校存在临时性用人需求，地方政府也未必愿意增加编制，只能通过合同制、劳务派遣等方式解决。 这就不难理解，为什么一所小学敢提出如此荒唐的招聘条件。 此前就出现过类似的付费实习现象。 日前，媒体集中报道了“付费实习”现象。伴随就业竞争加剧，除了学历，实习经历，尤其是知名企业和机构的实习经历，成为求职的重要背书。于是，一些中介做起了付费实习的生意。过去是企业付钱请学生实习，现在却变成学生付钱购买实习机会。 付费实习与无薪招聘跟岗教师，可以说是异曲同工。 当一个就业机会、一段工作经历都变成稀缺资源时，求职者的议价能力就会不断下降，甚至出现倒贴钱、免费劳动争取就业机会的荒唐现象。 需求疲弱、就业竞争激烈，是这种现象出现的深层原因。但从无薪招聘还要求本科以上学历来看，我们也必须正视另一个问题：部分领域的大学毕业生供给，是否已经超过了社会实际需求？ 尤其考虑到人工智能对重复性、低层次脑力劳动的规模化替代，这一矛盾未来可能更加突出。 高等教育普及化当然是巨大进步，但大学生越来越多，学历层次越来越高，也必然带来更高的就业期望。问题是，我们的产业结构和岗位供给，能否满足这些期望？ 当一个人花了4年，7年时间拿到一个本科、硕士后，还没有一份理想的工作，这时，家长和学生会怎么想？这也是此次无薪招聘引起舆论激烈反应的根本原因：它触发了公众对就业的情绪共鸣。 这和一个高中毕业，或者专科毕业没有理想工作的心态是不同的。 就业问题是一个复杂的系统性社会问题，涉及各个方面，核心还是解决经济发展与岗位需求，但从供给端来说，除了调整学科专业，加强适配性改革外，学历层次也需要系统考虑，做必要的减法。 事实上，老百姓已经开始算投入产出账了，高考各地本科频繁补录就是一例，研究生报名人数也已经连降3年。",
+   "published": "Mon, 09 Nov 2026 03:10:27 GMT",
    "source": "虎嗅资讯-全部",
    "biz_tags": [
     "industry"
    ],
    "category": "other",
    "level": "B",
-   "why": "泛成长内容，与三大业务无直接关系",
-   "action": "无需行动",
+   "why": "就业压力大，知识付费学员付费能力可能下降",
+   "action": "关注学员付费意愿变化，调整课程定价",
    "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "AI浪潮下如何做新闻？",
-   "link": "https://www.huxiu.com/article/4903878.html",
-   "summary": "“我可以把它用得很顺，让它辅助我，但它永远不可能替代我。”谈及记者与人工智能的关系，来自新疆日报社的热依达记者这样回答。2026年11月5日，她刚刚入选第十三届“好记者讲好故事”全国十佳选手名单[1]。这份笃定的回答，也让人想起一年前新闻界围绕人工智能展开的一场争论。2025年夏天，第35届中国新闻奖初评过程...... 本文来自微信公众号： RUC新闻坊 ，作者：人大新闻系，原文标题：《记者节特辑丨AI浪潮下如何做新闻？》 “我可以把它用得很顺，让它辅助我，但它永远不可能替代我。” 谈及记者与人工智能的关系，来自新疆日报社的热依达记者这样回答。2026年11月5日，她刚刚入选第十三届“好记者讲好故事”全国十佳选手名单[1]。这份笃定的回答，也让人想起一年前新闻界围绕人工智能展开的一场争论。 2025年夏天，第35届中国新闻奖初评过程中，一份完全由AI生成的“作品”被摆上评审桌，引起了业界与学界的广泛讨论[2]。 按照当年的评选办法，参评作品须由具有新闻采编业务资质的单位原创并刊播，作者应为从事新闻采编工作的业务人员。然而，当AI也能参与甚至独立完成新闻创作，作品的原创性该如何认定，谁又能被视为真正的作者，成了既有评选标准面临的新问题。 有人强调，新闻作品离不开记者的实地调查与原创性劳动；也有人认为，技术只是创作工具，负责策划、指令与审核的新闻记者，仍然是作品的真正主体[2]。 一时间，争论的焦点从AI作品能否参评，延伸至新闻创作的专业边界。人工智能介入新闻创作的边界究竟在哪里？人的原创性劳动又该如何衡量？当文字与影像的生成不再完全依赖记者，新闻业也不得不重新审视那些习以为常的职业准则。 过去一年，AI在新闻生产中的应用不断深入，带来了便利的同时，也使新闻真实性、职业伦理与记者自身的专业价值面临新的考验。热依达的回答，或许代表着新闻人面对变革的一份信念，但人工智能对新闻业的冲击，显然远非“辅助”与“替代”所能概括。 而在第27个中国记者节到来之际，我们也不禁思考，当人工智能的浪潮逐渐席卷新闻生产的各个环节时，新闻业将走向何方？而那些始终奔走在时代现场的新闻人，又将在这场变革中经历怎样的改变？ 放眼世界，新闻业仍在转型的途中。尽管技术更迭的脚步愈发急促，未来的轮廓却未随之变得清晰。即便置身变革的中心，人们也很难对行业的未来给出一个笃定的回答。 2026年1月，牛津大学路透新闻研究所发布了《2026年新闻、媒体与技术趋势预测》，在这份面向51个国家和地区、280名新闻机构负责人及数字业务管理者中，仅有38%对未来一年的新闻业前景抱有信心。2022年，这一比例还是60%[3]。 长期以来，互联网的演进与新媒体环境的变化，已经让新闻业经历了数轮转型。而当上一场变革的余波尚未平息，生成式人工智能的到来，又为那些悬而未决的难题增添了新的变数。 路透新闻研究所的调查显示，受访媒体管理者预计，未来三年，新闻网站来自搜索引擎的访问量将下降四成以上[3]。当信息获取变得越来越便捷，那些生产原始信息的新闻机构，却可能更难获得应有的关注。 但在压力之外，人工智能也承载着新闻业对效率与创新的期待。 从繁杂资料的整理，到海量信息中的检索与分析，人工智能正不断拓宽新闻生产的可能。只是，技术的潜力固然令人期待，要将这些可能转化为新闻编辑里实实在在的改变，却并非易事。 同一份调查显示，44%的受访者认为所在新闻机构目前开展的AI项目“颇具前景”，而真正认为其带来了“颠覆性”影响的仅占13%[3]。 从人工智能技术展现出的惊艳表现，到新闻编辑日复一日的采写与核验，那些看似触手可及的改变，终究还需经过日常新闻实践的检验。人工智能让新闻内容的生产与获取变得更加便捷，却也让真实与虚构之间的界限面着临新的考验。 当AI生成的文字、图像与视频在网络中泥沙俱下，人工智能也正一步步深入新闻生产的各个环节。当一篇经由AI辅助的报道最终抵达读者眼前，读者的接纳却未必会亦步亦趋。 2026年10月，路透新闻研究所发布的一项覆盖九个国家的调查，呈现了公众对人工智能参与新闻生产的不同态度。面对完全由人类制作的新闻，约三分之二的受访者表示能够坦然接受，而当人工智能成为新闻制作的主导者，即便仍有人类监督，这一比例也已不足两成[4]。 技术可以改变新闻的生产方式，却未必能改写人们心中衡量新闻的尺度。一篇报道的分量，或许不只在于字里行间最终呈现了什么，还在于落笔之前，那些文字从何而来，历经怎样的探寻与求证，又有怎样的判断与关切凝于笔端。 技术可以不断延伸新闻人认识世界的眼光，但从有所见到有所知，从探寻事实到秉笔直书，其间的审慎与担当，终究无法省略。当人工智能逐渐深入新闻生产，那些植根于每一代新闻人心中的专业要求，又该如何在变革中得到延续？世界各地的新闻机构，也都在尝试给出自己的回答。 面对人工智能技术不断拓展的疆域，新闻业也开始尝试立下自己的界碑。 2026年7月，美联社更新AI使用规范，允许AI辅助资料研究、采访转录及翻译等工作，但要求生成内容经过人工核实，并禁止使用生成式AI制作或修改新闻照片[5]。英国广播公司（BBC）同样允许AI辅助资料分析等工作，而原则上禁止其直接生成用于新闻及事实类节目的内容[6]。 2025年，Becker等人在《数字新闻学》（Digital Journalism）发表的一项针对全球52家新闻机构AI使用规范的研究发现，尽管各个媒体的要求有所差异，但在透明披露与人工监督等方面已形成一定共识[7]。 我们进一步梳理了32家中国大陆以外媒体公开的AI使用规范，并按照新闻生产的八个环节进行分类。结果显示，多数媒体允许在一定条件下使用AI辅助资料搜集与编辑加工，却几乎都在审核签发环节守住了人工把关的底线。 与此同时，中国新闻业也在逐步完善人工智能应用的制度框架。 2025年9月1日，《人工智能生成合成内容标识办法》正式施行，对人工智能生成合成内容的标识提出了要求[8]。同年底，中国新闻技术工作者联合会公布了六项新闻行业智能体的行业标准，从标准构成、功能架构、接口规范、评估体系、安全体系、应用指南六个方面进一步规范了新闻智能体的应用[9]。 而在各家新闻机构内部，规范的制定与落实又呈现出不同的面貌。 RUC新闻坊记者咨询了国内十余家中央级主流媒体和全国性市场化媒体。截至2026年11月，受访机构中已有近十家制定或修订了本单位的AI使用规范。已成型的AI规范除新闻采编环节外，还涉及出版传播、行政办公、技术研发等工作场景。 总体而言，多家媒体的AI使用规范呈现出一些共同原则，主要包括： 严禁使用人工智能技术替代人工核心采编职责； 严禁使用国家互联网信息管理部门未备案的人工智能大模型及工具[10]； 严禁使用涉密、敏感信息进行AI训练和AI生成内容； 严格终审签发含有人工智能生成合成的内容； 对人工智能生成内容需在合理位置进行标识“AI生成内容”。 来自中央媒体的记者欣怡向RUC新闻坊介绍，她所在单位早已出台专门的AI使用规范，对新闻事实的生成、影像使用及信息安全等作出了严格限制，新闻事实不能由AI凭空生成，现实中真实存在的场景也不能为了画面效果而交由AI随意重塑。 不过，人工智能在不同新闻机构中的应用程度并不一致也影响着相关规范的制定。 来自省级媒体融媒体中心的海峰主任坦言，所在媒体目前对AI的应用仍较为浅层，因而认为尚未到另行制定专门规范的阶段。此前一项针对国内主流媒体的研究也发现，不同层级媒体在AI大模型的使用水平和工作绩效上存在明显差异，整体呈现出中央级、省级、市州级、县级媒体依次递减的特征[11]。 但在海峰看来，尚未另立专门规范，并不意味着新闻工作便失去了应有的约束。 “这种规范不用我们制定，编辑记者自己都知道不能那样做。”他认为，不应虚构新闻事实，不能直接采用未经核实的信息，本就是新闻业长期遵循的基本准则，“因为没有AI时的新闻共识就是这样。”。 无论是海外媒体公开的使用守则、国内新闻机构的内部规范，还是记者们沿袭已久的职业准则，新闻业正以不同方式为人工智能划定行止。当文字可以顷刻成篇，影像足够以假乱真，也正是这些或明或隐的界限，支撑着新闻人辨别真伪、审慎取舍的判断，以及每一次秉笔直书背后对真实的坚守。 然而，对于身处一线的记者而言，技术带来的改变远不止于条文中的许可与禁止。它究竟如何影响采写的过程，又带来了怎样的便利与困扰，仍需从记者们在日复一日的新闻实践中寻找答案。 “你可以更专心地听，更专心地想问题、提问题。” 对海峰而言，人工智能带来的改变，首先体现在日常的采访记录工作中。 过去，采访时既要留意受访者的讲述，又要及时记录重要信息，即便有录音作为补充，事后仍需花费大量时间回听、整理。如今，借助AI完成录音转写与初步整理，记者得以减少记录工作带来的负担，将更多注意力投入采访中的即时思考与追问。 资料搜集与背景研究，也是受访记者较为频繁使用AI的环节。面对不熟悉的专业领域，有记者会先借助AI了解相关知识、厘清专业概念，为后续采访做好准备。 面对日益庞杂的信息，新闻人借助技术拓展认识世界的能力，其实早有先例。 1967年，《底特律自由报》记者菲利普·迈耶运用社会调查与计算机分析，研究底特律骚乱的深层原因，发现部分流行解释与调查结果并不相符，这项探索也助力该报获得1968年的普利策新闻奖[12][13]。 半个多世纪过去，记者手中的工具早已今非昔比。但值得注意的是，无论是当年的计算机分析，还是今天的人工智能，它们所拓展的首先是新闻人处理信息、认识事实的能力。技术可以不断拓展信息处理的能力，但新闻调查的价值，不只在于信息多少的掌握，更在于那从表象出发的追问，以及建立在可靠的求证下的事实。 尤其对于深度报道而言，AI的介入并不意味着新闻生产中的所有环节都能被同样程度地简化。 长期从事深度报道的记者佳颖坦言，自己几乎不会使用AI直接写稿。一篇五六千字甚至七八千字的报道，往往需要两周左右完成采访与写作，AI则主要参与前期资料搜集和后期核对。 资料搜集与整理可以借助工具提速，但选题的形成、采访的深入，以及哪些线索值得深究，哪些说法尚待印证，哪些看似无关的细节能够彼此勾连，仍需要在反复采访与求证中辨明。 AI也为新闻影像带来了新的表达空间，但技术上的新奇，并不总能转化为内容的吸引力。 参与AI影像制作的记者文静回忆，团队早期曾尝试用AI让城市地标“生花”，但类似的视觉创意很快趋于重复。后来，他们转向以文物为主角的系列短剧，让文物走进北京的胡同街巷，将城市生活中的见闻融入故事创作。北京街头流行的古装换装体验，骑着自行车、戴着墨镜的“格格”，都成为他们构思画面时借鉴的素材。 “可能99%都是技术，技术的比拼，但胜出可能就在于1%的灵魂。”文静如此形容自己的创作感受。 当令人惊叹的画面变得触手可及，技术本身的新奇感便很难再成为作品长久的吸引力。如何选择值得讲述的故事，如何让影像承载具体的生活经验与情感，反而成为创作中更需要费心的部分。 技术带来的效率提升，并未让新闻人的工作变得更加轻松。 “我感受到新闻业的要求正变得越来越高。”欣怡坦言，AI让许多过去难以实现的创意有了落地的可能，却也在无形中抬高了新闻生产的要求。稿件需要更加生动，视觉呈现需要不断创新，制作节奏也越来越快。去年尚能应对的工作，今年却常常让她感到吃力。 “你只能去发现不同的现场、不同的视角。”在她看来，当越来越多人都能够借助AI完成流畅的写作，记者便更需要寻找独特的观察与表达。技术提高了内容生产的效率，却也可能改变行业对记者工作产出的期待。对于身处媒体转型中的记者而言，效率提升带来的收益与压力往往并不能被同等地感受到。 技术的广泛应用也使一些记者开始担忧独立思考能力的弱化。 佳颖发现，过去实习生各自准备的背景资料往往各有侧重，如今借助AI整理的材料虽然更加工整，内容与结构却趋于相似。技术让信息的获取变得容易，但当现成的答案触手可及，独立检索、辨别和思考的过程，也可能在不经意间被省略。 而新闻的发现，却往往发生在预设的框架之外。一位记者谈到，真正走进现场，采访未必会沿着既定提纲展开，受访者的讲述、现场的细节，都可能带来新的线索。正是这些在走访与交谈中逐渐浮现的细节，让报道得以触及既有资料之外、更为真实而具体的人生。 如何在纷繁的信息中辨别真伪，如何从习以为常的现象中发现问题，又如何在有限的篇幅里写出真实而复杂的人生，始终考验着新闻人的眼力与笔力。 回过头看，那些留下回响的新闻作品，似乎总有着某种相通之处。2022年，内蒙古广播电视台记者深入草原牧区，探寻数千万张羊皮的去向[14]；2024年，《新京报》记者历时⼀个多⽉，奔波8000余公⾥，跟踪多辆油罐⻋的运输轨迹，最终记录下未清洗罐体便直接装运⻝⽤油的现场[15]；2025年，《南方都市报》记者潜入网络灰色产业的隐秘角落，通过亲身调查揭开个人隐私被肆意交易的现实[16]…… 2026年，《广西日报》的《王的猜想》中，记者则是从桂林的乡村与学校出发，辗转寻访王虹的师友，从零散的记忆与旧日文字中，重新拼起一位数学家的成长历程[18]。 从徐迟笔下的《哥德巴赫猜想》，到近半个世纪后的《王的猜想》，新闻的载体与工具几经更迭，那份走向现实、探寻事实的执着却未曾远去。新闻的题材与表达方式各不相同，通往事实的道路也从来不止一条。但那些真正抵达人心的报道，始终离不开有人愿意奔赴现场，在纷繁的信息中耐心求证，在无人问津之处继续追问。 在采访的结尾，谈及新闻业的未来，受访的记者们并没有给出整齐划一的答案。 海峰说，“不要排斥AI，要会用它”，要相信“核心的新闻现场是不变的”。 欣怡坦言，自己从业多年仍常有困惑，却依然鼓励年轻同行“多出去看，多去现场体验”。 还有记者则谈起这份职业的辛苦与孤独，以及它让人得以“体验各种各样的人生”的珍贵。 我觉得新闻比起很多职业来说，它挺苦的，它想要坚持，因为你要去很多别人去不了的地方，有一些负重前行的事情要去干，你会很辛苦，有的时候也会很孤独。 …… 但这份职业会给你给比钱更多的收获……如果坐办公室、当公务员，可能30年下来，你对面的同事还是那个人，很无趣。但做了记者之后，你会有不一样的人生，会体验各种各样的人生，这是别的职业没有办法给你的。 这些回答里，时有迟疑、困惑，或有遗憾、无奈，也有历经岁月而未曾消退的理想、热爱。 一次采访或许只有几个小时，一篇报道也不过寥寥数千字。可那些写进文字里的悲欢与际遇，对于亲历者而言，却可能是漫长岁月里无法轻易翻过的一页。 从纸笔、镜头到如今的互联网，记录世界的工具仍在不断更迭，时代的潮水一再冲刷着新闻的面貌，却未曾改变它所植根的土地——那些关于人的悲欢、命运与生活的故事，这片真实而鲜活的人间，却始终是它不竭的源头活水。 也正因如此，每一次倾听与落笔，都有了值得郑重对待的分量。 没有人能够笃定地预言新闻业的将来，但未知却从不是人们停止想象的理由。 文中欣怡、海峰、佳颖、文静均为化名，特别感谢中国人民大学新闻学院以及诸位不便透露姓名单位的媒体行业前辈对本文提供的支持。 参考文献： [1]中国记协.第十三届“好记者讲好故事”十佳公布[EB/OL].(2026-11-05).祝贺！第十三届“好记者讲好故事”十佳公布_京报网 [2]传媒茶话会.AI生成内容能否参评中国新闻奖？业界学界吵翻了[EB/O L].(2025).浙江省经济信息中心 [3]NEWMAN N.Journalism,media,and technology trends and predictions 2026[R/OL].Reuters Institute for the Study of Journalism,(2026-01-12)[2026-11-06]. Journalism,media,and technology trends and predictions 2026|Reuters Institute for the Study of Journalism [4]SIMON F M,NIELSEN R K,FLETCHER R.Generative AI and news report 2026:from standalone tools to information infrastructure[R/OL].Reuters Institute for the Study of Journalism,(2026-10-29)[2026-11-06]. Generative AI and News Report 2026:From standalone tools to information infrastructure|Reuters Institute for the Study of Journalism [5]Associated Press.AP updates newsroom standards for artificial intelligence[EB/OL].(2026-07-24)[2026-11-07].https://www.ap.org/the-definitive-source/announcements/ap-updates-newsroom-standards-for-artificial-intelligence/. [6]British Broadcasting Corporation.Guidance:The use of Artificial Intelligence[EB/OL].(2025-09-01)[2026-11-07].https://www.bbc.com/editorialguidelines/guidance/use-of-artificial-intelligence. [7]BECKER K B,SIMON F M,CRUM C.Policies in parallel?A comparative study of journalistic AI guidelines[J].Digital Journalism,2024.https://www.tandfonline.com/doi/full/10.1080/21670811.2024.2431519 [8]国家互联网信息办公室,工业和信息化部,公安部,等.关于印发《人工智能生成合成内容标识办法》的通知:国信办通字〔2025〕2号[EB/OL].(2025-03-07)[2026-11-07].https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm. [9]全国团体标准信息平台[EB/OL].[2026-11-07].https://www.ttbz.org.cn/standard.html. [10]国家互联网信息办公室.国家互联网信息办公室关于发布生成式人工智能服务已备案信息的公告[EB/OL].(2024-04-02)[2026-11-07].https://www.cac.gov.cn/2024-04/02/c_1713729983803145.htm. [11]徐鸿晟,张洪忠,姚俊臣,等.我国主流媒体应用AI大模型的现状与影响因素分析[J].中国编辑,2025(2).https://bjzg.cbpt.cnki.net/portal/journal/portal/client/paper/47e74532dc8621eee76d37848681d79c [12]Detroit Urban League.The people beyond 12th Street:a survey of attitudes of Detroit Negroes after the riot of 1967[R/OL].Detroit:Detroit Urban League,1967[2026-11-07].https://s3.amazonaws.com/s3.documentcloud.org/documents/2070181/detroit1967.pdf. [13]The Wall Street Journal Staff.Staff of The Wall Street Journal:2025 Pulitzer Prize in Investigative Reporting[EB/OL].(2025-05-05)[2026-11-07].https://www.pulitzer.org/winners/staff-wall-street-journal-0. [14]中国记协.记者调查·羊皮去哪儿了？[EB/OL].(2023-10-25)[2026-11-06]. https://www.zgjx.cn/2023-10/25/c_1310746284.htm [15]薛凯莹,韦娟明,杨婷,等.“人肉开盒”再调查：网络灰产隐秘升级，记者买到自己的秘密[EB/OL].南方都市报,(2025-03-19)[2026-11-06].https://static.nfnews.com/content/202503/19/c11096858.html [16]姜界峰,顾醒航,苏时榕.独家披露：《王的猜想》，怎么写出来的？[EB/OL].中国记协,(2026-07-30)[2026-11-06].https://www.xinhuanet.com/zgjx/2019v/20260 730/fff32967ac5440c9ba990256f675ac7f/c.html",
-   "published": "Sun, 08 Nov 2026 01:44:06 GMT",
-   "source": "虎嗅资讯-全部",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "industry",
-   "level": "B",
-   "why": "AI内容边界讨论，可作知识付费选题素材",
-   "action": "收藏'AI原创性'话题，备课程选题",
-   "opportunity": "知识付费可讲AI内容合规边界",
-   "risk": "无"
+   "risk": "目标学员预算收紧"
   },
   {
    "title": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent ",
    "link": "https://github.com/HBAI-Ltd/Toonflow-app",
-   "summary": "⭐21045星 | 语言:TypeScript | 更新:2026-11-08 | 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, ",
+   "summary": "⭐21123星 | 语言:TypeScript | 更新:2026-11-09 | 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, ",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "ai_tools",
+   "category": "short_drama",
    "level": "S",
-   "why": "开源AI短剧/漫剧全流程工具，2.1万星，直接降本",
-   "action": "本地部署Toonflow，测试剧本到视频全流程",
-   "opportunity": "替代付费工具，省制作成本；可做教程引流",
+   "why": "开源短剧漫剧全流程工具，直接降本提效核心生产",
+   "action": "本地部署Toonflow，跑通一条漫剧流程",
+   "opportunity": "用开源工具替代付费SaaS省成本",
    "risk": "开源工具稳定性与商用授权需核实"
   },
   {
    "title": "[GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Per",
    "link": "https://github.com/szczyglis-dev/py-gpt",
-   "summary": "⭐2017星 | 语言:Python | 更新:2026-11-06 | Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech synthesis ",
+   "summary": "⭐2019星 | 语言:Python | 更新:2026-11-09 | Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech synthesis ",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "通用桌面AI助手，与短剧/插件业务关联弱",
-   "action": "了解即可，暂不投入",
+   "why": "多模型桌面助手，可作内部工具参考",
+   "action": "浏览其MCP插件架构，借鉴到自研工具",
    "opportunity": "无",
    "risk": "无"
   },
@@ -525,12 +494,12 @@
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "ai_tools",
+   "category": "short_drama",
    "level": "A",
-   "why": "Gemini+Veo分镜生成工具，可补短剧制作链路",
-   "action": "测试StoryGen分镜与Veo转场效果",
-   "opportunity": "低成本生成分镜与转场素材",
-   "risk": "依赖Veo额度，成本需测算"
+   "why": "Gemini+Veo分镜到成片流水线，可借鉴做短剧",
+   "action": "研究其Veo转场拼接方案，测试出片质量",
+   "opportunity": "低成本分镜自动化流水线",
+   "risk": "Veo成本与国内可用性"
   },
   {
    "title": "[GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high",
@@ -542,10 +511,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "854星开源营销视频工具，可参考其功能做短剧投放素材批量生成",
-   "action": "克隆仓库本地跑通，评估能否接入短剧投流素材生产",
-   "opportunity": "封装成投流素材批量生成SaaS卖",
-   "risk": "开源工具同质化，难直接变现"
+   "why": "营销视频一键生成，可参考做插件或竞品分析",
+   "action": "试用小视频宝，评估其变现与差异点",
+   "opportunity": "营销视频SaaS细分需求",
+   "risk": "同类工具多，竞争激烈"
   },
   {
    "title": "[GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video",
@@ -557,10 +526,10 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "功能大而全但星少，参考其多平台一键发布思路",
-   "action": "看其多平台发布模块实现，评估能否复用",
+   "why": "多平台一键发布功能对短剧分发有参考",
+   "action": "看其多平台发布实现，评估接入TikTok",
    "opportunity": "无",
-   "risk": "功能堆砌无壁垒，勿投入开发"
+   "risk": "无"
   },
   {
    "title": "[GitHub] TorresLi608/SceneFlow: 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intell",
@@ -572,10 +541,10 @@
    ],
    "category": "short_drama",
    "level": "B",
-   "why": "仅4星但含短剧/漫剧工作台，可当竞品功能参考",
-   "action": "浏览其短剧分镜与角色管理模块设计",
-   "opportunity": "无",
-   "risk": "星少维护弱，勿依赖"
+   "why": "开源AI短剧工作台，可参考其功能架构",
+   "action": "克隆仓库查看短剧生成流程与后台设计",
+   "opportunity": "借鉴其管理后台做自有生产管线",
+   "risk": "星数低，代码质量与维护存疑"
   },
   {
    "title": "[GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本",
@@ -587,68 +556,68 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "开源短剧全流程工具，可降本自制漫剧或做课程案例",
-   "action": "部署测试小说转动画短剧流程与出片质量",
-   "opportunity": "用其批量产漫剧投海外平台",
-   "risk": "0星项目质量存疑，需验证稳定性"
+   "why": "开源一站式短剧工具，可降本批量产出漫剧",
+   "action": "本地部署TOONOOT测试小说转动画短剧效果",
+   "opportunity": "低成本批量生产漫剧投海外",
+   "risk": "0星新项目，稳定性与版权需验证"
   },
   {
-   "title": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & vid",
+   "title": "[GitHub] Anil-matcha/Open-Generative-AI: Uncensored Open-source alternative to AI video platforms — Free AI image & video",
    "link": "https://github.com/Anil-matcha/Open-Generative-AI",
-   "summary": "⭐33120星 | 语言:JavaScript | 更新:2026-11-08 | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license",
-   "source": "GitHub开源",
-   "biz_tags": [
-    "ai_tools"
-   ],
-   "category": "ai_tools",
-   "level": "S",
-   "why": "3.3万星无审查自托管，600+模型可低成本产短剧素材",
-   "action": "自托管部署，测试Kling/Sora等模型出片成本",
-   "opportunity": "替代付费API大幅降素材成本",
-   "risk": "无审查内容投海外平台可能违规被封"
-  },
-  {
-   "title": "[GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every ",
-   "link": "https://github.com/pydantic/pydantic-ai",
-   "summary": "⭐21085星 | 语言:Python | 更新:2026-11-08 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
-   "source": "GitHub开源",
-   "biz_tags": [
-    "ai_tools"
-   ],
-   "category": "ai_tools",
-   "level": "B",
-   "why": "成熟AI Agent框架，做工具插件时可用作开发底座",
-   "action": "收藏备用，开发SaaS时评估接入",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "[GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with ",
-   "link": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-   "summary": "⭐13750星 | 语言:TypeScript | 更新:2026-11-08 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
+   "summary": "⭐33442星 | 语言:JavaScript | 更新:2026-11-09 | Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "1万+精选生图提示词，可直接用于短剧分镜与封面",
-   "action": "下载提示词库，筛选适配短剧场景的模板",
-   "opportunity": "整理成中文提示词包做知识付费",
-   "risk": "无"
+   "why": "无审查多模型视频生成，题材自由度大",
+   "action": "自托管测试600+模型生成短剧素材",
+   "opportunity": "做敏感题材短剧差异化内容",
+   "risk": "无审查内容可能违反平台政策被封"
   },
   {
-   "title": "[GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima",
-   "link": "https://github.com/jamez-bondos/awesome-gpt4o-images",
-   "summary": "⭐8156星 | 语言:JavaScript | 更新:2026-11-07 | Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabili",
+   "title": "[GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every ",
+   "link": "https://github.com/pydantic/pydantic-ai",
+   "summary": "⭐21093星 | 语言:Python | 更新:2026-11-09 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "GPT-4o生图提示词合集，可辅助短剧角色与场景设计",
-   "action": "抽取角色一致性提示词用于漫剧制作",
+   "why": "Python AI开发框架，可加速工具开发",
+   "action": "评估用pydantic-ai搭建短剧自动化Agent",
+   "opportunity": "快速开发AI短剧生产SaaS",
+   "risk": "无"
+  },
+  {
+   "title": "[GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with ",
+   "link": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+   "summary": "⭐13756星 | 语言:TypeScript | 更新:2026-11-09 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
+   "source": "GitHub开源",
+   "biz_tags": [
+    "ai_tools"
+   ],
+   "category": "ai_tools",
+   "level": "A",
+   "why": "万条精选提示词库，直接提升生图质量",
+   "action": "下载提示词库筛选短剧分镜可用模板",
+   "opportunity": "整理成付费提示词包做知识付费",
+   "risk": "无"
+  },
+  {
+   "title": "[GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima",
+   "link": "https://github.com/jamez-bondos/awesome-gpt4o-images",
+   "summary": "⭐8158星 | 语言:JavaScript | 更新:2026-11-09 | Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabili",
+   "source": "GitHub开源",
+   "biz_tags": [
+    "ai_tools"
+   ],
+   "category": "ai_tools",
+   "level": "B",
+   "why": "GPT-4o生图提示词参考，优化角色一致性",
+   "action": "收藏并测试角色一致性提示词",
    "opportunity": "无",
    "risk": "无"
   },
@@ -662,25 +631,25 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "开源AIGC工具箱，可参考模型库但非直接变现工具",
-   "action": "浏览其模型库看有无可集成到短剧制作的图像生成模型",
+   "why": "成熟AIGC工具箱，技术选型参考",
+   "action": "了解其API用于批量图像处理",
    "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All",
    "link": "https://github.com/hpcaitech/Open-Sora",
-   "summary": "⭐29918星 | 语言:Python | 更新:2026-11-08 | Open-Sora: Democratizing Efficient Video Production for All",
+   "summary": "⭐29920星 | 语言:Python | 更新:2026-11-09 | Open-Sora: Democratizing Efficient Video Production for All",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "ai_tools",
    "level": "A",
-   "why": "开源视频生成模型，可降低AI短剧制作成本",
-   "action": "本地部署测试Open-Sora生成短剧分镜效果",
-   "opportunity": "用开源模型替代付费API降本",
-   "risk": "开源模型质量可能不及商用Sora"
+   "why": "开源视频生成模型，可自建低成本视频管线",
+   "action": "评估Open-Sora生成短剧镜头的质量与成本",
+   "opportunity": "自建视频生成替代付费API省成本",
+   "risk": "自部署算力成本与画质需实测"
   },
   {
    "title": "[GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid",
@@ -691,26 +660,26 @@
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "B",
-   "why": "Sora网页客户端，可参考其交互设计做工具",
-   "action": "研究其前端架构，评估能否改造成短剧批量生成工具",
-   "opportunity": "无",
-   "risk": "无"
+   "level": "A",
+   "why": "开源Sora客户端可快速集成视频生成能力",
+   "action": "克隆部署测试SoraWebui并评估接入短剧流程",
+   "opportunity": "基于开源客户端做定制化短剧生成工具",
+   "risk": "依赖OpenAI接口，成本与稳定性不可控"
   },
   {
    "title": "[GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from i",
    "link": "https://github.com/D-Ogi/WatermarkRemover-AI",
-   "summary": "⭐2103星 | 语言:Python | 更新:2026-11-07 | AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI.",
+   "summary": "⭐2105星 | 语言:Python | 更新:2026-11-08 | AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "ai_tools",
    "level": "A",
-   "why": "可去AI视频水印，但用于商业投放有合规风险",
-   "action": "测试其去水印效果，评估是否用于素材二次加工",
-   "opportunity": "无",
-   "risk": "去水印用于商业投放可能违反平台条款"
+   "why": "可去AI视频水印，提升短剧素材可用性",
+   "action": "本地部署测试去水印效果与合规边界",
+   "opportunity": "批量处理素材做二次创作降本",
+   "risk": "去水印涉版权，商用有法律风险"
   },
   {
    "title": "[GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation",
@@ -722,10 +691,10 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "通用视频生成研究项目，技术参考价值有限",
-   "action": "了解其架构思路即可，暂不投入",
+   "why": "通用视频生成开源方案，技术参考价值",
+   "action": "阅读README评估其生成质量与部署成本",
    "opportunity": "无",
-   "risk": "无"
+   "risk": "开源模型效果与Sora差距大"
   },
   {
    "title": "[GitHub] all-in-aigc/sorafm: Sora AI Video Generator by Sora.FM",
@@ -737,25 +706,25 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "Sora生成器前端，可参考做SaaS产品形态",
-   "action": "研究其产品化思路，评估做短剧生成SaaS可行性",
+   "why": "同类Sora生成器，可参考产品形态",
+   "action": "体验其交互设计借鉴到自有工具",
    "opportunity": "无",
-   "risk": "无"
+   "risk": "同质化竞争激烈"
   },
   {
    "title": "[GitHub] cporter202/automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand ",
    "link": "https://github.com/cporter202/automate-for-growth",
-   "summary": "⭐946星 | 语言:未知 | 更新:2026-11-06 | Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration.",
+   "summary": "⭐948星 | 语言:未知 | 更新:2026-11-08 | Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "short_drama",
-   "level": "A",
-   "why": "Sora2批量生成+多平台分发的自动化指南，直接可用",
-   "action": "通读指南并落地其多平台批量发布流程",
-   "opportunity": "批量自动化投放提升短剧出海效率",
-   "risk": "批量发布可能触发平台风控"
+   "level": "S",
+   "why": "含Sora2批量生成+多平台分发的自动化打法",
+   "action": "精读指南并复刻其多平台批量发布流程",
+   "opportunity": "自动化批量产短剧投多平台放大收益",
+   "risk": "批量发布易触发平台风控"
   },
   {
    "title": "[GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m",
@@ -767,25 +736,25 @@
    ],
    "category": "other",
    "level": "B",
-   "why": "视频转机器人动作，与当前业务无关",
-   "action": "忽略",
+   "why": "与当前业务无关，仅技术前沿参考",
+   "action": "略读了解即可，不投入时间",
    "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "[GitHub] SamurAIGPT/Vibe-Workflow: Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFau",
    "link": "https://github.com/SamurAIGPT/Vibe-Workflow",
-   "summary": "⭐640星 | 语言:JavaScript | 更新:2026-11-07 | Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines",
+   "summary": "⭐641星 | 语言:JavaScript | 更新:2026-11-08 | Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "开源节点式AI工作流，可替代付费工具降本",
-   "action": "下载部署测试，评估能否接入现有出片流程",
-   "opportunity": "封装成短剧批量出图工具售卖",
-   "risk": "开源项目维护不稳定，慎用于生产"
+   "why": "免费节点式工作流，可搭短剧生产流水线",
+   "action": "部署Vibe-Workflow搭建生成+剪辑工作流",
+   "opportunity": "封装成短剧生产SaaS对外售卖",
+   "risk": "开源项目维护不稳定"
   },
   {
    "title": "[GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models",
@@ -796,11 +765,11 @@
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "B",
-   "why": "视觉LLM剪辑管线，参考价值大于直接使用",
-   "action": "阅读README看剪辑自动化思路",
-   "opportunity": "无",
-   "risk": "星数低，成熟度不足"
+   "level": "A",
+   "why": "视觉LLM自动剪辑可大幅降短剧后期成本",
+   "action": "测试其自动剪辑管线接入现有流程",
+   "opportunity": "自动化剪辑省人力成本",
+   "risk": "剪辑质量需人工复核"
   },
   {
    "title": "[GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le",
@@ -812,25 +781,25 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "Seedance 2.0提示词库可直接提升出片质量",
-   "action": "收藏并测试电影感/UGC类提示词",
-   "opportunity": "整理成中文提示词包做知识付费",
-   "risk": "无"
+   "why": "Seedance 2.0提示词库可直接提升短剧画面质量与出片效率",
+   "action": "克隆仓库并测试电影感/动漫场景提示词",
+   "opportunity": "用高质量提示词做差异化短剧题材",
+   "risk": "提示词同质化，爆款易被快速复制"
   },
   {
    "title": "[GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet",
    "link": "https://github.com/bitsandbrainsai/ai-ad-creative-strategist",
-   "summary": "⭐26星 | 语言:未知 | 更新:2026-11-07 | Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates competitor ad intelligence, performs multimodal creative strategy extraction, enables brand-safe adaptation, and generates AI ",
+   "summary": "⭐27星 | 语言:未知 | 更新:2026-11-09 | Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates competitor ad intelligence, performs multimodal creative strategy extraction, enables brand-safe adaptation, and generates AI ",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "A",
-   "why": "竞品广告情报自动化，可反哺投流素材策略",
-   "action": "研究其多模态创意提取逻辑",
-   "opportunity": "做竞品素材监控SaaS",
-   "risk": "企业级定位，落地成本可能高"
+   "level": "B",
+   "why": "竞品广告情报自动化，可借鉴做投流素材分析",
+   "action": "研究其架构，评估能否改造为投流工具",
+   "opportunity": "做短剧投流素材竞品分析SaaS",
+   "risk": "企业级定位，个人落地成本高"
   },
   {
    "title": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w",
@@ -842,10 +811,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "明确支持短剧创作，本地ComfyUI+云API双模式",
-   "action": "下载测试短剧生成与翻译视频功能",
-   "opportunity": "替代现有剪辑工具省订阅费",
-   "risk": "早期项目，稳定性待验证"
+   "why": "桌面端短剧创作工具，支持本地ComfyUI降本",
+   "action": "下载测试其短剧与翻译视频功能",
+   "opportunity": "本地化生产降低API成本",
+   "risk": "开源工具稳定性与更新持续性存疑"
   },
   {
    "title": "[GitHub] nabobery/veo3-workflow-agents: A complete AI-powered video generation pipeline that enhances creative prompts a",
@@ -857,10 +826,10 @@
    ],
    "category": "short_drama",
    "level": "B",
-   "why": "Veo3单API出片管线，可作备选生成方案",
-   "action": "评估Veo3成本与出片质量对比",
-   "opportunity": "无",
-   "risk": "依赖单一API，成本不可控"
+   "why": "Veo3单API流水线，可参考做批量出片",
+   "action": "阅读代码评估接入Veo3的可行性",
+   "opportunity": "批量高质量短剧生成流水线",
+   "risk": "Veo3 API成本高，需算ROI"
   },
   {
    "title": "[版本更新] Open-Sora v1.3: Open-Sora V1.3 Release",
@@ -872,10 +841,10 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "开源视频模型迭代，长期影响生成成本",
-   "action": "关注后续版本，暂不投入",
+   "why": "开源视频模型迭代，长期降低制作成本",
+   "action": "关注后续版本，暂不投入生产",
    "opportunity": "无",
-   "risk": "版本较旧，已被新模型超越"
+   "risk": "版本较旧，商用质量待验证"
   },
   {
    "title": "[版本更新] Toonflow短剧工具 v2.0.10: Toonflow 2.0.10",
@@ -886,11 +855,11 @@
     "ai_tools"
    ],
    "category": "short_drama",
-   "level": "S",
-   "why": "短剧专用工具更新，直接影响出片效率",
-   "action": "下载v2.0.10测试新功能与稳定性",
-   "opportunity": "用新版本提效抢爆款窗口",
-   "risk": "升级可能引入兼容问题，先备份"
+   "level": "A",
+   "why": "专用短剧工具更新，可能提升漫剧产能",
+   "action": "下载v2.0.10对比现有工作流",
+   "opportunity": "用专用工具提效漫剧批量生产",
+   "risk": "工具绑定，迁移成本需评估"
   },
   {
    "title": "[版本更新] ComfyUI v0.44.0: v0.44.0",
@@ -902,10 +871,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "ComfyUI新增配音节点，可强化短剧AI制作流水线",
-   "action": "升级ComfyUI并测试VEED Dubbing节点配音效果",
-   "opportunity": "用配音节点做多语种短剧批量出海",
-   "risk": "Partner节点可能有调用额度或付费限制"
+   "why": "新增VEED配音节点，短剧出海配音本地化更省",
+   "action": "升级并测试VEED Dubbing节点",
+   "opportunity": "多语言配音降本，拓展海外市场",
+   "risk": "升级可能破坏现有工作流节点"
   },
   {
    "title": "[版本更新] MoneyPrinter v1.3.10: v1.3.10",
@@ -917,10 +886,10 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "开源短视频生成工具迭代，可参考其自动化思路",
-   "action": "查看更新日志评估是否接入自己的生产流程",
-   "opportunity": "借鉴其自动化管线做批量短剧生成",
-   "risk": "无"
+   "why": "批量视频生成工具更新，可做社媒素材",
+   "action": "了解Codex订阅接入方式",
+   "opportunity": "批量生成社媒引流短视频",
+   "risk": "生成质量偏低，不适合精品短剧"
   },
   {
    "title": "[HN] Show HN: A different kind of AI Video generation",
@@ -931,11 +900,11 @@
     "industry",
     "ai_tools"
    ],
-   "category": "industry",
+   "category": "ai_tools",
    "level": "B",
-   "why": "个人开发者做AI视频工具，可观察差异化方向",
-   "action": "浏览评论区了解用户真实需求痛点",
-   "opportunity": "挖掘细分视频生成工具需求",
+   "why": "独立开发者做AI视频工具，可参考其产品思路",
+   "action": "浏览其产品页面，评估功能差异",
+   "opportunity": "可借鉴做垂直视频工具",
    "risk": "无"
   },
   {
@@ -947,12 +916,12 @@
     "industry",
     "ai_tools"
    ],
-   "category": "industry",
+   "category": "short_drama",
    "level": "A",
-   "why": "小团队自研视频模型，可能带来低成本生成方案",
-   "action": "阅读其技术笔记并测试生成样例质量",
-   "opportunity": "低成本自建视频生成替代高价API",
-   "risk": "自研模型质量与稳定性待验证"
+   "why": "小团队自研视频模型，可能降低制作成本",
+   "action": "研究Linum v2的生成质量和API可用性",
+   "opportunity": "低成本替代Sora等付费模型",
+   "risk": "小团队模型稳定性存疑"
   },
   {
    "title": "[HN] Meta’s new text-to-video AI generator is like DALL-E for video",
@@ -965,8 +934,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "旧闻，仅作视频生成发展脉络背景参考",
-   "action": "无需操作，了解即可",
+   "why": "旧闻，了解大厂视频模型演进背景",
+   "action": "无需行动，仅作背景参考",
    "opportunity": "无",
    "risk": "无"
   },
@@ -981,8 +950,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "旧闻，Veo已是主流工具，背景信息",
-   "action": "无需操作，了解即可",
+   "why": "旧闻，Veo已是主流工具之一",
+   "action": "确认Veo当前是否已接入短剧制作流程",
    "opportunity": "无",
    "risk": "无"
   },
@@ -997,8 +966,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "旧闻，Sora发布背景，非新情报",
-   "action": "无需操作，了解即可",
+   "why": "Sora发布旧闻，标志AI视频时代开启",
+   "action": "无需行动",
    "opportunity": "无",
    "risk": "无"
   },
@@ -1013,8 +982,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "旧闻，Sora正式开放背景信息",
-   "action": "无需操作，了解即可",
+   "why": "Sora正式开放旧闻，背景信息",
+   "action": "无需行动",
    "opportunity": "无",
    "risk": "无"
   },
@@ -1029,10 +998,10 @@
    ],
    "category": "short_drama",
    "level": "S",
-   "why": "Sora关停，AI视频工具格局生变，需紧急评估替代方案",
-   "action": "盘点现有Sora依赖的短剧制作流程，测试替代工具",
-   "opportunity": "抢占Sora用户迁移红利，做替代工具测评内容",
-   "risk": "依赖单一AI视频工具，平台关停即断供"
+   "why": "Sora若关停将冲击依赖它的短剧制作流",
+   "action": "立即核查Sora服务状态并备份素材、准备替代方案",
+   "opportunity": "提前切换工具抢占先机",
+   "risk": "依赖单一模型导致断供"
   },
   {
    "title": "[HN] Sora 2",
@@ -1044,11 +1013,11 @@
     "ai_tools"
    ],
    "category": "short_drama",
-   "level": "B",
-   "why": "Sora 2历史发布信息，了解其能力边界作对比参考",
-   "action": "回顾Sora 2能力参数，对比当前可用工具",
-   "opportunity": "无",
-   "risk": "无"
+   "level": "A",
+   "why": "Sora 2升级可能提升短剧画面质量与效率",
+   "action": "测试Sora 2生成质量，评估是否升级工作流",
+   "opportunity": "用新模型做高质量爆款短剧",
+   "risk": "新模型成本与合规未知"
   },
   {
    "title": "[HN] Disney making $1B investment in OpenAI, will allow characters on Sora AI",
@@ -1060,11 +1029,11 @@
     "ai_tools"
    ],
    "category": "industry",
-   "level": "B",
-   "why": "迪士尼投资OpenAI背景，说明IP+AI视频是巨头方向",
-   "action": "关注IP授权类AI短剧的合规玩法",
-   "opportunity": "无",
-   "risk": "无"
+   "level": "A",
+   "why": "迪士尼IP入局AI视频，预示版权内容AI化加速",
+   "action": "关注Sora是否开放迪士尼IP商用授权",
+   "opportunity": "用授权IP做短剧可能降低原创风险",
+   "risk": "无授权IP的短剧更易被平台下架"
   },
   {
    "title": "[HN] The Walt Disney Company and OpenAI Partner on Sora",
@@ -1076,11 +1045,11 @@
     "ai_tools"
    ],
    "category": "industry",
-   "level": "B",
-   "why": "迪士尼与OpenAI合作细节，判断IP内容AI化趋势",
-   "action": "记录合作模式，评估IP短剧可行性",
-   "opportunity": "无",
-   "risk": "无"
+   "level": "A",
+   "why": "大厂合作验证AI视频商业化，影响平台内容生态",
+   "action": "研究Sora新功能对短剧制作流程的替代性",
+   "opportunity": "提前布局Sora工作流可提效",
+   "risk": "平台可能优先推官方IP内容挤压小玩家"
   },
   {
    "title": "[HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora",
@@ -1091,17 +1060,17 @@
     "industry",
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "industry",
    "level": "S",
-   "why": "Sora关停致迪士尼撤资，验证AI视频工具高不确定性",
-   "action": "建立多工具备份方案，避免单点依赖",
-   "opportunity": "为同行提供工具迁移咨询变现",
-   "risk": "押注单一AI视频平台可能血本无归"
+   "why": "Sora关停是重大信号，AI视频工具格局剧变",
+   "action": "立即评估现有短剧AI工具链的替代方案",
+   "opportunity": "竞品工具可能趁机抢市场有红利",
+   "risk": "依赖Sora的产线面临断供风险"
   },
   {
-   "title": "[新品] Quest: Your personal AI advisor for a more intentional life",
-   "link": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Most AI assistants help you get things done. Quest takes the time to understand your personality, values, ambitions, and motivations. More than just remembering conversations, it's a personal AI advis",
+   "title": "[新品] Calculator Free Tools: Free Online Calculators, Converters & Utilities",
+   "link": "https://www.producthunt.com/products/calculator-free-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "/* HERO */Discover calculators, converters, business tools, health tools, Math tools and productivity utilities designed to save time and improve accuracy.",
    "source": "Product Hunt",
    "biz_tags": [
     "ai_tools",
@@ -1109,31 +1078,15 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "个人AI顾问类产品，参考其定位与变现思路",
-   "action": "体验Quest，分析其订阅模式",
+   "why": "免费工具站竞争激烈，变现空间有限",
+   "action": "快速浏览其SEO和流量模式作参考",
    "opportunity": "无",
-   "risk": "无"
+   "risk": "免费工具难变现，勿投入过多"
   },
   {
-   "title": "[新品] Google Omni 1.2 Flash: Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second",
-   "link": "https://www.producthunt.com/products/google-omni-1-2-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Gemini Omni 1.2 Flash is Google DeepMind’s video generation and editing model, now generally available. Per Google, clips run up to 15 seconds, up from 10, and 720p costs $0.07 per second, 30% less th",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "short_drama",
-   "level": "S",
-   "why": "谷歌视频模型降价30%，直接降低短剧制作成本",
-   "action": "注册测试Omni 1.2 Flash，测算单集成本",
-   "opportunity": "低成本批量产短剧，拉高利润率",
-   "risk": "新模型画质稳定性待验证"
-  },
-  {
-   "title": "[新品] ludigram: Games with Prompts",
-   "link": "https://www.producthunt.com/products/ludigram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Ludigram is building a new destination for mobile gaming, bringing players, games and communities together in one place. Our mission is to make discovering and playing games more accessible, social an",
+   "title": "[新品] ArchHomeAI: Free 2D floor plans, 3D modeling & AI architectural renders",
+   "link": "https://www.producthunt.com/products/archhomeai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "AI architectural visualization and home design in the browser. Features a 2D floor plan editor, linked 3D home modeling, photorealistic exterior and interior AI renders from plan or photo, 26 space de",
    "source": "Product Hunt",
    "biz_tags": [
     "ai_tools",
@@ -1141,31 +1094,31 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "提示词游戏平台，参考AI+游戏社区的产品形态",
-   "action": "浏览ludigram，看是否有插件开发机会",
-   "opportunity": "无",
+   "why": "垂直AI渲染工具，与短剧场景美术有间接关联",
+   "action": "测试其AI渲染能否用于短剧场景概念图",
+   "opportunity": "可借鉴其垂直SaaS订阅模式",
    "risk": "无"
   },
   {
-   "title": "[新品] Smart Study: The Ultimate AI Study Assistant",
-   "link": "https://www.producthunt.com/products/smart-study-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Supercharge your learning with Smart Study AI. An intelligent AI system designed to help you organize notes, generate flashcards, and study more efficiently.",
+   "title": "[新品] GetCapz: The AI video editor you edit by chatting",
+   "link": "https://www.producthunt.com/products/getcapz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Upload your clips and tell GetCapz what you want. The AI adds B-roll, motion graphics, music and sound effects on a real timeline while you watch. Fix anything by hand, then export an MP4 in any size,",
    "source": "Product Hunt",
    "biz_tags": [
     "ai_tools",
     "industry"
    ],
    "category": "ai_tools",
-   "level": "B",
-   "why": "学习类AI工具同质化严重，与我的业务关联弱",
-   "action": "快速浏览功能，判断有无可借鉴的交互设计",
-   "opportunity": "无",
-   "risk": "无"
+   "level": "A",
+   "why": "对话式AI剪辑可大幅降低短剧后期成本",
+   "action": "注册试用GetCapz测试短剧剪辑效率",
+   "opportunity": "用其批量产出短剧剪辑提效",
+   "risk": "新工具稳定性与导出质量待验证"
   },
   {
-   "title": "[新品] RaagaPay: The cultural intelligence layer for music AI",
-   "link": "https://www.producthunt.com/products/raagapay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Discover RaagaPay, the first commercially licensable, consent-logged Indian classical music corpus, designed for the AI age. With 5,000 years of rich musical…",
+   "title": "[新品] Talkiva: Voice & Video Hangouts",
+   "link": "https://www.producthunt.com/products/talkiva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Voice chat, video call, and make new friends on Talkiva — India's coolest hangout.",
    "source": "Product Hunt",
    "biz_tags": [
     "ai_tools",
@@ -1173,42 +1126,10 @@
    ],
    "category": "other",
    "level": "B",
-   "why": "音乐版权数据层，与短剧配乐有间接关联",
-   "action": "收藏备用，未来短剧配乐可考虑此类授权",
+   "why": "社交产品与核心业务关联弱",
+   "action": "无需行动，仅记录",
    "opportunity": "无",
    "risk": "无"
-  },
-  {
-   "title": "[新品] BECOME: Manifest Your Body: plans meals and workouts that adjust to your weigh-ins",
-   "link": "https://www.producthunt.com/products/become-manifest-your-body?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "BECOME creates a daily AI photo of your future self doing the sport you train for, sends it before you train, builds your weekly workouts, and plans meals that adjust to your weigh-ins.",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "健身AI应用，与我的三大业务无直接关系",
-   "action": "无需行动，仅作行业观察",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "[新品] ChatGPT Images 2.6: Create, edit, and animate images with AI",
-   "link": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Images 2.6 brings faster image generation, more precise editing, and native GIF creation to ChatGPT, Codex, and the API. Create looping animations, maintain character and product consistency across ed",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "short_drama",
-   "level": "S",
-   "why": "角色一致性+原生GIF动画，直接提升漫剧制作效率",
-   "action": "立即测试角色一致性和循环动画功能",
-   "opportunity": "用GIF动画做短剧预告片引流",
-   "risk": "API成本可能上涨，需核算"
   }
  ]
 }

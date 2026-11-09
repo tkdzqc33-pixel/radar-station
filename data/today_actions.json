@@ -2,67 +2,67 @@
  "tools_to_test": [
   {
    "name": "Toonflow v2.0.10",
-   "what": "开源AI短剧/漫剧全流程创作平台，集成剧本创作到视频生成",
-   "why_today": "S级情报显示其刚发布v2.0.10版本，2.1万星，可直接替代付费工具降本，且能用于教程引流",
-   "time_est": "2小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作"
+   "what": "开源AI短剧/漫剧全流程创作工具，集成剧本创作到视频生成",
+   "why_today": "S级情报明确建议本地部署跑通一条漫剧流程，且今天恰逢v2.0.10版本更新，可直接对比现有工作流提效",
+   "time_est": "2-3小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app + [版本更新] Toonflow短剧工具 v2.0.10"
   },
   {
-   "name": "Google Omni 1.2 Flash",
-   "what": "谷歌视频模型，支持15秒AI视频生成，价格降低30%",
-   "why_today": "S级新品情报，直接降低短剧制作成本，需立即测算单集成本以优化预算",
+   "name": "ComfyUI v0.44.0（VEED Dubbing节点）",
+   "what": "ComfyUI最新版新增VEED配音节点，支持多语言配音本地化",
+   "why_today": "短剧出海配音本地化是刚需，新节点可直接降本，且与Toonflow测试可串联成完整流水线",
+   "time_est": "1-2小时",
+   "source": "[版本更新] ComfyUI v0.44.0"
+  },
+  {
+   "name": "K-EXAONE 2.5 API",
+   "what": "LG AI研究院免费开放的模型API",
+   "why_today": "免费API可直接降低短剧/漫剧生成成本，需今天注册测试并与现有模型做成本对比",
    "time_est": "1小时",
-   "source": "[新品] Google Omni 1.2 Flash: Gemini Omni 1.2 Flash: 15s AI video at $0."
-  },
-  {
-   "name": "ChatGPT Images 2.6",
-   "what": "支持角色一致性和原生GIF动画的图像生成模型",
-   "why_today": "S级新品，可提升漫剧制作效率，并用于制作短剧预告片引流素材",
-   "time_est": "1小时",
-   "source": "[新品] ChatGPT Images 2.6: Create, edit, and animate images with AI"
-  },
-  {
-   "name": "Open-Generative-AI",
-   "what": "无审查自托管开源AI平台，集成600+模型可低成本生成视频素材",
-   "why_today": "S级情报，3.3万星，可替代付费API大幅降素材成本，需测试Kling/Sora等模型出片成本",
-   "time_est": "3小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Unrestricted Open-source alte"
+   "source": "[A] LG AI 研究院宣布对外免费开放 K-EXAONE 2.5 模型 API"
   },
   {
    "name": "StoryGen-Atelier",
-   "what": "基于Gemini+Veo的AI分镜与视频生成工具",
-   "why_today": "A级情报，可补短剧制作链路，低成本生成分镜与转场素材，测试其与现有流程的整合",
+   "what": "Gemini+Veo分镜到成片的AI辅助故事板与视频生成流水线",
+   "why_today": "Sora关停信号下需储备替代方案，该开源项目提供可借鉴的低成本分镜自动化流水线",
+   "time_est": "2小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier"
+  },
+  {
+   "name": "automate-for-growth 指南",
+   "what": "含Sora2批量生成+多平台分发的自动化打法完整指南",
+   "why_today": "S级情报建议精读并复刻多平台批量发布流程，是放大短剧收益的关键杠杆",
    "time_est": "1.5小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "source": "[GitHub] cporter202/automate-for-growth"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代工具迁移与用户红利",
-   "reason": "S级情报显示Sora关停致迪士尼撤资，需紧急评估替代方案并抢占迁移红利，但不必今天动手，先观察市场反应"
+   "item": "Sora关停后续及Disney退出OpenAI合作的连锁反应",
+   "reason": "S级信号，AI视频工具格局剧变，需持续跟踪竞品动态与替代工具红利窗口"
   },
   {
-   "item": "ChatGPT封号风波进展与账号安全",
-   "reason": "S级情报，200美元Pro用户被封，需关注官方回应和备份方案有效性，但今天只需备份不需测试新工具"
+   "item": "国内监管收紧对出海内容尺度的外溢影响",
+   "reason": "S级信号，可能影响剧本合规，需跟踪治理细则落地情况"
   },
   {
-   "item": "印尼短剧成本模型与CPA3美元下的盈亏平衡",
-   "reason": "S级机会，需持续跟踪本地拍摄成本数据，但今天先测算上限，不急于实地测试"
+   "item": "Inkling 2 Small开放权重发布",
+   "reason": "A级情报提示开源模型竞争加剧，开放权重后需第一时间测试生成能力"
   }
  ],
  "research_topics": [
   {
-   "topic": "印尼短剧单集成本上限测算（CPA 3美元下）",
-   "why": "S级情报直接决定投放盈亏，需研究本地拍摄成本结构以调整预算"
+   "topic": "印尼短剧CPA 3美元下的单集成本回本线模型",
+   "why": "S级情报直接关系出海盈亏，需测算本地拍摄成本上限以判断项目可行性"
   },
   {
-   "topic": "中东（沙特/阿联酋）短剧内容审核红线清单",
-   "why": "A级情报显示审核卡排期拖累投放，研究后可做成SOP卖给同行"
+   "topic": "中东（沙特/阿联酋）短剧内容审核红线清单与预审SOP",
+   "why": "A级情报指出审核卡排期直接拖投放回本，沉淀SOP可复用并可做成知识付费"
   },
   {
-   "topic": "巴西PIX支付接入后的本地化素材与分期话术",
-   "why": "A级情报指出转化未起，研究拉美本地化素材方法论可迁移至短剧投放"
+   "topic": "ATT弹窗前置后欧美买量合规标准与归因策略",
+   "why": "A级情报显示买量成本涨四成，合规坑直接影响ROI，需研究弹窗时机合规标准"
   }
  ],
- "daily_focus": "立即备份ChatGPT关键对话资料并设置备用API，同时部署Toonflow v2.0.10测试全流程出片成本"
+ "daily_focus": "本地部署Toonflow v2.0.10并跑通一条漫剧全流程，同时升级ComfyUI测试VEED配音节点，验证降本提效幅度"
 }

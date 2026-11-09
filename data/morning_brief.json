@@ -1,11 +1,11 @@
 {
- "top_story": "Sora关停，迪士尼撤资，AI视频工具格局生变，替代方案窗口打开。",
- "judgment": "Sora关停是标志性事件，用户被迫迁移，替代工具测评和迁移服务是短期红利。窗口期约1-2个月，等大厂新模型稳定就关了。",
+ "top_story": "Sora关停，迪士尼退出OpenAI合作，AI视频工具格局一夜生变。",
+ "judgment": "Sora关停是分水岭，依赖它的短剧制作流必须立刻切换。开源替代（Open-Sora、Toonflow）和免费API（K-EXAONE）迎来红利窗口，但窗口期最多1-2个月，等大厂补位就晚了。",
  "actions": [
-  "立刻测试Google Omni 1.2 Flash和开源Open-Sora，做Sora平替对比视频发TikTok引流。",
-  "用Toonflow v2.0.10快速产一条短剧样片，验证出片效率。",
-  "整理Sora迁移指南文档，挂Gumroad卖9.9美元。"
+  "今天就把手头Sora流程切到Open-Sora或Toonflow，跑通一条测试片。",
+  "用K-EXAONE免费API搭个漫剧生成小工具，验证成本能降多少。",
+  "研究automate-for-growth的Sora2批量分发打法，改成开源版多平台投放。"
  ],
- "risk_alert": "ChatGPT封号风波可能断掉制作命脉，重要项目别只押一个账号。",
- "mood": "谨慎乐观，红利在但别All in。"
+ "risk_alert": "别把宝押在单一AI视频工具上，Sora说关就关，多备两条开源管线。",
+ "mood": "谨慎乐观，工具洗牌期正是小团队抢跑的好时候。"
 }
