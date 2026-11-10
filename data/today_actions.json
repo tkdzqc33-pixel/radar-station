@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
+   "name": "Claude Fable 5.2",
+   "what": "全球最强AI模型，支持高质量文本与代码生成",
+   "why_today": "登顶世界第一且价格降20%，直接影响短剧剧本质量与工具开发效率，需立即验证其分镜脚本和插件代码生成能力",
+   "time_est": "1.5小时",
+   "source": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5"
+  },
+  {
    "name": "Toonflow v2.0.10",
-   "what": "开源AI短剧/漫剧全流程创作工具，集成剧本创作到视频生成",
-   "why_today": "S级情报明确建议本地部署跑通一条漫剧流程，且今天恰逢v2.0.10版本更新，可直接对比现有工作流提效",
-   "time_est": "2-3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app + [版本更新] Toonflow短剧工具 v2.0.10"
+   "what": "开源AI视频创作平台，集成剧本创作与分镜生成",
+   "why_today": "版本更新至v2.0.10，作为核心短剧工具，需测试新功能与稳定性以提升漫剧产能",
+   "time_est": "2小时",
+   "source": "[版本更新] Toonflow短剧工具 v2.0.10: Toonflow 2.0.10"
   },
   {
-   "name": "ComfyUI v0.44.0（VEED Dubbing节点）",
-   "what": "ComfyUI最新版新增VEED配音节点，支持多语言配音本地化",
-   "why_today": "短剧出海配音本地化是刚需，新节点可直接降本，且与Toonflow测试可串联成完整流水线",
-   "time_est": "1-2小时",
-   "source": "[版本更新] ComfyUI v0.44.0"
+   "name": "Open-Generative-AI",
+   "what": "3.3万星无审查多模型视频生成开源项目，支持600+模型",
+   "why_today": "Sora关停后需替代方案，且无审查特性可解锁海外敏感题材短剧产能，自托管部署测试镜头生成",
+   "time_est": "3小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Uncensored Open-source altern"
   },
   {
-   "name": "K-EXAONE 2.5 API",
-   "what": "LG AI研究院免费开放的模型API",
-   "why_today": "免费API可直接降低短剧/漫剧生成成本，需今天注册测试并与现有模型做成本对比",
+   "name": "ComfyUI v0.44.0",
+   "what": "节点式AI工作流工具，新增VEED配音节点",
+   "why_today": "新版本集成VEED Dubbing节点，可直接用于短剧多语种配音本地化，提升出海效率",
    "time_est": "1小时",
-   "source": "[A] LG AI 研究院宣布对外免费开放 K-EXAONE 2.5 模型 API"
+   "source": "[版本更新] ComfyUI v0.44.0: v0.44.0"
   },
   {
    "name": "StoryGen-Atelier",
-   "what": "Gemini+Veo分镜到成片的AI辅助故事板与视频生成流水线",
-   "why_today": "Sora关停信号下需储备替代方案，该开源项目提供可借鉴的低成本分镜自动化流水线",
-   "time_est": "2小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier"
-  },
-  {
-   "name": "automate-for-growth 指南",
-   "what": "含Sora2批量生成+多平台分发的自动化打法完整指南",
-   "why_today": "S级情报建议精读并复刻多平台批量发布流程，是放大短剧收益的关键杠杆",
+   "what": "AI辅助分镜与视频生成工具，基于Gemini+Veo",
+   "why_today": "可补强漫剧产能，Veo生成转场片段提升成片效率，需测试分镜质量对比现有工作流",
    "time_est": "1.5小时",
-   "source": "[GitHub] cporter202/automate-for-growth"
+   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后续及Disney退出OpenAI合作的连锁反应",
-   "reason": "S级信号，AI视频工具格局剧变，需持续跟踪竞品动态与替代工具红利窗口"
+   "item": "Sora关停后的替代工具链与迪士尼撤资影响",
+   "reason": "Sora关停导致AI视频赛道洗牌，需持续关注竞品工具窗口期和平台风险，及时调整工具组合"
   },
   {
-   "item": "国内监管收紧对出海内容尺度的外溢影响",
-   "reason": "S级信号，可能影响剧本合规，需跟踪治理细则落地情况"
+   "item": "日本短剧投放本地化策略AB测试结果",
+   "reason": "本地化过度导致点击率反降三成，需跟踪保留爽感+轻本地化的优化效果，指导日区ROI提升"
   },
   {
-   "item": "Inkling 2 Small开放权重发布",
-   "reason": "A级情报提示开源模型竞争加剧，开放权重后需第一时间测试生成能力"
+   "item": "中东（沙特）投放CPA与LTV/CAC阈值",
+   "reason": "CPA涨至18美元，需持续监控留存优化空间和渠道加减决策，避免盲目投放"
   }
  ],
  "research_topics": [
   {
-   "topic": "印尼短剧CPA 3美元下的单集成本回本线模型",
-   "why": "S级情报直接关系出海盈亏，需测算本地拍摄成本上限以判断项目可行性"
+   "topic": "ATT框架下短剧投放的CPT基准和ROI判断标准",
+   "why": "法国ASA成本涨四成，短剧出海投流可能踩同样坑，需提前布局非ATT依赖渠道并建立评估标准"
   },
   {
-   "topic": "中东（沙特/阿联酋）短剧内容审核红线清单与预审SOP",
-   "why": "A级情报指出审核卡排期直接拖投放回本，沉淀SOP可复用并可做成知识付费"
+   "topic": "Inkling 2 Small等开源模型在短剧脚本/工具开发中的性价比",
+   "why": "开源模型竞争加剧，可降低AI工具和短剧制作的模型选型成本，需测试替代Claude的可行性"
   },
   {
-   "topic": "ATT弹窗前置后欧美买量合规标准与归因策略",
-   "why": "A级情报显示买量成本涨四成，合规坑直接影响ROI，需研究弹窗时机合规标准"
+   "topic": "Token电商化采购与算力成本优化",
+   "why": "Token上架双11，算力进电商渠道可能降低采购门槛，需对比天猫京东价格测算短剧批量生产成本"
   }
  ],
- "daily_focus": "本地部署Toonflow v2.0.10并跑通一条漫剧全流程，同时升级ComfyUI测试VEED配音节点，验证降本提效幅度"
+ "daily_focus": "立即用Claude Fable 5.2测试短剧分镜脚本和插件代码生成效果，并同步部署Toonflow v2.0.10验证新功能"
 }
