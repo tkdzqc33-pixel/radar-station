@@ -2,67 +2,67 @@
  "tools_to_test": [
   {
    "name": "MiniMax H3 Image",
-   "what": "开源图像模型，据称兼具GPT效果与MJ审美",
-   "why_today": "S级情报，开源可低成本批量出短剧漫剧素材，今天实测出图速度与风格",
-   "time_est": "1-2小时",
+   "what": "开源4K图像生成模型，号称GPT效果+MJ审美",
+   "why_today": "S级情报，开源可替代付费生图，直接降低短剧素材成本，今天部署测试出图质量",
+   "time_est": "2-3小时",
    "source": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了"
   },
   {
-   "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作与短剧漫剧制作全流程",
-   "why_today": "S级情报，开源可替代付费工具省订阅费，今天本地部署测试分镜与视频生成",
-   "time_est": "2-3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
-  },
-  {
-   "name": "TOONOOT",
-   "what": "开源一站式AI短剧创作工具，将小说/剧本快速转化为动画",
-   "why_today": "A级情报，可低成本批量产漫剧投海外，今天克隆部署跑通小说转动画短剧流程",
-   "time_est": "2-3小时",
-   "source": "[GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具"
-  },
-  {
-   "name": "Claude Fable 5.2",
-   "what": "最新登顶世界第一的大模型，价格降低20%",
-   "why_today": "A级情报，更强模型提升剧本产能且API成本下降，今天跑一遍剧本生成对比测试并核算新价",
-   "time_est": "1小时",
-   "source": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5"
-  },
-  {
-   "name": "StoryGen-Atelier",
-   "what": "AI辅助分镜与视频生成流水线，集成Gemini+Veo",
-   "why_today": "A级情报，可借鉴搭建低成本分镜自动化管线，今天研究其Veo转场拼接流程",
+   "name": "Toonflow v2.0.10",
+   "what": "专用短剧/漫剧全流程开源工具，支持本地部署",
+   "why_today": "S级版本更新，直接影响漫剧生产效率，今天下载对比旧版测试新功能",
    "time_est": "1-2小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "source": "[版本更新] Toonflow短剧工具 v2.0.10"
+  },
+  {
+   "name": "豆包工作",
+   "what": "多模型聚合平台，已接入Kimi/GLM/DeepSeek并有限时额度优惠",
+   "why_today": "A级但多模型聚合+限时优惠可降脚本生成成本，今天注册测试API调用与价格",
+   "time_est": "1小时",
+   "source": "豆包工作接入更多模型，并推出限时额度优惠"
+  },
+  {
+   "name": "clipturbo",
+   "what": "856星开源AI营销视频一键生成工具",
+   "why_today": "A级GitHub项目，可低成本批量产出投流素材，今天克隆本地部署测试批量生成效果",
+   "time_est": "1-2小时",
+   "source": "[GitHub] clipturbo/clipturbo: 小视频宝"
+  },
+  {
+   "name": "Open-Generative-AI",
+   "what": "3.4万星无审查多模型视频生成开源项目，支持600+模型",
+   "why_today": "A级高星项目，素材自由度极高，今天自托管部署测试短剧素材生成",
+   "time_est": "2-3小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后的替代方案与竞品动态",
-   "reason": "Sora关停引发连锁反应，需持续跟踪备选视频模型（如Veo、Open-Sora）的可用性与社区迁移方案，避免生产管线断档"
+   "item": "Sora关停后的替代工具格局（Runway/Pika/Kling）",
+   "reason": "Sora关停致迪士尼撤资，AI视频工具不稳定风险高，需持续跟踪替代工具成熟度与迁移成本"
   },
   {
-   "item": "京东短剧产品的导购分成玩法",
-   "reason": "巨头入局短剧，免费+电商导购模式可能成为新投放渠道，需关注其分成规则与流量扶持政策"
+   "item": "北美短剧CPA涨至18美元后的ROAS考核策略",
+   "reason": "CPA翻倍直接关系投放策略，需跟踪30日ROAS数据决定放量节奏"
   },
   {
-   "item": "Gemini 4 Carbon的付费门槛与试用申请",
-   "reason": "新模型可能提升短剧素材生成质量，但并非所有人可用，需跟踪开放进度与定价"
+   "item": "AI短剧肖像权合规风险",
+   "reason": "赵丽颖起诉红果短剧侵权，AI角色撞脸真人明星风险需持续关注平台确权能力"
   }
  ],
  "research_topics": [
   {
-   "topic": "中东（沙特）短剧投放成本模型与本地化素材标准",
-   "why": "沙特手游CPI从0.9涨到2.3美元，素材本地化决定留人率，短剧出海需提前评估成本与制作标准"
+   "topic": "B站/即梦等平台AI创作激励规则与非投流变现路径",
+   "why": "投流吞噬利润，需研究平台激励/商单模式绕开投流内卷，测算个人IP+品牌商单可行性"
   },
   {
-   "topic": "AI内容版权合规与素材授权来源检查",
-   "why": "AI伪科普污染事件警示版权与真实性风险，短剧AI制作需确保素材合规，避免法律与平台风险"
+   "topic": "百度词元所Token交易平台API接入与报价",
+   "why": "Token交易平台可压低AI工具调用成本，调研接入方式与套利空间"
   },
   {
-   "topic": "端侧30B大模型对AI视频生成工具的降本影响",
-   "why": "华为麒麟9050搭载30B MoE NPU，端侧大模型可能大幅降低短剧制作云端成本，需研究其工具链支持"
+   "topic": "Gemini分镜+Veo转场+ffmpeg拼接的漫剧生成工作流",
+   "why": "可借鉴做低成本批量漫剧分镜素材，研究其管线效率"
   }
  ],
- "daily_focus": "立即实测MiniMax H3 Image的出图速度与风格，并本地部署Toonflow跑通一个短剧分镜生成demo，评估开源工具链的降本效果"
+ "daily_focus": "部署MiniMax H3 Image并出图测试，对比现有付费生图方案的成本与质量差距"
 }
