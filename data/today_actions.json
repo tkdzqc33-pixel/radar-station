@@ -2,67 +2,67 @@
  "tools_to_test": [
   {
    "name": "Gemini 4",
-   "what": "谷歌最新多模态大模型，支持文本、图像、视频生成",
-   "why_today": "今日S级情报显示Gemini 4新模型人人可用且更强更便宜，可立即用于短剧脚本与分镜生成，降本增效",
+   "what": "谷歌最新多模态大模型，人人可用且更便宜",
+   "why_today": "情报显示Gemini 4更强更便宜，可直接降低AI短剧制作成本，机会信号明确，建议立即测试生成短剧分镜与漫剧画面",
    "time_est": "1-2小时",
    "source": "刚刚，Gemini 4 新模型叒来了，终于人人可用"
   },
   {
    "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作到视频生成全流程",
-   "why_today": "GitHub 2万星开源短剧漫剧工具，今日有v2.0.10版本更新，可直接本地部署测试全流程，搭建自有生产线",
+   "what": "开源AI视频创作平台，集成剧本创作与短剧漫剧制作全流程",
+   "why_today": "GitHub新项目且版本更新至v2.0.10，开源可替代付费管线省成本，建议本地部署测试分镜与视频生成",
    "time_est": "2-3小时",
    "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
   },
   {
    "name": "豆包工作",
-   "what": "字节跳动旗下AI工作平台，今日官宣接入Kimi、DeepSeek等多款第三方模型",
-   "why_today": "A级情报显示豆包工作实现模型自由，可测试多模型比价与调用，降低短剧脚本/翻译成本",
-   "time_est": "1小时",
+   "what": "字节跳动AI工作平台，已接入Kimi、DeepSeek等多款第三方模型",
+   "why_today": "多模型聚合可降低AI工具开发与内容制作成本，建议测试多模型倍率选性价比最高组合，用于批量生成短剧脚本",
+   "time_est": "1-2小时",
    "source": "接入多款第三方模型，豆包工作也模型自由了"
   },
   {
-   "name": "StoryGen-Atelier",
-   "what": "基于Gemini+Veo的AI辅助分镜与视频生成流水线",
-   "why_today": "A级GitHub项目，提供分镜到视频拼接流程，可参考做短剧低成本批量产出，今日测试对比现有工具",
-   "time_est": "1.5小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "name": "Open-Sora",
+   "what": "开源视频生成模型，旨在 democratizing 高效视频生成",
+   "why_today": "Sora关停后替代工具需求爆发，开源方案可自建视频生成管线省API成本，建议本地部署测试生成短剧片段质量",
+   "time_est": "3-4小时",
+   "source": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video"
   },
   {
-   "name": "Open-Generative-AI",
-   "what": "无审查开源多模型聚合平台，支持600+模型出图出视频",
-   "why_today": "A级情报，可自托管测试敏感题材短剧差异化内容，题材自由度大增，适合出海蓝海探索",
+   "name": "StoryGen-Atelier",
+   "what": "AI辅助分镜与视频生成管线，基于Gemini+Veo",
+   "why_today": "可借鉴其工作流复用到漫剧批量生产管线，建议研究其Veo转场与ffmpeg拼接流程",
    "time_est": "2小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Uncensored Open-source altern"
+   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停事件及替代工具动态",
-   "reason": "HN情报显示Sora可能关停，需持续关注官方确认及竞品替代方案，避免生产管线中断"
+   "item": "微信「看一看」短剧入口的入驻与分账规则",
+   "reason": "微信测试短剧入口可能改变国内短剧流量格局，抢先布局分发渠道需持续关注规则发布"
   },
   {
-   "item": "微信「看一看」短剧入口测试进展",
-   "reason": "S级情报，微信测试短剧入口可能改变国内短剧流量格局，需跟踪入驻规则与分账模式"
+   "item": "TikTok Shop美国站达人邀约成本变化",
+   "reason": "达人CPA翻倍，投流打法需调整，需持续跟踪成本走势以优化投放策略"
   },
   {
-   "item": "男频变身文漫剧爆款案例",
-   "reason": "S级情报揭示男频变身文改编漫剧男女通吃，需跟踪红果《万妖图录传》等爆款数据，筛选可改编IP"
+   "item": "Sora关停后的替代工具生态",
+   "reason": "Sora关停导致AI视频工具格局剧变，需持续关注替代工具的出现与成熟度"
   }
  ],
  "research_topics": [
   {
-   "topic": "微信看一看短剧入口的入驻与分账规则",
-   "why": "S级情报建议研究，抢先布局微信短剧分发渠道，需明确入驻门槛、分账比例和流量扶持政策"
+   "topic": "微信短剧入口的入驻与分账规则",
+   "why": "机会信号明确，研究规则可抢先布局微信短剧分发渠道，获取早期流量红利"
   },
   {
-   "topic": "北美手游买量素材迭代频率与CPA回升规律",
-   "why": "A级情报显示CPA从18美元涨到34美元，研究其素材衰减周期可套用到短剧投放，用AI批量素材对冲成本"
+   "topic": "中老年AI短剧付费赛道与监管合规要求",
+   "why": "AI短剧占95%产能，中老年付费爆发但监管风险剧变，需研究新规标识要求与扣费合规打法"
   },
   {
-   "topic": "海外平台回款账期与现金流管理",
-   "why": "A级情报提示日本手游回款周期拖到60天，短剧平台分账同样有账期，需梳理各平台回款周期预留缓冲"
+   "topic": "欧洲市场支付失败率优化与本地支付方式覆盖",
+   "why": "支付失败率12%拉高CPA，短剧订阅出海欧洲会踩同坑，需研究3DS与本地支付优化"
   }
  ],
- "daily_focus": "立即测试Gemini 4生成短剧脚本与分镜，并本地部署Toonflow v2.0.10搭建自有短剧生产线"
+ "daily_focus": "立即测试Gemini 4生成短剧分镜与漫剧画面，评估其成本与质量以决定是否替换现有制作管线"
 }
