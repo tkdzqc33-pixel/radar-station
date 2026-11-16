@@ -2,67 +2,67 @@
  "tools_to_test": [
   {
    "name": "Toonflow v2.0.10",
-   "what": "开源AI视频创作平台，集成剧本创作、分镜与视频生成，专为短剧/漫剧设计。",
-   "why_today": "S级情报显示其刚发布v2.0.10版本，且开源可本地部署，直接降本提效，是搭建低成本短剧生产线的首选。",
+   "what": "开源AI短剧/漫剧全流程制作工具，集成剧本创作与视频生成",
+   "why_today": "S级情报且刚发布v2.0.10版本，可直接降本提效，替代付费SaaS",
    "time_est": "2小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作 | [版本更新] Toonflow短剧工具 v2.0.10: Toonflow 2.0.10"
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app + [版本更新] Toonflow短剧工具 v2.0.10"
+  },
+  {
+   "name": "Sora 2",
+   "what": "OpenAI视频生成重大升级版，可批量生成短剧素材",
+   "why_today": "S级情报，但Sora关停旧版且迪士尼退出，需紧急评估迁移与替代方案，Sora 2是直接升级路径",
+   "time_est": "1.5小时（申请权限+测试生成）",
+   "source": "[HN] Sora 2 + [HN] Goodbye to Sora + [HN] Disney Exits OpenAI Deal"
+  },
+  {
+   "name": "Qwen4-Max API",
+   "what": "阿里最新大模型，智能体与编程能力进阶，价格便宜6成",
+   "why_today": "A级情报，可低成本批量生成短剧脚本和工具代码，直接降开发成本",
+   "time_est": "1小时",
+   "source": "阿里正式发布Qwen4，智能体及编程能力进阶"
   },
   {
    "name": "Gemini 4",
-   "what": "Google最新多模态大模型，人人可用，支持文本、图像、视频生成。",
-   "why_today": "A级情报称其“终于人人可用”，可批量生成短剧脚本和分镜，降本做漫剧，需立即测试其生成质量与成本。",
-   "time_est": "1.5小时",
+   "what": "谷歌新模型，更快更便宜且人人可用",
+   "why_today": "A级情报，可测试生成短剧分镜和漫剧画面，降低制作成本",
+   "time_est": "1小时",
    "source": "刚刚，Gemini 4 新模型叒来了，终于人人可用"
   },
   {
-   "name": "豆包工作（接入Kimi/DeepSeek）",
-   "what": "字节跳动AI工作平台，现已接入Kimi、DeepSeek等多款第三方模型，实现模型自由。",
-   "why_today": "A级情报显示多模型比价可降低开发工具成本，测试各模型倍率选最划算组合，用于短剧批量生产。",
+   "name": "豆包工作（多模型聚合）",
+   "what": "接入Kimi、DeepSeek等多模型的AI工作平台，支持模型自由切换",
+   "why_today": "A级情报，可对比各模型倍率选最划算的做批量短剧翻译和配音，并评估做聚合工具",
    "time_est": "1小时",
-   "source": "接入多款第三方模型，豆包工作也模型自由了 | 刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了"
-  },
-  {
-   "name": "StoryGen-Atelier",
-   "what": "AI辅助分镜与视频生成工具，基于Gemini+Veo方案。",
-   "why_today": "A级情报推荐测试其分镜生成质量与Veo成本，可对比现有工作流，低成本批量生成短剧分镜。",
-   "time_est": "1.5小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
-  },
-  {
-   "name": "Sora替代方案盘点（Open-Sora / Veo3-workflow-agents）",
-   "what": "开源视频生成模型Open-Sora及Veo3单API密钥流水线，可作为Sora关停后的替代。",
-   "why_today": "S级情报确认Sora关停，依赖其的短剧管线需紧急迁移，立即测试替代工具的视频生成质量与成本。",
-   "time_est": "2小时",
-   "source": "[HN] Goodbye to Sora | [HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora | [GitHub] hpcaitech/Open-Sora | [GitHub] nabobery/veo3-workflow-agents"
+   "source": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了 + 接入多款第三方模型，豆包工作也模型自由了"
   }
  ],
  "things_to_watch": [
   {
-   "item": "微信「看一看」短剧入口的分发规则与流量红利",
-   "reason": "S级情报显示微信正在测试短剧入口，国内短剧流量新渠道，需持续关注规则变化以抢占红利。"
+   "item": "微信「看一看」短剧入口的入驻与分账规则",
+   "reason": "国内短剧流量格局可能变化，抢先布局分发渠道有先发优势"
   },
   {
-   "item": "巴西葡语短剧投放ROI 0.6的优化策略（素材vs时段）",
-   "reason": "S级情报提供真实踩坑样本，需跟踪其后续调整效果，以复制到其他拉美国家。"
+   "item": "Sora关停后的替代工具生态与迁移服务需求",
+   "reason": "AI视频工具格局剧变，依赖Sora的工作流需迁移，可能产生知识付费或服务机会"
   },
   {
-   "item": "欧洲德语区短剧本地化素材的转化数据（配音vs字幕）",
-   "reason": "S级情报显示德语配音完播率低一半，需跟踪测试结果，找到欧洲本地化最优解。"
+   "item": "欧洲GDPR同意弹窗与CPA上涨的关联及CMP优化方案",
+   "reason": "影响工具出海欧洲的投放模型，合规优化可能成为SaaS服务机会"
   }
  ],
  "research_topics": [
   {
-   "topic": "微信看一看短剧入口的分发规则与推荐机制",
-   "why": "S级机会，抢占新流量红利需先理解规则，指导内容制作与投放策略。"
+   "topic": "巴西葡语短剧投放ROI 0.6的复盘与优化策略（素材vs时段）",
+   "why": "直接映射当前投放决策，葡语市场跑通可复制到其他小语种"
   },
   {
-   "topic": "欧洲短剧订阅转化低的本地化叙事结构优化",
-   "why": "S级情报指出德语区转化仅0.9%，研究叙事结构可提升ROI，先入者吃红利。"
+   "topic": "德语区短剧本地化最优组合（配音vs字幕vs叙事结构）",
+   "why": "德语配音完播率低一半，影响欧洲投放策略，找到最优组合可省配音成本并提升转化"
   },
   {
-   "topic": "非洲市场（尼日利亚/肯尼亚）本地化分层测试方法",
-   "why": "A级情报显示CTR 2.1%有起量空间，研究其A/B测试维度可复用到其他新兴市场。"
+   "topic": "非洲（尼日利亚/肯尼亚）短剧本地化分层测试方法",
+   "why": "低成本流量蓝海，按语言/面孔/节奏三层拆解可复用到其他新兴市场"
   }
  ],
- "daily_focus": "立即本地部署Toonflow v2.0.10并跑通一个短剧分镜生成流程，同时盘点Sora依赖并测试Open-Sora作为替代。"
+ "daily_focus": "立即克隆部署Toonflow v2.0.10并跑通一条短剧分镜到视频的完整流程，评估其替代付费SaaS的降本幅度。"
 }
