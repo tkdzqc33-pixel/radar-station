@@ -1,40 +1,91 @@
 {
- "date": "2026-11-16 04:00",
- "report_text": "📡 情报雷达 · 每日简报 2026-11-16\n今日情报 76 条 | 🚨S级 7 | 🔶A级 29\n==============================\n\n🚨 【S级 · 立刻行动】\n\n▎🎬 短剧出海 | 巴西葡语短剧投放 ROI 只有 0.6，三人小团队该先砍素材还是先换投放时段？\n   💡 巴西葡语ROI 0.6是典型亏损样本，直接映射我的投放决策\n   👉 复盘自己巴西站ROI，先砍低效素材再测时段\n   💰 机会: 葡语市场若跑通可复制到其他小语种\n   ⚠️ 风险: 素材产能不足时盲目扩量会烧穿预算\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638752\n\n▎🎬 短剧出海 | 短剧App在德国投放，德语配音素材完播率比英语字幕低一半，是内容问题还是素材问题？\n   💡 德语本地化配音反而掉量，直接影响欧洲投放策略\n   👉 在德国站A/B测试英语原声+德语字幕vs配音\n   💰 机会: 找到欧洲最优本地化组合可省大量配音成本\n   ⚠️ 风险: 盲目做配音本地化会白烧钱且拉低转化\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638746\n\n▎🎬 短剧出海 | 欧洲短剧订阅转化低，是本地化素材没打中德国和法国用户吗？\n   💡 德法转化远低于西语区，直接决定欧洲投放ROI\n   👉 先做德语区A/B测试：同题材换叙事结构对比\n   💰 机会: 德语区本地化素材缺口即差异化机会\n   ⚠️ 风险: 盲目换题材可能浪费已有投放数据\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638742\n\n▎🎬 短剧出海 | [GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent \n   💡 开源短剧漫剧全流程工具，直接降本提效\n   👉 克隆部署Toonflow，测试分镜与视频生成流程\n   💰 机会: 用开源工具替代付费SaaS，降制作成本\n   ⚠️ 风险: 开源工具稳定性与商用授权需核实\n   📎 GitHub开源\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app\n\n▎🎬 短剧出海 | [HN] Goodbye to Sora\n   💡 Sora关停，依赖它的短剧工作流需紧急迁移\n   👉 排查现有流程中Sora依赖并切换替代工具\n   💰 机会: 替代工具迁移服务可做知识付费选题\n   ⚠️ 风险: 工具关停致素材断供、项目延期\n   📎 Hacker News\n   🔗 https://twitter.com/soraofficialapp/status/2036532795984715896\n\n▎🎬 短剧出海 | [HN] Sora 2\n   💡 OpenAI视频生成重大升级，直接冲击AI短剧制作效率\n   👉 立即申请Sora 2测试权限并对比现有工具\n   💰 机会: 用Sora 2批量生成短剧素材降本\n   ⚠️ 风险: 工具门槛降低导致竞争加剧\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-2/\n\n▎🎬 短剧出海 | [HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora\n   💡 Sora关停+迪士尼退出，AI视频工具格局剧变\n   👉 立即评估现有短剧制作流程对Sora的依赖度\n   ⚠️ 风险: 依赖单一AI视频工具风险暴露\n   📎 Hacker News\n   🔗 https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/\n\n🔶 【A级 · 今天处理】\n\n▎🛠️ AI工具 | 阿里正式发布Qwen4，智能体及编程能力进阶\n   💡 编程和智能体更强且便宜6成，可降开发成本\n   👉 用Qwen4-Max API测试短剧脚本和插件代码生成\n   💰 机会: 低成本批量生成短剧脚本和工具代码\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4071829045826690\n\n▎🛠️ AI工具 | 接入多款第三方模型，豆包工作也模型自由了\n   💡 多模型比价可降低AI内容制作成本\n   👉 对比豆包工作各模型倍率，选最划算的做批量任务\n   💰 机会: 用低价模型跑批量短剧翻译和配音\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373881\n\n▎🎬 短剧出海 | 早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口\n   💡 微信测试短剧入口，国内短剧流量格局可能变\n   👉 研究微信看一看短剧入口的入驻和分账规则\n   💰 机会: 抢先布局微信短剧分发渠道\n   ⚠️ 风险: 国内平台竞争加剧分流海外注意力\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🛠️ AI工具 | 刚刚，Gemini 4 新模型叒来了，终于人人可用\n   💡 更快更便宜的新模型可提升短剧制作效率\n   👉 测试Gemini 4生成短剧分镜和漫剧画面\n   💰 机会: 用新模型降低漫剧制作成本\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🛠️ AI工具 | 刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了\n   💡 多模型聚合降低AI工具开发成本，可做套壳/路由类SaaS\n   👉 注册豆包工作测试多模型切换，评估做聚合工具\n   💰 机会: 做多模型路由/比价小工具卖给内容团队\n   ⚠️ 风险: 平台随时收紧API，别把核心业务绑死\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🎬 短剧出海 | 短剧在尼日利亚和肯尼亚的素材接受度差这么多，本地化该从哪一层改？\n   💡 非洲市场本地化分层测试方法可复用到其他新兴市场\n   👉 按语言/面孔/节奏三层拆开做A/B测试\n   💰 机会: 非洲低成本流量若跑通是蓝海\n   ⚠️ 风险: 一次性改多层无法归因，浪费测试预算\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638744\n\n▎🛠️ AI工具 | 欧洲 SaaS 投放 CPA 涨到 180 欧，GDPR 同意弹窗是元凶吗？\n   💡 欧洲SaaS获客成本翻倍，影响我工具出海欧洲的投放模型\n   👉 检查自己落地页CMP与consent mode v2配置\n   💰 机会: 做GDPR合规CMP优化服务卖给SaaS同行\n   ⚠️ 风险: 归因口径错误会误判真实获客成本\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638743\n\n▎🛠️ AI工具 | 在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？\n   💡 独立开发者做付费Mac工具的变现路径可复制\n   👉 拆解其定价、获客与迭代节奏\n   💰 机会: 慢产品思路可做小众AI清理/效率插件\n   ⚠️ 风险: 慢节奏可能错过AI工具窗口期\n   📎 少数派\n   🔗 https://sspai.com/post/118512\n\n▎🛠️ AI工具 | [GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Per\n   💡 多模型桌面助手，可参考做插件或自用提效\n   👉 下载py-gpt测试MCP插件扩展能力\n   💰 机会: 基于其插件架构做垂直小工具上架\n   📎 GitHub开源\n   🔗 https://github.com/szczyglis-dev/py-gpt\n\n▎🎬 短剧出海 | [GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation tool. Uses Gemini for generating sto\n   💡 Gemini+Veo分镜转视频流水线，可借鉴工作流\n   👉 研究其Veo转场拼接方案，评估接入自流程\n   💰 机会: 低成本批量生成短剧转场片段\n   ⚠️ 风险: Veo API成本与生成时长限制\n   📎 GitHub开源\n   🔗 https://github.com/0xsline/StoryGen-Atelier\n\n▎🛠️ AI工具 | [GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high\n   💡 一键营销视频工具，可作竞品或投流素材工具\n   👉 试用小视频宝，对比自研投流素材效率\n   💰 机会: 批量生成TikTok投流素材卖服务\n   ⚠️ 风险: 同质化工具多，差异化难\n   📎 GitHub开源\n   🔗 https://github.com/clipturbo/clipturbo\n\n▎🎬 短剧出海 | [GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本\n   💡 开源短剧全流程工具，可降本或做竞品参考\n   👉 本地部署TOONOOT测试小说转动画短剧效果\n   💰 机会: 用其批量产出漫剧投海外\n   ⚠️ 风险: 0星项目，质量与维护存疑\n   📎 GitHub开源\n   🔗 https://github.com/winsentrobot008/TOONOOT\n\n▎🛠️ AI工具 | [GitHub] Anil-matcha/Open-Generative-AI: Uncensored Open-source alternative to AI video platforms — Free AI image & video\n   💡 3.4万星无审查视频生成，题材自由度大利于短剧\n   👉 自托管部署测试800+模型生成质量与成本\n   💰 机会: 无审查生成擦边题材短剧引流\n   ⚠️ 风险: 无审查内容可能违反平台政策被封\n   📎 GitHub开源\n   🔗 https://github.com/Anil-matcha/Open-Generative-AI\n\n▎🛠️ AI工具 | [GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with \n   💡 万条图像提示词库，可提升短剧素材与课程内容\n   👉 下载提示词库筛选短剧分镜可用模板\n   💰 机会: 整理成中文提示词包做知识付费\n   📎 GitHub开源\n   🔗 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts\n\n▎🎬 短剧出海 | [GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All\n   💡 开源视频生成模型可降本，替代付费Sora做短剧素材\n   👉 本地部署Open-Sora测试生成短剧片段质量\n   💰 机会: 自建视频生成管线省API成本\n   ⚠️ 风险: 开源模型质量不及商用，需评估\n   📎 GitHub开源\n   🔗 https://github.com/hpcaitech/Open-Sora\n\n▎🎬 短剧出海 | [GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from i\n   💡 去水印工具可处理素材，但商用有版权风险\n   👉 下载测试去水印效果，仅用于自有素材\n   ⚠️ 风险: 去除他人水印侵权，平台封号\n   📎 GitHub开源\n   🔗 https://github.com/D-Ogi/WatermarkRemover-AI\n\n▎🎬 短剧出海 | [GitHub] cporter202/automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand \n   💡 自动化多平台分发指南，直接对应短剧投放打法\n   👉 精读指南并落地批量发布流程\n   💰 机会: 批量内容矩阵放大收益\n   ⚠️ 风险: 平台反自动化限流\n   📎 GitHub开源\n   🔗 https://github.com/cporter202/automate-for-growth\n\n▎🛠️ AI工具 | [GitHub] SamurAIGPT/Vibe-Workflow: Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFau\n   💡 开源节点式AI工作流，可搭短剧生产管线\n   👉 部署测试搭建自动化视频生成工作流\n   💰 机会: 做工作流模板卖给同行\n   ⚠️ 风险: 上手成本高需调试\n   📎 GitHub开源\n   🔗 https://github.com/SamurAIGPT/Vibe-Workflow\n\n▎🎬 短剧出海 | [GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le\n   💡 Seedance 2.0提示词库直接提升漫剧出片质量\n   👉 下载提示词库并测试电影感/动漫场景模板\n   💰 机会: 用高质量prompt做差异化爆款题材\n   ⚠️ 风险: 提示词同质化，别人也在用\n   📎 GitHub开源\n   🔗 https://github.com/weshopai/awesome-Seedance-2.0-prompt\n\n▎🛠️ AI工具 | [GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet\n   💡 竞品广告情报自动化，可反哺投流打法\n   👉 研究其多模态创意提取逻辑并本地部署\n   💰 机会: 做成投流素材分析SaaS卖给同行\n   ⚠️ 风险: 企业级管线部署成本可能偏高\n   📎 GitHub开源\n   🔗 https://github.com/bitsandbrainsai/ai-ad-creative-strategist\n\n▎🎬 短剧出海 | [GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w\n   💡 桌面端短剧创作工具，明确支持短剧和翻译视频\n   👉 下载测试其短剧与翻译视频工作流\n   💰 机会: 替代现有剪辑流程降本\n   ⚠️ 风险: 21星早期项目，稳定性存疑\n   📎 GitHub开源\n   🔗 https://github.com/ajoesoft/ai0-video-creator\n\n▎🎬 短剧出海 | [GitHub] nabobery/veo3-workflow-agents: A complete AI-powered video generation pipeline that enhances creative prompts a\n   💡 单API key跑Veo3出片，降低技术门槛\n   👉 用Veo3 API跑一条测试片对比成本\n   💰 机会: Veo3高质量素材做高端短剧\n   ⚠️ 风险: API调用成本可能吃掉利润\n   📎 GitHub开源\n   🔗 https://github.com/nabobery/veo3-workflow-agents\n\n▎🎬 短剧出海 | [版本更新] Toonflow短剧工具 v2.0.10: Toonflow 2.0.10\n   💡 专用短剧工具更新，直接服务核心业务\n   👉 下载v2.0.10对比旧版功能差异\n   💰 机会: 用新版功能提效短剧量产\n   ⚠️ 风险: 版本更新可能引入新bug\n   📎 GitHub版本\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v2.0.10\n\n▎🛠️ AI工具 | [版本更新] MoneyPrinter v1.3.10: v1.3.10\n   💡 开源AI视频生成工具更新，可低成本批量产短剧素材\n   👉 下载MoneyPrinter v1.3.10测试批量出片效果\n   💰 机会: 用开源工具降本做短剧量产\n   ⚠️ 风险: 开源工具稳定性差，商用需查协议\n   📎 GitHub版本\n   🔗 https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.10\n\n▎📡 行业动态 | [HN] Disney making $1B investment in OpenAI, will allow characters on Sora AI\n   💡 迪士尼IP入局Sora，预示AI视频内容商业化加速\n   👉 研究迪士尼IP授权模式对短剧题材的启发\n   💰 机会: 借势IP+AI短剧新题材方向\n   ⚠️ 风险: 大厂入局挤压小玩家空间\n   📎 Hacker News\n   🔗 https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html\n\n▎📡 行业动态 | [HN] The Walt Disney Company and OpenAI Partner on Sora\n   💡 官方合作细节披露，影响AI视频内容版权规则\n   👉 阅读CNBC报道梳理合作条款与版权边界\n   ⚠️ 风险: 版权合规要求可能收紧\n   📎 Hacker News\n   🔗 https://openai.com/index/disney-sora-agreement/\n\n▎🛠️ AI工具 | [新品] EditTextInImage: Fix typos, dates, and text in images without source files\n   💡 图像文字编辑工具，短剧封面/海报修改刚需\n   👉 试用EditTextInImage测试短剧海报改字效果\n   💰 机会: 可集成为短剧素材快速修改工具\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/edittextinimage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] KleboAI: AI Image Detector using browser extension or Backend API\n   💡 AI检测需求上升，可做插件或API转售\n   👉 测试检测准确率，评估封装成SaaS\n   💰 机会: 面向内容平台卖AI检测API\n   ⚠️ 风险: 检测准确率低会砸口碑\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/kleboai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] AI Chatbot Builder Guide: Build AI chatbots for websites with practical tools\n   💡 自由职业者建站需求，可做课程或工具\n   👉 拆解指南，提炼成知识付费选题\n   💰 机会: 做AI客服搭建实战课\n   ⚠️ 风险: 内容同质化严重\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/ai-chatbot-builder-guide?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n🔹 【B级 · 了解即可】\n\n▎🛠️ AI工具 | 因算力不足，DeepSeek对App/网页版限额使用\n   💡 免费模型限额，依赖它做内容会断供\n   ⚠️ 风险: 免费额度收紧导致制作成本上升\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4071876412232839\n\n▎📡 行业动态 | AI 录音硬件卖的是时间差，窗口可能只剩半年\n   💡 硬件赛道与我的业务无关，仅背景参考\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373946\n\n▎📡 行业动态 | 创业者做 Personal Agent，有没有一线生机？\n   💡 思路可借鉴做垂直短剧Agent工具\n   💰 机会: 做短剧垂直场景的Personal Agent小工具\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373650\n\n▎📡 行业动态 | iPhone Siri AI 体验：距离真正的 AI Phone，苹果还有多远？| 附开通指南\n   💡 与短剧出海和工具业务关联弱\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1688980?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📄 其他 | 联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有\n   💡 安卓PC生态空白，与主业关联弱\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1689128?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📄 其他 | 独家丨一家主动灭火的智慧消防公司，融资超千万\n   💡 SaaS订阅制+B端硬件模式可借鉴，但赛道无关\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html\n\n▎📄 其他 | TikTok Shop马来站达人寄样，样品物流签收要4-6天、回款T+7，这个周转还能撑住吗？\n   💡 电商寄样账期问题，与短剧/工具主业无关\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638747\n\n▎📄 其他 | 尼日利亚站投放 CPA 涨到 4.2 美元，本地支付转化却只有 11%，该先修哪头？\n   💡 非洲电商支付坑，与主业关联弱但可借鉴\n   ⚠️ 风险: 新兴市场支付基建不成熟易踩坑\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638740\n\n▎📡 行业动态 | 华为麒麟 9050 系列芯片智能音视频处理情报公开：低延迟 AI 异构协同计算、率先支持 H.266 解码\n   💡 H.266硬解普及将降低短剧播放带宽成本\n   💰 机会: 提前用H.266压缩可省投流带宽费\n   ⚠️ 风险: 海外平台兼容性未跟上，暂勿全量转码\n   📎 IT之家\n   🔗 https://www.ithome.com/1/027/574.htm\n\n▎📄 其他 | 效率提升 300%，长安汽车数实融合无人化测试系统亮相\n   💡 与AI内容出海业务无关，纯行业背景\n   📎 IT之家\n   🔗 https://www.ithome.com/1/027/573.htm\n\n▎📄 其他 | 飞傲蓝牙解码耳机功率放大器 BTR25 发售：699 元，支持 aptX Lossless / LE Audio / LDAC 全规格\n   💡 硬件产品新闻，与三块业务均无关联\n   📎 IT之家\n   🔗 https://www.ithome.com/1/027/554.htm\n\n▎📄 其他 | 一个黄金周120场市集：商场要客流，年轻人要同好\n   💡 线下市集热度可作线下课招生场景参考\n   💰 机会: 市集摆摊低成本获客知识付费学员\n   ⚠️ 风险: 市集人流与付费意愿未必匹配\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4905853.html\n\n▎📄 其他 | “零元面馆”的教训是，慈善不应与商业同台竞争\n   💡 商业与公益边界案例，与主业无直接关系\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4905848.html\n\n▎📄 其他 | 大投诉时代，人人都有点委屈\n   💡 社会投诉文化背景，与业务无直接关联\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4905831.html\n\n▎📡 行业动态 | Mehri Madarshahi：从全球化走向地缘经济时代：经济安全背景下对APEC开放区域主义的重新思考\n   💡 宏观地缘经济背景，间接影响出海环境\n   ⚠️ 风险: 保护主义抬头或影响海外平台准入\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4905832.html\n\n▎📡 行业动态 | 拆飞机供电？AI公司的算力焦虑已经卷到电力端\n   💡 算力电力瓶颈长期推高AI工具成本\n   ⚠️ 风险: 算力成本上升或传导至AI工具订阅费\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4905822.html\n\n▎📄 其他 | 近臣\n   💡 AI助手记忆与主动性趋势，产品设计参考\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4905803.html\n\n▎🛠️ AI工具 | [GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video\n   💡 开源AI创作平台，可参考其多平台发布功能设计\n   📎 GitHub开源\n   🔗 https://github.com/gongxings/ai-creator\n\n▎🎬 短剧出海 | [GitHub] TorresLi608/SceneFlow: 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intell\n   💡 开源AI短剧工作台，功能架构可借鉴但星数低\n   ⚠️ 风险: 项目不成熟，勿直接依赖\n   📎 GitHub开源\n   🔗 https://github.com/TorresLi608/SceneFlow\n\n▎🛠️ AI工具 | [GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every \n   💡 Python AI开发框架，做SaaS工具时可用\n   📎 GitHub开源\n   🔗 https://github.com/pydantic/pydantic-ai\n\n▎🛠️ AI工具 | [GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima\n   💡 GPT-4o图像提示词合集，可参考风格做素材\n   📎 GitHub开源\n   🔗 https://github.com/jamez-bondos/awesome-gpt4o-images\n\n▎🛠️ AI工具 | [GitHub] open-mmlab/mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unl\n   💡 学术级生成工具箱，工程落地成本高\n   📎 GitHub开源\n   🔗 https://github.com/open-mmlab/mmagic\n\n▎🛠️ AI工具 | [GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid\n   💡 开源Sora客户端，可参考做自有生成工具界面\n   💰 机会: 包装成SaaS卖点\n   ⚠️ 风险: 依赖OpenAI API有封禁风险\n   📎 GitHub开源\n   🔗 https://github.com/SoraWebui/SoraWebui\n\n▎🎬 短剧出海 | [GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation\n   💡 通用视频生成研究项目，技术参考价值有限\n   📎 GitHub开源\n   🔗 https://github.com/lichao-sun/Mora\n\n▎🛠️ AI工具 | [GitHub] all-in-aigc/sorafm: Sora AI Video Generator by Sora.FM\n   💡 Sora生成器开源实现，可参考变现模式\n   💰 机会: 仿制做垂直短剧生成器\n   ⚠️ 风险: 同质化竞争激烈\n   📎 GitHub开源\n   🔗 https://github.com/all-in-aigc/sorafm\n\n▎📄 其他 | [GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m\n   💡 视频转机器人动作，与业务无关\n   📎 GitHub开源\n   🔗 https://github.com/AIM-Intelligence/video2robot\n\n▎🛠️ AI工具 | [GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models\n   💡 视觉LLM剪辑管线，可参考做自动化短剧后期\n   💰 机会: 集成到短剧生产流水线省人工\n   ⚠️ 风险: 69星项目成熟度低，别直接商用\n   📎 GitHub开源\n   🔗 https://github.com/mazsola2k/ai-video-editor\n\n▎📡 行业动态 | [版本更新] Open-Sora v1.3: Open-Sora V1.3 Release\n   💡 开源视频模型迭代，长期影响制作成本\n   ⚠️ 风险: 开源模型商用授权需核查\n   📎 GitHub版本\n   🔗 https://github.com/hpcaitech/Open-Sora/releases/tag/v1.3\n\n▎🛠️ AI工具 | [版本更新] ComfyUI v0.45.0: v0.45.0\n   💡 底层工作流工具常规更新，影响出片稳定性\n   ⚠️ 风险: 升级可能破坏现有工作流节点\n   📎 GitHub版本\n   🔗 https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.0\n\n▎🛠️ AI工具 | [HN] Show HN: A different kind of AI Video generation\n   💡 新AI视频生成思路，或影响短剧制作工作流\n   📎 Hacker News\n   🔗 https://news.ycombinator.com/item?id=44383086\n\n▎📡 行业动态 | [HN] Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)\n   💡 小团队自研文生视频模型，验证技术门槛在降低\n   💰 机会: 小团队可自建垂直模型\n   ⚠️ 风险: 自研模型投入大回报慢\n   📎 Hacker News\n   🔗 https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video\n\n▎📡 行业动态 | [HN] Meta’s new text-to-video AI generator is like DALL-E for video\n   💡 旧闻，Meta入局文生视频，背景信息\n   📎 Hacker News\n   🔗 https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e\n\n▎📡 行业动态 | [HN] Google announces Veo, their Sora competing text/image-to-video model\n   💡 旧闻，Veo是短剧素材可选工具之一\n   📎 Hacker News\n   🔗 https://aitestkitchen.withgoogle.com/tools/video-fx\n\n▎📡 行业动态 | [HN] Sora: Creating video from text\n   💡 旧闻，Sora发布标志AI视频时代开启\n   📎 Hacker News\n   🔗 https://openai.com/sora\n\n▎📡 行业动态 | [HN] Sora is here\n   💡 旧闻，Sora正式开放，曾影响短剧制作\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-is-here/\n\n▎🛠️ AI工具 | [新品] Kuakua: Focus Timer, Sounds & Eye Rest: Turn every new tab into a mini mindfulness retreat\n   💡 新标签页工具竞品，参考其产品设计与变现\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/kuakua-focus-timer-sounds-eye-rest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] Tulvo: Smart & adaptive workspace to manage all your work\n   💡 小企业一体化工作台，可参考SaaS整合思路\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/tulvo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] 球X (QIUX.AI): 全球体育即时比分、AI赛事研判与博彩论坛交流社区\n   💡 垂直AI+社区产品案例，参考AI工具变现路径\n   ⚠️ 风险: 博彩相关合规风险\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/x-qiux-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] launchstack-cli: Drift-safe backend scaffolding for TypeScript\n   💡 后端脚手架工具，与AI内容变现关联弱\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/launchstack-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎📄 其他 | [新品] ShopKeeprr: Self-hosted commerce with four store models\n   💡 自托管电商平台，与主业关联不大\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/shopkeeprr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+ "date": "2026-11-17 05:52",
+ "report_text": "📡 情报雷达 · 每日简报 2026-11-17\n今日情报 71 条 | 🚨S级 4 | 🔶A级 25\n==============================\n\n🚨 【S级 · 立刻行动】\n\n▎🎬 短剧出海 | 业绩快报 | 爱奇艺Q3Non-GAAP运营盈利，内容生态转型与AI战略初显成效\n   💡 AI短剧/漫剧成本降50-80%、周期降80%，分账模式验证赚钱路径\n   👉 研究爱奇艺AI短剧分账规则与纳逗Pro工具\n   💰 机会: AI漫剧分账，单部首周回本\n   ⚠️ 风险: 平台分账规则可能收紧，竞争加剧\n   📎 36氪\n   🔗 https://36kr.com/p/4073327210304649?f=rss\n\n▎🎬 短剧出海 | [GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent \n   💡 开源短剧漫剧全流程工具，直接降本提效\n   👉 本地部署Toonflow，测试分镜与视频生成\n   💰 机会: 用开源工具替代付费管线省成本\n   ⚠️ 风险: 开源工具稳定性与商用授权需核实\n   📎 GitHub开源\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app\n\n▎🎬 短剧出海 | [HN] Goodbye to Sora\n   💡 Sora若关停将影响短剧AI视频生产管线\n   👉 核实Sora状态并准备备用生成工具方案\n   💰 机会: 竞品工具趁机抢占市场\n   ⚠️ 风险: 依赖单一视频工具风险高\n   📎 Hacker News\n   🔗 https://twitter.com/soraofficialapp/status/2036532795984715896\n\n▎🎬 短剧出海 | [HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora\n   💡 Sora关停，依赖其做短剧的工具链需紧急替换\n   👉 排查现有工作流中Sora依赖，切换备选视频模型\n   💰 机会: 备选工具迁移服务\n   ⚠️ 风险: Sora素材无法继续生产\n   📎 Hacker News\n   🔗 https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/\n\n🔶 【A级 · 今天处理】\n\n▎🎬 短剧出海 | 36氪专访｜《愤怒的小鸟》前全球营销副总裁、Smadex CMO：最先拉响警报的，是移动游戏的下载量\n   💡 出海买量/ROAS/CTV投放方法论可迁移到短剧投流\n   👉 研究Smadex的CTV+移动端转化打法\n   💰 机会: 短剧投流借鉴游戏出海ROAS模型\n   ⚠️ 风险: 买量成本上升，回本周期拉长\n   📎 36氪\n   🔗 https://36kr.com/p/4063717266838400?f=rss\n\n▎🛠️ AI工具 | AI 录音硬件卖的是时间差，窗口可能只剩半年\n   💡 苹果下场抢赛道，AI录音硬件窗口收窄，警示工具类选品\n   👉 评估AI工具是否会被大厂功能吞没\n   ⚠️ 风险: 大厂功能免费化，小工具被替代\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373946\n\n▎🛠️ AI工具 | 接入多款第三方模型，豆包工作也模型自由了\n   💡 多模型+透明倍率降低AI工具开发与调用成本\n   👉 测试豆包工作多模型API成本对比\n   💰 机会: 低成本模型组合做SaaS降本\n   ⚠️ 风险: 模型切换增加适配维护成本\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373881\n\n▎🛠️ AI工具 | 创业者做 Personal Agent，有没有一线生机？\n   💡 指出价值可长在基模外，为小工具/SaaS选品提供思路\n   👉 梳理自身场景数据壁垒做差异化Agent\n   💰 机会: 垂直场景Personal Agent小工具\n   ⚠️ 风险: 基模升级吞没产品价值\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373650\n\n▎🛠️ AI工具 | 早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日\n   💡 Qwen4-Max缓存价0.5元/百万Token，大幅压低AI内容生产成本\n   👉 注册阿里云百炼，测试Qwen4-Max批量生成短剧脚本\n   💰 机会: 用低价Token批量产漫剧分镜脚本\n   ⚠️ 风险: 低价期可能限时，需尽快锁定用量\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🛠️ AI工具 | 实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页\n   💡 两毛钱做3D交互网页，可低成本验证工具类SaaS原型\n   👉 用Hy4 flash实测做一个短剧素材展示页原型\n   💰 机会: 低成本快速验证插件/SaaS创意\n   ⚠️ 风险: 限时免费结束后成本可能回升\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🛠️ AI工具 | AI 写作工具在巴西墨西哥订阅拒付率偏高，只有两个人怎么排期处理？\n   💡 拉美订阅拒付率4%+，做SaaS出海必须提前避的坑\n   👉 研究Stripe本地支付接入与拒付申诉自动化方案\n   💰 机会: 拒付申诉自动化工具本身可做成插件卖\n   ⚠️ 风险: 只接Stripe不做本地钱包，拒付率难降\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638786\n\n▎📡 行业动态 | 一年少了约30万名学生：韩国补习市场大退潮？\n   💡 补习市场萎缩，知识付费需警惕同类趋势\n   👉 复盘课程卖点，强化AI变现实操差异化\n   💰 机会: 转向成人AI技能培训，避开K12萎缩\n   ⚠️ 风险: 知识付费大盘收缩，获客成本上升\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4906198.html\n\n▎🎬 短剧出海 | 韩剧水平下降一百倍，这锅该不该短剧背？\n   💡 短剧叙事范式正被主流市场验证，题材参考\n   👉 拆解《再婚皇后》爽点结构，提炼可复用模板\n   💰 机会: 皇后打小三类爽文题材可做AI漫剧出海\n   ⚠️ 风险: 旧范式过时，需用新版大女主套路\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4906183.html\n\n▎🎬 短剧出海 | [GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation tool. Uses Gemini for generating sto\n   💡 Gemini+Veo分镜转视频管线可借鉴\n   👉 研究其Veo转场拼接流程并试用\n   💰 机会: 复用其管线做漫剧批量生产\n   ⚠️ 风险: Veo成本与生成时长限制\n   📎 GitHub开源\n   🔗 https://github.com/0xsline/StoryGen-Atelier\n\n▎🛠️ AI工具 | [GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high\n   💡 营销视频一键生成，可作竞品或自用\n   👉 试用小视频宝，评估做SaaS竞品\n   💰 机会: 营销视频工具可包装成付费插件\n   ⚠️ 风险: 同类工具多，差异化不足\n   📎 GitHub开源\n   🔗 https://github.com/clipturbo/clipturbo\n\n▎🎬 短剧出海 | [GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本\n   💡 开源短剧全流程工具，可降本提效\n   👉 本地部署测试其分镜与角色一致性\n   💰 机会: 用其批量产漫剧投海外\n   ⚠️ 风险: 0星新项目，稳定性存疑\n   📎 GitHub开源\n   🔗 https://github.com/winsentrobot008/TOONOOT\n\n▎🛠️ AI工具 | [GitHub] Anil-matcha/Open-Generative-AI: Uncensored Open-source alternative to AI video platforms — Free AI image & video\n   💡 无审查多模型视频生成，题材自由度高\n   👉 自托管测试800+模型出片质量\n   💰 机会: 做海外擦边题材短剧\n   ⚠️ 风险: 无审查内容或违反平台政策\n   📎 GitHub开源\n   🔗 https://github.com/Anil-matcha/Open-Generative-AI\n\n▎🛠️ AI工具 | [GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with \n   💡 万条生图提示词，短剧分镜素材直接可用\n   👉 下载提示词库筛选短剧场景模板\n   💰 机会: 打包成提示词付费产品\n   📎 GitHub开源\n   🔗 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts\n\n▎🛠️ AI工具 | [GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All\n   💡 开源视频生成模型，可自建降本\n   👉 测试Open-Sora出片质量与成本\n   💰 机会: 自建视频生成省API费\n   ⚠️ 风险: 算力成本与画质不及商用\n   📎 GitHub开源\n   🔗 https://github.com/hpcaitech/Open-Sora\n\n▎🛠️ AI工具 | [GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from i\n   💡 可去AI视频水印，短剧素材二次利用省成本\n   👉 本地部署测试对Sora/Runway视频去水印效果\n   💰 机会: 批量处理素材做二创分发\n   ⚠️ 风险: 去水印涉版权，商用有法律风险\n   📎 GitHub开源\n   🔗 https://github.com/D-Ogi/WatermarkRemover-AI\n\n▎🎬 短剧出海 | [GitHub] cporter202/automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand \n   💡 含Sora2批量生成+多平台分发的自动化打法\n   👉 通读指南并提取可复用的批量分发流程\n   💰 机会: 搭建短剧批量生产分发流水线\n   ⚠️ 风险: 平台对自动化发布可能限流封号\n   📎 GitHub开源\n   🔗 https://github.com/cporter202/automate-for-growth\n\n▎🛠️ AI工具 | [GitHub] SamurAIGPT/Vibe-Workflow: Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFau\n   💡 开源节点式AI工作流，可替代付费工具省订阅费\n   👉 部署测试搭建短剧生成工作流\n   💰 机会: 封装成知识付费课程实操案例\n   ⚠️ 风险: 开源工具稳定性差，维护成本高\n   📎 GitHub开源\n   🔗 https://github.com/SamurAIGPT/Vibe-Workflow\n\n▎🎬 短剧出海 | [GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le\n   💡 Seedance 2.0提示词库可提升短剧/漫剧生成质量与效率\n   👉 克隆仓库并测试其中电影感/动漫场景提示词\n   💰 机会: 用高质量提示词批量产出爆款短剧素材\n   ⚠️ 风险: 提示词同质化，需二次改编避免撞车\n   📎 GitHub开源\n   🔗 https://github.com/weshopai/awesome-Seedance-2.0-prompt\n\n▎🎬 短剧出海 | [GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w\n   💡 桌面端短剧创作工具，支持本地ComfyUI降本\n   👉 下载测试其短剧/翻译视频工作流\n   💰 机会: 本地化生产降低API成本，提升利润\n   ⚠️ 风险: 开源工具稳定性与更新持续性存疑\n   📎 GitHub开源\n   🔗 https://github.com/ajoesoft/ai0-video-creator\n\n▎🎬 短剧出海 | [版本更新] Toonflow短剧工具 v2.0.10: Toonflow 2.0.10\n   💡 专用短剧工具更新，直接影响漫剧生产效率\n   👉 下载v2.0.10测试新功能与稳定性\n   💰 机会: 用专用工具提升漫剧产能\n   ⚠️ 风险: 工具依赖单一，注意数据备份\n   📎 GitHub版本\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v2.0.10\n\n▎📡 行业动态 | [HN] Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)\n   💡 小团队自研视频模型，说明门槛在降低\n   👉 阅读linum.ai技术博客评估其生成质量\n   💰 机会: 低成本自建视频生成能力\n   ⚠️ 风险: 自研模型投入大回报不确定\n   📎 Hacker News\n   🔗 https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video\n\n▎🎬 短剧出海 | [HN] Sora 2\n   💡 Sora 2升级影响短剧画面质量与成本\n   👉 查看Sora 2系统卡和样片评估可用性\n   💰 机会: 用Sora 2提升短剧制作效率\n   ⚠️ 风险: 新版本可能有使用限制或涨价\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-2/\n\n▎📡 行业动态 | [HN] Disney making $1B investment in OpenAI, will allow characters on Sora AI\n   💡 迪士尼IP入Sora，AI视频内容版权格局生变\n   👉 关注Sora是否开放迪士尼IP商用授权\n   💰 机会: 用授权IP做短剧引流\n   ⚠️ 风险: 无授权用IP将被严打\n   📎 Hacker News\n   🔗 https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html\n\n▎📡 行业动态 | [HN] The Walt Disney Company and OpenAI Partner on Sora\n   💡 大厂合作验证AI视频商业化，题材风向标\n   👉 研究Sora生成迪士尼风格内容的分账规则\n   💰 机会: 蹭IP热度做二创短剧\n   ⚠️ 风险: 平台可能收紧二创政策\n   📎 Hacker News\n   🔗 https://openai.com/index/disney-sora-agreement/\n\n🔹 【B级 · 了解即可】\n\n▎📄 其他 | 沃尔玛中国持续加码广东布局，签订“十五五”战略合作框架协议\n   💡 与AI内容出海无直接关联，仅背景信息\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4073431843672964\n\n▎🛠️ AI工具 | 前安克CMO创办的AI可穿戴硬件再获新融资，产品已量产｜硬氪首发\n   💡 AI硬件赛道热，但与我的工具/插件方向关联弱\n   📎 36氪\n   🔗 https://36kr.com/p/4072342767047814?f=rss\n\n▎📄 其他 | AI时代，TCL华星开始重新理解一块好屏\n   💡 显示硬件行业动态，与内容出海无直接关系\n   📎 36氪\n   🔗 https://36kr.com/p/4071761698263939?f=rss\n\n▎📄 其他 | 12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」\n   💡 汽车出海口碑事件，与AI内容业务无直接关联\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026\n   💡 AI摘要可信度话题，可作知识付费课程选题素材\n   💰 机会: 开发'AI内容溯源与审核'付费小课\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html\n\n▎📡 行业动态 | 日本手游预约期买量，5人小团队该不该同步铺韩国预约页？\n   💡 小团队多市场投放取舍逻辑，可迁移到短剧多平台投放\n   ⚠️ 风险: 多平台同时铺易导致素材迭代跟不上\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638787\n\n▎📡 行业动态 | 日本手游预约期CPA涨到1800日元，还要不要继续加预算？\n   💡 投放CPA上涨的止损判断逻辑，可参考到短剧投流\n   ⚠️ 风险: 盲目加预算推高CPA且难回落\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638780\n\n▎📡 行业动态 | 沙特海外仓备货周转慢，广告CPA涨到38美元还要继续压货吗？\n   💡 电商投放与备货节奏问题，与短剧业务关联弱\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638778\n\n▎📄 其他 | 历时 6 年制作：微软 Metro UI 纪录片本月上线，重现 Windows Phone 最激进设计遗产\n   💡 设计史纪录片，与业务无直接关联\n   📎 IT之家\n   🔗 https://www.ithome.com/1/028/230.htm\n\n▎📄 其他 | 消息称阿里调整员工回流政策，知情人士否认“史上最严”说法\n   💡 大厂人事政策，与一人公司业务无关\n   📎 IT之家\n   🔗 https://www.ithome.com/1/028/217.htm\n\n▎📄 其他 | 微软高管自嘲：Win11 仍藏着 Win95 时代的“电话拨号器”\n   💡 系统遗留功能趣闻，无业务价值\n   📎 IT之家\n   🔗 https://www.ithome.com/1/028/213.htm\n\n▎📄 其他 | 360 回应副总裁卜思南被带走调查传闻：内审发现其涉嫌经济问题，已报案\n   💡 企业反腐新闻，与AI内容出海无关\n   📎 IT之家\n   🔗 https://www.ithome.com/1/028/212.htm\n\n▎📡 行业动态 | 美国为什么一边衰落，一边加码科技文化渗透？\n   💡 宏观地缘分析，对日常决策参考有限\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4906197.html\n\n▎📄 其他 | 美国成“卖血帝国”？说法存疑\n   💡 事实核查类内容，与业务无交集\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4906193.html\n\n▎📡 行业动态 | 记者卧底调查虚假宣传乱象，三年赚100万，要不要了解一下？\n   💡 传销式营销套路可作知识付费反面教材\n   💰 机会: 知识付费可做'识别割韭菜'选题引流\n   ⚠️ 风险: 自己课程营销别踩同类夸大宣传红线\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4906176.html\n\n▎📡 行业动态 | “学霸”自首AI作弊，韩国高考紧急布防\n   💡 AI作弊热点可做内容选题，非核心业务\n   💰 机会: AI作弊话题做短视频蹭流量\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4906175.html\n\n▎📄 其他 | 保研举报成风，这不只是“坏人变小了”\n   💡 与业务无关，仅社会背景信息\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4906164.html\n\n▎🛠️ AI工具 | [GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Per\n   💡 多模型桌面助手，参考其插件架构\n   📎 GitHub开源\n   🔗 https://github.com/szczyglis-dev/py-gpt\n\n▎🛠️ AI工具 | [GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video\n   💡 多功能创作平台，参考其多平台发布\n   📎 GitHub开源\n   🔗 https://github.com/gongxings/ai-creator\n\n▎🛠️ AI工具 | [GitHub] TorresLi608/SceneFlow: 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intell\n   💡 开源AI短剧工作台，可参考其功能架构\n   💰 机会: 可借鉴做自有短剧生产SaaS\n   ⚠️ 风险: 仅4星，成熟度低\n   📎 GitHub开源\n   🔗 https://github.com/TorresLi608/SceneFlow\n\n▎🛠️ AI工具 | [GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every \n   💡 Python AI开发框架，做工具时提效\n   💰 机会: 加速AI插件开发\n   📎 GitHub开源\n   🔗 https://github.com/pydantic/pydantic-ai\n\n▎🛠️ AI工具 | [GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima\n   💡 GPT-4o生图案例库，可参考风格\n   📎 GitHub开源\n   🔗 https://github.com/jamez-bondos/awesome-gpt4o-images\n\n▎🛠️ AI工具 | [GitHub] open-mmlab/mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unl\n   💡 生成式工具箱，技术底座参考\n   📎 GitHub开源\n   🔗 https://github.com/open-mmlab/mmagic\n\n▎🛠️ AI工具 | [GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid\n   💡 开源Sora客户端，可参考做视频生成工具界面\n   💰 机会: 可二次封装成短剧素材生成工具\n   ⚠️ 风险: 依赖OpenAI官方API，成本不可控\n   📎 GitHub开源\n   🔗 https://github.com/SoraWebui/SoraWebui\n\n▎🛠️ AI工具 | [GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation\n   💡 开源通用视频生成框架，技术参考价值\n   ⚠️ 风险: 开源模型质量难敌商用，落地成本高\n   📎 GitHub开源\n   🔗 https://github.com/lichao-sun/Mora\n\n▎🛠️ AI工具 | [GitHub] all-in-aigc/sorafm: Sora AI Video Generator by Sora.FM\n   💡 Sora生成器SaaS样板，可参考变现模式\n   💰 机会: 仿做垂直短剧生成SaaS\n   ⚠️ 风险: 同质化严重，获客难\n   📎 GitHub开源\n   🔗 https://github.com/all-in-aigc/sorafm\n\n▎📄 其他 | [GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m\n   💡 视频转机器人动作，与主业无关\n   📎 GitHub开源\n   🔗 https://github.com/AIM-Intelligence/video2robot\n\n▎🛠️ AI工具 | [GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models\n   💡 视觉LLM自动剪辑管线，可提效短剧后期\n   ⚠️ 风险: 星数低，成熟度不足\n   📎 GitHub开源\n   🔗 https://github.com/mazsola2k/ai-video-editor\n\n▎🛠️ AI工具 | [GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet\n   💡 竞品广告情报自动化，可借鉴做投流素材分析\n   💰 机会: 做成投流素材分析小工具售卖\n   ⚠️ 风险: 企业级定位，个人使用成本可能偏高\n   📎 GitHub开源\n   🔗 https://github.com/bitsandbrainsai/ai-ad-creative-strategist\n\n▎🎬 短剧出海 | [GitHub] nabobery/veo3-workflow-agents: A complete AI-powered video generation pipeline that enhances creative prompts a\n   💡 Veo3单API流水线，可参考做视频生成自动化\n   💰 机会: 封装成短剧批量生成流水线\n   ⚠️ 风险: Veo3 API成本高，需算清单条成本\n   📎 GitHub开源\n   🔗 https://github.com/nabobery/veo3-workflow-agents\n\n▎📡 行业动态 | [版本更新] Open-Sora v1.3: Open-Sora V1.3 Release\n   💡 开源视频模型迭代，长期影响生成成本\n   ⚠️ 风险: 版本较旧，商用成熟度不足\n   📎 GitHub版本\n   🔗 https://github.com/hpcaitech/Open-Sora/releases/tag/v1.3\n\n▎🛠️ AI工具 | [版本更新] ComfyUI v0.45.0: v0.45.0\n   💡 底层工作流工具常规更新，影响生成稳定性\n   ⚠️ 风险: 升级可能破坏现有节点兼容性\n   📎 GitHub版本\n   🔗 https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.0\n\n▎🛠️ AI工具 | [版本更新] MoneyPrinter v1.3.10: v1.3.10\n   💡 批量视频生成工具更新，可辅助内容量产\n   💰 机会: 低成本批量生成社媒短视频\n   ⚠️ 风险: 批量内容质量低，平台可能限流\n   📎 GitHub版本\n   🔗 https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.10\n\n▎🛠️ AI工具 | [HN] Show HN: A different kind of AI Video generation\n   💡 独立开发者做AI视频工具，可参考其产品思路\n   📎 Hacker News\n   🔗 https://news.ycombinator.com/item?id=44383086\n\n▎📡 行业动态 | [HN] Meta’s new text-to-video AI generator is like DALL-E for video\n   💡 旧闻，仅作视频生成发展脉络参考\n   📎 Hacker News\n   🔗 https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e\n\n▎📡 行业动态 | [HN] Google announces Veo, their Sora competing text/image-to-video model\n   💡 Veo是短剧制作可选工具，需持续关注\n   📎 Hacker News\n   🔗 https://aitestkitchen.withgoogle.com/tools/video-fx\n\n▎📡 行业动态 | [HN] Sora: Creating video from text\n   💡 Sora发布是行业里程碑，旧闻背景\n   📎 Hacker News\n   🔗 https://openai.com/sora\n\n▎📡 行业动态 | [HN] Sora is here\n   💡 Sora正式开放，旧闻仅作背景\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-is-here/\n\n▎🛠️ AI工具 | [新品] Air Hockey: Air hockey with no ads during play, vs AI or 2 on 1 phone\n   💡 小游戏无广告变现模式，参考其轻量SaaS思路\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/air-hockey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] StimuStop: Free quit tracker for smoking, vaping and nicotine pouches\n   💡 垂直健康追踪工具，验证小众需求可做SaaS\n   💰 机会: 垂直健康类小工具\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/stimustop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] Avaloka: AI-Powered Data Analysis for Modern Enterprises\n   💡 AI数据分析SaaS竞品，参考其定位与定价\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/avaloka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] ImgPocket: Free Image Compressor, Resizer & Converter\n   💡 免费图片工具，短剧封面/素材处理可借用\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/imgpocket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
  "items": [
   {
-   "title": "因算力不足，DeepSeek对App/网页版限额使用",
-   "link": "https://www.36kr.com/newsflashes/4071876412232839",
-   "summary": "DeepSeek对App/网页版的长对话进行了限额使用。多名用户反馈，DeepSeek提示因“算力不足，不再支持超过7天不活跃的长对话”，并对单次输入文字的上限进行了调整，缩短至4万字左右。此外，还会限制每日的对话额度，当用户日使用量达到上限时，会提示“因服务器繁忙，使用额度已达上限。”（财联社）",
-   "published": "Mon, 16 Nov 2026 03:26:53 GMT",
+   "title": "沃尔玛中国持续加码广东布局，签订“十五五”战略合作框架协议",
+   "link": "https://www.36kr.com/newsflashes/4073431843672964",
+   "summary": "11月16日，广东省人民政府与沃尔玛（中国）投资有限公司签署“十五五”时期战略合作框架协议。今年恰逢沃尔玛入华三十周年，值此契机双方将围绕投资落地、门店升级、跨境电商、本地采购与产业链协同、全球资源共享、常态化对接六大领域深度合作，推动合作项目化落地。广东是沃尔玛在中国最重要的市场之一，沃尔玛持续加大在广东的门店、供应链与数字化投入，与本地产业和消费者共同成长。从门店到供应链，从商品采购到全球电商，双方合作已形成多维度、体系化的格局。",
+   "published": "Tue, 17 Nov 2026 05:49:09 GMT",
    "source": "36氪 - 快讯",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "与AI内容出海无直接关联，仅背景信息",
+   "action": "无需行动，跳过",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "业绩快报 | 爱奇艺Q3Non-GAAP运营盈利，内容生态转型与AI战略初显成效",
+   "link": "https://36kr.com/p/4073327210304649?f=rss",
+   "summary": "11月16日，爱奇艺（NASDAQ:IQ）发布2026年第三季度财报。报告期内，公司保持核心业务领先的同时，继续推进“转型长视频社交媒体”与“All in AI”两大战略。三季度，平台内容供给进一步扩大，内容成本结构持续优化，Non-GAAP运营利润重回盈利。 数据显示，三季度，公司实现总收入60.1亿元（人民币，下同），Non-GAAP运营利润2500万元。分业务看，会员服务收入39.7亿元，在线广告服务收入12.8亿元，内容发行收入4亿元，其他收入3.6亿元。 内容领先是爱奇艺发展的基石。 三季度，爱奇艺长剧集、电影和少儿内容季度云合总市占率保持行业第一，中剧云合总市占率首次登顶。其中，长剧《重器》热度值突破9000，刑侦中剧《重案六组：消失的警号》分账票房超过5700万元，刷新中剧行业分账记录。与此同时，海外业务同样保持高速扩张，海外会员收入同比增长近30%，拉丁美洲地区的会员收入同比增长强劲。 在保持核心优势基础上，爱奇艺通过分账模式加速重构内容投资逻辑。 三季度，公司进一步完善去中心化创作者生态，通过爱奇艺号与纳逗Pro的协同打通，为创作者提供数据分析与创作支持。当季，爱奇艺号内容上传量同比增长超360%，平台新上线分账长篇内容总量环比增长超200%，带动分账收入环比两位数增长。 在当天财报电话会上，爱奇艺CEO 龚宇表示&nbsp;，分账模式在丰富内容供给的同时，也带来了内容成本结构的改善。通过将部分内容成本从固定投入转为按效果分成，平台能降低制作投入，改善现金流表现。同时，收益和播放效果绑定，有助于激励制作方优化预算分配，提升内容投资效率。 内容供给扩充的另一个重要路径是以AI赋能内容制作，实现提质增效。三季度财报显示， 短剧与漫剧数量呈指数级增长，动漫、少儿、中剧和电影等长视频内容数量均实现环比两位数增长。短剧、漫剧正是以AIGC为主力供给的品类，动漫与儿童品类由于CG技术成熟度高，AI渗透最快。三季度AI制作的《天子传奇：姬发篇》《天子传奇：洪武大帝》两部作品，相比传统制作方式，制作成本缩减50%–80%，制作周期缩减80%&nbsp;。 爱奇艺首席内容官王晓晖介绍，平台采取AI生成、实拍与AI混制“双轨并行”策略，逐步从短剧、漫剧向中剧、长剧延伸。&nbsp; 已经上线的《灵魂摆渡》浮生梦系列三部AI网络故事片，累计分账票房突破1400万元，每部均在首周收回制作成本。“目前约有20个长剧项目，使用实拍和AI结合的混制模式进行制作，这也是未来爱奇艺的重点探索方向。”他表示，AI与真人实拍的深度混制作品《天行九歌之举世无双》预计2027年上线。 龚宇表示，AI不只是降低制作成本，而是让优秀的创作团队、有影响力的IP与AI工具结合，用更短的周期、更可控的投入，把创意变成作品，推动内容成本实现结构性、可持续的优化。",
+   "published": "2026-11-17 12:31:40  +0800",
+   "source": "36氪",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "short_drama",
+   "level": "S",
+   "why": "AI短剧/漫剧成本降50-80%、周期降80%，分账模式验证赚钱路径",
+   "action": "研究爱奇艺AI短剧分账规则与纳逗Pro工具",
+   "opportunity": "AI漫剧分账，单部首周回本",
+   "risk": "平台分账规则可能收紧，竞争加剧"
+  },
+  {
+   "title": "前安克CMO创办的AI可穿戴硬件再获新融资，产品已量产｜硬氪首发",
+   "link": "https://36kr.com/p/4072342767047814?f=rss",
+   "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI Memory智能硬件公司「穗升科技」近日完成数千万元Pre-A轮融资，本轮由NexTide Capital、阿尔法公社投资。资金将重点投入长期记忆引擎、主动式Agent的体验优化，拓展家庭、团队场景，推进硬件量产交付，并搭建海外渠道、完善本地化交付能力。 穗升科技成立于2025年，旗下品牌Memoket以可穿戴硬件为入口，结合自研底层长记忆引擎，提供能够理解用户前情、主动与用户交互的Personal Agent。首款硬件Gem贴合用户现有佩戴习惯，可单独佩戴，也可以配件形式与智能手表搭配使用，无感收录现实对话，并支持在App、桌面端跨会话回溯、检索和调用信息。 该款产品在2026年9月开启量产，同步登陆美国亚马逊与品牌官网；10月进入日本市场，硬件销量及软件订阅收入均实现翻倍增长。 创始团队具备深厚的消费电子与AI产品操盘经验。创始人王时远为前安克创新全球CMO、中国区总裁，核心成员中包含3名连续创业者，曾任职于安克、字节、华为、腾讯及头部AI应用企业，能力覆盖大规模模型训练、AI应用产品定义、可穿戴硬件设计、供应链与全球商业化。部分成员已合作超过10年，在长期共事中形成了从底层技术到全球渠道的完整闭环能力。 Memoket可穿戴硬件Gem（图源/企业） AI硬件正处在从“记录”到“理解”的关键拐点。 过去，大量产品聚焦问答场景，硬件负责收音、软件生成总结，用户提问、Agent给出答案。这套模式在信息检索场景中成立，但在现实物理世界中，对话和决策是连续发生的。信息的价值往往并不在单次对话本身，而关乎它能否和数月前的口头约定、上周调整的预算、明天即将推进的会面形成关联。 在咖啡厅见客户、在办公室推进项目、到现场确认进度，中小企业主每天都在大量对话中做决定。预算变了、交期调整了、答应客户的事还没跟进。这些信息散落在不同时间和地点，一旦遗漏一个细节，就可能带来返工、损失或信任的消耗。 当AI记忆被框定在单次交互之内，它就无法感知上下文的变化，更难以在关键时刻主动提供支持。伴随拾音与转写逐渐成为智能设备的基础能力，真正的分水岭开始转向跨时序上下文的串联能力。 “传统AI产品记录的是切片，而人的工作和生活是连续的。”穗升科技创始人兼CEO王时远告诉硬氪，“如果AI不能理解你之前发生了什么，它就永远只是一个被动响应的工具，而不是一个能帮上忙的伙伴。” 这正是穗升科技所切入的空白地带。从被动记录走向主动理解，从单次问答走向长期记忆，让轻量化硬件成为物理世界与数字世界之间的连续记忆载体。 在AI硬件层出不穷的今天，形态的选择本身就是一种战略判断。眼镜能捕捉视线，戒指能监测体征，而在王时远看来，选择手环配件作为Personal AI入口，有其独特的合理性。 第一层考量是佩戴的持续性。Personal AI的前提是持续在场，如果设备需要用户额外花精力去佩戴、摘取或频繁操作，使用频次就会不可避免地衰减。手环是已经被市场长期验证过的形态，用户天然具备佩戴习惯。 Gem在设计上提供了两种选择，既可以作为独立手环佩戴，也可以直接挂在用户已有的手表表带上。无论哪种方式，它都是在用户原本就习惯佩戴的腕部位置增加仅11克重量，不需要改变日常行为，就能实现全天候的无感记录。 Memoket可穿戴硬件Gem（图源/企业） 第二层考量是数据获取的密度与质量。中小企业主的核心信息场景，在于面对面的物理世界对话。Gem的拾音能力能够覆盖日常交流，将物理世界中稍纵即逝的语言，转化为可被理解、可被调用的数字资产。相比之下，其他穿戴形态在兼顾持续拾音与全天候佩戴时，往往面临更复杂的物理限制，很难两全。 “AI硬件本质上是让AI拥有‘触角’。”王时远表示，“手环是目前我们团队认为最贴近这个触角角色、且用户最愿意长期佩戴的形态。它不打扰你，但它一直在场。” 硬件完成感知采集，软件负责信息结构化梳理，而自研长记忆引擎KITE，决定了这套Personal AI体验的上限。 传统的交互范式里，记忆的责任主体始终是用户。用户需要会后回看录音、见客户前翻找历史对话、在项目推进中手动整理待办；即便AI可以加速摘要和检索，本质上依然是等待用户调取的被动工具。 Memoket的KITE引擎，正是为打破这种局限设计。多数AI系统的记忆局限在单次对话，信息彼此割裂；而KITE可以跨会话串联时序线索，它在LoCoMo与LongMemEval-S两项长对话记忆基准上，目前准确率分别可达到93.51%和85.60%，考核重点就是AI能否从大量分散对话里定位信息、跨越会话边界建立连续上下文。 “记忆是主动式AI的基础设施。如果记忆不准确、不连续，所有主动推荐、提前提醒都无从谈起。用户不会信任一个记错事情的助手。”王时远说。 自研长记忆引擎KITE（图源/企业） 依托这套长记忆底座，Memoket已接入Google Calendar、ChatGPT、Claude、Slack、Notion等工具，用户可在App、桌面端回看对话、跨会话检索，把信息直接融入工作流。 同时，基于这套记忆能力，产品功能下一步的突破方向，是探索主动交互的能力边界。硬氪了解到，本月Gem App端将上线Personal Agent Beta测试版本，核心功能是增加实时上下文弹窗提醒，让AI能够自主识别用户沟通中的待确认事项、未履约约定，在合适时机给到用户提示。 以客户洽谈场景为例，当用户和客户沟通时，设备持续采集对话，KITE会同步比对历史交流记录，识别尚未确认的约定与待跟进事项，并在App出现弹窗提示。 “我们不是在做一个去噪更好的录音器，也不是在做一个更精准的会议纪要工具。我们关注的是，每一次调用能否真正解决用户工作中的具体问题。少遗漏一次承诺，少做一次返工，在关键时刻接上之前的线索。”王时远说。 2026年10月进入日本市场（图源/企业） 在AI大模型能力逐步平权、硬件方案加速成熟的背景下，单纯比拼参数或功能的边际效应正在递减。真正构成壁垒的，是能否持续获取高质量的、真实场景下的个人数据，能否建立长期记忆，并在理解用户的基础上主动提供价值。 穗升科技以手环为入口，以长记忆引擎为底座，将产品从“被动响应”推向“主动服务”。随着用户与AI的长期相处，记忆持续更新、理解不断加深，Personal AI的价值将不再是单点功能的堆叠，而是一个随时间增长的、不可替代的个人数字资产。 以下为硬氪与穗升科技创始人王时远的访谈节选（略经编辑）： 硬氪：当手机和智能手表在“一站式满足”上越来越强，未来用户是否还需要额外佩戴一个AI录音器或Memory配件？ 王时远： 从客观的商业规律来看，对于需求频率极低的轻度用户，手机和智能手表的一站式功能确实足够了。但移动互联网过去十年的发展经验表明，当通用设备走向功能大而全时，垂直领域必然会分化出一批不被“一站式”满足的专业用户，这就是独立AI硬件的结构性机会。 我们目前的早期用户画像非常聚焦，以高频决策、高对话密度的中小企业主为主，目前积累了数千多名早期用户，基本符合我们的初始设计。对这类人群而言，通用设备在专业场景下存���明显的物理与体验摩擦。 比如在Apple Watch上录音，极易被来电或通知打断；即便录完了，通用系统通常只给出一段摘要，缺少原始文件，想要接入大模型深度处理还需要手动导出。对于需要高频回溯、建立长期记忆的用户来说，这种数据链路是断裂的。他们需要的是一个更专业、无感且链路完整的独立工具。 未来的Personal AI大概率会需要一个综合性入口，但很难一个通用Agent在所有细分场景里都做到最好，大家都在找通用设备覆盖不到的垂直缝隙。我们相信穗升在这一波需求中切入得足够早，且抓住了最核心的一批刚需人群。 硬氪：即将上线基于上下文的主动式Personal Agent Beta功能，它在交互上会带来哪些实质改变？ 王时远： 我们计划将上线基于上下文的主动式Personal Agent功能。这是我们从“被动记录”向“主动服务”跨越的关键一步。 过去的AI硬件大多是“事后总结”，但真实决策往往发生在对话进行之中，一旦某个承诺、待确认事项或关键问题被错过，事后再补就已经产生了沟通成本。Memoket 要做的，是把AI辅助的节点从“会后”提前到“事中”。 用一个具体场景来理解。用户此前已经和同事约定，本次会议要确认一项交付节点。会议开始后，Gem会持续采集现场对话，音频实时上传云端；KITE长记忆引擎同步检索用户历史会话、日程与待办线索，识别出“约定确认但尚未提及的事项”。当对话节奏进入合适窗口，系统会通过App主动弹出提醒，告诉用户“本次应确认交付节点”。这个提醒发生在沟通过程中，而不是等会议结束后再生成一份静态纪要。 当然，这类 “事中提醒” 对工程链路要求很高。它不是简单的语音转写，而是一条包含实时音频流传输、云端上下文比对、历史记忆检索、端侧提醒触达的完整链路。其中最核心的指标是延迟：如果提醒能在几秒内出现，它会像一个贴身助理；但如果延迟过长，用户已经进入下一个话题，提醒就会显得突兀甚至无效。因此，我们在Beta阶段重点优化端到端延迟，目标是让提醒更贴近对话现场的自然节奏。 我们的核心定位是做一个基于Context的主动式Agent，而非单纯的会议纪要工具，其壁垒在于信息串联能力，能把用户跨时间、跨设备的分散信息建立关联，最终转化为精准的主动提醒。 硬氪：行业都在寻找大模型在物理世界的落点，大家也把这类随身硬件视为重要的Personal AI入口。在未来的竞争中，你认为决定这个入口成败的关键壁垒是什么？ 王时远： 相比纯软件Agent，穿戴形态的录音硬件给用户的感知更具象、更实在，是可触摸的交互载体。 Memoket并不追求做一个全能助手，核心是帮用户捕捉那些有业务价值、但很容易被忽略的对话细节，并且在恰当的时机给到提醒。 过去大家用手机录音，本质逻辑没有变，人先记住这件事，再主动打开设备、事后检索调取，记忆的主体还是用户。而穗升想翻转这个关系，由硬件持续感知、长记忆引擎完成信息沉淀，记忆的主体交给系统，用户不必再耗费精力去留存、回溯零散细节。这也是我们团队长期技术积累最终落地的方向，是切入这个赛道的底层逻辑。 长远看，录音穿戴不会是唯一的Personal AI入口，但它在“捕获物理世界对话”这件事上，有独特的优势。不同形态会各自承接不同诉求，通用终端满足轻量化需求，垂直穿戴硬件服务高频、高价值的线下沟通场景，两条路线会长期并存。",
+   "published": "2026-11-17 11:00:00  +0800",
+   "source": "36氪",
    "biz_tags": [
     "industry",
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "免费模型限额，依赖它做内容会断供",
-   "action": "检查现有工作流是否依赖DeepSeek，准备备用模型",
+   "why": "AI硬件赛道热，但与我的工具/插件方向关联弱",
+   "action": "了解Personal Agent硬件趋势即可",
    "opportunity": "无",
-   "risk": "免费额度收紧导致制作成本上升"
+   "risk": "无"
   },
   {
-   "title": "阿里正式发布Qwen4，智能体及编程能力进阶",
-   "link": "https://www.36kr.com/newsflashes/4071829045826690",
-   "summary": "36氪获悉，阿里巴巴发布全新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化。Qwen4面向全领域的真实任务深度优化，可更好地调用专业工具处理长周期任务。Qwen4-Max现已上线千问AI平台对外提供API服务，缓存命中每百万Tokens低至0.5元，完成单任务的平均费用较上代模型大降6成；用户也可通过阿里Token Plan调用新模型，或在千问办公、Qoder、千问App等应用中直接体验。",
-   "published": "Mon, 16 Nov 2026 02:38:42 GMT",
-   "source": "36氪 - 快讯",
+   "title": "AI时代，TCL华星开始重新理解一块好屏",
+   "link": "https://36kr.com/p/4071761698263939?f=rss",
+   "summary": "当AI进入电脑，连屏幕的长宽比都可能发生变化。 在TCL科技集团高级副总裁、TCL华星首席执行官赵军看来，当用户需要与智能体对话，额外的显示面积就可能成为新需求。这也是TCL华星布局超宽屏的一个出发点。 这个细节揭示了显示产业正在面对的变化：AI终端的交互方式，会影响屏幕的尺寸、形态与技术选择，显示企业需要更早理解终端如何使用。 11月13日，TCL华星全球显示生态大会在武汉举行。从大会和群访，可以看到TCL华星的两条探索路径：通过显示技术适配AI终端，以及把AI引入屏幕的研发制造。其实两者最终指向同一个问题——AI时代，显示企业应该承担怎样的新角色？ 从交付规格到理解体验 过去，面板企业通常根据客户提出的规格开发产品。赵军认为，随着AI终端发生变化，显示企业需要更前瞻地判断终端形态、应用场景和需求，提前做好技术与产品准备。 “去开发一块好屏在AI系统中的体验和扮演的角色”，是他对这一变化的概括。 这意味着，面板企业参与产品创新的位置有望前移。屏幕多宽、如何交互、功耗多高，需要放进终端的使用场景中一起考虑。 不同终端也会带来不同的技术需求。按照赵军的判断，传统PC增加AI能力，会提高对交互和低功耗的要求；带屏AI眼镜则可能需要硅基MicroLED等新的显示技术。超宽屏布局更多是基于成熟的LCD、OLED技术，对产品形态进行调整。 印刷OLED则是TCL华星面向中尺寸市场的重要技术准备。公司此次展示的14英寸印刷OLED超轻薄低反笔电显示，据披露厚度小于0.66毫米、重量不足66克，为轻薄终端提供了新的屏幕选择。联想、微星等品牌的印刷OLED终端产品，也出现在大会披露的合作成果中。 技术储备正在向产业化推进。按照公司计划，8.6代印刷OLED产线t8已于10月31日搬入设备，预计2027年第四季度量产出货。 从这一布局看，面板厂需要把对终端的理解，落实为不同的技术和产品组合。AI带来的机会，也藏在这些具体选择中。 让AI走进屏幕研发 终端需求发生变化，研发方式也要跟上。TCL华星正在尝试让AI参与从理解客户需求到形成设计方案的工程过程。 这项工作首先面对的是一个具体问题：客户提出的要求，并不总能直接变成工程师可用的设计指引。部分需求可能不完整，也可能存在模糊表述，需要进一步识别、整理和转化。 据赵军介绍，TCL华星开发的智能体已能识别这些规格和要求，将其转化为内部标准化设计指引，这一环节的准确率已超过90%。公司还在将AI、智能体与数十种专业软件结合，推进自动化设计。 本次大会发布的“显示研发设计全流程硅基员工”，则融合大模型、多智能体与工程工具，覆盖方案策划、设计、仿真、验证及品质管理等环节。此前发布的星智垂域大模型，为公司在显示领域应用AI提供支撑。 这条路径的价值，在于把客户的语言、显示行业的知识和工程工具连接起来。模型对需求的理解，需要通过设计、仿真与验证，逐步转化为可以执行的工程方案。 赵军表示，公司下一阶段希望进一步打通产品设计开发与生产制造，目前这一衔接仍处于探索阶段。其目标，是让AI参与更完整的产品实现过程。 TCL科技集团首席执行官王成在大会上说：“把产业经验与AI能力融合，让技术进步转化为研发、制造和经营效率。”对于工业AI，这也给出了一个具体方向：让模型进入企业已有的工程流程，在真实任务中发挥作用。 显示制造能力的新去向 AI也让TCL华星开始重新审视，显示制造积累的能力还能用在哪里。 玻璃基封装是公司正在探索的方向。按照赵军的介绍，这项布局面向AI基础设施，依托的能力包括在大尺寸玻璃上进行微米级加工、布线，以及控制平整度。这些都来自过去的半导体显示制造经验，同时也涉及玻璃打孔等新能力。 这为理解显示企业参与AI产业提供了另一个视角：新业务的起点，可能就藏在既有产线积累的工艺和工程经验里。如何把这些经验带入新的应用，会影响企业在AI产业链中的位置。 从理解AI终端，到用AI组织研发，再到探索基础设施，TCL华星正在把显示技术与AI产业连接得更深。对于显示企业，新的机会来自更早参与需求定义，也来自把长期积累的产业经验，转化为开发下一代产品的能力。",
+   "published": "2026-11-16 20:19:55  +0800",
+   "source": "36氪",
    "biz_tags": [
     "industry",
     "ai_tools"
    ],
-   "category": "ai_tools",
-   "level": "A",
-   "why": "编程和智能体更强且便宜6成，可降开发成本",
-   "action": "用Qwen4-Max API测试短剧脚本和插件代码生成",
-   "opportunity": "低成本批量生成短剧脚本和工具代码",
+   "category": "other",
+   "level": "B",
+   "why": "显示硬件行业动态，与内容出海无直接关系",
+   "action": "无需行动",
+   "opportunity": "无",
    "risk": "无"
+  },
+  {
+   "title": "36氪专访｜《愤怒的小鸟》前全球营销副总裁、Smadex CMO：最先拉响警报的，是移动游戏的下载量",
+   "link": "https://36kr.com/p/4063717266838400?f=rss",
+   "summary": "今年上半年，中国自主研发游戏海外市场实际销售收入达到 123.72 亿美元，同比增长 30.22%。同期国内市场增长 12.17%。也就是说，出海的增速已经接近国内市场的 2.5 倍，很难再用“增量补充”来形容它。 出海，曾经是一场关于投放效率的竞赛，现在更像一场关于时间和判断力的竞赛。对于已经把买量做成标配的中国团队来说，一些问题是共通的：品牌该从哪一天开始投？有了知名 IP 是不是就能等来自然量？30 天回本和 24 个月回本，差的只是耐心吗？ 在这些困难之下，广告主一侧的预算怎么分，重新成了最值得追问的事。 36 氪获悉，《愤怒的小鸟》开发商&nbsp;Rovio 前全球营销副总裁&nbsp;Luis de la Cámara 近日加入&nbsp;Smadex，出任首席营销官（CMO）。 这家业务覆盖移动端与联网电视（CTV）的程序化广告平台，将自身定位为&nbsp;CTV 效果广告领域的领导者，关注的不只是大屏曝光，而是如何将大屏触达与移动端转化连接起来，帮助应用与游戏广告主实现可衡量的业务增长。 Luis 接受了36氪的采访，讨论了十五个贴近中国游戏出海实践的话题——当开发者已经具备较强的买量能力，下一阶段如何把海外品牌、付费获客和长线运营结合起来，形成更可持续的增长。 Luis 拥有二十年游戏行业经验，职业经历覆盖 Electronic Arts（艺电）、2K Games（美国游戏发行商）、Gameloft（手游开发商）、King（《糖果传奇》开发商）、Scopely 和 Rovio，也管理过数百万美元规模的用户获取预算。他加入 Smadex 后，主要负责全球品牌战略、产品营销、目标客户营销及企业传播，并与商务和产品团队合作。 从广告主一侧走到平台方，Luis 对这轮增长的说法并不总顺着行业的乐观情绪。他反复强调，游戏从来是爆款驱动的生意，最难受的往往是既没有小团队灵活、也没有大公司钱袋子的中型公司；品牌不会替代买量，只能让买量更有竞争力。 在这次对话里，他把这些问题逐一拆开。以下是采访实录： 01 · 预算分配 / Budget allocation Q：如果今天有一个中国出海团队来问您「我的预算该怎么分」，您会先反问他们哪三个问题？以您接触过的中国开发者来看，他们最常见的一个认知误区是什么？ A：过去几年，一些中国开发者在效果营销上的专业程度，以及他们在美国和 EMEA（欧洲、中东及非洲）市场把业务做起来的能力，都让我印象深刻。 很多时候，我的团队是把中国移动游戏行业的头部公司当作标杆来看的。 回到您的问题：如果一个团队准备出海，我会先问他们下面几个问题。 第一，业务目标是什么？他们用哪些早期指标判断投放还能不能继续加量？多数游戏公司的投放优化，都围绕 D7（第 7 天）、D30（第 30 天）的 ROAS（广告支出回报率）目标展开；订阅类应用 则可能把注册用户成本作为早期优化指标之一 。除此之外，还要摸清他们的回本周期、有没有预测模型，以及能否把新市场的数据喂进模型，看新市场的各批用户是否走出相似的 LTV（用户生命周期价值）曲线。 第二，产品针对目标市场的成熟度有多高？想在某个地区把量放大，前提始终是产品与当地市场契合；这往往意味着要调整用户体验设计、定价，当然还有 UA（User Acquisition，即用户获取营销）创意策略。 第三，国内跑通过哪些渠道组合？我们能从里面提炼出什么，用来搭第一版海外上线计划？ 02 · 出海增长的质量 / The quality of overseas growth Q：有两组数据摆在一起看有点拧巴：一边是中国自研游戏海外收入上半年 123.72 亿美元、同比涨了 30.22%；另一边是全球手游下载量在降、广告展示量和支出却在涨。您判断，这一轮出海增长的质量怎么样？它是可持续的增长，还是被更高的买量成本撑起来的增长？这轮收入增长，多大程度集中在少数头部产品上？腰部团队的真实体感是什么？ A：游戏行业从来都是靠爆款驱动的生意，现在也不例外。放到移动游戏里，行业高速增长那几年，一款游戏要够得上「爆款」，门槛低得多；可市场一成熟，就会像几乎所有行业一样走向整合，价值往头部集中。小公司被挤压，只能靠更有创意的办法去竞争。最难受的往往是中型公司：既没有小团队的灵活，也没有大公司的资金和资源厚度。 整体看，成熟移动游戏市场的整体增长空间更难获取，但正如您所说，中国厂商的表现确实亮眼。在我看来主要有几个原因： ·&nbsp; 中国市场规模庞大。对于一些已经在本土建立业务基础的公司而言，国内业务积累的用户、收入和资源，为海外扩张提供了支持。西方开发者进入中国市场，则需要花时间理解本地用户和市场环境，也需要处理出版审批、运营资质以及本地发行合作等问题。 ●&nbsp;过去几年，中国游戏公司 在西方市场的游戏开发和营销方面积累了更多经验 。这一点，我认为它们以前是吃过亏的。 如今欧美表现最好的一批游戏里，就有不少出自中国开发者。 ·&nbsp;不少中国头部公司 在资源投入上具备优势：团队规模更大、营销投入更充裕，也有能力承担更长的回本周期。 往后看，我判断这种向头部集中的趋势还会继续，中国市场也不例外。所以关键就是找到还能赚钱的新获客方式。 这也是&nbsp;Smadex 聚焦&nbsp;CTV 效果广告的原因：我们希望通过客厅大屏触达潜在玩家，并借助跨屏归因，将&nbsp;CTV 曝光与移动端行为联系起来，帮助广告主评估获客效果和投放回报，寻找新的增长机会。 03 · 付费增长的边界 / The limits of paid growth Q：如果增长的边际主要来自买量，它会在什么条件下撞到天花板？您会看哪个指标来预警？ A：最先拉响警报的，其实是移动游戏的下载量走势，还有还有 我在投放中观察到的成本压力，包括 &nbsp;CPI（单次安装成本）、CPM（千次曝光成本）的变化。 游戏公司不只在彼此抢玩家： 大型流媒体应用起来了，人们刷社交媒体的被动时间也在变长，娱乐时长的争夺比以往任何时候都激烈。 疫情期间大家待在家里，数字娱乐猛涨了一波；如今还得把出门、旅行这些因素算回去。所以游戏公司既要抢时间，也要抢钱包。 所以我一直建议成熟的营销团队，去找能带来规模化增量增长的新伙伴。 对增长负责人来说，关键是保持实验心态，别总在熟悉的那几个广告网络里打转。 UA 负责人应该列一份待测试的渠道、DSP和广告网络清单，每季度留出足够的测试预算去探新流量。同时要和CFO对齐：笔探索预算 不宜只用成熟渠道的短期&nbsp;ROAS 门槛来考核 ，它的回报体现在把跑出正结果的测试固化进常规投放、抬高整体表现。 04 · 品牌投入的价值&nbsp;/ The value of brand investment Q：AppsFlyer（移动营销归因与数据分析平台）的估算里，中国总部发行商已经占了中国以外全球游戏 UA 支出的 35%。规模已经不小了。那为什么还要谈品牌？对一款没有长线 IP 的中重度游戏来说，品牌投放到底值不值这个钱？ A：品牌营销和 UA 营销的投入关系，我在团队内部争了很多年，也试了很多年。最重要的结论是：品牌不可能直接替代 UA，但能让 UA 跑得更好。 做游戏营销的人和管理层常犯两种错：要么看不上品牌，要么指望品牌变成一条新的获客渠道。这两种我都是吃过亏才明白的。对一家已有相当规模的公司，我确实赞成拿出一部分预算做品牌，但目的不是直接买用户，而是让业务活得更久。强品牌的好处很多，只是在成熟市场里， 不能仅凭品牌投入就预期自然量一定增长；我更看重的是它能否帮助提升付费获客的竞争力 ，并增强玩家忠诚度和参与度。 对多数移动游戏 IP 来说，与其砸钱做传统品牌广告，不如把资源投在社区建设上，并且在社区里长期保持存在感。小团队可以用相对低成本的草根方式做起来 ；大公司则可以像 Supercell（芬兰手游公司）的《Brawl Stars》（《荒野乱斗》）、Scopely（美国手游公司）的《Monopoly Go》（大富翁题材手游）那样，做大规模、以社区为核心的品牌活动。 为什么不宜简单地用品牌活动替代直接响应式的&nbsp;UA 投放？ 根源在移动游戏的消费方式：它很少像买车那样提前规划，更多是即时、冲动决定。 如果把主要面向品牌认知的活动，直接按短期安装目标考核，触达的人群与即时转化目标可能并不匹配，最终未必能获得理想的&nbsp;CPI 和回报。 不过，大屏并不只能用于品牌曝光。 以&nbsp;Smadex 的&nbsp;Performance CTV 为例，我们关注的是如何把大屏触达与移动端转化联系起来，让广告主能够围绕业务目标评估和优化投放，而不只是看曝光。所以和&nbsp;Smadex 这类成熟伙伴合作，反而能两头兼顾：让营销人员在客厅大屏上触达用户，又能精准地把这些高相关人群与设备上的行为接上，把他们转成玩家、再转成付费用户，并以最优成本把&nbsp;ROAS 做到最大。 05 · 预算组合与回报周期 / Budget mix and time horizons Q：有没有一条可以量化的线——一家公司成长到什么阶段，应该从纯效果预算里切出多少比例给品牌？效���的边际递减是几周就能看见的，品牌的回报要几个月。这两个周期在财务上怎么对齐？ A：前面说过，在移动游戏里，UA 和品牌营销不是一回事。品牌是对业务未来的长期投资，就该按长期投资来看。财务上不该把它和增长营销放进同一个预算筐，而应该像看待长期研发项目或员工培训那样对待。果实要到很久以后才吃得到：更有竞争力的 CPI、更强的社区，以及可能更好的产品 KPI（关键绩效指标）。 那预算什么时候该切？等公司负担得起，也愿意为巩固市场地位打一场长期仗的时候。 06 · IP 与付费获客 / IP and paid acquisition Q：愤怒的小鸟是全球认知度最高的游戏 IP 之一，但 Rovio（《愤怒的小鸟》开发商）依然在持续大规模买量。这个事实对很多中国团队是反直觉的——他们往往以为「有了 IP 就有自然量」。IP 和买量之间，到底是替代关系还是放大关系？ A： 从我的经验看，已经站稳脚跟的老游戏，往往更有条件积累规模化、相对稳定的自然安装。它们拥有更长时间的用户和表现积累，而新游戏要建立持续的自然流量通常更难。 &nbsp; 所以我不认为做品牌、或者把 IP 做强，就能摆脱付费 UA。我们看到的恰恰相反：IP 越强，在 UA 竞价里越有竞争力。 不同平台的竞价和优化机制并不完全一样，但从实际投放看，可以关注三件事 ——产品对这个用户有多相关、素材有多大概率促成转化、以及你愿意为这次曝光出多高的价。 强&nbsp;IP 可以帮助改善前两项；出价空间则取决于预测&nbsp;LTV 和财务上能接受的回本周期。 07 · 何时建立市场认知 / When to build awareness Q：一个没有 IP 的新游戏，应该从哪一天开始建立海外认知？上市前三个月？还是等到产品数据跑出来之后？ A：任何一款游戏，在大规模砸付费营销之前，几乎都该先跑出产品数据。营销做得再好，如果没有扎实证据证明这款游戏能长期转化、留住玩家，它大概率做不到预期的持续收入或利润。 不点名，行业里就有好几个例子：前期猛推，早期增长确实冲得很高，可惜几个月后游戏就停运了。我不是说不该大力冲榜，而是说，这一步得建立在对游戏核心指标有充分把握之后。 08 · 自然获客与付费获客 / Organic and paid acquisition Q：自然量和付费量之间有没有一个经验比例？IP 强的时候，买量的效率是变高了还是变低了？ A：过去我的团队做过几组测试：同一款新游戏，一版用全新、没人认识的 IP，另一版用强 IP； 每一次，知名 IP 版本的 CPI 都明显更低 。不过，真要围绕一个现成 IP 做游戏，有几点得先想清楚： ● 并非所有 IP 都能吸引玩家。游戏和选中的 IP 得对上目标受众的兴趣。比如做一款《Candy Crush》（《糖果传奇》）主题的 4X（探索、扩张、开发、征服类策略玩法）策略游戏，大概就不太合理；就算 IP 理论上和受众匹配，如果它已经严重过时，也可能完全带不动。 ● 用一个玩家真正在意的 IP，本质上是接进了一个现成的社群。这群人往往意见很强烈：产品不合期待，他们能从盟友变成反对者。 这不等于你必须完全照着他们做游戏，但他们的看法要当回事，沟通也得主动管理。 09 · 回本周期、LTV 与 ROI / Payback, LTV and ROI Q：中国出海团队普遍被回本周期绑得很紧，不少团队把首月回本当成硬指标。在这么紧的财务约束下，长线 LTV 和短期 ROI（投资回报率）该怎么权衡？如果让您改，您会建议他们换掉哪个指标？您见过因为回本要求定得太紧，反而把一个本来能长线跑的产品做死的情况吗？ A：移动游戏竞争极其激烈，大家都在抢同一批用户。有些大公司有一项很大的优势：能把回本周期拉到 6、12、18 甚至 24 个月。用户价值并不均等，这让它们往往能出比多数对手更高的价，把最优质的那批用户拿下来。 有没有只靠 3 个月回本、还能规模化做成的公司？有。但那是因为它们的 CPI 与短期 LTV 之间足够有利：钱回得极快，马上又能投回去买更多用户。对多数游戏来说，规模化阶段很难做到，通常还是需要更长的回本周期。好消息是，如果卡点主要在现金流，如今已有相当成熟的 UA 融资方案可以考虑。 至于 KPI，我会持续看各批用户随时间成熟的表现，以及扩量之后的变化，边积累历史数据边把 LTV 和预测模型打磨出来。说到底，想接受更长的回本周期，就得有一支成熟的数据科学团队。 10 · 跨市场复制与重新验证 / What transfers across markets Q：您做过欧美、拉美、日韩多个市场。中国团队最常问的一个问题是：「我在美国验证过的这套东西，能不能直接复制到巴西或者日本？」以您的经验，哪些东西是可以平移的，哪些必须重新验证？ A：每个市场都得按自己的 ROAS 潜力单独评估。 在我过去接触的一些项目中，美国的&nbsp;LTV 高于不少欧洲和拉美市场，但这不能一概而论。对部分拉美市场而言，购买力和支付便利性可能影响应用内付费表现，需要结合具体产品验证。 即便在日本，美国跑得最好的素材也可能完全失灵。 我一般建议这样给市场分组：美国、日本、韩国、拉美各自单独一组。英国、法国、加拿大、澳大利亚和德国放在一组。欧洲其他市场一组。不过视应用而定，可能仍需按各国文化做本地化。 11 · 新渠道与新人群测试 / Testing new channels and audiences Q：当团队发现一个新的渠道或者新的人群，怎么判断「值得继续投」？您有没有一套自己一直在用的验证流程，能完整说一遍吗？什么信号会让您说「停」？是 CPA（单次获客成本）到了某个值，还是留存曲线在某个时间点垮掉？ A：我的团队一直把 D7、D14（第 14 天）、D30 的 ROAS，以及这些时间点上的 LTV 预测，当作最核心的判断依据；之后定期复盘，看预测有没有兑现。 当&nbsp;ROAS 达标，且后续复盘支持此前判断时，我们才会考虑继续增加预算。 另外可以不定期做增量测试，验证某个渠道的投入是否真的带来了增量。 渠道归因不等于真实增量：报表中归因给某个渠道的转化，并不一定都是这次投放额外带来的，需要通过增量测试验证。 比如应用商店付费搜索，有时表现非常好，有时却只是在蚕食本来就会来的自然量。 12 · AI 素材生产与效率 / AI creative production and efficiency Q：AI（人工智能）让素材生产成本降到了极低，团队一天能产出几百条素材。但您的观察里，素材变多真的带来了效率提升吗？还是只是把成本从生产端转移到了测试和决策端？ A：是的，AI 确实在改变生产效率，但目前还不能把人从流程里拿掉。我最近在巴塞罗那参加了一场专门聊这件事的活动，由 SETT 主办。他们主题演讲里有个结论我完全同意： 今天的 AI 在语境理解和审美判断上，还赢不了人。 AI 最有用的地方，是把人定好的创意快速、低成本地做出来，尤其是生成具体素材元素、再把它们组合起来。这既省时间又省钱，也让更大规模的多变体测试成为可能。真正的难点在于：很多拿去测试的素材根本拿不到足够曝光，也就得不出足够可靠的结论。 13 · AI 素材疲劳 / Creative fatigue Q：AI 生成素材的同质化，会不会反而加速素材疲劳？您有没有看到素材生命周期在变短？ A：没有，我本人还没看到这种情况。有些主力素材能用几个月、甚至一年以上，另一些只能撑几天或几周。关键是 UA 团队的素材储备里要一直有足够多的好创意，主力素材一开始衰退，就能立刻换上新的。 至于「大家互相抄」的担心，也不是 AI 之后才有的。过去我们就见过好几轮，比如失败演示类广告、拔针小游戏广告、角色遇险类广告。有意思的是，这些套路对某些游戏至今仍然有效。 14 · 小团队与大公司的竞争 / Small teams versus large companies Q：在 AI 时代，小团队跟大厂竞争是变容易了还是更难了？为什么？ A：我会说，AI 让竞争变容易了一些，但与此同时，行业整合、价值向头部集中，又让市场整体更难。所以 AI 是个好工具，却不代表小公司就能和行业巨头正面对打——巨头自己当然也在用 AI。 小公司要赢，靠的是速度、创新和足够强的创造力。说到底，它们得敢做更大胆、风险也更高的决定。 15 · 未来两到三年 / The next two to three years Q：未来两到三年，中国游戏出海最可能被低估的一个变量是什么？反过来，如果只能给中国出海团队提一条建议——一件「千万别做的事」，您会说什么？ A： 我会持续关注不同市场的监管环境和准入要求。未来会如何变化，目前很难判断，但开发者在做全球化布局时，需要为这些不确定性做好准备。对中国和西方开发者来说，加强跨市场合作、建立长期的本地伙伴关系，是值得考虑的应对方式；在符合当地法规和业务需要的情况下，也可以探索合资、并购等更深入的合作。关键是通过合作加深对彼此市场的理解，而不是预设某一种政策走向一定会发生。 如果只给一条建议，那就是： 千万别躺在过去的成绩上，也别以为自己已经彻底破解增长公式。市场一直在变，游戏行业尤其如此；团队必须足够谦逊、足够敏捷，才跟得上新的现实。 这种结构性变化我们已经见过很多次：免费游玩模式出现、 应用商店分发环境的变化 、苹果推出 App Tracking Transparency（应用追踪透明度）冲击 UA 格局、疫情与后疫情时期改变了游戏习惯、 TikTok 等短视频平台的发展改变了用户的内容消费习惯 ，还有不少别的关键时刻。 所以有一点可以肯定：颠覆会一次又一次发生。问题是，你的公司准备好了吗？",
+   "published": "2026-11-16 17:18:52  +0800",
+   "source": "36氪",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "short_drama",
+   "level": "A",
+   "why": "出海买量/ROAS/CTV投放方法论可迁移到短剧投流",
+   "action": "研究Smadex的CTV+移动端转化打法",
+   "opportunity": "短剧投流借鉴游戏出海ROAS模型",
+   "risk": "买量成本上升，回本周期拉长"
   },
   {
    "title": "AI 录音硬件卖的是时间差，窗口可能只剩半年",
@@ -46,12 +97,12 @@
     "industry",
     "ai_tools"
    ],
-   "category": "industry",
-   "level": "B",
-   "why": "硬件赛道与我的业务无关，仅背景参考",
-   "action": "无需行动，了解趋势即可",
+   "category": "ai_tools",
+   "level": "A",
+   "why": "苹果下场抢赛道，AI录音硬件窗口收窄，警示工具类选品",
+   "action": "评估AI工具是否会被大厂功能吞没",
    "opportunity": "无",
-   "risk": "无"
+   "risk": "大厂功能免费化，小工具被替代"
   },
   {
    "title": "接入多款第三方模型，豆包工作也模型自由了",
@@ -65,10 +116,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "多模型比价可降低AI内容制作成本",
-   "action": "对比豆包工作各模型倍率，选最划算的做批量任务",
-   "opportunity": "用低价模型跑批量短剧翻译和配音",
-   "risk": "无"
+   "why": "多模型+透明倍率降低AI工具开发与调用成本",
+   "action": "测试豆包工作多模型API成本对比",
+   "opportunity": "低成本模型组合做SaaS降本",
+   "risk": "模型切换增加适配维护成本"
   },
   {
    "title": "创业者做 Personal Agent，有没有一线生机？",
@@ -80,86 +131,18 @@
     "industry",
     "ai_tools"
    ],
-   "category": "industry",
-   "level": "B",
-   "why": "思路可借鉴做垂直短剧Agent工具",
-   "action": "记录'价值长在基模外'思路，评估短剧场景Agent",
-   "opportunity": "做短剧垂直场景的Personal Agent小工具",
-   "risk": "无"
-  },
-  {
-   "title": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
-   "link": "https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "summary": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线 · 张雪：今年已经挣到了「一个小目标」 · Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "Fri, 13 Nov 2026 00:00:46 +0000",
-   "source": "爱范儿",
-   "biz_tags": [
-    "industry",
-    "ai_tools"
-   ],
-   "category": "short_drama",
-   "level": "A",
-   "why": "微信测试短剧入口，国内短剧流量格局可能变",
-   "action": "研究微信看一看短剧入口的入驻和分账规则",
-   "opportunity": "抢先布局微信短剧分发渠道",
-   "risk": "国内平台竞争加剧分流海外注意力"
-  },
-  {
-   "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
-   "link": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "summary": "更快更便宜还更聪明 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "Thu, 12 Nov 2026 23:11:11 +0000",
-   "source": "爱范儿",
-   "biz_tags": [
-    "industry",
-    "ai_tools"
-   ],
    "category": "ai_tools",
    "level": "A",
-   "why": "更快更便宜的新模型可提升短剧制作效率",
-   "action": "测试Gemini 4生成短剧分镜和漫剧画面",
-   "opportunity": "用新模型降低漫剧制作成本",
-   "risk": "无"
+   "why": "指出价值可长在基模外，为小工具/SaaS选品提供思路",
+   "action": "梳理自身场景数据壁垒做差异化Agent",
+   "opportunity": "垂直场景Personal Agent小工具",
+   "risk": "基模升级吞没产品价值"
   },
   {
-   "title": "iPhone Siri AI 体验：距离真正的 AI Phone，苹果还有多远？| 附开通指南",
-   "link": "https://www.ifanr.com/1688980?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "summary": "这是一个更好的 Siri，但还不是一个合格的 Agent #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "Thu, 12 Nov 2026 10:47:53 +0000",
-   "source": "爱范儿",
-   "biz_tags": [
-    "industry",
-    "ai_tools"
-   ],
-   "category": "industry",
-   "level": "B",
-   "why": "与短剧出海和工具业务关联弱",
-   "action": "无需行动，了解即可",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
-   "link": "https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "summary": "国产大模型开始组团办公 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "Thu, 12 Nov 2026 04:50:05 +0000",
-   "source": "爱范儿",
-   "biz_tags": [
-    "industry",
-    "ai_tools"
-   ],
-   "category": "ai_tools",
-   "level": "A",
-   "why": "多模型聚合降低AI工具开发成本，可做套壳/路由类SaaS",
-   "action": "注册豆包工作测试多模型切换，评估做聚合工具",
-   "opportunity": "做多模型路由/比价小工具卖给内容团队",
-   "risk": "平台随时收紧API，别把核心业务绑死"
-  },
-  {
-   "title": "联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有",
-   "link": "https://www.ifanr.com/1689128?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "summary": "Chromebook's yesterday once more. #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "Thu, 12 Nov 2026 02:34:22 +0000",
+   "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
+   "link": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "一人犯错，全员受罚。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "Tue, 17 Nov 2026 03:22:08 +0000",
    "source": "爱范儿",
    "biz_tags": [
     "industry",
@@ -167,101 +150,84 @@
    ],
    "category": "other",
    "level": "B",
-   "why": "安卓PC生态空白，与主业关联弱",
-   "action": "略读即可，不投入时间",
+   "why": "汽车出海口碑事件，与AI内容业务无直接关联",
+   "action": "略过，不占用今日精力",
    "opportunity": "无",
    "risk": "无"
   },
   {
-   "title": "独家丨一家主动灭火的智慧消防公司，融资超千万",
-   "link": "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html",
-   "summary": "导语：把 AI 用在“水火之间”——菲思拓的整体方案，已接入超三万家单位。 把 AI 用在“水火之间”——菲思拓的整体方案，已接入超三万家单位。 作者丨 陈玘凡 编辑 丨吴优 雷峰网 (公众号：雷峰网) ·鲸犀独家获悉，做主动灭火的智慧消防公司菲思拓已完成千万级天使轮融资，投资方为北京国润智投科技有限公司。 菲思拓 已经开启新一轮融资， 投前估值 3 亿元，本轮资金意在进行产品研发、市场拓展和推动产能落地。 创始人兼 CEO 顾永峰有 20 年消防行业经验，曾任喜利得中国区域经理、STI 中国全国销售总监；团队拥有消防、材料、loT 等复合背景，2025 年公司 营收超 4000 万元。 2025 年全国电气火灾约有 25.9 万起；2024 年一家云厂商数据中心火灾直接损失超8 亿欧元。AI 算力、储能电站把火灾代价越推越高，传统主流自动灭火装置的完整链路一般需要 10–40s，在浓烟、明火出现时才能进行干预，往往会错过电气设备热失控黄金窗口。 菲思拓的消防产品矩阵包括防火封堵材料、自动灭火装置、智慧消防平台，业务主营包括从材料、装置到平台的一站式改造。其第四代主动灭火毯遇 120℃明火即触发，比传统设备缩短 90%；自动灭火装置能在 4 秒内完成灭火。 智慧消防市场规模预计从 2025 年的 755 亿元增至 2030 年的 2200 亿元，其中，智能化主动灭火行业估算约&nbsp; 260–320 亿元区间， 增速 15%–22%。而在顾永峰看来，消防行业应当从\"只告警\"升级为\"自动灭火\"。 顾永峰告诉雷峰网·鲸犀，\"菲思拓在 B 端的商业模式可以算是 消防行业的 SaaS 订阅制\" 。 公司免费安装软硬件，签订 5 至 10 年专属维保协议，按年收取服务费和增值订阅，维保服务毛利率超过 70%。 在 C 端，菲思拓与深圳重启焕新材料公司达成战略合作，打造民用级、工业级价格亲民的主动灭火智能插排，将利用其在全国超 5 万个线下网点和线上渠道开展销售。 菲思拓智慧消防平台已接入&nbsp; 3 万余家单位 、覆盖&nbsp; 100 万余个传感器。 客户包括中石化、国家电网等央企，项目覆盖中国尊、国家自然博物馆；并与北理、哈工大共建国家级联合研究中心。 针对智慧消防产业标准碎片化、数据孤岛，AI 只采集告警等痛点，菲思拓的做法是把纳米材料、AI 大模型与主动灭火串成一条链，让系统在告警之后还能自己处置。 与青鸟消防、海湾 &nbsp;GST、海康消防等头部厂商以火灾报警和被动防护为主不同，菲思拓通过主动灭火闭环切入，入围了多家央企集采平台。 菲思拓的融资与产品进展，雷峰网·鲸犀将持续关注。欢迎添加作者微信&nbsp; IvarQFC&nbsp; 交流。 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
-   "published": "Fri, 13 Nov 2026 09:04:00 GMT",
+   "title": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
+   "link": "https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元 · 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用 · 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "Tue, 17 Nov 2026 00:18:50 +0000",
+   "source": "爱范儿",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "ai_tools",
+   "level": "A",
+   "why": "Qwen4-Max缓存价0.5元/百万Token，大幅压低AI内容生产成本",
+   "action": "注册阿里云百炼，测试Qwen4-Max批量生成短剧脚本",
+   "opportunity": "用低价Token批量产漫剧分镜脚本",
+   "risk": "低价期可能限时，需尽快锁定用量"
+  },
+  {
+   "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
+   "link": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "比 DeepSeek V4.1 Flash 性价比更高 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "Mon, 16 Nov 2026 09:53:01 +0000",
+   "source": "爱范儿",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "ai_tools",
+   "level": "A",
+   "why": "两毛钱做3D交互网页，可低成本验证工具类SaaS原型",
+   "action": "用Hy4 flash实测做一个短剧素材展示页原型",
+   "opportunity": "低成本快速验证插件/SaaS创意",
+   "risk": "限时免费结束后成本可能回升"
+  },
+  {
+   "title": "HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026",
+   "link": "https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html",
+   "summary": "导语：研究者需要的不只是AI生成的答案，更是审查答案、追溯来源并为知识判断负责的能力。 研究者需要的不只是AI生成的答案，更是审查答案、追溯来源并为知识判断负责的能力。 &nbsp; &nbsp; 作者丨 张 &nbsp; 璐 &nbsp; &nbsp; 编辑丨马晓宁 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 你有没有过这样的经历：面对几十页密密麻麻的PDF，实在抽不出时间细读，于是把论文丢给ChatGPT或Claude，让它帮你提炼核心观点。 几秒钟后，一份条理清晰的摘要出现在屏幕上。你点点头，觉得自己已经掌握了论文的主要内容，甚至直接将其中的观点引用进了自己的研究。 但是，等等——你确定AI总结的，真的是原作者想表达的意思吗？如果它悄悄引入了原文没有的观点，甚至将毫不相干的概念联系在一起，作为研究者的我们，能否及时发现？ 在正在举行的 ACM Multimedia 2026 上，人机交互领域先驱、巴西里约热内卢天主教大学（PUC-Rio）荣休教授 Clarisse Sieckenius de Souza 带来了一场主题演讲。 她从自己提出的“语义工程”（Semiotic Engineering）理论出发，讨论AI如何改变人与信息之间的关系，以及当我们把文献阅读和理解的工作交给AI时，如何守住研究者的“认知权威”（Epistemic Authority）。 从界面如何传递设计者的意图，到AI摘要如何偏离原文，再到如何借助 PEEL 方法审视AI的文本处理过程，这场演讲为我们理解AI时代的知识责任提供了一个新的视角。 以下是演讲全文雷峰网 (公众号：雷峰网) ： 01 界面是一场对话： 我们如何理解机器的语言？ 在我看来，人机交互（HCI）可以被理解为一场对话。 但这并不是应用程序或系统与用户之间简单的对话，而是一场由计算机媒介实现的、发生在人类群体之间的对话：一方是设计和开发应用程序的人，另一方是使用这些应用程序的人。 这场对话通过界面展开。界面实际上扮演着设计者代理人的角色，代替设计者向用户传递信息。它只能按照设计者预先设定的方式和语言进行表达，也就是我们通常所说的人工语言。 举个例子，当我们使用一个网站时，界面会告诉我们哪些操作是允许的，哪些操作是不允许的。在一个Cookie偏好设置页面中，用户可能尝试切换某项必要的设置，但界面却告诉我们，这项操作无法完成。 这条信息实际上来自设计者。用户通过界面得到的反馈，反映了设计者希望用户做什么、能够做什么，以及不能做什么。 这就是语义工程（Semantic Engineering）的基本思想： 界面代表设计者发声，用户则通过学习和使用界面语言，与设计者进行交流。 当然，界面语言不一定是文字。它也可以是一套完全图形化、以对象为中心的语言。我们通过操纵屏幕上的对象来表达自己的意图，界面则通过对象的变化回应我们的操作。 不过，界面并不总能按照用户的预期作出回应。 我曾经在准备这场演讲时遇到一个很有意思的情况：我试图在界面中插入一个文本框，结果它竟然上下颠倒了。我完全不知道为什么会发生这种情况。 这恰恰说明，我们有时无法准确预测界面会如何回应。面对意料之外的结果，我们只能尝试理解它，并调整自己的操作。 通常，每个系统都有一套约定俗成的交互模式。这些模式在一定程度上限定了用户能够表达什么、能够做什么。我们需要不断尝试，寻找通过界面表达自己意图的方式。 更重要的是，每个系统都有自己独特的语言。 即使两个系统使用相同的词汇，这些词汇背后的语义也可能完全不同。 因此，每当我们接触一个新系统，就需要经历一次语言学习的过程。 这与儿童学习母语，或者成年人学习第二语言有些相似。我们会不断尝试，观察系统如何回应，理解不同词汇和视觉符号的含义，再逐渐掌握这套语言。 当我们面对一个从未使用过的系统时，往往会进行大量尝试。我们不知道某个按钮意味着什么，也不知道某个视觉元素会产生怎样的结果，只能通过交互来建立理解。 那么，语义工程究竟包含哪些核心内容？我想从三个方面来说明。&nbsp; 第一，人机交互是一种中介传播。设计者和开发者通过人工界面语言，将自己的设计意图传递给用户。用户通过学习这套语言，与设计者的代理人进行交流，并尝试实现自己的目标。 当然，用户的目标不一定总是设计者预先设想的目标。有时候，我们会创造性地使用一个应用程序，完成设计者从未预料到的任务，而这些操作甚至可能运行得很好。 第二，界面中的交流依赖三种符号。 第一种是 静态符号 。它们固定存在于界面中，仅凭自身的呈现方式就能传递意义。 第二种是 动态符号 。它们需要通过时间和状态变化来传递意义。例如，当我们点击一个按钮，按钮产生的变化以及随后发生的行为，都会告诉我们这个按钮意味着什么。 第三种是 元语言符号 （Metalinguistic Signs）。这是一个专业术语，指那些能够解释其他符号的符号。例如，界面提示可以告诉我们某个图形对象代表什么，也可以引导我们采取某种操作，以实现特定目标。 第三，用户具有很强的语言学习能力。设计者会利用已有的交互模式、熟悉的语言体系以及元语言提示，帮助用户理解新的界面词汇和语义。 以上三个方面构成了语义工程的基本框架。但随着AI的发展，我们与计算机交流的方式正在发生变化。AI已经能够使用自然语言与我们对话。 那么，一个问题随之出现：既然AI能够理解自然语言，语义工程是不是已经没有那么重要了？ 我的答案是：恰恰相反。 02 当AI开始说我们的语言： 究竟是谁在和我们对话？ 大约四周前，我在使用Claude准备这场演讲时，遇到了一件让我非常意外的事情。 Claude的界面看起来很简单，就是一种对话式交互模式。我们在输入框中提出问题，Claude则在屏幕上给出回答。 但在某些情况下，界面还会根据当前对话的上下文，预测用户接下来可能输入的内容，并主动提供建议回复。 这本身并不奇怪。真正让我感到惊讶的是一次具体的对话。 当时，我正在和Claude讨论一些问题。它突然列出了一份清单，其中第一项竟然是它认为我想要表达的论文主旨。它给出的观点大致是：问责机制必须被设计出来，而不能被想当然地假定存在。 我当时非常惊讶，因为我从来没有想过要把这个观点作为自己的论文主旨。但我觉得这个想法很有意思，于是顺着它的建议继续讨论。我告诉Claude，它提出的这个论点很好，我们可以围绕它展开讨论。 没想到，Claude很快就纠正了我。它说，首先需要澄清一点：它之前并没有提出这个论文主旨，只是在询问我真正想表达什么。现在回顾整个对话，它才意识到这个观点似乎出现过。 于是，我继续追问：如果不是你做出了这个判断，那么究竟是谁，或者是什么，向我提出了这个观点？Claude给出的回答非常有意思： “我不知道。我看不到你的输入框，所以无法判断应用程序是否提供了建议回复，也不知道这些回复由什么生成、依据什么上下文。这个消息传递到我这里时，看起来就像是你说的。我没有办法知道实际情况。之前我的纠正是准确的——我确实没有在这次对话中写下那个论文主旨，但我也无法知道这个表达究竟来自哪里。我本应该说明这一点。” 这是一段非常有意思的对话。我完全没有编造这个例子，事实上，即使我想编造，也很难想象出这样一个场景。 这次经历让我意识到， 我们面对的AI对话系统，可能比表面看起来复杂得多。 我们以为自己正在和一个能够理解上下文的系统交流，却未必知道，界面背后还有哪些代理、机制或其他信息来源参与了这场对话。 那么，语义工程是不是已经失去了价值？我的结论恰恰相反。语义工程不仅没有失去价值，反而面临着更加艰巨的任务。因为即使到了今天，人与AI之间的信息传递仍然可能存在混乱：我们看到了一条信息，却未必清楚它究竟从何而来。 我们需要重新思考：界面究竟应该向用户传递什么信息？用户是否知道自己正在与谁交流？当一条信息出现在对话框中时，我们是否能够判断它究竟来自用户、AI，还是其他中间环节？ 这也是我接下来真正想讨论的问题。 03 把文献阅读交给AI， 我们还拥有认知权威吗？ 我真正关心的，是AI在科学研究中的广泛应用，尤其是AI辅助文献综述。 文献阅读是我们研究工作的日常组成部分。我们需要阅读大量论文，了解某篇论文讲了什么、另一篇论文有哪些贡献，以及某个研究问题与已有工作之间存在怎样的联系。 但现在，我们需要阅读的东西实在太多了。 我想起这次会议的投稿数量，据说超过了8000篇。面对如此庞大的论文数量，谁能够仅凭个人的时间和精力完成全部阅读？在某些情况下，我们确实需要借助AI。我自己也会使用AI。 我们可以让AI告诉我们一篇论文讲了什么，某个研究方向有哪些重要工作，或者某个具体问题与哪些研究有关。 但这里存在一个值得认真对待的问题： 当我们把文献阅读委托给AI时，还能否保有自己的认知权威（Epistemic Authority）？ 认知权威是一个具有特定含义的哲学概念。相关讨论可以追溯到Linda Zagzebski等学者的研究，之后也有其他哲学家对这一概念进行了进一步发展。 在这场演讲中，我关注的是一个具体问题：当我们把文献阅读和理解的工作交给AI时，能否信任它提供的摘要和研究报告 为什么认知权威如此重要？ 因为作为科学家和研究者，我们必须对自己所说的话、表达观点的方式承担责任。我们的研究具有社会责任，我们提出的知识主张是否成立，并不是一件可以随意对待的事情。 为了能够做出判断，我们依赖集体知识，依赖其他研究者发表的论文、开展的实验以及积累的研究成果。 如果我们使用AI来完成文献综述，就必须考虑一个问题：我们能否评估其中可能存在的风险？ 请注意，我并不是在说我们不应该使用AI。我想强调的是：当我们使用AI时，是否有能力识别并判断自己正在承担怎样的风险？ 也许这些风险并不存在，也许它们确实存在。但如果我们没有相应的机制，就很难知道风险究竟有多大。 这正是我们团队正在尝试解决的问题。 04 PEEL：让AI辅助阅读， 而不是替代判断 我们在研究机构中开发了一套名为PEEL的方案，全称是Protocols for Epistemically Engaged &nbsp;AI Literacy。 它的核心目标，是尝试建立三个要素之间的联系：确定性计算、人工智能和人类。 为什么需要确定性计算？ 因为我们之所以长期信任计算机，一个重要原因在于它们具有确定性：在相同条件下，它们会重复执行相同的操作。 但现在，我们却开始信任一种每次运行都可能产生不同结果的AI系统。这本身就值得我们思考。 第二个要素是人工智能。AI能够以前所未有的方式处理自然语言，为信息理解和文本分析提供新的可能性。 而第三个，也是最重要的要素，是人类。人类拥有知识、意图和判断能力。面对复杂的信息，我们需要综合考虑各种因素，最终决定什么才是可信的、什么才是成立的。 因此，我们希望通过这三个要素的结合，让AI参与信息处理，同时保留人类对知识的判断和审查能力。 为了验证这一思路，我们选择了Voyant作为确定性计算工具，Claude作为AI工具，而人类则负责最终的理解与判断。 PEEL并不是一个封闭的自动化系统。我们希望研究者能够访问相关工具，亲自参与整个过程。接下来，我想给大家展示一下，这套方法具体是如何工作的。 在PEEL的工作流程中，研究者可以先借助AI生成文本摘要，再通过Voyant等文本分析工具，将摘要与原文进行对照。我们关注的不只是摘要写了什么，还要检查它与原文之间究竟存在怎样的关系。 但它与普通AI摘要有一个非常重要的区别：我们不仅关注摘要写了什么，还会检查摘要与原文之间究竟存在怎样的关系。 PEEL系统介绍与体验入口 我们曾经做过一项实验：将同一份文本交给不同的AI系统进行摘要，其中包括ChatGPT的不同版本以及Claude，再将它们生成的摘要与PEEL生成的结果进行比较。 从符号学的角度来看，我会将这种尽可能保留原文特征的摘要理解为原文的一个图像符号（Icon）。这里的图像并非指视觉图片，而是强调符号与其所指对象之间存在某种可感知的相似性。 例如，如果原文按照章节和小节组织，那么PEEL生成的摘要也会保留完全相同的章节结构。 如果原文采用第一人称写作，摘要也会尽可能保留第一人称的表达方式。 这样做的好处，是当摘要保留原文的结构和表达方式时，我们就能更容易地回到原文对应的位置，检查摘要究竟有没有准确传递作者的意思。 我们还会利用文本分析工具，对原文和不同摘要中的语义类别、关键词及其出现频率进行比较。 例如，我们可以观察某个术语在原文中出现了多少次，在不同摘要中又出现了多少次。也可以检查某个术语是否出现在摘要中，却从未在原文中出现过。 PEEL利用Voyant对比原文与多个AI版 本（C hatGPT、Claude）在关键词连接度上的差异 这些变化是否意味着存在问题？不一定。 如果我让你总结一篇文章，你和坐在你旁边的人很可能会给出不同的摘要。你们可能会根据自己的理解，引入一些原文没有直接使用的术语。这是正常的，因为每个人都有自己的知识背景和解释方式。AI也会发生类似的情况。 真正的问题在于，当我们完全把文本解释工作交给AI时，它可能会不受约束地引入一些相关话题。这些话题与原文存在联系，却未必真正属于原文的论述。 Voyant生成的可视化图 如果你只阅读AI生成的摘要，而没有阅读原文，那么你实际上读到的可能是AI对相关话题的延伸和建议，而不是原作者真正表达的内容。这就是认知权威面临风险的地方。 你可能会在自己的研究中声称，某位作者提出了某个观点，但实际上，这位作者从未这样说过。 我们还可以利用Voyant提供的可视化功能，观察原文与不同摘要之间的语义联系。 PEEL利用Voyant生成的可视化网络图，直观展示不同概念在摘要中的语义连接变化 在这些可视化结果中，原文构成了我们的参照基础。不同摘要则会呈现出各自引入的新术语、新联系，以及原有联系发生的变化。 例如，一些连接可能在摘要中首次出现，另一些原本存在于原文中的联系，则可能在摘要中变得更加频繁或不再那么突出。 这些变化本身并不能直接证明摘要有问题，但它们能够帮助我们发现值得进一步检查的地方。 我们还可以利用图中的不同颜色区分这些联系，观察不同AI系统生成摘要时，哪些语义关联发生了变化。 通过这样的方式，我们不再只是接受AI给出的结果，而是获得了一套可以进一步检查结果的工具。 05 让AI成为自己的对手： 把审查权交还给人类 那么，我们应该怎样检查AI生成的摘要？ 在PEEL中，我们还有一个非常重要的设计思路：让AI成为自己的对手。 我们利用Voyant提供的文本可视化、传统文本分析以及计算语言学资源，为AI生成的内容提供一套审查机制。换句话说，AI生成摘要，而文本分析工具则为用户提供检查摘要的资源。 无论AI提出什么观点，用户都可以借助这些工具判断它是否需要进一步核实。当然，并不是所有情况都需要同样严格的检查。 例如，如果我们只是想确认某篇论文是否包含某项信息，那么只需要快速浏览原文，确认这项信息是否确实存在即可。我们不一定需要深入研究作者是如何得出这一结论的。如果我们要将某个观点作为自己研究的重要依据，就需要进行更加严格的核查。 这就是我们所说的认知权威风险评估。 我还想介绍一下我们如何约束Claude的工作方式。如果要对整个过程进行概括，我会这样描述： “使用我的语言，但要提醒我，你并不知道自己在说什么。不要擅自使用我的语言替我做出判断，而要让我知道，你并不真正理解自己正在处理的内容。” 这是一种非常重要的约束。我们希望Claude尽可能忠实地处理原文，而不是根据自己的世界知识不断延伸和补充。它的任务是对文本进行压缩和转换，而不是替研究者完成所有解释工作。 PEEL的一个典型工作环境是Jupyter Notebook。用户可以看到其中的参数、代码以及具体分析过程，也可以根据自己的需要修改代码。 如果你不同意我的分析方式，完全没有问题。你可以编写自己的分析程序，按照自己的标准检查文本。 我们希望整个过程保持开放。因为摘要生成本身也可能引入偏差，包括提示词带来的偏差，以及文本分析方式带来的偏差。用户不仅可以修改提示词，还可以调整文本分析过程，进一步检查这些偏差从何而来。 在具体的摘要呈现中，我们还会提供不同的压缩比例。 例如，一篇20页的论文可以被压缩到原文长度的10%，也可以进一步压缩到25%的篇幅。用户可以比较不同压缩程度下，原文的结构和主要观点是否得到了保留。 这里有一个很重要的特点：我们尽可能保留原文作者的声音。如果原文作者写道“I argue”，那么摘要也会尽可能保留这样的第一人称表达。这样一来，我们就能迅速回到原文对应的位置，检查作者究竟提出了什么论点。 除此之外，PEEL还会对摘要过程中涉及的不同操作进行分类，评估它们可能带来的风险。 例如，将四个句子合并成一个句子，通常比直接重复原文中的句子具有更高的解释风险。我们也会尽可能使用原文中的直接引语，并通过颜色标记和来源链接，让用户能够追溯相关内容。 另一个重要的特点是，用户可以参与摘要生成过程，而不是被动接受结果。 例如，AI会向用户询问：这些语义类别是否符合你的理解？你是否同意这样的分类？是否希望进行调整？ 最初的语义类别会根据文本中的词语分布和词汇关系提出，但用户可以根据自己的理解修改它们。 此外，我们还提供了大量可视化结果，让用户比较原文与摘要之间的结构、语义和变化趋势。其中，我认为非常重要的一项功能是Voyant中的语境检索列表（Concordance）。 假设我们想研究一篇论文中关于“AI信任”的讨论，就可以通过语境检索找到这个词语在原文中出现的所有位置，再检查不同摘要是否保留了这些内容，以及它们是否仍然处于相同的语境之中。通过这些方法，我们希望提高用户对摘要的信心，也提高摘要本身的质量。 当然，PEEL目前只是一个起点。我们所解决的只是AI给人类知识理解带来的一个很小的问题。语言本身也只是符号系统中的一种。 对于今天在座的多媒体研究者来说，还有一个更加值得思考的问题： 当信息不再通过文字传递，而是通过声音、手势、情绪以及其他多模态信息表达时，我们是否也会遇到类似的认知权威问题？ 我想，这些问题都值得进一步讨论。 谢谢大家。 06 现场问答： AI能否真正拓展人类的创造力？ ▎ 问：如果我们使用AI，意味着需要解决越来越多的问题，那么这些问题什么时候才能结束？ 这是一个非常具有哲学意味的问题。我认为，我们可以通过很多不同的方式使用AI。AI拥有大量令人难以置信的可能性。 具体到认知权威问题，目前有一条研究路径，是尝试提高AI本身的认知可信度。也就是说，我们希望让AI变得更加可靠，让它能够更好地支持人类的知识判断。 但还有另一条路径：我们不妨先接受AI存在局限性，评估使用它可能带来的风险，再决定在什么情况下应该依赖AI，以及在什么情况下应该保持谨慎。 我的直觉是，我们或许应该同时探索这两条路径。在某些场景中，我们确实希望AI拥有比现在更强的认知能力；但在另一些场景中，尤其是研究结果可能产生重大社会影响时，我们应该更加谨慎地呈现和使用AI辅助研究的结果。 例如，疫情带来的影响涉及地球上的每一个人，甚至整个地球本身。这样的研究具有极其重大的社会意义。因此，我们需要在现阶段认真评估其中的风险。 ▎ 问：对于界面中的符号，我们应该如何理解它们的意义？这些符号的含义究竟取决于单个界面，还是取决于一类界面所形成的共同参照体系？ 我从来不敢说哪一种界面是最好的。我们现在正在使用的界面，或许就是一个很好的例子：你使用一种我能够理解的语言与我交流，但反过来，我未必能够完全理解你的意思。你也可能并不确定自己是否完全理解了我。 既然如此，我们又怎么能够轻易地断言，某一种界面就是最好的？ 我真正想讨论的是，界面应该帮助我们进行更好的意义协商（Meaning Negotiation）。 当我们无法理解彼此时，就需要通过各种策略来协商意义。这不仅涉及语言符号，也涉及其他类型的符号。 我目前的一个想法是，我们应该让AI以它真实的状态呈现在用户面前。 也就是说，我们不应该把AI塑造成一个无所不知、能够完全理解一切的存在，而应该让用户知道：这是一个能够使用我的语言与我交流，但并不一定知道自己在谈论什么的系统。 还记得我之前讲到的Claude案例吗？我当时完全不知道，Claude的对话过程可能受到其他代理的中介影响。更令人惊讶的是，它自己也不知道这些信息究竟来自哪里。 因此，我们应该在界面中明确呈现这种可能性。我们需要设计某种符号，无论是文字提示还是视觉提示，让用户意识到系统可能存在这样的信息来源和中间环节。因为这正是风险产生的地方。 至于最好的界面是什么，我仍然没有一个确定的答案。我一直很喜欢让用户自行配置界面的设计思路。不同用户可能需要不同的交流方式，界面应该允许他们根据自己的需求进行调整。 ▎ 问：PEEL能否检测AI生成摘要时出现的幻觉？例如，原文说2+2=4，但AI却总结成2+2=5。 有些类型的幻觉是可以被发现的。 例如，我们可以将原文中关于AI信任的具体论述，与摘要中的相关内容进行对照。如果两者存在明显差异，就可以进一步检查。 不过，我目前并没有专门针对幻觉进行分析，但PEEL所提供的材料和工具已经具备开展这类分析的基础。如果你感兴趣，也完全可以利用这些资源进行研究。 我还想补充一点：很多幻觉实际上来自AI的世界知识，而不是单纯的语言处理。AI可能会根据自己掌握的背景知识，认为某篇论文实际上是在讨论另一个相关话题，于是在摘要中加入一些原文并没有涉及的内容。 这也是为什么我们会约束Claude，让它以一种更接近机器翻译的方式处理文本，对原文进行压缩和转换，而不是自由发挥。这样做的目的，是让读者接触到一个更加浓缩的文本版本，同时仍然保留自己的解释工作。 当然，压缩程度过高也可能产生问题。即使摘要本身没有出现错误，读者也可能因为信息过于浓缩而产生误解。 但我认为，这是我们在选择使用这种工具时需要承担的一种风险。从目前的实验来看，当压缩比例达到25%或30%左右时，文本已经能够保留相当不错的可读性。当然，这也意味着算法还有很多优化空间，整个过程仍然需要大量工作。 ▎ 问：当AI能够完成越来越多的工作时，这种变化是否会降低人类的创造力？过去，我们会不断开发新的工具来完成不同任务；现在，我们似乎可以直接使用AI生成几乎所有东西。这会不会影响技术创新？ 我不认为这必然会降低创造力。 我喜欢用无穷的概念来思考这个问题。我们可以拥有无穷多种相同类型的事物，但这并不意味着我们只能拥有一种创造方式。 如果创造力意味着从一种事物跳跃到另一种完全不同的事物，那么我们确实需要警惕：我们可能正在生成无穷多种相同类型的东西，而不是不断进入新的领域。 2024年，Nature上有一篇由相关研究者发表的文章，讨论了科学研究可能走向同质化的问题。越来越多的人开始按照AI能够完成的任务来组织自己的研究，研究者也可能逐渐把自己的工作调整成适合AI处理的形式。 不过，我仍然愿意相信，AI可以被使用几十种、几百种，甚至几千种不同的方式。我们为什么一定要选择同一种使用方式？在我看来，还有一个更加重要的问题，那就是生产力，尤其是科学研究中的生产力。 现在，人们经常根据发表了多少篇论文来衡量研究者的表现。AI正在服务于这种生产力循环，而这可能比AI本身对创造力的影响更加值得关注。如果我们能够暂时跳出这种生产力循环，我认为AI会展现出非常多令人惊喜的使用方式。 我很幸运，现在已经退休，可以在一定程度上跳出这种循环。在这样的情况下，我们或许能够真正探索AI的不同可能性，而不只是让它帮助我们更快地完成已有的工作。这才是我更愿意看到的方向。 ACM MM 正在召开，欢迎参会的研究者、学生，以及关注&nbsp; AI 前沿进展 的读者加入我们的交流群。 在这里，你可以认识同行、交流研究，分享 招生信息、科研合作、约饭、投稿、组队参会 等， 寻找潜在的合作伙伴 。 大会期间，我们也会持续带来 现场报道速递、嘉宾演讲解读、前沿方向梳理和论坛精华 。 会场见，也在群里见。 ? 进群传送门： &nbsp;扫码进群或添加微信 A17648278904 ， 备注：ACMMM+单位/学校+姓名+方向。 未经「AI科技评论」授权，严禁以任何方式在网页、论坛、社区进行转载！ 公众号转载请先在「AI科技评论」后台留言取得授权，转载时需标注来源并插入本公众号名片。 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
+   "published": "Mon, 16 Nov 2026 07:59:00 GMT",
    "source": "雷峰网",
    "biz_tags": [
     "industry",
     "ai_tools"
    ],
-   "category": "other",
+   "category": "industry",
    "level": "B",
-   "why": "SaaS订阅制+B端硬件模式可借鉴，但赛道无关",
-   "action": "记录其订阅制收费结构作参考",
-   "opportunity": "无",
+   "why": "AI摘要可信度话题，可作知识付费课程选题素材",
+   "action": "收藏观点，作为课程'AI内容审核'章节素材",
+   "opportunity": "开发'AI内容溯源与审核'付费小课",
    "risk": "无"
   },
   {
-   "title": "巴西葡语短剧投放 ROI 只有 0.6，三人小团队该先砍素材还是先换投放时段？",
-   "link": "https://www.baijing.cn/question/638752",
-   "summary": "我们做葡语短剧出海，巴西市场刚起量两个月，团队一共三个人：一个剪辑、一个投放、一个运营兼本地化，月投放预算大概 5 万美元。现在在 Meta 和 TikTok 巴西站跑，单集付费解锁转化率 1.2% 左右，但首日 ROI 只有 0.6，回本周期拉到 20 天以上。已经试过把素材从 15 秒剪到 8 秒、加葡语字幕和本地配音，也试过把投放集中到晚间 19-23 点，效果都不明显。现在人手只够每周产出 6 条新素材，排期已经满了，卡在不知道该优先砍掉低效素材重新分配预算，还是调整投放时段和出价策略。想直接问：三个人这个产能下，先动哪一头更划算？",
-   "published": "Sun, 15 Nov 2026 06:26:05 +0000",
+   "title": "日本手游预约期买量，5人小团队该不该同步铺韩国预约页？",
+   "link": "https://www.baijing.cn/question/638787",
+   "summary": "我们5人发行团队，一款二次元卡牌手游正在日本做预约期投放，Meta和X上CPI从月初的320日元涨到490日元，预约转化率只有1.8%。现在排期卡在一个取舍上：韩国预约页原计划同步上线，但团队里只有1个韩语本地化、1个投放优化师，日本这边的素材迭代已经占满两人档期。如果硬上韩国，日本预约期最后三周的素材更新节奏就要砍半。已经试过把韩语本地化外包，但外包回来的文案在预约页留存测试里比自研版本低一截。想请教有日韩双市场预约期经验的同行，这种人手约束下，是该先保日本单市场把预约量做扎实，还是分人同步铺韩国、接受日本素材迭代降速？判断标准是什么？",
+   "published": "Tue, 17 Nov 2026 05:48:31 +0000",
    "source": "白鲸出海",
    "biz_tags": [
     "short_drama",
     "industry"
    ],
-   "category": "short_drama",
-   "level": "S",
-   "why": "巴西葡语ROI 0.6是典型亏损样本，直接映射我的投放决策",
-   "action": "复盘自己巴西站ROI，先砍低效素材再测时段",
-   "opportunity": "葡语市场若跑通可复制到其他小语种",
-   "risk": "素材产能不足时盲目扩量会烧穿预算"
-  },
-  {
-   "title": "TikTok Shop马来站达人寄样，样品物流签收要4-6天、回款T+7，这个周转还能撑住吗？",
-   "link": "https://www.baijing.cn/question/638747",
-   "summary": "我们做马来西亚站美妆个护，团队5人，刚起量阶段，月GMV大概8万马币。现在靠达人带货，每月寄样120-150单，用J&amp;T和Ninja Van发，样品从吉隆坡仓到东马沙巴、砂拉越经常要4-6天签收，达人收到后拖一周才拍，等于一笔样品成本压两周以上。平台回款是T+7，样品费和运费全自己垫，一个月压在寄样上的现金流差不多1.2万马币。试过只寄西马达人、要求签收后48小时内出脚本，签收率上来了但达人池少了一半，起量明显变慢。卡在时效和回款周期对不上，不知道是该按区域分层寄样、还是改用货到付款让达人承担部分运费。这种情况下你们怎么定寄样门槛和账期？",
-   "published": "Sun, 15 Nov 2026 05:28:29 +0000",
-   "source": "白鲸出海",
-   "biz_tags": [
-    "short_drama",
-    "industry"
-   ],
-   "category": "other",
+   "category": "industry",
    "level": "B",
-   "why": "电商寄样账期问题，与短剧/工具主业无关",
-   "action": "了解即可，不跟进",
+   "why": "小团队多市场投放取舍逻辑，可迁移到短剧多平台投放",
+   "action": "提炼'单市场做扎实再扩'原则，审视自己投放节奏",
    "opportunity": "无",
-   "risk": "无"
+   "risk": "多平台同时铺易导致素材迭代跟不上"
   },
   {
-   "title": "短剧App在德国投放，德语配音素材完播率比英语字幕低一半，是内容问题还是素材问题？",
-   "link": "https://www.baijing.cn/question/638746",
-   "summary": "我们做短剧App出海，欧洲是重点市场，德国和法国刚上线两个月，团队12人，投放主要走Meta和TikTok，月预算大概8万美金。现象是：同一条剧集，英语字幕版在德国跑，3秒完播率能到38%，但换成德语配音+德语字幕的本地化素材后，3秒完播掉到19%，付费转化也从1.2%掉到0.5%。我们试过调整前3秒钩子、换封面、把字幕字号放大，也找过德国本地配音演员重录，但数据没有明显回升。现在卡在判断不了到底是德语观众对短剧这种快节奏叙事接受度本身低，还是配音节奏和画面不匹配导致出戏。想问的是，在德国市场，短剧素材到底该优先做配音本地化还是保留英语原声加德语字幕，判断依据应该看哪个指标？",
-   "published": "Sun, 15 Nov 2026 05:22:18 +0000",
-   "source": "白鲸出海",
-   "biz_tags": [
-    "short_drama",
-    "industry"
-   ],
-   "category": "short_drama",
-   "level": "S",
-   "why": "德语本地化配音反而掉量，直接影响欧洲投放策略",
-   "action": "在德国站A/B测试英语原声+德语字幕vs配音",
-   "opportunity": "找到欧洲最优本地化组合可省大量配音成本",
-   "risk": "盲目做配音本地化会白烧钱且拉低转化"
-  },
-  {
-   "title": "短剧在尼日利亚和肯尼亚的素材接受度差这么多，本地化该从哪一层改？",
-   "link": "https://www.baijing.cn/question/638744",
-   "summary": "我们做非洲短剧出海，主攻尼日利亚和肯尼亚，团队 12 人，月投放预算约 8 万美元，起量阶段。同一部都市复仇短剧，尼日利亚素材用豪萨语配音加本地演员面孔，CTR 有 2.1%，肯尼亚换成斯瓦希里语字幕、保留原声，CTR 掉到 0.7%，完播率也从 34% 掉到 18%。已经试过换封面、加本地 KOL 口播、把前 3 秒冲突提前，效果都不明显。现在不确定是配音语言、演员肤色还是剧情节奏的问题，该先改哪一层做 A/B 测试？",
-   "published": "Sun, 15 Nov 2026 05:03:54 +0000",
-   "source": "白鲸出海",
-   "biz_tags": [
-    "short_drama",
-    "industry"
-   ],
-   "category": "short_drama",
-   "level": "A",
-   "why": "非洲市场本地化分层测试方法可复用到其他新兴市场",
-   "action": "按语言/面孔/节奏三层拆开做A/B测试",
-   "opportunity": "非洲低成本流量若跑通是蓝海",
-   "risk": "一次性改多层无法归因，浪费测试预算"
-  },
-  {
-   "title": "欧洲 SaaS 投放 CPA 涨到 180 欧，GDPR 同意弹窗是元凶吗？",
-   "link": "https://www.baijing.cn/question/638743",
-   "summary": "德国、法国、英国、西班牙四个站点同步起量中，团队 15 人，月投放预算约 4 万欧元，主投 Google Ads 和 LinkedIn。三个月里注册 CPA 从 95 欧涨到 180 欧，落地页到注册的转化从 6.2% 掉到 3.4%。我们怀疑是 CMP 同意弹窗拦截了 Google 的转化回传，已经在 GTM 里加了 consent mode v2，也换过一家 CMP 供应商，但广告后台的转化数和 GA4 仍差 30% 左右。现在不确定该先改同意文案和弹窗时机，还是先调整归因口径。想直接问：在欧洲这种同意率下，你们判断 CPA 虚高是测量问题还是真实获客变贵，标准是什么？",
-   "published": "Sun, 15 Nov 2026 04:49:52 +0000",
+   "title": "AI 写作工具在巴西墨西哥订阅拒付率偏高，只有两个人怎么排期处理？",
+   "link": "https://www.baijing.cn/question/638786",
+   "summary": "我们做 AI 写作 SaaS，葡语和西语版刚上线三个月，起量阶段，巴西和墨西哥贡献了七成订阅，团队一共两个人，我兼产品和一个兼职客服。用 Stripe 收款，巴西信用卡拒付率 4.2%、墨西哥 3.6%，本地钱包和分期付款还没接；拒付邮件一多，兼职客服每天只能处理几十封，退款申诉经常拖过平台时限。已经试过在结账页加 CPF 和 RFC 字段、把试用期从 7 天缩到 3 天，拒付只降到 3.5% 左右，卡在分期和本地支付方式接入需要开发排期，而我们这个月还要赶西语版新功能。想直接问：在只有两个人、开发排期排满的情况下，应该先接本地支付方式，还是先把拒付申诉流程自动化？",
+   "published": "Tue, 17 Nov 2026 05:33:22 +0000",
    "source": "白鲸出海",
    "biz_tags": [
     "short_drama",
@@ -269,210 +235,225 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "欧洲SaaS获客成本翻倍，影响我工具出海欧洲的投放模型",
-   "action": "检查自己落地页CMP与consent mode v2配置",
-   "opportunity": "做GDPR合规CMP优化服务卖给SaaS同行",
-   "risk": "归因口径错误会误判真实获客成本"
+   "why": "拉美订阅拒付率4%+，做SaaS出海必须提前避的坑",
+   "action": "研究Stripe本地支付接入与拒付申诉自动化方案",
+   "opportunity": "拒付申诉自动化工具本身可做成插件卖",
+   "risk": "只接Stripe不做本地钱包，拒付率难降"
   },
   {
-   "title": "欧洲短剧订阅转化低，是本地化素材没打中德国和法国用户吗？",
-   "link": "https://www.baijing.cn/question/638742",
-   "summary": "我们做欧洲短剧出海，德国、法国、英国、西班牙四国同步上线，团队12人，月投放预算约8万欧元，主投Meta和TikTok。同一批剧在西班牙付费转化率能到3.1%，德国只有0.9%，法国1.4%。素材用的是国内爆款剪辑直接配字幕，德语区完播率比西语区低近一半，试过换本地配音和德语演员重拍前3秒，转化只涨了0.2个百分点。现在卡在判断到底是题材本身不吃德语市场，还是素材的叙事节奏和付费钩子没本地化到位。想直接问结论：德语区短剧订阅转化低，优先换题材还是优先重做素材结构？",
-   "published": "Sun, 15 Nov 2026 04:30:40 +0000",
+   "title": "日本手游预约期CPA涨到1800日元，还要不要继续加预算？",
+   "link": "https://www.baijing.cn/question/638780",
+   "summary": "日本市场新游预约期，投放两周后CPA从最初1200日元涨到1800日元，预约转化率从8%掉到5.2%。团队12人，月投放预算约300万日元，主要在Google UAC和Meta跑预约广告，素材以角色立绘和CV试听为主。已试过换素材方向、缩窄兴趣定向、加投Twitter信息流，但CPA仍在1700日元以上横盘。现在卡在预约量还差4万才够上线首月买量基数，继续加预算怕把CPA推到2000日元以上，不加又怕错过上线窗口。想直接问：在日本预约期这个CPA水位，你们判断继续加预算还是转去养自然量的标准是什么？",
+   "published": "Tue, 17 Nov 2026 04:18:49 +0000",
    "source": "白鲸出海",
    "biz_tags": [
     "short_drama",
+    "industry"
+   ],
+   "category": "industry",
+   "level": "B",
+   "why": "投放CPA上涨的止损判断逻辑，可参考到短剧投流",
+   "action": "记录'CPA涨50%即转养自然量'的判断标准",
+   "opportunity": "无",
+   "risk": "盲目加预算推高CPA且难回落"
+  },
+  {
+   "title": "沙特海外仓备货周转慢，广告CPA涨到38美元还要继续压货吗？",
+   "link": "https://www.baijing.cn/question/638778",
+   "summary": "中东站起量两个月，投放侧先出了问题：沙特Google UAC的CPA从月初19美元涨到38美元，TikTok阿联酋的获客成本也翻了快一倍，但转化率没掉。我们做消费电子配件，团队7人，月投放预算约4万美元，货走的是利雅得第三方海外仓，备货周期45天，现在仓里三个SKU的周转天数已经到70天，占用现金约30万人民币。已经试过缩投放预算、把出单差的SKU降价清仓，但清仓拉低客单后CPA反而更难看。卡在备货节奏和投放节奏对不上：压货怕周转继续恶化，不压又怕断货掉排名。这种情况该按周转天数还是按投放ROI来定补货量？",
+   "published": "Tue, 17 Nov 2026 03:58:34 +0000",
+   "source": "白鲸出海",
+   "biz_tags": [
+    "short_drama",
+    "industry"
+   ],
+   "category": "industry",
+   "level": "B",
+   "why": "电商投放与备货节奏问题，与短剧业务关联弱",
+   "action": "略读，仅记录CPA翻倍需警惕的通用信号",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "历时 6 年制作：微软 Metro UI 纪录片本月上线，重现 Windows Phone 最激进设计遗产",
+   "link": "https://www.ithome.com/1/028/230.htm",
+   "summary": "IT之家 11 月 17 日消息，大卫 ·V· 金博尔（David V. Kimball）昨日（11 月 16 日）在 X 平台发布推文， 宣布历时约 6 年制作、片长约 90 分钟的 Metro UI 纪录片将于美国东部时间 11 月 20 日下午 4 点（北京时间 11 月 21 日凌晨 5 点）在 YouTube 频道首播。 该纪录片聚焦微软的 Metro（后来称为 Modern UI），试图还原 Metro 从早期概念到影响微软多款产品的完整历程，重现 Windows Phone 时代最激进的设计遗产。 IT之家注：Metro，后来也被称为 Modern UI，是微软曾大力推行的一套界面设计语言，以排版、内容、动效和简洁几何为核心，强调减少冗余装饰，融合文字、图像与屏幕边缘本身成为体验的一部分。对于许多用户而言，该设计语言最具代表性体现，就是 Windows Phone 标志性的动态磁贴（Live Tiles）、全屏开始界面以及鲜明的色块排版。 纪录片将追溯微软设计思路的演进，从 Encarta、Media Center，到 Zune、Windows Phone、Windows 8 和 Xbox，并延伸至 Microsoft Band、HoloLens 等产品。 影片采访了 Bill Flora、Joe Belfiore、J Allard、Bill Buxton 等多位曾参与相关产品与设计工作的关键人物，并收录了部分据称从未公开的早期概念资料。 科技媒体 Windows Central 解读认为，Metro 常被简化为“Windows Phone 失败的设计”或“Windows 8 引发争议的界面”，但这部纪录片希望呈现更完整的视角，Metro 曾是微软试图建立跨设备、跨体验统一设计哲学的一次大胆尝试。",
+   "published": "Tue, 17 Nov 2026 05:34:29 GMT",
+   "source": "IT之家",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "设计史纪录片，与业务无直接关联",
+   "action": "无需行动，可忽略",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "消息称阿里调整员工回流政策，知情人士否认“史上最严”说法",
+   "link": "https://www.ithome.com/1/028/217.htm",
+   "summary": "IT之家 11 月 17 日消息，据新浪科技今日报道，有市场消息称，近日阿里巴巴发布最新通知，员工回流政策有所调整。 即日起， 从阿里集团主动离职 1 次，要满 6 个月后方可应聘 ，但回流到集团内未曾任职的业务集团的岗位，不受此时间限制。 主动离职 2 次的，将无法回流阿里集团 ，仅可以正常去集团体系未曾去过的业务集团的岗位。例如，从阿里控股离职 2 次后，不能再回阿里控股这个主体，但仍可去淘天、阿里云、AIDC 等其他业务线。 据知情人士透露，本次调整是对集团各业务线原有二雇政策的统一，属既往政策的延续， 没有收紧，“史上最严”的说法系误读 。 IT之家查询阿里财报发现，截至 2026 年 6 月 30 日，阿里巴巴集团员工总数为 132,165 人。相比 2025 年底的 128,197 人，2026 年上半年员工规模略有回升，显示人员结构趋于稳定。",
+   "published": "Tue, 17 Nov 2026 04:35:04 GMT",
+   "source": "IT之家",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "大厂人事政策，与一人公司业务无关",
+   "action": "无需行动",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "微软高管自嘲：Win11 仍藏着 Win95 时代的“电话拨号器”",
+   "link": "https://www.ithome.com/1/028/213.htm",
+   "summary": "IT之家 11 月 17 日消息，科技媒体 Windows Latest 昨日（11 月 16 日）发布博文，报道称微软 Windows 传播总监布兰登 · 勒布兰克（Brandon LeBlanc）在 X 平台自嘲， 他“甚至不知道为什么 Windows 11 还保留电话拨号器（Phone Dialer）”，并称已将相关反馈转达内部团队。 Windows 95 上的拨号器 IT之家援引博文介绍，电话拨号器的界面和功能均源自 Windows 95 时代、甚至可追溯至 Windows 3.1 的工具，至今仍可透过“运行”窗口输入 dialer 调出。 电话拨号器诞生于调制解调器普及的年代：用户可让电脑通过电话线拨打固定电话，也可配合“拨号网络”接入互联网。如今，绝大多数家用电脑早已不再使用拨号上网，该工具对普通用户几乎失去实用价值。 不过在企业环境下，电话拨号器基于 Windows 的 TAPI 电话接口运行，部分企业仍可借助它连接 Avaya、Auerswald 等办公电话系统，让电脑向座机发起呼叫，因此一些业务软件也会通过“辅助电话”功能调用它。微软若直接移除，可能影响少数依赖传统办公电话流程的企业用户。",
+   "published": "Tue, 17 Nov 2026 04:25:09 GMT",
+   "source": "IT之家",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "系统遗留功能趣闻，无业务价值",
+   "action": "无需行动",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "360 回应副总裁卜思南被带走调查传闻：内审发现其涉嫌经济问题，已报案",
+   "link": "https://www.ithome.com/1/028/212.htm",
+   "summary": "IT之家 11 月 17 日消息，综合第一财经、鞭牛士报道，多位消息人士透露，360 副总裁、市场部负责人卜思南因涉嫌职务侵占等案件已在上周一被警方带走调查。 对此，360 官方今日回应称， 公司内审发现卜思南涉嫌经济问题后，已向公安机关报案，目前其正在接受有关部门调查 。 360 称，公司要求员工遵守法律法规及内部制度，对贪腐和其他违法违规行为采取零容忍态度，相关问题一经查实将严肃处理。 另据超角度报道，11 月 16 日晚间，卜思南通过微信向该媒体回应称， 被带走的说法“不是真的” ，并表示正在处理相关事项。在被问及微信账号是否由本人使用时，卜思南称是本人。 IT之家查询获悉，卜思南是 360 集团副总裁、360 集团市场部负责人、360 数字安全集团教育事业部总经理、ISC 品牌主理人。卜思南早期负责集团市场战略、品牌生态建设，后主管产教融合业务，对接数百所院校共建安全产业学院，牵头国家级产教融合共同体；同时主理 ISC.AI 相关生态，推出 ADE 智能体工程师认证，在 360 All in Agent 战略下推进 AI 安全人才培养与创新项目落地。 今年 8 月，360 集团宣布，为推进“安全 +AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。",
+   "published": "Tue, 17 Nov 2026 04:23:57 GMT",
+   "source": "IT之家",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "企业反腐新闻，与AI内容出海无关",
+   "action": "无需行动",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "一年少了约30万名学生：韩国补习市场大退潮？",
+   "link": "https://www.huxiu.com/article/4906198.html",
+   "summary": "今年1月2日，韩国首尔江南区大峙洞，一位47岁的母亲郑女士，决定停掉孩子的科学补习班。语文、英语和数学暂时保留。科学改上网络课程，体育则转到收费较低的青少年活动中心。郑女士向韩国《Money Today》记者抱怨，在大峙洞，甚至存在专门帮助学生考进其他补习班的预备课程。孩子想进入更好的班级，往往还要先上一轮培...... 本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 今年1月2日，韩国首尔江南区大峙洞，一位47岁的母亲郑女士，决定停掉孩子的科学补习班。 语文、英语和数学暂时保留。科学改上网络课程，体育则转到收费较低的青少年活动中心。郑女士向韩国《Money Today》记者抱怨，在大峙洞，甚至存在专门帮助学生考进其他补习班的预备课程。孩子想进入更好的班级，往往还要先上一轮培训。 大峙洞是韩国最著名的补习街之一，聚集着大量升学辅导机构。从普通学科到数学竞赛、资优教育、重点大学升学，各类培训课程几乎覆盖了孩子成长的每个阶段。 郑女士发现，周围一些家长也在减少课程。除了语文、英语和数学，其他科目优先削减。费用压力较大的家庭，连语文课也开始停掉。 3月12日，韩国国家数据统计部门公布《2025年中小学生校外教育费用调查》。2025年，韩国中小学生校外补习总支出为27.5万亿韩元，同比下降5.7%，减少约1.7万亿韩元。 此前四年，韩国补习费总额连续创下历史纪录，2024年达到29.2万亿韩元。2025年，补习参与率从80%降至75.7%，平均每周补习时间也由7.6小时缩短至7.1小时。 韩国持续多年的补习热潮，出现了明显降温。 但还有一组数字值得注意。全国中小学生人均月补习支出下降3.5%，实际参加补习的学生，人均月支出却上涨2%，达到60.4万韩元。 参加补习的学生少了，留下来的学生平均花费反而更高。 01｜韩国补习班，一年少了约30万名学生 2025年，韩国中小学生总数约502万人，比上一年减少约12万人，降幅2.3%。 按照官方公布的学生人数和补习参与率计算，2024年，全国约有410万名中小学生参加校外补习；2025年降至约380万人。 一年减少约30万人。 其中，小学生补习市场的变化最明显。2025年，韩国小学生校外补习总支出为12.2万亿韩元，同比下降7.9%；初中生支出下降3.2%，高中生下降4.3%。 过去十多年，韩国补习机构不断向低龄儿童拓展招生对象。除了英语、数学，艺术、体育、写作和资优教育，也逐渐成为不少小学生放学后的固定安排。 对于双职工家庭，补习班还承担着课后照护功能。父母下班前，孩子可以在培训机构学习、活动，等待家长接回。 近年来，韩国政府持续扩大校内课后照护和公共教育服务。2025年，韩国小学生参加校内课后课程与照护项目的比例达到52.2%。 部分家长开始使用这些服务，替代原来需要单独付费的课外活动。 首尔杏堂洞的一位家长朴女士，就把读初二的孩子从三门补习减到两门。 今年3月，她告诉韩国《经济日报》，英语培训费上涨之后，自己决定取消线下英语课，只保留数学和科学。英语则改用价格较低的网络课程。 大峙洞的郑女士停掉科学，杏堂洞的朴女士停掉英语。两位家长都保留了部分线下补习，希望在减少开支的同时维持孩子的成绩。 全国数据也出现了相似变化。 2025年，韩国普通学科补习参与率从64.9%降至56.5%，下降8.4个百分点；艺术、体育和兴趣类课程的参与率则从46.6%降至45.8%。 在减少补习支出的家庭中，学科课程同样进入了削减范围。 除了科目选择，家长还开始比较不同教学方式的价格。线下补习班、网络课程、EBS免费教学资源，以及学校提供的课后服务，都成为可以替换的选项。 但教育预算的调整，在不同收入家庭之间表现出很大差别。 02｜中产家庭开始减课，高收入家庭继续花钱 同样是在今年1月，韩国《Money Today》记者采访了另一位住在首尔江南区的家长。 40岁的李女士和丈夫都是上班族，12岁的儿子同时参加语文、英语、数学和写作培训。 她计算过，孩子一年补习费达到3700万韩元，约占夫妻工资收入的70%。 李女士准备把数学课改成线上辅导。但即使每周只上两次，每个月仍然需要支付60万韩元。 另一位43岁的母亲准备使用韩国教育广播公社EBS提供的免费课程。她担心孩子因此落后，却已经很难继续负担原来的补习费用。 2025年，韩国中间收入家庭的教育支出明显收缩。 月收入300万至400万韩元家庭，每名学生的平均月补习支出从28.5万韩元降至25.3万韩元，同比下降11%。 月收入400万至500万韩元家庭，从36.6万韩元降至33.6万韩元，下降8.3%；月收入500万至600万韩元家庭，从44万韩元降至40.5万韩元，下降8.1%。 后一个收入组的补习参与率也从82%降至74.9%，一年减少7.1个百分点。 收入更高的家庭，调整幅度小得多。 月收入800万韩元以上家庭，2025年学生补习参与率仍然达到84.9%，人均月支出66.2万韩元，同比仅下降2.1%。 月收入300万韩元以下家庭的补习参与率则只有52.8%，人均月支出19.2万韩元。 两组家庭的补习参与率相差32.1个百分点，平均支出相差约3.4倍。 韩国国家数据统计部门另一项家庭收支调查，也记录了中间收入家庭的变化。 2025年第三季度，有未成年子女的夫妻家庭，月均补习教育支出同比下降约0.7%，为2020年第四季度以来首次同期下降。 按收入五等分组，第二、第三收入组家庭的补习教育支出分别下降7.2%和12.5%；最高收入组下降3.5%。 韩国中央大学经济学教授李正熙在接受《Money Today》采访时认为，持续的物价压力和经济环境变化，使过去优先保障教育投入的家庭，也开始减少补习支出。 家长的选择已经相当具体。大峙洞的郑女士取消科学课，杏堂洞的朴女士取消英语课。李女士则希望把收费更高的数学辅导换成线上课程。 但低价网络课程也未必能完全承接线下流失的需求。 2025年，按照全体学生平均计算，韩国互联网和通信类普通学科补习支出同比下降27.3%。 部分家庭改用线上课程，是为了降低成本；另一些家庭可能直接减少付费学习，转向免费资源。 而在仍然参加补习的学生中，人均月支出从59.2万韩元升至60.4万韩元。 其中，参加普通学科补习的学生，人均月支出同比增长7.9%。 这个变化既与部分家庭继续购买高价课程有关，也受到付费学生构成变化的影响。当每月只花费十几万韩元的家庭减少补习，留下来的学生平均支出便可能提高。 对培训机构来说，平均补习支出上涨，并不代表每个学生都愿意接受更高的收费。 家长开始在不同科目和机构之间重新分配预算。能够留下来的课程，往往是家长认为对成绩和升学更重要的部分。 今年1月，韩国《联合新闻》走访首尔补习市场时发现，一些为期六至七周的寒假全日制强化班，收费达到200万至300万韩元，招生名额仍然紧张。 钟路学院代表林成浩当时表示，复读生综合班提前招生人数同比增加约10%至20%。 在普通家庭开始减课的同时，部分高价升学课程继续吸引愿意付费的学生。 图注：夜间的首尔大峙洞补习街。尽管部分家庭开始减少课程，高强度升学辅导仍然吸引学生。 来源：《Herald Economy》，2026年4月29日报道，记者金龙宰（김용재） 03｜韩国补习班，开始争夺越来越少的学生 11月11日，韩国上市教育公司Creverse公布了第三季度业绩。 这家经营清潭语学院、CMS资优数学学院等品牌的教育集团，当季营业收入达到569亿韩元，营业利润24亿韩元。 前三季度累计营业利润为74亿韩元，比去年同期增加28亿韩元。 学生人数也在增长。 截至今年9月底，清潭语学院在读学生达到21355人，同比增长8.1%；CMS资优数学学院在读学生7943人，同比增长10.7%。 其中，CMS第三季度收入达到159亿韩元，同比增长13.6%。 韩国全国补习参与率下降，Creverse旗下两个核心品牌的招生却继续增长。 公司正在调整课程。 清潭语学院原本以英语表达和思维训练为主要特色，今年增加了面向学校考试和语法学习的内容。公司表示，新推出的THE OPEN课程帮助清潭语学院吸引新生，也提高了原有学生的留存。 CMS则把课程延伸至更低龄和更高学段。面向儿童的数学思维课程TinQ，以及面向高中阶段的Climath，分别补充了原有产品体系。 到了今年9月底，CMS资优数学学院的在读人数同比增加超过一成。 另一家韩国教育集团Megastudy Education，面对的经营环境复杂得多。 今年前三季度，公司营业收入同比增长1.9%，营业利润却下降3.5%。 其中，上半年高中业务收入约2794亿韩元，基本与去年同期持平，营业利润却从约385亿韩元降至325亿韩元，降幅15.6%。 Megastudy拥有高中升学、在线教育、中小学课程等业务，高中升学是其重要收入来源之一。 近年来，这项业务面临来自新兴机构的竞争。 其中一家是首尔大峙洞的“时代人才”（시대인재）。 时代人才的运营商Highconsi，2025年实现营业收入4646亿韩元，比2024年增长21.7%；营业利润453亿韩元，同比增长27.8%。 这家公司主要经营线下升学培训、复读课程和教学内容业务，近年来不断扩大课程和招生规模。 教师资源是这类机构最重要的投入之一。 2025年，Highconsi的教师费用超过1700亿韩元。公司依靠知名教师、课程内容和升学辅导吸引学生，同时也要承担高额教学成本。 Megastudy同样需要投入教师、教材和营销资源。韩国《NewsTomato》今年9月报道，公司在教师、外包服务和市场营销方面的开支增加，对利润形成压力。 图注：韩国Megastudy补习学院的复读生课程授课现场。公司在2026年2月启动面向2027学年入学考试的复读培训班。 来源：Megastudy学院提供的图片，经《Herald Economy》2026年2月13日报道刊载。 大型教育机构之间，已经围绕升学课程和教师资源展开激烈争夺。 去年12月，韩国开发研究院KDI发布了一份关于校外教育依赖的研究。 报告指出，韩国优质就业机会集中于大企业、公共部门和专业职业领域，重点大学的学历仍然影响不少年轻人的职业选择。 研究发现，家长感受到的升学竞争压力越强，通常越愿意增加校外教育投入。而竞争压力增加后，家庭往往提高补习支出金额，补习时间和课程数量的变化却相对有限。 部分家长把更多预算集中在重点课程和关键考试上，也为高价升学培训留下了市场。 但大型机构的招生增长，很难代表整个行业。 在韩国江原道，一些地方补习班已经开始缩减经营。 11月，《江原道民日报》走访当地培训机构发现，学生人数下降的同时，房租、教师工资和其他运营费用仍在增加。 江原道补习班和教学机构总数，2024年为3136家，2026年为3144家，整体变化很小。 但不同地区已经出现差异。春川和原州的机构数量仍在增加，江陵减少24家，东海减少13家，铁原减少10家。 在原州，一位44岁的美术补习班经营者，过去四年每月支付55万韩元房租。今年，房租上涨约10%，每个月增加约6万韩元。 当地教育部门对部分课程设有收费标准。按照原州教育支援厅公布的标准，普通美术课程每分钟收费上限为205韩元，初级钢琴为190韩元。 学生减少，课程提价空间有限，机构只能继续压缩其他开支。 一些经营者开始缩小教室，减少开班数量。也有教师离开原来的培训机构，改为独立授课，或者兼任学校课后课程。 春川一位从事升学辅导超过20年的经营者观察到，过去能够容纳数百名学生的大型补习班，如今开始把教室分隔成较小的教学空间。 地方市场的变化，与首尔专业升学培训机构的增长形成了鲜明对照。 Creverse的清潭语学院今年9月底在读学生超过2.1万人，CMS资优数学学院同比增长10.7%；时代人才运营商Highconsi在2025年收入增长超过两成。 而在江原道，部分补习机构连原有班级的招生规模都难以维持。 对地方培训机构而言，每减少一名学生，损失的可能是连续几年购买课程的家庭。教师工资、场地和其他费用却很难随学生人数同步下降。 今年11月，《江原道民日报》采访了江陵一位46岁的美术补习班经营者。 她已经从事这门生意约八年。 过去，机构能够依靠附近家庭的报名维持经营。如今，学生人数已经降至疫情时期的一半。 她开始考虑关闭补习班，最近还专门咨询过处理店面的事情。 在首尔，一些升学机构仍然投入大量资金聘请教师、开发课程，争夺愿意支付高价的家庭。 而在江陵，这位经营了八年的美术教师，已经开始为自己的补习班寻找退出的办法。",
+   "published": "Tue, 17 Nov 2026 05:06:00 GMT",
+   "source": "虎嗅资讯-全部",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "industry",
+   "level": "A",
+   "why": "补习市场萎缩，知识付费需警惕同类趋势",
+   "action": "复盘课程卖点，强化AI变现实操差异化",
+   "opportunity": "转向成人AI技能培训，避开K12萎缩",
+   "risk": "知识付费大盘收缩，获客成本上升"
+  },
+  {
+   "title": "美国为什么一边衰落，一边加码科技文化渗透？",
+   "link": "https://www.huxiu.com/article/4906197.html",
+   "summary": "从美西战争后建立泛美体系，到二战后接盘英法旧殖民地，再到全球南方崛起后转向制裁、颜色革命、科技文化渗透——美国用120多年搭建了一套不占领土却能控制命脉的霸权网络。复旦大学一带一路及全球治理研究院首席研究员黄仁伟，将其概括为六个字：控制而不兼并，并将其定义为美国新殖民主义的核心特征。但特朗普上台后，这套体系出...... 本文来自微信公众号： 底线思维 ，作者：黄仁伟 从美西战争后建立泛美体系，到二战后接盘英法旧殖民地，再到全球南方崛起后转向制裁、颜色革命、科技文化渗透——美国用120多年搭建了一套不占领土却能控制命脉的霸权网络。 复旦大学一带一路及全球治理研究院首席研究员黄仁伟，将其概括为六个字：控制而不兼并，并将其定义为美国新殖民主义的核心特征。 但特朗普上台后，这套体系出现了裂痕：对格陵兰、巴拿马提出领土主张，甚至不顾盟国身份，要把加拿大变成美国的“第51州”。与此同时，新殖民主义正加大科技文化渗透，开始了更隐秘的控制。 如何看待特朗普的这些动作？代表着美国新殖民主义的后退吗？在AI科技时代，这套新殖民体系又表现出了哪些新特征？中期选举失利后，特朗普又会如何强撑美国霸权？近日，观察者网对话黄仁伟，深度拆解这套“控制而不兼并”的霸权逻辑何以运转、又为何出现裂痕？全球南方如何借助“一带一路”和全球治理突破枷锁？中国又能提供哪些“反新殖民主义公共品”？ 观察者网对话复旦大学一带一路及全球治理研究院首席研究员黄仁伟 美国新殖民主义的三个历史阶段 观察者网：您认为美国新殖民主义的核心特征是“控制而不兼并”，通过控制其政治经济文化的命脉，将它们纳入其全球霸权体系。能否请您详细讲讲，二战以后直到今天，美国新殖民主义大致可以分成哪些阶段，又是通过哪些方式实现这种“控制而不兼并的”？ 黄仁伟：美国的新殖民主义大体可以分为三个历史阶段。 1898年美西战争后到二次大战结束，这一段是早期的新殖民主义，主要是美国在西半球建立它的新殖民主义体系。这一时期美国有几个大的外交举动。前期是门罗主义，不许欧洲干涉西半球。到1900年左右，尽管西半球是美国的势力范围，但也不能再用兼并征服的方式，因为西半球当时已经有不少独立国家了。不能征服，又要控制，要让它们归属于美国这个体系，所以美国就在西半球建立起一套新殖民主义的控制方式——泛美主义（Pan-Americanism）。 1910年，在布宜诺斯艾利斯举行的第四届美洲国家会议上，原有的“美洲共和国商务局”（1890年设立）被正式改名为“泛美联盟”，西半球国家被全部纳入这个联盟，并于1959年成立了泛美开发银行。这些国家的援助、货币、金融，都要受到泛美开发银行的控制，这也就是我们常见的经济控制手段。 在政治上，美国直接干预这些国家的内政。如果哪个国家不听话，就把这个国家的领导人俘虏、扣押。文化上，这些西半球国家多是西班牙殖民地、讲西班牙语，但美国也要逐渐影响它们，把它们纳入美国的文化系统。所以泛美联盟、泛美体系、泛美主义，是美国新殖民主义的最初模式。 美国的新殖民主义体现在美国的拉美政策上:一是“大棒加胡萝卜”，你听话，我就给你一点甜头；你不听话，我就用军事手段打压。后来“大棒加胡萝卜”也成为美国在全球的常用手段。二是金元外交（Dollar Diplomacy），拉美国家都比较穷，美国说我可以给你一部分援助，但前提是要听话。第三是针对古巴专门提出了一个“熟果政策”，古巴要像一个成熟的苹果那样掉落下来，正好落在佛罗里达，古巴这个果实最后是美国的。 二次大战结束后，美国新殖民主义进入第二阶段。英国、法国、西班牙、葡萄牙这些欧洲老殖民主义的宗主国体系全部崩溃，难以再控制世界上这么大的大陆，殖民地纷纷独立。这些独立国家名义上是独立，但实际上还是离不开宗主国，宗主国还在干涉、控制它们，但实力都很弱了，也派不出那么多军队了。 这个时候，美国就开始接盘，重新控制英法退出的老殖民地，也把新殖民主义这套模式搬到了原来的旧殖民地国家。在非洲、东南亚和中东，美国都建立了一套控制这些国家的体系：组建军事同盟、提供美国援助、吸引当地精英赴美留学；如果有国家不听话，就扶持反对派进行颠覆活动，使其总统无法继续执政。 这套手段在二战后被美国广泛用于世界各地，新殖民主义由此取代了英法、西班牙等老殖民主义，可将其概括为“控制而不兼并”。老殖民主义以兼并为主，兼并后将白人移民至当地，统治当地居民，手段较为原始，如果遇到反抗就开枪屠杀。因此有人认为美国的新殖民主义是一种进步，但实际上它的控制更加严密。 随着全球南方崛起，新殖民主义发展到第三阶段。此时全球南方已经具备一定实力，经济上实现自主发展，开始谋求完全独立，摆脱对西方的依附；政治上开始寻求不同于西方的体制与价值观。所以冷战结束后，尤其是21世纪以来，出现了更新形态的新殖民主义： 首先，美国经济控制的手段更强了，依靠制裁和金融工具掌控这些国家的财富；一旦这些国家不听话，就动用经济手段进行制裁，强度比过去更大。其次，意识形态渗透力度更强，采用颜色革命的手段——如果对方不听话，不一定直接扶植傀儡政权，而是通过反对党运动推翻原有政权，但也会直接动武，比如在伊拉克、阿富汗的军事行动。此外，美国还借用所谓全球治理、国际规则的名义，为自己披上合法外衣。 所以归根结底还是控制，只是这种控制的手段与此前不同，已经更新升级。再加上网络、人工智能等新技术的加持，软实力的渗透比过去更加厉害。大量政治精英都在美国毕业、取得学位后，再回到本国，成为美国的代理人。 美国新殖民主义的这三个阶段存在继承关系，但每个阶段都有新的特点。归根结底还是那句话：控制而不兼并。这与老殖民主义以兼并和直接殖民统治为主的模式形成了区别，很多人认为这并非殖民主义——殖民主义通常被限定在早期新大陆发现后的土地掠夺阶段。英国曾占领世界各大洲的领土，号称日不落帝国；法国也占据了大片殖民地，西部非洲许多国家都以法语为通用语言；拉丁美洲则普遍使用西班牙语和葡萄牙语。这就是早期殖民主义的特征。美国新殖民主义是对传统殖民主义的变形与发展。 特朗普为什么又想要领土了？ 观察者网：您刚才说新殖民主义的特征是“控制而不兼并”。但我们发现特朗普上台之后，对其他国家，比如丹麦、加拿大、巴拿马，直接提出了领土主张。这是否意味着美国新殖民主义在扩张陷入困境后，试图回归传统的殖民掠夺？ 黄仁伟：是的。第三阶段的新殖民主义与第二阶段存在明显区别，兼并这一老殖民主义手段重新出现在美国的新殖民主义策略中。这与美国霸权地位的下降直接相关：过去它无需兼并领土就能实现控制，如今其全球总体控制力减弱，就试图在关键区域，尤其是临近美国的地区推行兼并。仅仅靠外部干涉手段已不足以实现控制——比如在中东耗费了大量资源却未能实现控制，东南亚也同样未能掌控。当前它在东半球后撤的同时，决意要完全掌控西半球。 另一方面，关键通道与战略资源如今已成为美国国家安全的核心关切，在关键通道和主要资源产地，仅依靠代理人已经不够了，美国需要直接掌控这些通道与资源。巴拿马运河是关键通道，格陵兰则拥有丰富的资源，尤其是大量稀土，这也是它试图兼并的重要原因。 当前美国的“兼并”，已经延伸到了盟国头上。加拿大是美国最大的盟国，格陵兰所属的丹麦也是对其十分忠诚的盟友——美国的兼并意图已经不再顾及盟国身份了。 由此可见，特朗普所谓的“美国优先”政策，已经发展到向老殖民主义方向倒退的程度。但我认为这种做法不会成功。即便美国针对格陵兰签署了相关条约，这块土地的主权在名义上仍属于丹麦。这种回归老殖民主义的新殖民主义模式能否持续，目前尚无定论，但可以判断它难以长久。 但是在新的全球化条件下，兼并别国领土在法律和道义层面都面临巨大障碍，它无法像老殖民主义时期发现新大陆那样，以无主土地为由直接侵占。如今美国试图获取的领土都属于主权国家，这类行为极易遭到国际舆论谴责。 因此，特朗普之后，美国能否继续推行这类政策存在两种可能：一种是民主党上台后放弃这种做法，回归到依靠软实力实施控制的老路；另一种是共和党内部的强硬派坚持推进，将夺取领土作为外交政策的固定内容。 如果出现后一种情况，将进一步放大美国霸权的非法性质，使其在国际社会更加孤立，也更充分地暴露其野蛮本质。从长远来看，美国正陷入扩张兼并的陷阱，这对它极为不利。如今世界上所有国家都是独立主权国家，联合国已有190多个成员国，没有哪个国家能够彻底消灭另一个国家。因此，特朗普此刻的举动是一种短视行为。 观察者网：您刚才提到美国的新殖民主义源于美国的拉美政策：大棒加胡萝卜、金元外交、熟果政策。特朗普上台之后，开始推行“唐罗主义”，重新回归拉美后院。“唐罗主义”标志着美国新殖民主义开始出现哪些转向？这是不是意味着美国在积攒新的实力？从旧殖民主义到新殖民主义，是不是有这样一个交替反复的过程？ 黄仁伟：新殖民主义与旧殖民主义的关系，既有包含的成分，也有继承的关联，但二者之间同样存在争夺。老殖民主义时期的殖民地原本都归属宗主国，二战结束后，宗主国实力骤然崩塌，亚非拉地区的民族解放运动将其势力尽数驱逐。正是在这一时期，美国将自身的新殖民主义体系从拉丁美洲迅速扩张至亚洲与非洲，名义上以遏制共产主义扩张为幌子，实则依托意识形态的旗号，接管了英法等老殖民主义国家的势力范围。 这个转变过程最具标志性的事件，便是1956年的苏伊士运河事件。当时埃及的民族解放运动意图收回英法控制的苏伊士运河，由此引发了埃及与英法之间的战争，即苏伊士战争。最初英法利用以色列作为代理人进攻埃及，但美国对英法施加压力，迫使英法势力退出。以色列成为西方国家在中东的代理人，也是从这一时期开始的。苏伊士运河事件意义极为重大，它是英法等老殖民主义从亚非地区退出的标志，又是美国新殖民主义接管老殖民主义势力范围的标志，也是殖民地国家实现主权独立的标志。 硬实力受限下的新殖民主义：科技文化渗透为何升级？ 观察者网：您把美国新殖民主义的变种概括为八点，其中技术垄断、价值观和认知战、NGO与白左渗透等软性手段十分突出。随着美国依靠军事力量推行新殖民主义越来越困难，科技文化渗透在新殖民体系中扮演什么角色？软实力与硬实力之间如何相互配合、相互放大？美国又为何重点打压华为、TikTok等中国平台？ 黄仁伟：我把新殖民主义的变种概括成八点：1）代理人战争，2）技术垄断和市场保护，3）经济制裁，4）西方价值观和认知战，5）NGO和白左渗透，6）新门罗主义，7）恢复领土兼并，8）重新瓜分世界。 其中，像NGO和白左渗透，很难直接说就是新殖民主义，有的国家将其称为后殖民文化。许多南方国家、发展中国家，文化被白左渗透得很厉害。白左的载体是NGO，通过NGO的方式在各国活动。所以NGO和白左形成了一套新的文化渗透模式。以前的文化渗透，靠的是赴美留学、VOA、好莱坞电影输出；现在则是形成了一种思潮，思潮之上还有各类非政府组织在推动。 今年10月在“全球南方学术论坛”上，来自台湾地区的陈美霞教授认为，美国新殖民主义在台湾的影响，是中国大陆统一的重大障碍。现在台湾这一代年轻人大多接受美国价值观、美国新文化。说它是文化侵略也好，文化渗透也好，这是一套新的认知控制工具。这套工具坚决不认同一个中国，最后拒绝统一。看上去是与大陆文化对抗，实际上已经变成政治对抗，就是用美国的白左价值观，来摧毁台湾的中华文化传统价值观，统一的心理基础就丧失了。 陈美霞老师的分析进一步印证新殖民主义在台湾的作用。日本的旧殖民遗留与美国的新殖民控制相互结合，长期塑造台湾民众的认知，最终构成阻碍两岸统一的核心心理障碍。 美国新殖民主义的文化渗透力，随着数字经济和AI的发展会变得更强。数智经济时代的新殖民主义实际上就是依靠科技垄断、结合金融势力，进行文化渗透。现在美国依靠军事力量展开新殖民主义已经越来越困难，美国霸权的衰落，基本上可以看作是硬实力的衰落、软实力的扩张。这和20世纪的美国新殖民主义不同。20世纪美国新殖民主义的硬实力还是很强的，经济实力、军事实力都很强，足以用军事和经济两种方式来控制。 当前美国软实力的扩张，恰恰补充了硬实力的不足。这其实就是硬实力与软实力的关系问题——软实力是乘数，硬实力是常数。如果硬实力是1，软实力是2，硬实力就放大为2倍；软实力是3，就放大3倍。但如果软实力只有零点几，硬实力反而会被削弱；要是软实力变成负数，硬实力就会遭到抵制，没人愿意接受它，硬实力的作用就会更小。所以软实力的乘数效应非常大，它能让硬实力不战而胜，因为对方的民众根本不想打仗，反而会接受甚至欢迎它。 软实力可以放大和弥补硬实力的缺陷，也可以放大硬实力的效果。这种新兴的、真正意义上的新殖民主义，核心正是科技文化层面的渗透。这也解释了为什么美国如今要对华为下这么重的手、对小红书和TikTok这类平台百般打压？TikTok并非中国官方运营的产品，只是它在美国的传播，同样能扩大中国文化的影响力。这些技术工具本身就承载着文化内容。我们不需要刻意宣扬中国意识形态，只要客观展现中国的真实面貌，就很有吸引力；还可以呈现美国媒体不愿报道的世界真相以及全球各地的各类问题。 这样一来，美国的宣传攻势、文化渗透能力就失去了掌控，控制力至少会削弱一半。所以我们总觉得美国针对华为、打压中国平台的做法毫无道理。从其新殖民主义的工具属性来看，美国若不打压中国，中国的影响力就会抵消它的控制力。 观察者网：二战后美国搭建的这套新殖民体系已经运行了近八十年，随着美国霸权的衰落，这套体系正在走向解体吗？如果美国的新殖民体系最终崩塌，会给全球秩序带来什么样的变化？ 黄仁伟：美国的霸权主义本质上就是美国的新殖民主义。美国霸权衰落不等于美国国家衰落，这是两个完全不同的概念。霸权衰落指的是其控制世界的能力下降；而美国国家衰落，则是指美国的综合实力总量以及全部发展潜力都已耗尽。 美国霸权衰落，在其国家整体衰落之前就已经启动了，美国控制、影响全球的能力早已开始下滑。英国的霸权从一战前就已开始衰落，直到二战后才彻底丧失，前后持续了约50年。而美国从霸权衰落发展到国家整体衰落，时间恐怕会比英国更长，可能要100年。因此要认清：霸权在走向衰落，但美国国家本身还未衰落，它的国家发展仍能持续很长一段时间，只是其影响世界、控制别国的能力正在逐年减弱。 这涉及两种不同的衰落形态：相对衰落与绝对衰落。当其他国家的发展速度超过它时，它就会出现相对衰落；而当一大批国家共同崛起时，它的全球控制能力自然就会被削弱。如果只有一个国家与它对抗，它完全有能力应对；可一旦几十个、上百个国家不再听从它，甚至连整个盟国体系都不再听命于它，再加上它自己也不愿再为盟国体系提供公共产品——比如特朗普就明确表示不再承担相关责任，让欧洲、日本自行发展防务——这些都是其霸权衰落的表现，而非美国作为一个主权国家的整体国力衰落。 以美国现在的国力，完全有能力在周边重建新殖民体系。它反复盘算后认定，自身当前的力量范围刚好能覆盖西半球。于是拉丁美洲的几个主要国家都开始出现逆转。美国在拉美经营多年、基础深厚，当地民众大多亲美，很难在短期内把美国两三百年在拉美的影响彻底清除。再过一段时间，美国对拉美的控制力还会再次下降，它的影响力总是在起伏波动中下降的。 全球南方如何突破新殖民主义 观察者网：面对新殖民主义的袭来，全球南方国家应当如何从自身发展经验出发，打破美国主导的新殖民体系枷锁？在这个过程中，中国能提供哪些“反新殖民主义的公共品”？ 黄仁伟：面对全球秩序重建，中国倡导了几大概念：全球南方、全球治理、人类命运共同体、“一带一路”倡议。这几个概念是相互交叉、相互支撑的。 全球南方人口占世界总人口的四分之三以上，按购买力平价计算，全球南方GDP总量已超过全球的50%，按市场汇率计算则在40%左右，整体正处于崛起阶段。过去我们提及全球南方，是一个历史脉络清晰的概念：从历史上的殖民地，到民族解放运动的新兴国家，再到不结盟运动成员国、第三世界国家、发展中国家，最终演变为如今的全球南方，始终一脉相承。 在这一历史进程中，中国始终与全球南方国家共同成长、共同发展、命运与共。当下中国要为全球南方国家提供发展机遇，为他们争取更多国际话语权，为他们提供可借鉴的发展模式，这便是当前中国与全球南方关系的核心内涵。 在这个过程中，我们要推进全球治理。以往的全球治理是美国主导的西方治理，这种全球治理体系存在着严重的不合理性，需要建立公正、公平的全球治理体系。事实上，中国正面临着现有规则的巨大制约。我们要通过各种途径，推动现存国际规则从西方主导向中间方向移动，既不能完全变为南方国家主导的全球治理，但要提升南方国家在全球治理中的作用和话语权。 2000年以前我们曾长期认为全球化等同于西方化，不主张使用这一概念。但随着我们在全球市场中的作用日益凸显，逐渐认可全球化，这是一个转变。此后又过了10年，我们开始使用“全球经济治理”，并逐步采用“全球治理”的表述。 从排斥全球化到接纳全球化，从不用全球治理到使用全球治理，我们前后经历了约20年时间。 2017年特朗普上台后，美国退出全球化进程、放弃全球治理，这两个概念逐渐成为中国主导的概念。我们奋力推动全球化和全球治理，成为引领这两大进程的核心力量。全球化是新的经济基础，全球治理则是与之匹配的上层建筑；全球化推动着全球治理的发展，而全球治理必须顺应全球化的客观规律，才能实现有效治理。 这个客观规律是什么？就是全球南方在全球化进程中的地位不断上升，相应地，它在全球治理中的地位也必然提升。于是，全球南方、全球化、全球治理这三个概念就统一起来了，最终指向人类命运共同体。人类命运共同体是全球化和全球治理相结合发展的未来目标。人类命运共同体并非短期内就能建成，但如果用它来界定全球化和全球治理的内涵，就能形成极大的包容性和广泛的共识。 中国推出的“一带一路”倡议，融入了这三个概念。“一带一路”倡议就是一种新型全球化，当西方主导的全球化陷入困境，甚至难以为继时，以投机热钱为主体的全球要素流动模式，正逐渐被中国倡导的、以直接投资、实体经济和产业链基础设施一体化为核心的全球化所取代。西方的全球化是1.0版本，中国倡导的全球化是2.0版本。这是一种由中国倡导的、以南方国家为主体、以发展为核心的全球化。共建“一带一路”正是2.0版全球化的主体和主流方向。 共建“一带一路”过程中可以逐步探索出新的治理规则，我们正在一步步摸索。目前，中国与南方国家在“一带一路”框架下已经形成若干共同治理规则。虽然也存在不少问题，但这些问题正在逐步解决，在解决问题的过程中产生新的规则。因此，“一带一路”就成为人类命运共同体的实践平台。 这几个概念整合起来就有了共同的内核，有了统一的方向和目标。原本这些概念是零散的，有些是西方学者提出的、以西方为中心的理论。中国要为这些概念注入全球南方的新内涵。 观察者网：其实在这个过程当中，我们也能感觉到中国的这种主动性，主动从理论层面阐释实践、构建自主理论体系，不再是过去被动接受西方的那一套。 黄仁伟：我们追溯美国的新殖民主义踪迹及其当代表现，是为了弄清楚什么是新殖民主义，进而揭露美西方企图把“新殖民主义”的帽子扣在中国头上的表现。我们不能被动应对西方蛊惑国际舆论的勾当，而是要主动还历史原貌，从被动适应外部世界到主动塑造国际舆论环境。中国成功的秘诀在于抓住全球化的历史机遇，同时以中国的发展为世界提供机遇。 中国最初是被动进入世界市场的，我们接受WTO规则是无奈的“接轨”，也是由力量对比决定的：弱国要进入强国主导的世界市场，只能先接受现有规则。谁也没料到，一旦加入，中国会爆发出如此巨大的能量。美国也没料到，如果想到了，当初可能就不会让中国加入了。 特朗普2017年上台后，2018年发起对华贸易战，以为几轮交锋下来，中国要么认输，要么垮掉，不可能与美国抗争到底。但打了4年没打败，拜登又打4年还是没打败；到特朗普再次上台，局面反过来了，中国反过来反制美国，美国才知道不能跟中国硬拼，所以要求战略稳定。这就给了中国一个机会：在同美国对抗的过程中，找到美国的薄弱环节和致命短板，也找到自己可以成长的新空间。比如高科技领域，我们一直觉得差距太远，不知道什么时候能追上，最后硬是杀出了一条血路。 从2016年特朗普首次当选，到2026年刚好10年，中国自身的内部变化，远不及世界格局的变化显著。从1978年十一届三中全会召开到2001年加入WTO的20多年里，我们主要聚焦国内发展，外部世界也在发生变化，比如苏联解体，但这些变化对我们而言都是被动应对的，我们并未主动去改变世界。而最近这十年，诸多全球性变化都是由中国推动、中国发起、率先改变的。 最大的变化之一，是人民币国际化稳步推进，在国际贸易和投资中的使用范围和影响力明显提升。我们的汇率从1:7，如今已升至六点几，未来还会升到五点几甚至四点几。十年后，如果人民币兑美元达到1:4，我们的GDP会大大超过美国。所以这十年，每一年都朝着这个目标推进，一方面是实质性的GDP增长，另一方面是汇率的变化。汇率变化后，最大的变化就是大家会争相持有人民币，因为升值太快了。反过来，美元就会过剩甚至被大量抛售。这是击中美国要害的事，比我们预想的来得快。美国自己也清楚，特朗普、鲁比奥、拜登都讲过：这10年是关键，美国能不能继续当第一，就看这十年。 这十年里，我们每一年都要有改变，既要有数量的提升，也要有质量的突破。我们每年的增长幅度要大于美国，十年累积下来就能实现超越。对此我们应该很有信心，时间会证明一切。25年前我写《中国崛起的时间和空间》这本书的时候，很多人问我为什么这么乐观。我也曾半开玩笑地说，是我们的国运到了。美国是麻烦和危机一个接一个，我们则是一次次化解危机，机遇一个接一个，从2001年9·11事件之后，一直就是这样。 但我们并非靠运气，所谓国运只是一种玩笑说法，真正支撑发展的是实力增长，而我们的发展恰恰契合了客观规律。 我也和美国战略界人士讨论过，你们有最好的智库和战略家，我们的研究水平远比不上美国的大智库，但为什么中国没犯过重大战略错误，美国却屡屡犯错？你们美国人给我解释解释。他回答不了这个问题。 我可以替他回答：第一，美国的所谓国家战略从来只是两党的党派战略。一个党做一半，另一个党不认可前一半，只做自己的另一半，所以战略始终是偏的。偏了之后，另一个党上台又来纠正，改做另一半；做了一段，原来的党又上台，再改回去。所以总会在这一半和那一半之间摇摆犯错。一个战略刚执行一半就被推翻了。即使在民主党或共和党内部还要分派系，再叠加不同利益集团：军工集团、科技集团、金融集团。所以进白宫真正参与决策的，只剩25%、30%了，战略就变得更狭隘。再加上总统本人的取向、偏好又和其他人不一样。再好的战略设计最后能落地的只剩10%，剩下90%都被浪费了。 所以不能迷信美国的战略智库，要看透美国的致命问题出在其制度本身。事实证明，这个制度只会出错越来越多、越来越离谱。我们的制度也不是完美的，但总的来说不犯颠覆性的战略错误。中国的每个五年计划都有几万人甚至几十万人在做前期研究，产生几万份研究报告，再归纳总结成一个5年规划。没有一个国家能做到这样，这就是我们的体制优势。 中国经济的优势，一方面是顶层结构稳固，另一方面是底层基础深厚。这两个特点，我们的理论经济学和政治学要充分研究，把它们纳入中国特色社会主义理论体系。西方预测我们的经济还能发展多久、还能达到多高水平时，总是判断不准，屡屡出错。还因为他们总是有意无意地忽略或否定中国的制度优势。",
+   "published": "Tue, 17 Nov 2026 04:43:08 GMT",
+   "source": "虎嗅资讯-全部",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "industry",
+   "level": "B",
+   "why": "宏观地缘分析，对日常决策参考有限",
+   "action": "浏览即可，关注文化出海政策风向",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "美国成“卖血帝国”？说法存疑",
+   "link": "https://www.huxiu.com/article/4906193.html",
+   "summary": "围绕全球血浆供应的话题，“美国以占全球4%的人口贡献了全球70%的血浆”的说法在中文互联网上持续流传，有短视频作品据此进一步对美国血浆产业的规模、献血浆者群体及血浆采集的规模、频次与健康后果提出一系列说法。图1：短视频作品对美国血浆产业相关说法的视频截图在对该报道与相关说法进行梳理后，我们决定对以下四点进行核...... 本文来自微信公众号： 核真录 ，制图：颜百川黄珈烜，编辑：黄珈烜曾慧娴，作者：核真录，原文标题：《美国成“卖血帝国”？说法存疑！》 围绕全球血浆供应的话题，“美国以占全球4%的人口贡献了全球70%的血浆”的说法在中文互联网上持续流传，有短视频作品据此进一步对美国血浆产业的规模、献血浆者群体及血浆采集的规模、频次与健康后果提出一系列说法。 图1：短视频作品对美国血浆产业相关说法的视频截图 在对该报道与相关说法进行梳理后，我们决定对以下四点进行核查：70%”的数据是否可靠？美国献血浆者主要是哪些群体？美国商业采浆的频率与资格筛查有何规定？国际规范和医学研究又是如何界定商业采浆的健康边界的？ 核查点一： “70%”的数据来源是谁？ 具体又是怎么表述的？ 对于“美国贡献全球70%的血浆”这一说法，核真录首先关注到大部分国内媒体提及到的高频词“据CNN（美国有线电视新闻网）报道”，由此检索到其在2026年8月23日刊发的《美国提供了世界上大部分的血浆，没有哪个国家比中国更依赖它》，文中提到：“美国供应全球约70%的血浆，且是为数不多向献浆者付费的国家。”[1]也就是说，国内媒体给出的出处主要是是媒体的报道而非严谨的数据报告。那美国有线电视新闻网文章中所提及的“70%”这个数字本身是否站得住脚，其数据又是来源何方？核真录进一步溯源到行业组织和权威报告。 我们首先调查了血浆蛋白治疗协会（Plasma Protein Therapeutics Association，PPTA）在发布的2012年的血浆采集量数据。PPTA是血浆采集机构及血浆衍生药物生产企业的行业协会，协会的成员包括分布在北美和欧洲的1100多家血浆采集中心，以及相关血浆蛋白疗法产品制造企业，在全球血浆产业中具有较强的行业代表性。该材料显示，全球原料血浆总量为17,328，其中美国为12,100，按此计算，美国占比约为69.8%，与“70%”基本吻合[2]。此外，经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD）2024年报告写到疫情前全球67%的原料血浆来自美国。[3]根据以上两个信源，核真录可以判断70%这一数据是可靠的。 不过，基于国内外语境不同，这里需要厘清一个关键点，这里“70%”限定在美国商业体系下的“原料血浆”而非“全部血液”。中文语境下常说的“献血”指的是全血捐献且为无偿，而原料血浆是血浆采集行业使用的专门术语，指通过血浆采集获得，专门用于进一步生产血浆衍生药物的血浆。在采集过程中，设备会从献血浆者体内采集血液，将血浆与其他血液成分分离，留下血浆，并把红细胞等其他血液成分回输给献浆者。[4]正因如此，在理解“70%”和后文内容时，应把”全血“和”原料血浆“进行区分，两者在是否有偿、对于采集方式和采集频率的法律规定上都有差别，核真录整理如下： 图2：原料血浆与全血各维度对比 首先，“是否有偿”影响了我们对于捐献者动机的判断。“全血捐献”通常无偿，“原料血浆”在美国允许有偿，正因为有偿，才会出现“底层民众卖血”的伦理争议。其次，法律对两种献血类型有截然不同的频率规定。根据美国联邦行政法规，单次全血捐献的最短间隔为56天（8周）[5]，频率远低于最短间隔为2天的“原料血浆”献血。由于公众通常接触到的无偿献血主要是全血捐献，容易将献浆也理解为献全血，在比较时，需要注意比较的对象是其中哪一种。 核查点二： 谁在献浆？ “八成采浆站在贫困社区”靠不靠谱？ 视频里说到：“走进采浆站的多半是低收入者、失业工人、单亲妈妈、欠着学费的学生和墨西哥劳工。美国超过八成的采浆站都开在贫困率高于全国平均的社区、衰败的铁锈带小镇、大学城周边和美墨边境。”针对这个表述，我们对捐献者画像和采浆站分布情况进行进一步核查。 金融学顶刊The Review of Financial Studies2024年发表论文《血浆换现：出售血浆以规避高息贷款》（后文简称《血浆换现》）。论文基于2018-2021年全国性调查样本发现，血浆捐献者在人口统计上表现出若干显著特征：他们偏年轻（35岁及以下）、更多自认男性、更可能是黑人、普遍缺乏大学学历，且常处于就业不足状态。在经济层面，这些捐献者财务更为紧张，急需现金，更可能年收入低于20,000美元、储蓄很少、信用评分较差，因而常依赖非银行放贷机构提供的高成本短期贷款。论文发现，同时满足上述全部人口统计条件的受访者成为血浆捐献者的概率约为平均受访者的2.5倍。就动机而言，捐献者最主要的动因是支付日常必需品和紧急开支（占64%），其次为非必需消费（19%），仅约6%用于偿还债务[6]。 但是，视频点名的单亲妈妈、欠费学生、墨西哥劳工这类具体群体，我们并没有查到可靠的统计。上述研究明确指出有子女者、在校学生更可能成为捐献者，但是并未将其细分为更具体的人群，“有子女”仅区分是否至少育有一个孩子，“学生”指在读学生身份，未涉及学生贷款违约情形，无法得到确切结论。 核查完“谁在献浆”，我们对采浆站的分布进行了核查。关于“超过八成采浆站在贫困社区”的表述，我们找到了ABC News于2017年1月发布的一篇报道，报道写道：“美国近80%的血浆采集中心位于较贫困的社区”[7]，但上下文没有交代这一比例的统计方法，这一数据仅作为报道背景出现；而对于“大学城周边”等地点均没有找到具体统计数据。 围绕采浆站分布，我们进一步查找资料。密歇根大学2021年论文[8]把采浆站地址和美国社区调查匹配，并按官方贫困线分档。“深度贫困率”指收入不到贫困线50%的人口比例。“近贫困线人口比例”指收入在贫困线100%-199%的人口比例。论文发现，采浆站更可能落在贫困率、深度贫困率和近贫困线人口比例较高的城市社区。设有采浆站的地区，人口贫困率比未设地区高出51%。 图3：有无血浆采集中心的普查区社会经济特征（节选） 来源：密歇根大学2021年论文 图4：血浆中心分布位置以及生活在100%贫困线以下的人口占比 来源：密歇根大学2021年论文 更早的研究也印证了类似的贫困集中趋势。2003年发表于美国公共卫生旗舰期刊American Journal of Public Health的论文《美国商业血浆捐献中心的地理分布（1980—1995年）》[9]显示，美国受FDA监管的商业采浆站中，位于极端贫困地区的采浆站数量从1980年的77家增至1995年的136家，占所有诊所比例从22.5%增长至37.1%。同期，极端贫困地区占全部人口普查区的比例，由1980年的4.36%上升至1990年的5.6%。采浆站在极端贫困地区的分布比例，远高于这类地区在全部人口普查区中的占比，呈现出空间集中的现象。 与此同时，前述《血浆换现》论文也发现采浆站虽遍布全国，但更偏好少数族裔比例较高、住房自有率较低的人口普查区[6]。 因此，我们可以确定美国有偿献浆者整体偏年轻、偏低收入、偏经济驱动，采浆站分布也确实和贫困社区有关。单亲妈妈、欠费学生、墨西哥劳动”等具体说法缺乏可靠统计。但是，以上研究均只能体现采浆站分布与贫困存在相关性，没有得到“超过八成”的具体数据。 核查点三： 美国允许的采血频率是多少？ 美国是否要求采集机构对捐献者做资格筛查？ 视频中有提到“（美国采血）两次之间只隔24小时”。美国真的允许在这样的时间间隔下进行连续的献血吗？核真录通过查询资料，得出以下结果。 《美国联邦法规》（Code of Federal Regulations，CFR）第21编（Title 21—Food and Drugs）规定，原料血浆两次采集间隔不少于两天、七天内不超过两次，即每年最多约104次[10]。该法规对美国境内所有持有生物制品执照的原料血浆采集机构具备法律强制约束力。因此，视频中提到的“两次之间只隔24小时”错误，联邦规定为不少于两天（≥48小时）。 此外，CFR给出的是全美最低监管底线；美国各州可以出台州法律，设置比联邦更严格的捐献限制（拉长间隔、降低最大采集频次），需要遵循州立法，不得放宽CFR规定的48小时最低采集间隔的原则。 CFR指出，手动单采血浆程序中、或任意2天周期内，从一名捐献者采集的全血量（不含抗凝剂）不得超过1000毫升；若捐献者体重≥175磅（约79.38千克），则该上限为1200毫升。[11]除了采血频率和采血毫升数的硬性规定之外，美国食品药品监督管理局（FDA）和CFR还规定，需要对献血者逐次筛查；献血者每次采集前均须体检（体温、血压、脉搏、血红蛋白、体重不低于110磅等）[12]。FDA拥有现场稽查权，机构违反本条款，会收到官方警告信、行政处罚，甚至被吊销生物制品经营执照[13]。视频中对此并未提及，有可能让观众误以为不存在资格筛查或者形同虚设，存在误导观众的风险。 核查点四： 美国标准相比较于联合国、世卫组织等官方机构的标准是否有差异？ 是否符合人体健康规律？ 除上述提及到的非商业血浆采集，核真录也注意到，美国存在商业血浆买卖[14]。在2026年3月20日，《纽约时报》刊发调查——《靠卖血浆维持生计的郊区中产阶级》[15]，使“美国人卖血浆”这一现象进入公众视野。在由该话题衍生出的国内网络讨论中，核真录留意到，讨论区里出现了美国商业采浆毫无约束的高频抽血、把低收入者当血库等说法。其中也存在网友质疑：商业采浆是否有健康边界？核真录围绕联合国、世卫组织等官方机构的相关文件与医学研究，考察商业采浆的规范要求与健康风险。 首先看联合国与世卫组织体系。核真录逐篇核查了联合国条约库与世界卫生组织的相关文件后发现，这些内容主要体现为国际政策倡议和指导原则，没有设定统一的采浆频次上限。其中，2015年世界卫生大会执委会第136届会议文件EB136/32，是迄今为止唯一正面承认有偿采浆的文件。该文件强调，捐献应当基于自愿、知情的决定，并避免胁迫或不当诱导，但也并未对献浆频次设定具体上限。[16]总体而言，现有国际文件为血浆采集提供了捐献伦理方面的原则性指引，却没有明确商业采浆的安全频次。 其次来对比各国的量化标准，差异十分显著。对于原料血浆的捐献，欧洲药品质量管理局建议常规采浆间隔至少为两周，即每年大约24次（在符合额外监测要求的情况下，可以采用更短的间隔）；美国食品药品监督管理局允许的上限高达每年104次；而中国规定两次采浆间隔不得少于14天，一年内累计不得超过24次。由此可见，美国法规允许的理论年度采浆频次上限约为中国年度规定上限的4.3倍。[10][17][18] 图5：不同国家和地区原料血浆采集频率上限 就单次采集血浆量方面看，美国与欧洲的规定处在同一水平，美国食品药品监督管理局依据献浆者的体重进行划分，单次采集血浆量最高达880毫升（含抗凝剂）[19];欧洲药品质量管理局按体重与总血容量比例设计档位，其上限量与美国接近（德国约为850毫升，含抗凝剂）[17]。 再从医学研究结果上看，美国的上限超过核真录检索到的医学研究建议数据。我们检索了有关原料血浆采集频率与献浆者健康的医学研究。发现在2025年，挪威奥斯陆大学及其附属机构开展的非劣效随机对照实验中，与较低频率采浆相比，高频采浆会使献浆者的总血清蛋白、免疫球蛋白G（IgG）、铁蛋白和血红蛋白等指标出现不同程度的下降，部分指标在停止采浆4周后仍未恢复至采浆前的正常水平，而研究中将“高频”定义为每两周3次（即约每年78次），然而美国允许的104次年上限显然高于这个数值[20]。IgG是人体重要的免疫防御抗体，持续明显下降可能影响免疫防御；铁蛋白下降则可能是体内铁储备减少。另一项为期3年的研究发现，在每年最多采浆60次的研究方案下，部分献浆者因IgG、总血清蛋白或血红蛋白低于规定阈值而退出研究[21]。 总体而言，现有研究提示，高频采浆可能影响献浆者的蛋白质及部分血液生化指标，但指标下降是否会进一步造成感染风险增加、贫血或其他长期临床健康损害，仍需更多研究证实。 核真录认为，“美国商业采浆毫无约束”的说法并不准确。美国商业采浆受到健康筛查和频次上限等规定约束，但其允许的采浆频次上限高于其他国家或地区常规标准。此外，每年104次的法定上限能否充分保障长期健康，尚缺乏充分的医学证据。现有研究显示高频采浆可能影响部分血液指标，但其长期健康风险及严重程度仍有待进一步研究。 总结 核真录经过调查，对以上四点说法及话题背景得出以下整体结论： 一、“70%”这一数据可信，但它指的是用于生产血浆衍生药物的原料血浆，而非日常所说的全血献血。二者在是否有偿和法律规定上截然不同，不能混为一谈。且不应拿全血献血的低频标准来评判商业采浆，否则既会误判捐献者动机，也会错误比较不同国家的采集频率，无法准确判断情况。 二、美国献浆者整体偏年轻，收入偏低，献浆动机偏向于经济原因，采浆站分布也和贫困社区存在相关性；但视频点名的“超过八成”“单亲妈妈、欠费学生、墨西哥劳动”等具体说法缺乏可靠统计。 三、视频中两次只隔24小时的说法有误，美国法规要求采浆间隔不少于两天，且对于采血量、献浆者资质有明确要求。 四、在官方与医学层面，商业采浆的健康边界并没有统一的量化标准。美国的采集频率上限远高于欧洲、中国的频次，医学上对其安全性仍存疑。但美国采浆本身受受CFR和FDA对采浆频率频率、献浆者健康状况等方面的管理，不应简单描绘为无限制、无约束的抽血表述。 参考资料 [1]CNN.US supplies most of the world’s plasma.No country depends on it more than China（《美国提供了世界上大部分的血浆，没有哪个国家比中国更依赖它》）. https://www.cnn.com/2026/08/23/china/china-us-human-albumin-plasma-intl-hnk [2]血浆蛋白治疗协会（Plasma Protein Therapeutics Association，PPTA）。2012年血浆采集量数据 https://pdfs.semanticscholar.org/presentation/6d7a/c98f786272d1035cdf3ffe05c1e15adabca5.pdf [3]OECD（经济合作与发展组织）.Securing Medical Supply Chains in a Post-Pandemic World（《后疫情时代保障医疗供应链安全》）.OECD Health Policy Studies,OECD Publishing,Paris, https://doi.org/10.1787/119c59d9-en [4]U.S.Food and Drug Administration(FDA).Code of Federal Regulations,Title 21,Part 640,Subpart G—Source Plasma,§§640.60,640.65[S/OL].https://www.ecfr.gov/current/title-21/section-640.60；https://www.ecfr.gov/current/title-21/section-640.65 [5]美国联邦法规第21编第630.15节(a)(1)(i)款（21 CFR§630.15(a)(1)(i)）[S/OL].https://www.ecfr.gov/current/title-21/section-630.15 [6]Dooley,John M.,and Emily A.Gallagher.“Blood Money:Selling Plasma to Avoid High-Interest Loans.”The Review of Financial Studies,2024,37(9):2779–2816.https://doi.org/10.1093/rfs/hhae018 [7]Valiente,Alexa,Mark Abdelmalek,and Lauren Pearle.“Why Thousands of Low-Income Americans‘Donate’Their Blood Plasma to For-Profit Centers.”ABC News,January 13,2017.https://abcnews.com/news/story/thousands-low-income-americans-donate-blood-plasma-profit-44710257 [8]Ochoa,Analidis,H.Luke Shaefer,and Andrew Grogan-Kaylor.“The Interlinkage between Blood Plasma Donation and Poverty in the United States.”The Journal of Sociology&amp;Social Welfare,2021,48(2):56–71.https://doi.org/10.15453/0191-5096.4432 [9]James,Robert C.,and Cameron A.Mustard.“Geographic Location of Commercial Plasma Donation Clinics in the United States,1980–1995.”American Journal of Public Health,2004,94(7):1224–1229.https://pmc.ncbi.nlm.nih.gov/articles/PMC1448425/ [10]美国联邦法规第21编第640.65节(b)(8)款（21 CFR§640.65(b)(8)）[S/OL].https://www.ecfr.gov/current/title-21/section-640.65 [11]美国食品药品监督管理局（FDA）.美国联邦法规第21编第640.65节(b)(4)–(6)款（21 CFR§640.65(b)(4)–(6)）[S/OL].https://www.ecfr.gov/current/title-21/section-640.65 [12]美国食品药品监督管理局（FDA）.美国联邦法规第21编第630.10节(c)–(f)款（21 CFR§630.10(c)–(f)）[S/OL].https://www.ecfr.gov/current/title-21/section-630.10 [13]美国食品药品监督管理局（FDA）.美国联邦法规第21编第601.5节、第601.6节（21 CFR§§601.5–601.6）[S/OL].https://www.ecfr.gov/current/title-21/part-601 [14]World Health Organization.Towards 100%Voluntary Blood Donation:A Global Framework for Action.Geneva:WHO,2009.https://iris.who.int/bitstream/handle/10665/44359/9789241599696_eng.pdf [15]The New York Times.Kurtis Lee,Robert Gebeloff.\"The Middle-Class Suburbanites Who Sell TheirBlood Plasma to Get By.\" March 20,2026.https://www.nytimes.com/2026/03/20/business/middle-class-sell-their-plasma.html [16]World Health Organization.Executive Board,136th session(26 January–3 February 2015).EB136/32:Medical products of human origin.https://apps.who.int/gb/ebwha/pdf_files/EB136/B136_32-en.pdf [17]European Directorate for the Quality of Medicines&amp;HealthCare(EDQM),Council of Europe.Guide to the preparation,use and quality assurance of blood components(Blood Guide),22nd ed.,2025.https://www.edqm.eu/en/blood [18]中华人民共和国国家卫生健康委员会，《单采血浆站管理办法》 [19]U.S.Food and Drug Administration：Volume Limits for Automated Collection of Source Plasma—Memorandum,November 4,1992.https://www.fda.gov/media/70951/download [20]Haugen M,Magnussen K,Strand T,Nissen-Meyer LS.The effect of plasma donation frequency on total serum protein,immunoglobulin G and donor safety:A non-inferiority randomized controlled trial.Vox Sanguinis.2025;120(5).doi:10.1111/vox.70105. [21]Schulzki T,et al.(SIPLA study group).A prospective multicentre study on the safety of long-term intensive plasmapheresis in donors(SIPLA).Vox Sanguinis.2006;91(2):162-73.PMID:16907878. 十年求真，感恩相伴！核真录正在进行十周年读者调查，诚挚邀请您扫描图中二维码或点击文末“阅读原文”参与~",
+   "published": "Tue, 17 Nov 2026 04:11:39 GMT",
+   "source": "虎嗅资讯-全部",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "事实核查类内容，与业务无交集",
+   "action": "无需行动",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "韩剧水平下降一百倍，这锅该不该短剧背？",
+   "link": "https://www.huxiu.com/article/4906183.html",
+   "summary": "短剧中有一类经典爽文设定：“全世界XXXX下降一百倍，只有我保持不变”。打开韩剧《再婚皇后》，就给人一种这样的错觉：韩剧水平下降一百倍，观众保持不变。这部由迪士尼重金打造、远赴捷克与德国取景拍摄，集齐了李钟硕、申敏儿、朱智勋等韩国一线演员的韩剧，上线后热度与争议齐飞。在韩国本土，争议大多集中在主演年龄偏大、服...... 本文来自微信公众号： 影视独舌 ，作者：王盼 短剧中有一类经典爽文设定：“全世界XXXX下降一百倍，只有我保持不变”。 打开韩剧《再婚皇后》，就给人一种这样的错觉：韩剧水平下降一百倍，观众保持不变。 这部由迪士尼重金打造、远赴捷克与德国取景拍摄，集齐了李钟硕、申敏儿、朱智勋等韩国一线演员的韩剧，上线后热度与争议齐飞。 在韩国本土，争议大多集中在主演年龄偏大、服饰道具质感廉价等制作层面；而国内观众的槽点，则更多落到剧集内核——“太短剧了”。 目前剧集播出过半，豆瓣开分6.1，按照“韩剧自动减一分”的惯例，《再婚皇后》的真实成色，放在国内观众的评判标准里基本属于不及格水平。 值得注意的是，这并不是韩剧第一次被贴上“短剧风”的标签。 比起单纯吐槽单部作品的套路化，更值得深思的问题是： 当短剧式叙事逐渐成为韩剧创作潮流，曾经长期被部分国产剧创作者对标学习的韩剧，它的审美取向、创作基准是否正在发生偏移？ 韩国皇后打小三 《再婚皇后》改编自韩国高人气同名漫画，背景为西式中世纪架空奇幻世界，东帝国、西王国两大势力相互对峙，阶级壁垒森严，皇室、贵族、平民、奴隶等级分明。 这也是制作方远赴德国取景的原因：第一集抢先登场、比男女主更早亮相的，便是取景自德国施莱斯海姆宫的恢弘欧式宫廷。 服化与布景的排场拉得很满，但主线剧情五个字就能概括：皇后打小三。 女主角娜菲尔（申敏儿饰）出身贵族，是东帝国的皇后，与皇帝索本修（朱智勋饰）属于政治联姻，以维系帝国体面、恪守皇后本分为己任。 一次狩猎中，索本修邂逅了逃亡奴隶菈丝塔（李世荣饰），将她带回皇宫。 接下来的故事发展，每一步都很俗套。 索本修果不其然迷恋上了菈丝塔，为她再三折辱娜菲尔； 娜菲尔也紧接着遇见了自己的真命天子，西王国王子海因里（李钟硕饰）。他每每在她受辱、陷入困境时挺身而出，提供权力和情感上的支撑。 简言之，这是一部冲突和爽点都非常明确的剧： 第三者白莲花式示弱谋夺地位——渣皇薄情寡义、反复摇摆——女主冷静反击、逐步觉醒——男主强势偏爱、兜底护航。 比起《再婚皇后》这个名字，更贴合它内核的剧名或许是《离婚当天，我改嫁邻国王子，渣皇前夫悔疯了》。 光是看这套人物与冲突模板就能察觉，《再婚皇后》不只是“像短剧”，甚至遵循的是一套早已过时的短剧旧范式。 毕竟如果按照如今的短剧大女主套路，娜菲尔应该直接拳打小三，脚踢渣男，最后自己上位成为掌权者。 但《再婚皇后》目前剧情已过半，女主娜菲尔还没下定决心离婚，所谓的“爽点”大多靠的是男主的偏爱和庇护。 韩剧短剧化 《再婚皇后》并不是韩剧第一次被评价“像短剧”。 当国产长剧开始积极拥抱短剧的时候，韩剧也呈现出相近的叙事转向。 2024年的《现在拨打的电话》，今年的《我的王室死对头》《21世纪大君夫人》，或是因为高密度反转、强冲突节奏，或是因为人设、剧情高度模板化，都曾被观众评价充满短剧感。 正如《再婚皇后》的争议，这些作品也大多陷入“黑红”： 播放数据亮眼，话题热度居高不下，口碑却两极撕裂，喜欢的人表示“我是土狗我爱看”，批评者则诟病叙事廉价、消耗演员光环。 这种争议并没有阻挡住韩剧短剧化的势头—— 有着“韩娱最强90花”之称的金泰梨时隔三年再度出演电视剧，是改编自同名网漫的《姐姐，今生我是王妃》，讲述的是被未婚夫、姐姐、亲生父母全员抛弃的女主重生回到15年前展开复仇的故事，预计明年正式开机。 无论是剧名还是设定，都透着浓浓的短剧味儿。 热潮背后，并非单一因素促成，而是产业逻辑与受众习惯共同作用的结果。 一方面，在行业收益承压、剧集投入风险不断抬升的背景下，韩剧产业资本端也开始追求确定性。 依托于韩国高度成熟的网文、网漫产业链，平台和制作公司更愿意选择经过市场检验的IP项目，不少底子单薄、套路化明显的故事，也能吸引一线演员入局出演、拿到大制作预算。 关于韩剧“影视寒冬”的报道 另一方面，短视频与短剧对观众审美的改造，是全球内容创作者都要面对的共同命题，韩剧同样无法置身事外。 根据DataEye数据，2024至2026年5月，韩国微短剧市场累计内购收入约1.2亿美元，仅次于美国、日本和英国，已成为第四大海外微短剧市场； 而韩国创意内容机构2025年的调查显示，58.6%的受访者现已养成定期观看短视频内容的习惯。 图源DataEye CJ、KT Studio Genie、Showbox等韩国传统影视巨头纷纷入局竖屏微短剧，知名导演李俊益投身短剧创作，都直观说明了短剧、乃至短剧代表的创作逻辑已经深度嵌入韩国内容生产体系。 短剧不是唯一的答案 放在更长的行业坐标系里审视，韩剧尤为不同的一点是，在很长一段时间里，它一直是国产剧乃至东亚文娱行业拿来对标取经的“优等生”。 很大一批80后、90后观众，关于成熟影视叙事、细腻情感表达的审美启蒙都是由韩剧完成的。 “韩国最应该申遗的是韩剧”“韩国出事了先救编剧”等调侃，背后折射出的都是国内观众对韩剧编剧能力、创作水准的高度认可。 以《再婚皇后》中的主演为例，李钟硕是在中国最受欢迎的韩剧男演员之一，他的代表作里，《匹诺曹》《听见你的声音》都是融合了浪漫叙事和社会观察的高分melo（即melodrama，指侧重于爱情叙事的情节剧）剧。 申敏儿则有《我们的蓝调》《海岸村恰恰恰》这类克制而富有温度的口碑佳作； 朱智勋主演的《宫》是许多韩剧爱好者的入门记忆，主演的《王国》又是网飞入局韩国内容市场之后打响全球声势的标杆爆款作品。 当他们出现在《再婚皇后》这样的作品中，身着华丽浮夸的宫廷风服饰，以饱满投入的演技诠释一套高度固化的俗套叙事时，这份落差格外耐人寻味。 短剧不是唯一的答案，但随着受众审美的多元化和流媒体赛道的扩容，创作路径不断分化、走向精细化垂直供给，似乎是这个时代内容创作的必经阶段。 近年在中国热度走高的韩剧就恰好能说明这种多元。 《爱情怎么翻译？》是中国观众最熟悉的那种韩式melo剧，细腻动人、深入探讨爱情之中理解与共情的命题； 《铁拳教育》则是标准流媒体思维的产物，紧扣尖锐的校园、教权议题，这类作品的最大特点是“痛”和“爽”，痛是因为触碰到现实结构性困境，爽是遵循强冲突、即时回馈的创作逻辑； 《苦尽柑来遇见你》则充分展现韩剧成熟的人文叙事功底，以舒缓绵长的叙事节奏挖掘普通人内在的情感重量，不依赖戏剧爆点制造吸引力。 韩剧短剧化，只是内容市场自然演化的其中一个分支。 市场本就允许爽文套路的存在，真正值得讨论的，是当“确定性”成为行业优先追求的目标之后，韩剧是否还愿意保留试错空间，继续产出那些跳出套路、拥有独立表达的作品。",
+   "published": "Tue, 17 Nov 2026 03:46:00 GMT",
+   "source": "虎嗅资讯-全部",
+   "biz_tags": [
     "industry"
    ],
    "category": "short_drama",
-   "level": "S",
-   "why": "德法转化远低于西语区，直接决定欧洲投放ROI",
-   "action": "先做德语区A/B测试：同题材换叙事结构对比",
-   "opportunity": "德语区本地化素材缺口即差异化机会",
-   "risk": "盲目换题材可能浪费已有投放数据"
-  },
-  {
-   "title": "尼日利亚站投放 CPA 涨到 4.2 美元，本地支付转化却只有 11%，该先修哪头？",
-   "link": "https://www.baijing.cn/question/638740",
-   "summary": "拉各斯 8 人小团队，做时尚配饰独立站，尼日利亚为主、肯尼亚和南非小量试水，现在月投放预算约 1.2 万美元。近两个月 Meta 和 Google 的 CPA 从 2.6 美元涨到 4.2 美元，落地页加购率还有 9%，但进到结账选 Paystack 和 Flutterwave 后完成支付的只有 11%，大量订单卡在银行转账和 USSD 环节，客户反馈是验证码收不到、到账要等几小时。我们已把 Paystack 和 Flutterwave 都接上，也加了本地客服 WhatsApp 跟进，奈拉定价和本地号码都做了，但转化没起来。现在预算有限，是先砍投放把 CPA 压回去，还是先补支付方式？这个取舍按什么标准判断？",
-   "published": "Sun, 15 Nov 2026 04:14:24 +0000",
-   "source": "白鲸出海",
-   "biz_tags": [
-    "short_drama",
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "非洲电商支付坑，与主业关联弱但可借鉴",
-   "action": "记录支付转化漏斗经验，暂不投入",
-   "opportunity": "无",
-   "risk": "新兴市场支付基建不成熟易踩坑"
-  },
-  {
-   "title": "华为麒麟 9050 系列芯片智能音视频处理情报公开：低延迟 AI 异构协同计算、率先支持 H.266 解码",
-   "link": "https://www.ithome.com/1/027/574.htm",
-   "summary": "IT之家 11 月 16 日消息，华为官方今日继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息， 今日最新公开了智能音视频处理能力的情报 。 据介绍，华为麒麟 9050 系列芯片搭载新一代音视频处理器， 音频性能提升 30% ，支持新一代音频 DSP、H.266 视频硬解码和低延迟 AI 异构协同计算。 通过 DSP+NPU 异构协同，麒麟 9050 系列带来 AI 静谧通话功能； 率先支持 H.266 硬解码 ，对比 H.265，弱网直播卡顿降低 50-70%、 同网速下分辨率提升一档 、同分辨率下播放时长提升 2-3 小时。 据IT之家此前报道，今年 10 月，华为半导体业务无线终端芯片产品管理部部长徐松余表示， 麒麟 9050 系列在中国半导体产业界的支持下成功量产 。他呼吁半导体产业界和学术界的合作和支持，未来属于开放合作，没有一家企业可以独自解答所有答案。 相关阅读： 《 华为麒麟 9050 系列芯片新一代巴龙 AI Modem 情报公开：首创融合通信架构、业界首发四卡三待 》 《 华为麒麟 9050 系列新马良 GPU、AI ISP 情报公开：实装二代硬件光追，首次实现 2 亿像素融合拍照 》 《 华为麒麟 9050 系列芯片新一代灵犀 CPU 详细信息公开：9 核 16 线程并行调度，支持内存压缩加速 》 《 华为麒麟 9050 系列芯片官宣搭载新一代达芬奇架构 NPU，业界首个 30B MoE 大模型入端 》 《 首款「逻辑折叠」技术 τ 芯片：华为详解麒麟 9050 系列核心升级，晶体管密度暴涨 53.5% 》",
-   "published": "Mon, 16 Nov 2026 03:16:33 GMT",
-   "source": "IT之家",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "industry",
-   "level": "B",
-   "why": "H.266硬解普及将降低短剧播放带宽成本",
-   "action": "关注H.266编码工具链成熟度",
-   "opportunity": "提前用H.266压缩可省投流带宽费",
-   "risk": "海外平台兼容性未跟上，暂勿全量转码"
-  },
-  {
-   "title": "效率提升 300%，长安汽车数实融合无人化测试系统亮相",
-   "link": "https://www.ithome.com/1/027/573.htm",
-   "summary": "IT之家 11 月 16 日消息，据长安汽车官方，近日召开的 2026 世界智能网联汽车大会上，由长安汽车牵头， 国汽智控 、赛目科技等共同打造的全球首例车路云一体化数实融合无人化试验场配套测试系统，在“车路云一体化”城市实践与应用展区正式展出。 据介绍，该测试系统以大模型为核心驱动，打通数字仿真与物理场地边界，具备场景智能生成、全要素无人化执行、数实双向映射、云端实时调度四大核心能力， 支撑 L2-L4 级车型验证 ，为 AEB 、NOA 等关键功能量产提供高效低成本的验证保障，推动测试范式从“人控”迈向“云控”，是长安汽车面向高阶辅助驾驶安全验证打造的全新基础设施。依托该系统，长安汽车测试能力大幅升级： 平均测试效率提升 300%，极限工况覆盖率提升至 80% 。 IT之家从官方公告获悉，针对传统测试难以覆盖的高风险极限场景，系统可由大模型自动批量生成并闭环验证，补齐安全验证短板。 目前一致行动企业已扩至 22 家、21 款车型投入量产测试，合作网络拓展至北京、上海、重庆等城市，路侧设施覆盖里程约 3.2 万公里。 延伸阅读 此次展出的数实融合无人化试验场，此前已于 2026 年 9 月 4 日第六届长安科技生态大会上首次公开亮相，当时被介绍为全球首个数实融合无人化测试场，用于支撑长安自研高阶驾驶辅助系统“天枢领航”的量产安全验证，试验场位于重庆西部汽车试验场。 除长安汽车、国汽智控、赛目科技外，参与该测试系统共建的还有黑芝麻智能、西部科学城智能网联汽车创新中心（重庆）、联通智网科技等单位。其中，黑芝麻智能为试验场路侧边缘计算单元及相机系统提供车规级芯片算力支撑，承担全域目标识别、入侵预警、高精度定位真值输出、设备自动标定等任务；赛目科技则参与数实融合测试体系、仿真与场地测试贯通等关键环节的建设。 所谓“车路云一体化”，是将车辆、路侧基础设施与云端平台通过通信技术深度融合，形成协同感知、决策与控制的智能系统：路侧设备弥补单车视野盲区，云端平台提供全局交通态势与协同规划信息，车辆结合自身感知与云端、路侧信息做出决策，从而获取超视距感知能力。",
-   "published": "Mon, 16 Nov 2026 03:14:11 GMT",
-   "source": "IT之家",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "与AI内容出海业务无关，纯行业背景",
-   "action": "跳过，不占用精力",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "飞傲蓝牙解码耳机功率放大器 BTR25 发售：699 元，支持 aptX Lossless / LE Audio / LDAC 全规格",
-   "link": "https://www.ithome.com/1/027/554.htm",
-   "summary": "IT之家 11 月 16 日消息，飞傲 BTR25 便携式蓝牙解码耳放今日正式开售，官方售价 699 元。这款产品是 BTR15 的后续型号，在蓝牙芯片、解码架构和机身设计上做了多项更新。 京东 飞傲（FiiO）BTR25 便携式无线蓝牙有线解码耳放 安卓平果手机小尾巴 黑色 699 元 直达链接 BTR25 搭载高通 QCC3095 蓝牙芯片，支持蓝牙 6.2，并完整覆盖 aptX Lossless、LDAC 与 LE Audio 等无损及高解析音频编码。 其音频架构以 ESS ES9069Q DAC 为核心，搭配两颗 ES9603Q 耳放芯片，构成全差分输出。其 4.4mm 平衡口在 16Ω 负载下可提供最高 570mW+570mW 的输出功率，3.5mm 单端口则覆盖更广泛的耳机类型。 机身采用 CNC 加工的铝合金外壳，正面配有一块 1.3 英寸彩色 IPS 显示屏，可实时显示曲目信息。BTR25 支持 PC、蓝牙、Phone 三模式一键切换，背部设有可拆卸磁吸背夹，方便用户在蓝牙随身和 USB 连接手机或电脑两种场景间切换。 IT之家注：蓝牙音频编码中的 aptX Lossless 为高通推出的无损传输协议，理论码率可满足 CD 级音质的无线传输需求。 USB 模式下，BTR25 通过 SPV5048 芯片支持最高 32bit/384kHz 的 PCM 解码与原生 DSD256，可充当电脑或手机的外置声卡使用。用户可通过 FiiO Control 应用调节 10 段参数均衡器（PEQ），对声音风格做更细致的自定义。 续航方面，官方标称蓝牙播放最长约 10 小时。机身不含背夹的尺寸为 72×35×13.7mm，重量 46 克；装上磁吸背夹后厚度增至 22.1mm，重量 55 克。BTR25 提供黑色、复古金和渐变绿三种阳极氧化铝配色可选。",
-   "published": "Mon, 16 Nov 2026 02:57:24 GMT",
-   "source": "IT之家",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "硬件产品新闻，与三块业务均无关联",
-   "action": "跳过",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
-   "link": "https://sspai.com/post/118512",
-   "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ... 查看全文",
-   "published": "Fri, 13 Nov 2026 11:35:48 +0800",
-   "source": "少数派",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "ai_tools",
    "level": "A",
-   "why": "独立开发者做付费Mac工具的变现路径可复制",
-   "action": "拆解其定价、获客与迭代节奏",
-   "opportunity": "慢产品思路可做小众AI清理/效率插件",
-   "risk": "慢节奏可能错过AI工具窗口期"
+   "why": "短剧叙事范式正被主流市场验证，题材参考",
+   "action": "拆解《再婚皇后》爽点结构，提炼可复用模板",
+   "opportunity": "皇后打小三类爽文题材可做AI漫剧出海",
+   "risk": "旧范式过时，需用新版大女主套路"
   },
   {
-   "title": "一个黄金周120场市集：商场要客流，年轻人要同好",
-   "link": "https://www.huxiu.com/article/4905853.html",
-   "summary": "周六上午十点，上海虹桥新天地的“浇浇植物超市”快闪市集还没正式开市，门口已经站了人。有人冒雨开了一小时车过来，购物车里装的是花烛、秋海棠、鹿角蕨和彩叶芋。七八盆加起来，一百来块。同一天，这座城市还有手账市集、咖啡市集、宠物友好市集在同时开。据《瞭望东方周刊》统计，2026年双节前后，仅在小红书官宣定档的市集就...... 本文来自微信公众号： 听风译码 ，作者：安申国 周六上午十点，上海虹桥新天地的“浇浇植物超市”快闪市集还没正式开市，门口已经站了人。 有人冒雨开了一小时车过来，购物车里装的是花烛、秋海棠、鹿角蕨和彩叶芋。 七八盆加起来，一百来块。 同一天，这座城市还有手账市集、咖啡市集、宠物友好市集在同时开。 据《瞭望东方周刊》统计，2026年双节前后，仅在小红书官宣定档的市集就超过120场。 年轻人赶这场集，到底图什么？ ⑴一个周末，二十场市集 市集的密度，是这两年最容易被低估的一个变化。 据《瞭望东方周刊》记者不完全统计，2026年中秋国庆双节前后，仅在小红书平台上公布定档9月25日到10月7日的市集活动便超过120场，覆盖全国20余个城市。 这还只是主办方主动官宣的场次，没有计入各地文旅部门的安排、商业综合体的自办活动，以及社区周边常态化开市的周末市集。 把镜头拉近到一座城市，密度更直观。 据半月谈记者在某社交App上搜索“上海市集”，2026年8月每个周末举办的大小市集都在20个以上，不少热门市集的攻略笔记有上千人收藏。 二十场是什么概念？ 相当于一个周末，这座城市同时开着二十个不同主题的临时商圈。 企业注册数据印证了这股热度的持续性。 天眼查专业版数据显示，截至目前我国现存在业、存续状态的市集相关企业超13.8万家，2026年截至目前新增注册约1.2万余家，近五年注册数量逐年增长，并在2025年达到顶峰。 政策端也在同步加码。 中华全国供销合作总社部署，2026年全系统力争开展“供销集市”等特色助销活动超1万场次，《全国供销合作社“十五五”发展规划》更是把“每年开展超1万场供销集市”写进了蓝图。 市集本身并不是新东西。 2006年，中国大陆第一个创意市集i-Mart在广州落地，随后蔓延到北京、上海、厦门。 那一批市集多依附于艺术园区、设计周与青年文化活动，由独立设计师、插画师、手作人自发聚集，规模不大，却构成了国内市集最早的内容雏形。 到2015年前后，伍德吃托克、凡几等市集品牌相继出现，运营走向专业化、品牌化，市集由此从“摆摊”变成了“社群”。 首都经济贸易大学工商管理学院教授李云鹏对《瞭望东方周刊》分析，从需求端看，新一代消费者更追求生活化、在地化、有烟火气的沉浸式体验，市集平价、轻体验的消费模式契合需求；从供给与规划端看，市集搭建投入成本低、灵活度高，是城市打造新型文旅空间的低成本方案。 这段话值得拆开读。 翻译一下：市集之所以突然遍地开花，是因为它同时满足了两个正在变紧的主体的需要。 一边是想做体验却掏不起大钱的城市和商业体。 一边是想出门却不敢花大钱的年轻人。 它像开在社区门口的便利店。 单店利润薄得可怜，但架不住离你只有五百米，还一直亮着灯。 形态也在分层。 最早一波是后备箱市集，主题单一、停留时间短，本质上是“商家快闪”。 现在的创意市集已经进化成能同时满足吃、买、玩、社交的复合场景，一场市集可以填满整个周末，甚至需要二刷三刷才能体验完。 公园、广场、文创园区、商场中庭、步行街，甚至地铁口的一块空地，都能开市。 这种低成本、高机动的特性，决定了它可以在城市里被快速复制。 ⑵从“大而全”到“小而准” 真正的分水岭，是组织者的第一个动作变了。 过去办市集，第一步是招商：摊位越多越好，品类越杂越热闹，人流越大越成功。 现在办市集，第一步是筛人：先想清楚这场市集为谁而办，再决定请谁来摆摊。 这个顺序一换，整门生意的逻辑就翻了过来。 先看一组数字。 2026年3月，上海万象城举办“超级美好面包节”，全国54座城市的150余家品牌集结，四天累计售出面包80万余个，面包销售额突破1428万元，最高单日客流达17万人次、单日营业收入420万元。 作为主场，上海万象城四天累计销售额6190万元，同比上升55%；客流量54万人次，同比上升113.5%。 吴中路商圈总销售额7673.72万元，同比上升33%；总客流量69.73万人次，同比上升54%；镇域内酒店入住率实现20%的增长，万象城周边酒店出现满房。 一场只卖面包的市集，把整个商圈的酒店住满了。 同年4月，上海静安咖啡文化市集在丰盛里·静安寺广场与久光百货1618弄双会场联动，50余家咖啡、美食、文创和生活方式品牌参与，5天近40万人次客流。 同期举办的大连第三届面包节，四天累计接待客流突破180万人次，整体销售额约560万元，引入来自23座城市的56家外地商户，其中52家品牌首次进驻大连，南京B.U等热门品牌最高排队时长可达4小时，带动周边恒隆广场等主力商场客流同比增长超60%。 成都王府井购物中心科华店的“抿抿甜·成都面包节”，三日销售额超25万元，顾客数超8500人次，24家首秀成都的热门品牌带动全场客流同比增长38%。 把这些数字放在一起，规律很清楚：越窄的主题，越能撬动越大的场外效应。 面包和咖啡都是极其成熟的品类，电商和楼下便利店随时能买到，价格还更便宜。 可人们愿意为它排四小时的队，愿意跨城、跨省专程赶来。 原因不在面包本身。 这笔账也不难算：1428万元除以80万个，平均每个面包不到18元，并不便宜。 消费者付的不是面粉钱，是“这一天只属于面包”的场景钱。 大而全的市集对应的是“顺便看看”，小而准的市集对应的是“专程而来”。 顺便看看的人客单价低、停留短、转化差；专程而来的人目的明确、愿意排队、愿意顺手消费周边。 对主办方来说，这是一种反直觉的效率：把品类砍掉八成，把人群纯度提到最高，剩下那两成商品反而卖得更好。 反过来看，大而全的市集为什么会失效？ 因为它的竞争对手从来不是隔壁那场市集，是电商。 当一个摊位卖的东西在手机上随时能买到、还更便宜，这个摊位就只剩下“路过”的价值。 小而准的市集绕开了这场比较：它提供的不是更便宜的同款，而是别处买不到的组合与相遇。 筛选不是口号，是一整套硬动作。 运营方会在开市前审核摊主的品牌调性，确保商品与主题契合；部分市集还会设置收费门票抬高进入门槛，为的是保证场子的纯粹。 复古市集会要求摊主的穿搭与主题匹配，咖啡市集会设置杯测、拉花比赛环节。 愿意接受这些条件的人，本身就是被筛出来的那批人。 于是市集的供给端也在被重塑：不再是谁交得起摊位费谁进来，而是谁最贴合这个主题谁进来。 ⑶卖的不是货，是“进入权” 市集里最值钱的东西，不在摊位上。 上海市青少年研究中心等机构发布的《2025 Z世代情绪消费报告》显示，选择“快乐消费，为情绪价值/兴趣花钱”的人群占比高达56.3%，较2024年增长16.2个百分点。 同一份报告显示，近九成年轻人存在情绪压力，其中63%选择通过消费缓解焦虑。 艾媒咨询的数据显示，2026年中国情绪消费市场规模预计达2.72万亿元，2029年将突破4.5万亿元。 情绪不是虚的，它正在被明码标价。 在小红书上，“市集”词条浏览量已突破7亿；据新京报梳理，截至2026年6月底，话题“一起逛市集”达到1.8亿浏览、195万讨论。 这个量级低于“逛公园”的3.6亿浏览，却远高于绝大多数消费类话题。 为什么偏偏是市集？ 因为在市集里，情绪是可交易的、可展示的、可复述的。 你买了一枚徽章、一盆鹿角蕨、一只手作陶杯，回家发一条笔记，收获的是同好的点赞和追问。 这就是社交货币的完整链条：购买—展示—被识别—被接纳。 谷子经济把这个逻辑推到了极致。 艾媒咨询数据显示，2025年中国谷子经济市场规模达2021亿元，同比增长近20%，预计2026年达到2265亿元。 一枚成本几元的马口铁徽章，卖的是“我把这个角色带在身边”的陪伴感。 更直白的是门票。 伍德吃托克的市集平均票价在30元到60元之间；凡几的门票70元，黄牛价一度炒到100元；以植物与自然生活为主题的过森日市集，48元门票开售即空。 门票在这里不是收入项，是筛子。 换个说法，它相当于一场只请同好的家宴。 收那几十块钱，目的不是赚钱，是确认进门的人都是“自己人”。 被筛掉的人不会抱怨，因为他们本来就不属于这里。 被留下的人则拿到了一样稀缺的东西：在一群陌生人面前，不必解释自己为什么喜欢这些。 这也是为什么很多消费者会说，逛市集最特别的地方是摊主身上的“活人感”。 一个人眼睛突然亮起来，告诉你配色灵感来自外婆家的老台灯，那一点点骄傲又温柔的语气，才是让人心甘情愿掏钱包的东西。 电商能做到低价、快送、无限货架，做不到这个。 城市也在这件事上押了注。 当城市抢人大战进入深水区，引人只是第一步，留人才是核心目标。 创意市集恰好补上了这个缺口：它以兴趣为入口粘住年轻人，以创业为出口留住年轻人。 一场市集给摊主的，不只是一张为期两天的合同，还有一次低成本的创业预演。 对一座城市来说，这是比补贴更便宜的留人方式。 第三个层次是自我表达。 穿什么去、买什么、跟谁合影、发在哪个平台，构成了一次完整的身份声明。 市集提供的不是商品清单，而是一套可以穿戴、可以拍摄、可以讲述的素材。 当消费的主要功能从“拥有”转向“表达”，货架的丰富度就不再重要，场景的辨识度才重要。 所以年轻人赶的不是集，是组织。 他们买的从来不是那七八盆绿植，而是一次可以确认“我就是这样的人”的机会。 ⑷谁在为这场热闹买单 三方参与者的账本，长得很不一样。 先看商场。 据赢商大数据统计，2026年上半年全国购物中心客流同比增长5.7%，增速较2025年同期下降0.3个百分点；12个重点城市平均数量空铺率10.6%、面积空铺率11.9%，环比双双上升。 2026年二季度，12城标杆购物中心开关店比降至0.92，跌破1.0的平衡线，为近一年新低，总调整门店数超过6400家。 同一轮调研显示，42.62%的项目新签约租金同比负增长，仅26.23%实现上涨。 超过四成的新签约租金在下跌，意味着租金下行不是短期波动，而是价格锚在往下移。 在这个背景下，市集的角色很好定义：它是用闲置面积换客流的低成本方案。 中庭、广场、扶梯转角，这些长期不产生收益的空间，一个周末就能变成收入。 上海BFC外滩国际金融中心是较早专门运营市集经济的商场，北区门口长约360米的步行街几乎每个周六日都有市集，并形成“枫径集市”这一品牌，最高单日客流量超过10万人次。 非标商业样本走得更远。 据解放日报报道，上海EKA·天物2025年总销售额达4.51亿元，同比增长近70%，全年客流突破千万人次，全年常态化运营活动超过270场；蟠龙天地2025年客流量超2000万人次，开业近3年举办特色活动600余场。 据人民网报道，贵阳青云市集的文创业态经过2023至2025年的迭代，从三四十家增至128家，多为原创商品店和主理人店铺，街区客流也从2023年的约1500万人次增至2025年的2500万人次。 再看主办方。 收入大致来自三段：门票、展位租金、为品牌方做营销。 这三段里，展位租金和营销收入在开市前就已经落袋，风险最低。 最后看摊主。 红餐网走访广佛多个夜市发现，超六成摊主的日流水在300到500元之间，新手摊主平均经营周期不足4个月。 一位三线城市炒粉摊主日均营业额800元，扣除全部成本后单日净利润仅50元。 市集摊位的成本结构与此类似：摊位费、运输、布置、人力，全是刚性支出，而销售额像开盲盒。 不同地点、不同主题、不同位置，人流和生意可能完全不同。 三方一对比，风险分配就很清楚了：商场押的是闲置空间，主办方押的是组织能力，摊主押的是自己的货和运气。 前两者输了只是少赚一点，摊主输了是真金白银地亏。 这很像开在商场中庭的一场临时赌局。 庄家收台费，客流是筹码，摊主押上的是天气、位置和运气——而天气从不与人商量。 对品牌主理人来说，市集的价值另算。 据赢商网报道，伍德吃托克披露的品牌单场平均销售额在5000到30000元之间。 对初创品牌而言，这笔钱不算多，真正值钱的是用户反馈和复购测试。 哪些产品受欢迎、定价多少合适、品牌故事能不能打动人，多跑几场市集，答案会越来越清晰。 市集把开一家店的风险，压缩成了一张为期两天的摊位合同。 这是它最被低估的地方，也是它最容易被人误读的地方。 ⑸热闹之后，留下什么 把市集当终点的人，大概率要栽一次。 最近的教训来自谷子店。 艾媒咨询数据显示，2025年中国谷子经济市场规模达2021亿元，同比增长近20%；但据中国青年网报道，2025年上半年全国至少有155家谷子店闭店或计划闭店，进入2026年，部分城市的关店速度已达上年同期的两倍。 连锁品牌的收缩更明显：“潮玩星球”从148家门店缩减至99家，“暴蒙”从59家收缩至22家，“漫库”从44家减少至31家。 2025年新开业的谷子店中，约14%未能撑过一年。 上海南京路悦荟广场的“恰恰谷”，2025年5月开业时被视为“二次元拯救老商场”的典型案例，如今超半数店铺已经围挡。 寒意也传导到了上游。 以“奥特曼”IP为例，其所属公司披露的2026财年数据显示，中国市场授权收入为25.57亿日元，较上一财年下降51.6%，为10年来首次下滑。 同一枚《排球少年》角色徽章，两年前在二手市场被炒到7.2万元，如今在部分城市的中古谷子店里按斤称卖，折合每克0.5元。 兴趣可以迅速聚人，但它有一个致命特性：聚起来的速度，往往快于沉淀下来的速度。 当一条街上的谷子店越开越多，圈里人反而会觉得这里“吃谷氛围不好”，来得越来越少。 市集正走在同一条路的更早期。 已经出现的问题很具体：手作买回家一搜，淘宝同款价格砍半；手账插画被抄袭，AI设计伪装成原创；有的市集为了凑满摊位什么品类都往里塞，主题被稀释；有的市集头两年高光，后来口碑坍塌。 摊主之间流传着一句话：“有摊位费，没人。” 应对的方式是抱团。 摊主之间常常互通信息，一方面交流布置和选品的经验，另一方面记下哪些商场人气不行、哪些主办方容易踩坑，遇到就主动避开。 经常赶集的人总结过一条经验：好的市集主题要明确、动线要顺畅、氛围要舒服，归根结底是摊主能不能拿出真正有吸引力的东西。 价格可以适度溢价，标得太高会劝退。 与此同时，成本在涨。 河南周口太昊陵庙会上，一个入口C位的9平米摊位，30天使用权拍出了27万元。 这是金字塔尖的个案，但它标出了一个方向：好位置正在变贵。 治理也在跟上。 2025年8月，上海市绿化市容局对《关于进一步规范设摊经营活动的指导意见（试行）》进行修订，提出打造品牌化、主题化、特色化的集市，并明确设摊区域、交通出行、消防和食品安全等方面的要求。 2026年5月，《上海市外摆位设置导则（试行）》开始实施，形成市级政策引领、区级细化落地、街镇属地管理、数字平台赋能的外摆位与市集治理体系。 2026年初，国务院办公厅印发的《加快培育服务消费新增长点工作方案》明确提出，支持建设若干消费带动作用强的情绪式、体验式服务消费新场景。 政策给了市集名分，也画了边界。 名分意味着它可以从“临时活动”变成“常规业态”。 边界意味着消防、食安、扰民、垃圾这些琐碎的事，终归要有人管，也终归会有人为此付费。 对市集来说，真正的考验不在流量，在复购。 市集是品牌的试用期。 试用期结束还留不下客户，再热闹也只是白热闹。 最后的话 从“顺便看看”到“专程而来”，市集只用了两年，就完成了自己在消费版图上的重新定位。 它承接的是两股力量：一边是商场越来越贵的空铺，一边是年轻人越来越难被满足的情绪。 兴趣是最好的入口，也是最差的护城河。 它能在三天内把一群人聚起来，也能在三个月内让同一群人散掉，因为热爱从不保证复购，新鲜感从不保证忠诚。 市集能不能从一门流量生意变成一门长久生意，答案不在摊位数量上，也不在那几天的客流数字里。 它写在一个更朴素的问题里：散场之后，还有没有人记得那个摊主的名字。 参考文献 [1]瞭望东方周刊：城市为何需要市集 [2]半月谈：不止“买东西”，年轻人爱上“赶小集” [3]天眼查：市集相关企业注册数据 [4]新华网：上海万象城超级美好面包节甜蜜收官，烘焙狂欢点燃春日消费热潮 [5]上海市静安区人民政府：2026静安咖啡文化系列活动精彩全回顾 [6]大连市西岗区人民政府：关于对区十九届人大五次会议第28号建议的答复意见 [7]川观新闻：成都商场中秋假期扎堆“造场景”，流量带来“留量”了吗 [8]上海市青少年研究中心：2025 Z世代情绪消费报告 [9]艾媒咨询：2025—2029年中国情绪经济消费趋势洞察报告 [10]新京报：2026年体验经济报告⑤“回血感消费”：当年轻人重新看见附近 [11]赢商网：200个项目总给商场景气度打分 [12]解放日报：有情怀又有营收，上海非标商业里的民艺商店走红背后 [13]人民网：青云路步行街持续坐稳贵阳打卡“C位” [14]中国青年网：谷子店接连倒闭，二次元经济进入新周期 [15]经济参考报：情绪消费、体验消费、绿色消费齐头并进 [16]中华全国供销合作总社：全国供销合作社“十五五”发展规划",
-   "published": "Mon, 16 Nov 2026 03:49:46 GMT",
-   "source": "虎嗅资讯-全部",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "线下市集热度可作线下课招生场景参考",
-   "action": "评估市集摆摊做AI课引流可行性",
-   "opportunity": "市集摆摊低成本获客知识付费学员",
-   "risk": "市集人流与付费意愿未必匹配"
-  },
-  {
-   "title": "“零元面馆”的教训是，慈善不应与商业同台竞争",
-   "link": "https://www.huxiu.com/article/4905848.html",
-   "summary": "慈善从来不是道德完人的乌托邦。它永远在人性、成本与可行性之间走钢丝。最近，南京接连开了两家面馆，门前天天排长队。不是为了吃什么好东西，而是因为这两家店的面不要钱。任何人不需要证明或资质，可以免费来店吃面。这两家“零元面馆”是同一个老板，南京本地人，姓张。据报道，面馆老板自己估算，这两家店一年下来，综合损失可能...... 本文来自微信公众号： 冰川思享号 ，作者：骏瑜78 慈善从来不是道德完人的乌托邦。它永远在人性、成本与可行性之间走钢丝。 最近，南京接连开了两家面馆，门前天天排长队。不是为了吃什么好东西，而是因为这两家店的面不要钱。任何人不需要证明或资质，可以免费来店吃面。 这两家“零元面馆”是同一个老板，南京本地人，姓张。据报道，面馆老板自己估算，这两家店一年下来，综合损失可能达到1000万元。 店主表示自己是在“做善事”，可最先叫苦的，却是同一条街上的同行。 有位老板开了15年炒饭炒面店，一份饭一碗面平均赚1块5，一个月赚七八千，只够“养家糊口”。“零元面馆”开门以后，他跟记者说：“他这一搞把我们搞得彻底完了，马上店子都转让了。” 据后续报道，对于这些争议，张老板说如果面馆周边200米范围内的餐饮商家因此受到损失，他愿意出资进行补偿。 在没有任何证据之前，不应该揣测店主的动机用意。那么，如果这就是“老板自掏腰包帮助吃不上饭的穷苦人群”，有什么不好呢？ 01 很多公众对慈善的理解非常朴素：我有钱，我有爱心，我把钱给出去，这就是慈善。 这套理解放在前现代社会，一点毛病没有。 善人“施粥”，本来就是前现代社会最典型的慈善操作。那时候的人不流动，一个村子抬头不见低头见，来喝粥的是真揭不开锅还是来蹭一顿的，全村心里有数。这种慈善行为，靠的不光是善心，还有知根知底。 但到了现代社会，这套逻辑就失灵了。人流动起来了，分工细了，一座城里住着彼此不认识的人。需求也多了：除了吃饱穿暖，人还想自我发展、想实现价值、想要社交与归属。 更麻烦的是，同一个人身上的需求也可能很复杂。 比如老人：家里得做适老化改造，防跌倒；得有人提醒关水电气、按时吃药；自己做不了饭，得有人供餐；洗澡、剪指甲，得有人搭手；最后还得有人跟他说一句“你不是没用了”。 一句“老人需要帮助”，拆开是七八件事。 所有这些，当然可以一句话概括：资源匮乏，拿不到自己需要的资源。但“需要什么”“怎么给到”，一点都不简单。 有些答案看上去明摆着：吃不饱的人，给食物就行。“零元面馆”就是这么干的。 但是给什么食物？仍然有讲究。阿马蒂亚·森曾提到，饥民可能因为吃了不习惯的食物而身体出问题。著名的爱尔兰大饥荒中也有记载表明：土豆遭了病害大幅减产，也还是有来自新大陆的玉米的输入，但是人们不熟悉这种新大陆食物，也不知道怎么吃，更没有人教他们。 更进一步，即使找对了资源，在给定的资源（善款）有限的条件下，如何配置到最多的卡路里，如何用最低成本最快运送到有需求的人们身边？ 02 所以，综合的需求，得用综合的方案。十多年前，我所在的公益组织在一个贫困地区做项目，发现当地妇科病病例特别多。 表面看，解法很直接：发安全套。真发下去才发现，卡点不在安全套。拿到安全套的女性，没法要求丈夫用，她在这个家里没有说话的分量。 项目就要往下走一层：养殖、种植，帮她们挣钱。手里有钱，家里才有话语权。 再往下追，还有一层：丈夫的病，是进城打工时染上的。那就得两头下手：一头在城市的性工作者里发放安全套，一头推动城市放宽落户和随迁政策，让打工的人能把家人带过来。 一个问题，光靠发安全套，解决不了。 方案有问题，慈善项目就可能会出偏差。这里说的偏差，是指结果偏离了目标：该帮的人没帮到，帮到的人不是项目设计的那群人。 这里需要很多操作上的技巧。 比如大病求助，钱一般不经病人的手，由慈善组织直接付给医院，防的就是善款被挪用。 比如助学，通常会附带一点条件，确保孩子真在读书，不是拿了钱混日子。注意，条件一般不设在成绩上，硬要人考出分数，反而不符合现代教育的理念。 又比如助农，很多人听说过有农户领了助农的小猪，回家直接杀了吃了。于是有的项目改成这样设计：小猪长大下了崽，必须送一只给邻居。 这些措施，大多听上去都像在跟人性搏斗，但这就是事实：慈善从来不是道德完人的乌托邦。它永远在人性、成本与可行性之间走钢丝。 03 商业世界判断一个产品好不好，特别简单：你买、你用，好不好当场就知道，用户用脚投票，好坏直接反馈给提供者。 但慈善中的反馈链条是断的：购买者不是产品的直接使用者，无法切身判断好坏；受益人又往往因为“受益”，不好给出真实反馈。 因此慈善从业者更愿意说“我不是金钱的搬运工，而是公共产品的提供者”，我提供的是社会问题的解决方案。 慈善有其专业技术含量，并非毫无门槛，人人可做。从发现需求、设计方案、执行项目，到评估、传播，每个环节都有不低的成本。并不是“我有1000万元，愿意把这1000万元给没有面条吃的人”就可以。 图/视频截图 慈善愿意把自己说成公共产品的提供者，但它提供的东西分两种：一种是纯公共性的，分不到个人头上；另一种落在具体的人身上，比如食物、教育、老人服务。后者当然也有公共意义，可它也正因此和商业提供的私人产品撞上了。 慈善项目最容易犯的错，是对正常商业构成不公平竞争：成本由捐赠人买单，放到市场里看，它像是“零成本”的。 “零成本”有两个后果：一是诱使本不该受益的“买得起”的人设法领取，挤占资源；二是这种碾压式的不公平竞争会严重伤害市场主体，使大量必须支出成本、因而“竞争不过”的经营者退出市场，不再提供产品。 怎么解决？一个办法是严格筛选受助人。比如我资助孩子读书，那这孩子的家庭就必须是贫困的，得证明收入和资产低于某条线。但这个做法一直挨骂，因为它伤尊严。孩子会觉得自己“低人一等”。 因此，慈善组织会尽量改进方法：筛选要低调，最好是只有受助人自己知道；同时给心理支持，告诉他贫困不代表低人一等。 另一个办法是提供比市场产品更低档的“替代品”。最有名的两个传说你一定听过：施粥的时候往粥里掺沙子；免费发的肉包子，先在地上滚一圈。话很难听，很多人心里却是认同的。 两种方法都尽力避免让慈善产品流入正常市场。这也是慈善从业者所必需的专业技巧。 04 现在回到“零元面馆”。它对吃面的人没有任何要求，也就是说，没有受益人群筛选。 也有人认为“排队”筛选出了有时间的人，但那并不是需要食物的人。就算把排队算成一种筛选，它跟项目目标也没关系，属无效筛选。真正需要食物的人未必会来，来的也未必是真正需要食物的人。 产品上，面馆提供的是素面，在一定意义上与市场提供的普通面条有小的差异，但在“吃饱”这件事上，差别不大。不花钱就能吃饱，这和需要支付食物成本、房租、水电、人工的其他餐馆之间形成了明显的不公平竞争。 被竞争下去的，恰恰是小本经营、利润微薄的小商户。 据报道，雨花台区“零元面馆”附近一家面馆，平时日营业额上万元，“零元面馆”开业七八天后，日营业额下降约2000元。 还有更扎心的一幕。餐饮店老板娘李芳说，面馆开业后，常来的熟客不来了。有位老顾客跟她讲：“现在不用上班了，因为有免费餐吃了，不需要上班。”因为这条街上多的是干日结的人，做一天工到手一百多元，够撑几天，现在既然有免费的面，还上什么班？ 问题是，有朝一日慈善项目持续不下去时（大部分慈善项目都不可能永续），那该怎么办？澎湃新闻的评论说得很直接：后续如果“零元面馆”因为难以为继而抽身而去，留下的恐怕就是一片萧条的市场，和无处可去的食客了。 爱心和资源一样，都是这个社会永远需要的东西。但慈善不是“有爱心”就能干的零门槛行当。它需要一连串专业技巧：找到受助群体真实的需求，设计能解决问题的产品，尽量减少对正常生活的扰动。 “零元面馆”这件事，说到底就一句话：慈善不应该与商业形成竞争。那样既不公平，也没有效率。 ▼ *题图来源于视频截图",
-   "published": "Mon, 16 Nov 2026 03:32:51 GMT",
-   "source": "虎嗅资讯-全部",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "商业与公益边界案例，与主业无直接关系",
-   "action": "跳过",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "大投诉时代，人人都有点委屈",
-   "link": "https://www.huxiu.com/article/4905831.html",
-   "summary": "现在想当个让家长满意的老师，光有教师资格证已经不够了。最好教学经验丰富、情绪稳定、身体健康，课讲得好，作业布置得恰到好处，顺便还得保证未来几年没有生育计划。11月15日，央视曝光了一批校园非理性举报，其中有个故事相当炸裂。一位班主任休产假，学校正常安排了新老师接任，结果有家长不乐意了，提出了一个直击灵魂的问题...... 本文来自微信公众号： 防冷书斋 ，作者：防冷涂的蜡 现在想当个让家长满意的老师，光有教师资格证已经不够了。 最好教学经验丰富、情绪稳定、身体健康，课讲得好，作业布置得恰到好处，顺便还得保证未来几年没有生育计划。 11月15日，央视曝光了一批校园非理性举报，其中有个故事相当炸裂。一位班主任休产假，学校正常安排了新老师接任，结果有家长不乐意了，提出了一个直击灵魂的问题：老师一定要生孩子吗？能不能保证新老师不怀孕？ 学校本来负责教书育人，现在连老师未来的生育计划，都快变成教育服务的售后条款了。还有家长，因为学校组织学生轮流打扫厕所，直接把学校举报了。孩子这么小，为什么要干脏活累活？老师不能干吗？学校没钱请保洁吗？ 按照这个思路发展下去，学校最好连运动会都取消。毕竟跑步可能摔跤，跳远容易崴脚，集体活动还存在人际摩擦风险。家长把孩子交给学校，学校理应提供一个没有意外、没有委屈、最好连青春期都能跳过的成长环境。 教育事业的终极形态，可能就是让孩子在学校里安静地坐上十二年，毕业时原封不动地交还给家长。如果你以为只有家长这么难伺候，那就太低估中国人民的问题反馈能力了。 如今的中国社会，正在形成一套越来越熟练的生活技能：遇事不决，先找上级。 万物皆可投诉 今年8月，时代峰峻旗下的TOP登陆少年在徐州开演唱会，粉丝们因为演出中的双人、多人舞台安排发生了分歧。娱乐圈里粉丝吵架原本稀松平常，谁和谁站在一起，谁的镜头多了两秒，谁的舞台被公司冷落，都可能成为一场互联网战争。 但这届粉丝已经不满足于在网上吵架了。他们发现了一个更有力量的表达渠道：徐州市12345政务服务热线。根据徐州12345公布的数据，8月21日至31日，演唱会相关诉求累计达到48795件。其中47.54%要求整改双人、多人舞台，33.81%要求完整保留这些舞台。 也就是说，一拨人要求改，一拨人坚决不许改。两边意见水火不容，却不约而同地选择了同一个解决方案：找政府。徐州12345为此启动应急工作机制，夜班接线人员从15人增加到了43人。谁能想到，一场男团演唱会，最后需要政务热线启动应急工作机制。 从前，演唱会舞台编排主要由导演和经纪公司操心。现在，公共服务热线也要面对偶像团体的排列组合问题。一个城市的政务服务能力，居然能被明星粉丝的双人舞台检验一遍。 最精彩的地方在于，双方都觉得自己很有道理。要求整改的人，认为偶像的权益受到了侵犯；要求保留的人，认为演出安排不应该因为别人投诉就随便调整。假如政府真的能决定舞台怎么安排，大概也得先研究一下，究竟应该满足哪一拨粉丝。 这才是当代投诉文化最迷人的地方：大家都在寻找一个能替自己主持公道的人，却很少考虑，对面那群人也在寻找同一个人。 娱乐圈的事情听着热闹，学校里的情况可能更接近普通人的日常。《半月谈》曾报道，西南某基层教育局2024年1至8月收到128条举报教师的信息，最终仅7起基本属实。查无实据的举报未必出于恶意，却实实在在地占用了核查和处理的资源。 翻翻媒体报道中出现的各种举报理由，还是能感受到当代教师工作的高难度。老师管得太严，有家长不满意；管得太松，另一些家长不满意。作业太多不行，太少也不行。正常的教育惩戒可能遭遇投诉，轮流打扫卫生也有人要求学校给个说法。 教育行业越来越像一个大型定制服务市场。几十个孩子坐在一间教室里，背后站着几十个家庭，每个家庭都有自己的需求和风险偏好。有人希望老师严格一点，有人希望老师温柔一点；有人觉得应该多抓成绩，有人觉得孩子的快乐最重要。 老师只需要同时满足所有家长的要求，就能成为一名优秀教师。听起来跟要求厨师做一道既要麻辣鲜香、又不能放辣椒和油盐的川菜差不多。 学校之外，投诉业务的适用范围还在不断扩大。商品不好用，可以投诉；外卖不满意，可以投诉；物业不作为，可以投诉；邻居太吵，也可以投诉。找平台没用，还有监管部门；找物业解决不了，还能找社区。生活里的各种摩擦，都有机会进入一套正式的反馈流程。 今年，市场监管总局在解释新版投诉举报处理办法时，披露过一个极端案例：有人一年举报2000多次，却没有形成案件。一年2000多次，平均每天五次以上。普通人每天吃三顿饭，这位举报爱好者的工作量已经超过了一日三餐。 市场监管部门还提到，少数人利用投诉举报程序向商家施压，试图通过反复举报、行政复议、诉讼等方式获取不正当利益。商业社会发展到今天，确实出现了一类很有意思的谋生方式：有人专门研究怎么把商品卖出去，还有人专门研究怎么从商品里找出能够索赔的问题。 而这些故事最值得琢磨的地方在于，举报者往往没什么特别的权力。一个普通家长无法决定老师是否休产假，一个消费者无法改变平台的所有规则，一个粉丝更不可能直接决定演唱会的舞台安排。 但只要找到合适的投诉渠道，他们就有机会让原本不听自己话的人，坐下来认真解释。哪怕最后什么都改变不了，至少已经成功让对方忙活了一阵。 找本人有什么用？直接找他领导啊 要理解举报为什么越来越有吸引力，得先承认一件事：在很多场景里，投诉确实好用。 你和商家争执半小时，对方可能始终坚持自己的解释。但你把问题提交给平台，商家就可能需要进入正式的申诉处理流程，回复速度和沟通态度都有机会迎来明显改善。 你觉得老师某个安排不合理，直接沟通未必能得到想要的结果。向学校领导或者教育部门反映，学校却可能需要专门调查、说明情况。 这几件事情的共同之处，在于投诉改变了原来的权力关系。 原本你是在和另一个人讨论问题，对方可以同意，也可以拒绝。投诉之后，你有机会让一个更有权力的组织介入，让对方不得不回应。 即使那个组织最后没有支持你，被投诉的人也可能已经付出了处理成本。投诉者只需要花几分钟填完一张表，对方却可能要花半天时间找记录、写说明、接受核查。如果涉及单位考核、个人评价或者平台信用记录，麻烦还可能继续扩大。 提交一份投诉的成本，与处理一份投诉的成本，可能根本不在一个数量级上。 这种不对称，在今天变得尤其明显。 过去，普通人想向上级反映问题，可能需要写信、打听主管部门、跑窗口。后来有了市长热线、12315、12345，以及各种互联网投诉入口。举报从一件需要花费大量时间和精力的事情，逐渐变成了手机上的一项常规功能。 1999年，全国工商系统统一使用12315消费者投诉举报电话。2017年，全国12315互联网平台上线。2021年，地方政务服务便民热线加快归并，12345逐渐承担起统一接收各类政务服务诉求的功能。 这几十年的变化，解决了一个长期存在的问题：普通人不知道去哪儿说理，也不知道有没有人愿意听。今天，手机里的几个页面、几个号码，就能完成过去相当繁琐的事情。市场监管总局披露，全国12315平台上线以来，累计处理投诉举报已达1.2亿件。 图1｜全国市场监管系统投诉、举报量（2021—2025） 来源：市场监管总局历年《消费者投诉举报特点》。注：按全国市场监管部门多渠道受理量统计，不能等同于恶意举报数量。 以前人们发愁的是，出了问题找谁说理。如今一些人开始研究，究竟找谁说理最有效率。和当事人沟通，需要解释、说服、协商，有时还得作出一点让步。投诉则提供了另一种选择：把问题交给一个负有正式处理责任的机构。 如果上级介入的效率远远超过双方直接沟通，人们自然会逐渐学会跳过中间环节。家长和老师之间的分歧，变成教育主管部门的待办事项；消费者与商家的争执，变成平台客服和监管部门的工单；粉丝和经纪公司之间的舞台争论，甚至有机会成为政务热线的紧急任务。 一个人想解决自己的麻烦，最有效的办法，有时竟然是先给另一个人制造一份麻烦。投诉也因此拥有了某种工具性价值：你未必能说服对方，但你可能找到一个对方不敢轻易拒绝的人。 某种意义上，我们已经进入了一个人人都能借用组织权力的时代。家长可以借助教育主管部门影响学校，消费者可以借助平台规则约束商家，居民可以通过政务热线推动公共部门介入。 这套机制让普通人有了更多保护自己的手段，也让一些人发现了其中的另一种用途：让对方为自己的不满意付出代价。 人人都学会了投诉，人人也开始害怕投诉 如果说投诉渠道降低了普通人表达不满的成本，那么还有另一笔账，正在学校、企业和基层单位里悄悄增长。那就是处理不满的成本，以及为了避免被投诉而提前付出的成本。 先看一组数据。 北京市政务服务和数据管理局公布的2025年报告显示，北京12345热线全年受理群众和企业诉求2580.2万件，同比增长6.6%。这其中包括咨询、求助、建议、投诉和举报，庞大的总量背后，是一个现代城市需要回应的各种生活需求。 更有意思的是处理结构。 2025年，北京12345直接答复1641.4万件，占全部受理量的63.6%；派往承办单位的工单938.8万件，同比下降15.3%。大量问题在前端得到解释和分流，真正进入办理流程的事项，则需要按照规则完成调查、处理和反馈。 图2｜北京12345热线受理结构（2023—2025） 来源：北京市12345市民服务热线2023—2025年度数据分析报告 注：2025年“绿通企业承办诉求”不再计入派单，跨年比较需考虑口径变化。 现代组织越来越重视投诉率、办结率和满意率。设置这些指标，最初是为了防止推诿扯皮，让群众反映的问题能够得到回应。但当满意率成为考核目标，工作人员就可能慢慢发现，依法把事情办好，与让投诉人满意，压根是两门不同的学问。 假设一位居民要求拆除小区门口合法设置的公共设施，工作人员调查后认为没有拆除依据。事情办得合规，诉求却没能得到满足。投诉人不满意，工作人员怎么办？如果满意率直接影响考核，他可能还得反复解释、回访，争取对方改变评价。 这就涉及经济学里著名的古德哈特定律。它经常被概括为：当一个衡量指标变成追求的目标，这个指标就可能逐渐失去原本的衡量意义。 原本，满意率只是用来观察公共服务质量的指标。一旦变成工作人员必须完成的任务，行为就可能随之改变。处理问题的目标，从依法合理地解决争议，逐渐偏向尽可能让投诉人给出满意评价。 本来是为了把事情办好，后来却可能变成了把投诉人哄好。 学校、平台和商家都在面对类似的问题。老师认真管教学生，可能遭到投诉；放松要求，倒不一定有人追究责任。商家坚持合理的经营规则，可能与消费者发生争执；为了避免差评，选择息事宁人反而省事。 基层工作人员明知道某个要求缺少依据，却可能因为担心不满意工单影响考核，而花费大量时间重复解释。长此以往，人们就会摸索出一套朴素的职业生存智慧：多一事不如少一事。少做一个决定，就少承担一份风险。 这种心理还有一层更隐蔽的影响。一个老师原本想认真管教学生，想到家长随时可能投诉，干脆少管一点；商家面对明显不合理的要求，权衡处理纠纷的麻烦，最终选择妥协。下一位顾客发现原来这一招有效，自然也可能照着学。 投诉机制原本要让人认真履行职责，却可能让一部分人越来越不愿意承担职责。当整个组织都在努力减少投诉，最容易被减少的，有时恰恰是那些正确但可能得罪人的决定。 这样的考核机制已经开始调整。 2026年10月，四川雅安12345热线的一项改革引发关注。当地明确提出，不片面追求高满意率和解决率，允许合理存在不满意工单。 安徽宣城也对不满意工单实行复核。2026年上半年，3140件初次不满意工单中，有1609件经过核查被剔除出相关考核口径，占比51.2%。这组数字很能说明问题：投诉人不满意，与承办单位是否失职，本来就是两回事。 过去几十年，制度不断努力让投诉者的声音被听见。现在，制度又开始研究另一个问题：那些被投诉的人，究竟应该承担多少责任？ 为什么我们越来越需要别人主持公道？ 讲到这里，如果把所有问题都归结为某些人太爱投诉，恐怕也有点偷懒。因为稍微想想自己的生活，就很难保证自己从来没有过向上投诉的冲动。 快递迟迟不送，客服来回发送模板回复；商家承诺的服务没有兑现，售后却一直让你耐心等待；遇到不合理收费，对方还摆出一副爱交不交的态度。 这种时候，谁不想找一个能管事的人？ 最好对方接到电话就高度重视，三分钟定位问题，十分钟给出说法，半小时解决完毕。我们甚至可能在心里默默期待：让他们领导来看看。 这种想法再正常不过，因为直接沟通在很多现实场景里，本来就是一件相当耗费耐心的事情。 你需要解释问题，证明自己有理，还得说服一个未必愿意承认错误的人。碰到权力关系不对等的情况，对方可能连认真听你说话的耐心都没有。相比之下，正式投诉渠道至少提供了某种确定性：有人接收问题，有程序规定怎么处理，还有一个地方可以追问结果。 经济学家赫希曼在《退出、呼吁与忠诚》中，讨论过人们面对组织表现不佳时的两种基本选择：离开，或者表达不满、争取改变。这个理论放到今天，仍然很有解释力。 对一家餐馆不满意，消费者可以换一家；对某个商品不满意，可以选择其他品牌。但生活中很多关系没有那么容易退出。孩子不能因为不喜欢某位老师，就随时更换学校；居民也无法因为物业服务不好，立刻搬离小区；劳动者遇到不合理待遇，更未必有说辞职就辞职的底气。 当离开的成本很高，向上反映问题就成了重要选择。这也解释了为什么投诉会具有如此强大的吸引力。普通人希望有一套不完全依赖对方善意的机制，能在自己说话没人听的时候，帮自己讨一个说法。 被拖欠工资的劳动者、遭遇消费欺诈的人、受到不合理对待的学生，都需要一条可靠的求助渠道。很多时候，人们并没有能力与更强大的组织讨价还价。正式投诉机制给了他们一种保护自己的办法，也让一些原本难以解决的问题终于有人负责。 但当人们发现投诉是一种有效的解决方式，也就容易产生一种新的期待：只要自己不满意，最好就有人出面负责。 家长担心孩子成绩受到影响，便希望学校保证教师队伍稳定；顾客希望获得更好的服务，就可能要求商家作出更多让步。 最有意思的还是徐州演唱会那两拨粉丝。双方的诉求完全相反，却都期待通过同一个渠道改变演出安排。一个要求整改，一个要求保留，如果所有人的意愿都需要得到满足，整场演唱会大概只能采取量子叠加的方式进行。 现实生活中很多矛盾，本来就没有双方都满意的解决方案。有人希望小区增设减速带，有人嫌减速带影响通行；有人觉得楼下活动太吵，有人又希望社区多一些公共空间；家长希望老师严格管理孩子，却也希望自己的孩子不要受到过多约束。 每个人都有自己的理由，也都期待有人支持自己。可当所有人都习惯于把不满意交给更高一级的权威解决，我们就逐渐混淆了两件事：自己的权益受到了侵害，和这个世界没有按照自己的期待运转。 前者需要制度保护，后者却是每个人生活中都必须面对的现实。我们可以要求别人遵守规则，却无法要求所有人按照自己的偏好生活。一个社会如果连正常的意见分歧都需要行政部门、平台客服或者单位领导介入，解决矛盾的成本自然会越来越高。 于是，一件普通的邻里纠纷，可能演变成多个部门之间的工作；原本一句解释可以解决的分歧，变成了需要留痕、回复、回访、复核的正式流程。如果双方依然不满意，这套流程还可能继续运行。 一个人希望通过投诉减少自己的麻烦，最后却把麻烦交给了另一个普通人，再由整个系统承担处理成本。整个社会似乎越来越善于表达不满，却未必同样善于处理分歧。 大投诉时代，谁来保护被投诉的人？ 我们已经建立了越来越完善的投诉渠道，但一个问题开始浮现：当投诉变得非常容易，谁来保护那些被投诉的人？ 这个问题有点难回答，因为投诉者与被投诉者，并不天然对应着弱者与强者。消费者面对大型平台，可能处于弱势；但面对一个独立经营的小商家，双方的力量对比又可能发生变化。 家长面对学校，有时确实缺少话语权；但如果一位普通教师需要独自应对大量举报和质疑，他同样可能感到无力。居民向政府部门反映问题，是在行使合法权利；但真正负责解释和办理工单的，可能只是一个没有多少决定权的基层工作人员。 很多时候，我们以为自己正在向一个强大的组织讨说法，最后真正接住这些情绪的，却是组织里的另一个普通人。 更微妙的是，举报带来的负担，未必会因为最终查无实据而完全消失。一个人被举报之后，可能需要花费大量时间证明自己没有问题；涉及职业声誉或者网络传播时，即使调查结论澄清了事实，留下的影响也很难立刻消除。 对于举报者来说，提交举报的程序成本通常小得多。这就产生了一种不对称：一个人可以用很小的成本启动程序，另一个人却可能需要付出大量时间和精力才能结束程序。如果有人故意利用这种不对称施压，投诉本身就可能成为伤害别人的工具。 一个成熟的投诉系统，当然要让普通人有地方说理。但投诉人提出要求，不代表对方必须满足；举报人认为自己受到侵害，也不能自动成为对方违法违规的证据。制度要调查事实、判断责任，而不能把让投诉人满意当成最终任务。 更重要的是，社会需要允许正常的拒绝。 家长可以对教学安排提出意见，却无法要求老师的人生完全围绕自己的孩子展开；消费者可以要求商家履行承诺，却不能要求每一个经营者无条件满足自己的期待。 有些矛盾需要通过投诉纠正，有些需要协商和妥协，还有一些，确实不存在让所有人满意的答案。 回过头再看那个要求学校保证老师不怀孕的家长，也许他真的只是担心孩子的成绩，害怕老师更换影响教学。但老师同样是一个普通人，她有自己的家庭、生活和人生安排，无法因为另一户家庭希望孩子成绩稳定，就把自己的人生无限期冻结起来。 更有意思的是，这个家长在另一种生活场景里，也可能成为被投诉的人。 一个教师可能在学校遭遇不合理举报，回到家又因为物业服务问题拨打12345；一个商家可能白天被顾客投诉，晚上又因为网购纠纷找平台客服。 我们在投诉时，希望制度站在自己一边；轮到自己被投诉时，又希望制度尊重事实，不要轻易偏袒对方。我们希望别人重视自己的感受，同时也希望别人不要对自己提出过分要求。两种愿望单独看都很合理，放在同一个社会里，却常常互相打架。 说到底，普通人想要的东西并不复杂。遇到不公的时候，希望有人愿意听自己讲道理；自己没做错事的时候，也希望别人不要轻易把自己拖进麻烦。这个愿望，投诉者有，被投诉者也有。 过去几十年，我们努力让每个人都拥有更多表达不满的渠道。电话有人接了，工单有人办了，事情也越来越容易进入正式处理程序。曾经被忽视的普通人，终于有了更多可以说话、可以求助的地方。 但一个社会可以建立无数条服务热线，却很难建立一条专门负责让所有人都高兴的热线。如果真有这么一条电话，我估计它会成为全国最繁忙的号码。 毕竟，谁还没有点委屈呢。",
-   "published": "Mon, 16 Nov 2026 02:52:40 GMT",
-   "source": "虎嗅资讯-全部",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "社会投诉文化背景，与业务无直接关联",
-   "action": "略过，不占用时间",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "Mehri Madarshahi：从全球化走向地缘经济时代：经济安全背景下对APEC开放区域主义的重新思考",
-   "link": "https://www.huxiu.com/article/4905832.html",
-   "summary": "导语：11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将在深圳举行，中国时隔12年再次担任APEC东道主。太平洋经济合作理事会（PECC）11月发布的最新报告显示，51%的受访者对未来两三年亚太经济增长持乐观态度，明显高于对全球经济的乐观预期。不过，保护主义、贸易战和供应链中断仍是各方...... 本文来自微信公众号： IPP评论 ，作者：Mehri&nbsp;Madarshahi，原文标题：《APEC时间｜Mehri Madarshahi：从全球化走向地缘经济时代——经济安全背景下对APEC开放区域主义的重新思考》 导语：11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将在深圳举行，中国时隔12年再次担任APEC东道主。太平洋经济合作理事会（PECC）11月发布的最新报告显示，51%的受访者对未来两三年亚太经济增长持乐观态度，明显高于对全球经济的乐观预期。不过，保护主义、贸易战和供应链中断仍是各方最为关注的风险。如何在保持经济开放的同时有效应对这些风险，成为亚太区域合作面临的重要课题。 本文指出，APEC未来能否继续发挥重要作用，关键在于能否在坚持开放原则的同时，更有效地应对经济相互依赖带来的脆弱性。这并不意味着APEC需要转变为安全组织，也不意味着21个成员经济体必须遵循统一的经济模式。相反，APEC应当赋予“开放区域主义”新的时代内涵，更加重视区域韧性、互操作性和具有韧性的经济网络建设，使各经济体即使存在战略分歧，也能够继续开展合作。 从全球化走向地缘经济时代—— 经济安全背景下对APEC开放区域主义的重新思考 FROM GLOBALIZATION TO GEOECONOMICS: Rethinking APEC's Open Regionalism in the Age of Economic Security IPP荣誉教授、联合国教科文组织下属国际创意和可持续发展中心（ICCSD）顾问委员会成员 过去30多年来，亚太地区一直是全球化进程的最大受益地区之一。贸易扩张、跨境投资、技术创新以及生产网络的日益一体化，推动亚太地区发展成为全球最具活力的生产、贸易和创新中心之一。亚太经合组织（APEC）正是在这一背景下应运而生，并成为这一进程中最具特色的区域合作机制之一。 For more than three decades,the Asia-Pacific has been one of the greatest beneficiaries of globalization.Expanding trade,cross-border investment,technological innovation and increasingly integrated production networks transformed the region into one of the world's most dynamic centres of production,commerce and innovation.APEC emerged within this environment and became one of its most distinctive institutional expressions. 2025年亚太经合组织（APEC）成员经济体人口、GDP及贸易规模概况。APEC成员经济体人口占全球人口的36%；GDP总量占全球的61%；货物和商业服务贸易总额占全球的46%。图源：《2026年APEC图表报告》（APEC in Charts 2026） 推动这一转型的经济理念相对简单明了：扩大开放能够促进贸易与投资；发挥比较优势能够推动生产活动在不同国家和地区之间实现更高效的配置；经济相互依赖能够创造繁荣；深化经济合作不仅有助于促进经济增长，也有利于维护地区稳定。在冷战结束后的相当长一段时期内，这些理念在实践中取得了显著成效。 The economic philosophy underlying this transformation was relatively straightforward.Greater openness would encourage trade and investment;comparative advantage would allow production to be organised more efficiently across borders;economic interdependence would generate prosperity;and deeper economic cooperation would contribute not only to growth but also to regional stability.For much of the post-Cold War period,these assumptions appeared remarkably successful. 然而，如今这些理念所处的国际环境已发生深刻变化。地缘政治竞争重新成为国际经济关系的核心议题，先进技术日益成为国家竞争力和战略实力的重要工具。各国政府正重新评估在能源、半导体、关键矿产和核心技术等领域对外部供应商的依赖程度。过去主要以成本和效率为导向构建的供应链，如今越来越多地需要从韧性、可靠性和安全性等维度加以审视。关键领域的投资也因其潜在的战略影响而受到更加严格的审查。与此同时，技术主权以及获取数据、人工智能技术和数字基础设施的能力，已成为各国经济政策的重要组成部分。 The world in which they now operate,however,has changed.Geopolitical rivalry has returned to the centre of international economic relations.Advanced technologies have become instruments of national competitiveness and strategic power.Governments are reassessing their dependence on external suppliers for energy,semiconductors,critical minerals and essential technologies.Supply chains once designed principally around cost and efficiency are increasingly evaluated through the additional lenses of resilience,reliability and security.Investment in critical sectors is scrutinised for its strategic implications,while technological sovereignty and access to data,artificial intelligence and digital infrastructure have become important elements of national economic policy. 近年来，全球产业政策的政策动机发生变化，国家安全、地缘政治及供应链韧性受到更多重视。图源：联合国《2026年世界投资报告》 全球化并未消失，但其运行逻辑正在发生变化。 Globalization has not disappeared.But its organising logic is changing. 理解这一区别至关重要。当前许多讨论将经济安全与全球化视为相互对立的两种力量，仿佛各国政府必须在保持国际经济开放与退回国家经济边界之内寻求保护之间作出选择。然而，现实远比这复杂。经济安全之所以受到重视，并非因为全球化不再带来收益，而是因为随着经济相互依赖不断加深，一些在此前一体化扩张过程中不那么明显的脆弱性也逐渐显现出来。同样的经济网络，既能促进繁荣，也可能传导冲击；同样的供应链，既能提高效率，也可能形成战略依赖；同样的技术，既能推动国际合作，也可能成为地缘政治竞争的焦点。 This distinction is fundamental.Much contemporary debate treats economic security and globalization as opposing forces,as though governments must choose between an open international economy and a retreat behind national economic boundaries.The reality is more complex.Economic security has emerged not because globalization ceased to generate benefits,but because deeper economic interdependence also revealed vulnerabilities that were less visible during the earlier period of expanding integration.The same networks that distribute prosperity can transmit disruption.The same supply chains that increase efficiency can create strategic dependence.The same technologies that facilitate international cooperation can become sources of geopolitical competition. 因此，当前国际经济面临的核心挑战，不仅有如何深化相互依赖，还包括怎样有效治理这种相互依赖关系。 The central challenge facing the international economy is therefore no longer simply how to expand interdependence,but how to govern it. 对于亚太经合组织（APEC）而言，这一问题尤为重要。APEC诞生于全球化发展的早期阶段，其制度设计建立在一个独特的理念之上，即“开放区域主义”。APEC有意避免发展成为排他性的贸易集团或具有法律约束力的国际组织，而是依靠协商、共识、自愿承诺、能力建设和务实合作，推动政治制度、发展水平和国家优先事项各不相同的成员经济体开展合作。 For APEC,this question is particularly consequential.The institution was created during an earlier phase of globalization and built around a distinctive idea:open regionalism.It deliberately avoided becoming an exclusive trade bloc or a legally binding organisation,relying instead on consultation,consensus,voluntary commitments,capacity-building and practical cooperation among economies with very different political systems,levels of development and national priorities. 2026年亚太经合组织（APEC）会议宣传海报。 这种灵活性成为APEC最突出的优势之一。然而，在经济开放不断扩大的时代形成的这一制度模式，能否在战略竞争加剧、经济安全日益受到重视的今天，继续发挥同样有效的作用？ That flexibility became one of APEC's greatest strengths.But can an institutional model conceived during an era of expanding economic openness remain equally effective in an era of strategic competition and economic security? 答案未必是放弃开放区域主义，而可能是对这一理念进行重新诠释与革新。 The answer need not be the abandonment of open regionalism.It may instead require its reinvention. 本文认为，APEC未来能否继续发挥重要作用，取决于其能否在保持开放的同时，更有效地应对经济相互依赖带来的脆弱性。这一转型并不意味着APEC需要成为一个安全组织，也不要求21个成员经济体遵循统一的经济模式。相反，APEC需要以区域韧性、互操作性和具有韧性的经济网络为核心，赋予开放区域主义新的时代内涵。其目标并非让各成员经济体变得更加趋同，而是确保即使彼此之间的战略分歧不断扩大，各方仍能保持合作的能力。 This article argues that APEC's future relevance will depend upon its ability to preserve openness while responding more effectively to the vulnerabilities created by economic interdependence.Such a transformation would not require APEC to become a security organisation,nor should it impose a single economic model upon its twenty-one member economies.Rather,it requires a modern interpretation of open regionalism built around regional resilience,interoperability and resilient economic networks.The objective should not be to make APEC economies more alike.It should be to ensure that,despite their growing strategic differences,they remain capable of working together. 开放区域主义的现代化转型路径。面对经济安全挑战，APEC需要在坚持开放合作的基础上，更加重视区域韧性、互操作性和具有韧性的经济网络建设。图源：作者提供 从全球化走向经济安全 From Globalization to Economic Security 20世纪最后几十年，全球化进程加速推进，不仅推动了国际经济活动规模的扩大，也深刻改变了其组织方式。生产活动日益跨越国界，供应链延伸至不同大洲，金融体系之间的联系愈发紧密，技术发展也越来越依赖由科研、生产、投资、数据和知识等要素构成的国际网络。 The globalization that accelerated during the closing decades of the twentieth century transformed not only the volume of international economic activity but its organisation.Production became distributed across borders,supply chains extended across continents,financial systems became increasingly interconnected,and technological development came to depend upon international networks of research,production,investment,data and knowledge. 全球化带来的收益十分显著。更加专业化的分工降低了生产成本，国际投资扩大了生产能力，技术扩散加快了创新步伐，数以百万计的人口摆脱了贫困，尤其是在亚洲地区。 The benefits were enormous.Greater specialization reduced costs,international investment expanded productive capacity,technological diffusion accelerated innovation,and millions of people particularly across Asia were lifted from poverty. 2025年深圳与部分亚太经合组织（APEC）成员经济体GDP规模对比。深圳GDP约5422亿美元，超过越南、菲律宾、马来西亚等经济体。图源：CNDataSeed；数据来源：世界银行、深圳市统计局、国家统计局 然而，这种深度一体化本身也带来了一个悖论：各经济体之间的联系越紧密，对自身无法直接掌控的外部体系的依赖也就越深。各国在关键资源、工业生产投入品、先进技术、能源和数字基础设施等方面越来越依赖外部供应商，同时也日益依赖国际金融市场和消费市场。在很长一段时间里，这些依赖关系基本上被视为高效国际分工的自然结果。 Yet the very depth of this integration created a paradox.As economies became more interconnected,they also became more dependent upon systems beyond their direct control.Countries increasingly relied upon external suppliers for critical resources,industrial inputs,advanced technologies,energy,digital infrastructure and access to international financial and consumer markets.For many years,these dependencies were largely interpreted as the natural consequence of an efficient international division of labour. 2025年APEC成员经济体原油、煤及煤制品和液化天然气的进口来源结构。其中，46%的原油进口额来自中东和北非地区。 然而，近年来的一系列危机和地缘政治紧张局势改变了人们的这一认识。能源就是一个典型例子。稳定可靠的能源供应始终是工业生产、交通运输和社会稳定不可或缺的保障。如今，从汽车、通信到人工智能和国防系统，半导体已成为几乎所有先进技术的基础。关键矿产对于数字化和绿色转型也变得至关重要。人工智能正在迅速影响生产率、技术能力和国家竞争力，而网络与数字系统则已成为金融、通信、基础设施和公共服务运行不可或缺的支撑。 Recent crises and geopolitical tensions have changed that perception.Energy illustrates the problem.Secure energy supplies remain indispensable to industrial production,transportation and social stability.Semiconductors now underpin almost every advanced technology,from automobiles and telecommunications to artificial intelligence and defence systems.Critical minerals have become essential to both digitalisation and the green transition.Artificial intelligence is rapidly influencing productivity,technological capability and national competitiveness,while cyber and digital systems have become indispensable to finance,communications,infrastructure and public services. 10月20日，在深圳盐田港，工作人员在盐田国际远程控制中心远程操作集装箱装卸。图源：新华社 随着这些领域在经济中的重要性不断提升，其战略意义也日益凸显。因此，各国政府开始重新思考一些在全球化蓬勃发展时期尚未显得如此紧迫的问题： As their economic importance has grown,these sectors have acquired strategic significance.Governments have consequently begun to ask questions that would have appeared less urgent during the high period of globalization: 一国经济在多大程度上依赖少数外部供应商？ How dependent is the economy upon a limited number of external suppliers? 如果关键供应链中断，将会产生什么后果？ What happens when an essential supply chain is interrupted? 哪些技术具有足够重要的战略意义，因而需要具备自主能力或建立可信赖的国际合作伙伴关系？ Which technologies are sufficiently critical to require domestic capability or trusted international partnerships? 各经济体如何在保持国际经济联系的同时，避免因自身无法控制的外部冲击而陷入过度脆弱的境地？ How can economies remain internationally connected without becoming excessively vulnerable to disruptions beyond their control? 这些担忧使经济安全成为各国经济政策制定的核心议题。然而，经济安全不应被简单理解为经济自给自足，或是保护本国产业免受外国竞争。同样，韧性也不应仅仅被理解为承受冲击并恢复到原有状态的能力。在日益充满不确定性的国际环境中，韧性还应包括预判新兴风险、识别脆弱环节、为可能发生的冲击做好准备、调整制度和生产能力以适应变化，以及在不断变化的环境中保持有效运转的能力。 These concerns have brought economic security into the centre of economic policymaking.Economic security should not,however,be understood simply as economic self-sufficiency or protection from foreign competition.Nor should resilience be reduced to the ability to absorb a shock and return to previous conditions.In an increasingly uncertain international environment,resilience must also involve the capacity to anticipate emerging risks,identify vulnerabilities,prepare for disruption,adapt institutions and productive capabilities,and continue to&nbsp;perform&nbsp;under changing conditions. 从这一更广泛的意义上说，具有韧性的经济体必须具备规划、预测、准备和持续运转的能力。 In this&nbsp;broadersense,a resilient economy must be able to plan,predict,prepare and perform. 因此，经济安全并非意味着对全球化的否定，而更多是对全球化进程中各种脆弱性进行治理的尝试。这正是从全球化走向地缘经济时代的关键转变。经济联系仍在推动增长与繁荣，但贸易、技术、投资、能源和金融等领域的活动，越来越需要同时从经济价值和战略影响两个维度加以评估。APEC如今面临的问题是：这一最初旨在促进经济开放的合作机制，能否帮助各成员经济体有效应对更加复杂的经济相互依赖关系？ Economic security therefore represents less a rejection of globalization than an attempt to govern its vulnerabilities.This is the critical transition from globalization to geoeconomics.Economic relationships continue to generate growth and prosperity,but trade,technology,investment,energy and finance are increasingly evaluated simultaneously for their economic value and their strategic consequences.The question confronting APEC is whether an institution created to facilitate openness can now help its members manage this more complicated form of interdependence. 从全球化到经济安全的逻辑演进。全球化推动经济相互依赖不断加深，也使各经济体面临的战略脆弱性逐渐显现，促使经济韧性与经济安全成为政策关注重点。图源：作者提供 梅赫里·马达尔沙希（Mehri Madarshahi） 华南理工大学公共政策研究院（IPP）荣誉教授、联合国教科文组织下属国际创意和可持续发展中心（ICCSD）顾问委员会成员 Honorary Professor&nbsp;of The Institute of Public Policy(IPP),South China University of Technology(SCUT);",
-   "published": "Mon, 16 Nov 2026 02:50:49 GMT",
+   "title": "记者卧底调查虚假宣传乱象，三年赚100万，要不要了解一下？",
+   "link": "https://www.huxiu.com/article/4906176.html",
+   "summary": "中新网《民生调查局》报道，记者花八个月，以消费者身份加入东方药林、圃美多乐活、达渼天下等多个品牌的营销代理群，累计进群10多个、旁听线上会议20多场。10月的西安，一场\"千人产品说明会\"开场，第一句话是\"想不想发财？三年赚一百万的事业，要不要了解一下？\"线上会议的画风则是，\"护眼就是护国\"\"简单、听话、复制跟...... 本文来自微信公众号： 健观+ ，作者：深一度 中新网《民生调查局》报道，记者花八个月，以消费者身份加入东方药林、圃美多乐活、达渼天下等多个品牌的营销代理群，累计进群10多个、旁听线上会议20多场。 10月的西安，一场\"千人产品说明会\"开场，第一句话是\"想不想发财？三年赚一百万的事业，要不要了解一下？\"线上会议的画风则是，\"护眼就是护国\"\"简单、听话、复制跟着走，就能成功\"\"一头猪进来，出去就能变成火腿肠\"。会议以\"网络研讨会\"为名，东方药林甚至每天更新密码，早会结束还要\"复盘\"。买一盒产品就能成为代理，发展下线能拿提成，层级越高收益越高，\"你或你的下线卖出去，你都有收益\"，一盒秒到账140元、180元。有老人的目标，是把子女发展成自己的下线。 而这款号称能\"近视摘镜、改善干眼症白内障\"的达渼天下草本抑菌膏，是\"消字号\"，也就是消毒产品。 有了直销牌照，这套层级裂变就合法了？ 报道里反复出现一句话：某公司\"未取得直销经营许可证\"\"不属于合规直销\"\"与持牌企业的运作方式高度相似\"。 难道，那持牌的企业，这么干就合规了？ 翻一下现行规定就清楚了。《直销管理条例》第二十四条规定，直销企业支付给直销员的报酬，只能按照直销员本人直接向消费者销售产品的收入计算，报酬总额不得超过30%。这是单层次计酬，你卖出去多少，你拿多少，没有\"下线的下线\"这一层。而《禁止传销条例》第七条第三项规定的传销行为，恰恰就是\"形成上下线关系，并以下线的销售业绩为依据计算和给付上线报酬\"。 \"团队计酬/多层次计酬\"这件事，在现行法下，不管你有没有牌照，都属于禁止之列。 牌照不是免罪符，它只是一张\"必须更守规矩\"的承诺书。而行业里最危险的一种幻觉，就是把\"我有牌照\"当成\"我做什么都行\"。他们会故意把\"持牌=合规\"这层误解，装进你的脑子，因为只要你还这么以为，你就还会继续交钱。 当模式的核心不再是产品，它还叫商业吗？ 判断一门生意是\"商业\"还是\"别的什么\"，有个特别朴素的标准，：假设把产品抽掉，这套模式还成立吗？ 那么看报道里的体系： 产品是什么？一款\"消字号\"抑菌膏，用来涂眼睛的，宣称能改善白内障；一张包装上连生产企业都查不到对不上的东西。如果换掉呢？会议照开，\"三年赚一百万\"照讲。 模式没有任何影响。因为产品在这个体系里，本来就不是价值载体，是入场凭证和计价单位。 真正的商业，钱是从\"产品价值\"流向\"消费者愿意支付的价格\"；而这个体系里，钱主要从新加入者的口袋流向上层，产品的流动只是这条资金链上一个必要的道具。九块九的货，卖两千三百八十八，中间那两千三百块，买的不是膏，是\"资格\"。 判断标准还可以再细一层，给同行两个可操作的量尺： 量尺一：看\"购买\"和\"使用\"是否分离。真正的生意，客户买是为了用。而这类体系里，大量人买是为了\"卖\"、为了\"占位\"、为了拿到\"分享权\"，他自己都不用，因为他知道那东西不值。一个连卖的人都不肯用的产品，你指望它撑起什么？ 量尺二：看\"业绩\"和\"人数\"哪个是分母。健康生意看复购率、看客单价、看老客户留存；而这类体系的关键指标永远是新增人数、团队规模、层级数。当企业的KPI从\"多少人回购\"变成\"多少人加入\"，它就已经不在商业的跑道上了。 当模式的核心从\"把好产品卖给需要的人\"转成\"把人拉进来分层分钱\"，它就不再是商业。 三年赚一百万，真的有人赚到了，这怎么解释？ 报道里，一位60多岁的王兰做到了高级经销商，离\"特聘\"只差400盒；有人说\"骨干群里，有人一天啥也没干，就2500元到账\"。这些都是真的！ 但，你看看是怎么赚到的： 第一：赚到的钱，是从哪来的？不是从产品价值里生出来的，是从后来者的货款里分出来的。这意味着什么？意味着这个盘子的收益，必须靠不断有新人进来才能维持。它是一场接力赛，每个人赚的钱，都建立在\"后面还有人接棒\"的假设上。 第二：赚到的人，占比是多少？这是所有这类体系最不愿公开的数字。模式设计决定了，顶层拿大头、底层拿零头，绝大多数参与者是\"垫底的那一层\"。而你听到的所有成功故事，比如，一天2500、三年一百万，都是被精心挑出来展示的样本。 第三，赚到的钱，代价是什么？赚到钱的人，往往付出的不是钱，是关系。把亲戚拉进来、把老同事拉进来、把跳广场舞的姐妹拉进来。等到盘子转不动、下层的人开始找上门，钱还在，人没了。 未来行业须重新树立\"产品为根、合规为底、消费者为中心\"的价值观。 这个行业已经很难了。靠信息差赚钱的时代结束了，靠信任赚钱的时代才刚开始。 保健食品、普通食品、医疗器械宣传边界 私域直播、社群讲课、线下沙龙合法话术边界 虚假宣传、欺诈营销、功效承诺判定标准",
+   "published": "Tue, 17 Nov 2026 03:45:54 GMT",
    "source": "虎嗅资讯-全部",
    "biz_tags": [
     "industry"
    ],
    "category": "industry",
    "level": "B",
-   "why": "宏观地缘经济背景，间接影响出海环境",
-   "action": "收藏备查，关注APEC对跨境数字服务政策",
-   "opportunity": "无",
-   "risk": "保护主义抬头或影响海外平台准入"
+   "why": "传销式营销套路可作知识付费反面教材",
+   "action": "拆解其话术结构，做一期防割韭菜选题",
+   "opportunity": "知识付费可做'识别割韭菜'选题引流",
+   "risk": "自己课程营销别踩同类夸大宣传红线"
   },
   {
-   "title": "拆飞机供电？AI公司的算力焦虑已经卷到电力端",
-   "link": "https://www.huxiu.com/article/4905822.html",
-   "summary": "据英国《金融时报》11月8日报道，Anthropic在9月下旬与位于德克萨斯州圣安东尼奥的设备供应商OnePWR Solutions完成一笔交易，以34亿美元（约合人民币227亿元）锁定1.7吉瓦重型发电机供货，用于数据中心的电力供给。更早之前，AI基础设施公司Crusoe于4月向密苏里州ProEnergy订...... 本文来自微信公众号： 硅碳变量 ，作者：沈浪 据英国《金融时报》11月8日报道，Anthropic在9月下旬与位于德克萨斯州圣安东尼奥的设备供应商OnePWR Solutions完成一笔交易，以34亿美元（约合人民币227亿元）锁定1.7吉瓦重型发电机供货，用于数据中心的电力供给。 更早之前，AI基础设施公司Crusoe于4月向密苏里州ProEnergy订购13台机组，每台额定功率50兆瓦，合计650兆瓦，用于未来的美国数据中心。 如果放在十年前，把航发的心脏拆下来给机房供电，大概只会被当作方案里的猎奇玩笑。 事实上，这并非技术层面的革新，更像是两套时序逻辑发生碰撞：资本扩张以季度计，而电力基建的周期却长达十年。 01.等一台机器，要等到下一个十年 GE Vernova首席商务和运营官巴勃罗·科齐纳介绍，目前燃气发电业务的订单中，约20%来自数据中心和人工智能相关项目，现在公司订单已经排到了2030年，甚至2031年。 同时，在2026年第二季度GE Vernova签订了20吉瓦的新燃气设备合同，积压订单加上预留产能到了116吉瓦。 西门子能源、三菱重工的处境与之相近：在手订单已经填满现有产能，交付窗口持续向后推移。 《2026燃气轮机产业发展白皮书》显示，2025年全球燃机需求量约为90GW至100GW，但年产能仅为55GW至60GW。另据东吴证券研报数据，受制于较高的制造壁垒，燃机供应不足，GEV、西门子等全球龙头订单交付已经排期至2030年。 Wood Mackenzie报告显示，市场失衡已将燃机价格推至新高，预计到2027年底市场价格将达到600美元/kW，较2019年上涨195%。 财联社报道，业内还指出虽然全球涡轮机制造能力正在增长，预计到2028年将达到约87吉瓦，但这仍远远低于预计的129吉瓦的涡轮机电力需求。 这一轮供需错配，很难在短期内快速消化。 能源咨询机构伍德麦肯兹高级分析师奥罗拉·特诺里奥谈及美国燃气轮机市场时披露：“大家讨论的交货时间基本集中在2030年至2031年。” 也就是说，如果一家算力企业在今年敲定一台重型燃机，等到设备交付，主流算力硬件大概率已经完成多轮迭代。 机房可以提前建好，但供电的核心设备还在路上。 就算顺利拿到设备，也不代表可以顺利接入电网，并网相关的容量评审与线路配套是另一重难以绕开的门槛。 根据Gartner 2024年发布的预测数据，美欧主要市场的新增并网审批已经排到24至36个月之后，部分供需更紧张的区域等待时间更长。 其中，根据《2026仲量联行全球数据中心展望》，在北弗吉尼亚地区，一个50兆瓦的电网接入申请可能要等待七年。 亚马逊AWS欧洲、中东和非洲地区能源市场主管Pamela McDougall也透露，目前在欧洲申请电网接入的等待时间已长达7年。 区域电网的容量评估、集群负荷校核、输配电改造，本身遵循电网滚动规划与工程建设周期，底层节奏并不天然匹配算力厂商的扩张时间表。 尽管地方和电网可以通过专项对接、配套工程、分批送电缩小时差，但电网安全校核、廊道征地、投资计划等刚性约束，往往会成为算力落地的隐性时间门槛。 设备交付、并网接入、排放许可构成三重约束，而打通其中一关并不意味着其余卡点自动解除。 对Crusoe而言，这笔订单相当于优先解决设备供给卡点。双方在4月签约，目标交付窗口落在2027年夏天，周期仅一年有余。 这批机组的实际成交价、精确落地点位以及长期运行模式，外界暂无权威信息。市场能够确认的只有订单规模与交付窗口，其余细节大多停留在行业推测之中。 这也侧面说明，这种依托退役航发翻新改造的供电方案尚未形成成熟和标准化的产业路线，更属于行业多方正在测试的备选路径。 02.省下的不只是钱，是数年等待周期 大功率重型燃气轮机是典型的重资产赛道，主机制造排产周期漫长，长期由少数原厂把持。即便厂商决定扩产，受限于热端零部件、专用设备与工艺验证约束，新增产能的落地节奏通常也要以年为单位。 民航大涵道发动机的逻辑截然不同：历经数十年大规模量产，民航体系沉淀出一张覆盖全球的MRO大修网络、备件仓储体系，老旧客机持续退役，释放可用发动机资源。 以航改燃机主力的CF6‑80C2为代表的航发自1985年投入商用，其大量退役整机、拆解零部件和经过翻修的核心机共同构筑起一个体量可观的存量资源池。 航改发电机组的生意根基就藏在这里：它不是在传统电力设备体系里争抢紧张的新机产能，而是向民航庞大的退役存量资产借供给。 市场端旺盛的需求，已经从暗流转为明牌。 设备服务提供商Ethos Energy的首席执行官Ana Amicarella表示，目前二手市场非常火爆，且设备价格正在上涨；苏尔寿公司美国售后业务负责人达拉尤斯·帕迪瓦拉也表示，公司每隔几周就会收到寻找二手燃气轮机用于数据中心的请求。 美国田纳西河谷管理局称过去两年燃气轮机无论新旧价格都大幅上涨，美国全国农村电力合作社协会CEO吉姆·马西森坦言，协会成员面临前所未有的漫长交货期和持续攀升的价格。 据财联社报道，目前维护良好的二手机组售价约为每兆瓦150万至170万美元，翻新机组售价约为每兆瓦130万美元，明显低于新型涡轮机的成本（每兆瓦200万至250万美元）。 现如今，大家买单的核心不是追求极致的热效率，而是优先换取快速部署且尽快带载供电的能力。 从小型机组的交易案例里，更能窥见行业的急迫性。 为买卖双方牵线的ReflowX总经理丹.普尔表示，卡特彼勒旗下索拉透平制造的两台14.5兆瓦燃气轮机近日以1250万美元成交，约合每兆瓦43万美元。他还提到，新机价格约为3500万美元且交付需五年。 美国设备供应商SVI Bremco销售总监斯科特·施里格说，他们有时会在单个站点部署100多台，并混用不同型号和品牌。 而当采购方愿意接受机型混杂、上百台并联这种高复杂度方案时，项目优先级就已经重新排序：优先保障供电，效率、标准化与运维压力在现阶段都要退居其次。 其他替代路线也借着这一轮缺口快速起量。 芬兰瓦锡兰集团能源业务总裁安德斯·林德伯格表示，自去年春天以来，该公司已从美国数据中心获得约3吉瓦订单，产品是以燃气内燃机而非燃气轮机驱动的发电机组。 这一轮数据中心供电设备的需求热潮，内核是一场由交付周期主导的供需错配。 二手与翻新航改机组虽然账面采购价更优，但需要承担额外的长期运维代价，它真正的卖点是交付速度。 市场甚至愿意接纳多品牌、多型号小机组集群并联，承担随之而来的运维压力。 燃气内燃机这条备选路线，同样吃到这一轮需求红利。 当下采购的取舍逻辑已经切换：效率与标准化不再是优先指标，快速稳定地带载出力才是买方最看重的条件。 03.临时电源能撑多久，没人敢打包票 航空发动机原生面向高空变工况运行：起飞、爬升、巡航、降落，推力在宽区间动态调整，大部分运行时间并不维持满负荷。 地面电站的诉求截然不同：它需要长期稳定、可预测的持续出力。对于没有按发电工况验证过的二手航改方案而言，长时间高负荷运行下的耐久表现、检修节奏和可用率都缺少足够的运行样本支撑。 Tenorio的警示也正落脚于此：这类基于二手航发改造而来的机组，能否稳定支撑长年连续发电还需要更长周期的运行数据来验证。 二手翻新机组的成本账，远不止前端采购价这一笔。 有行业人士指出，不少翻新设备运行履历残缺，剩余寿命有限，原厂长期技术支持也相对薄弱。在需要常年连续运行且托举满载GPU集群的场景里，这些因素恰恰构成全生命周期成本中风险最高的部分。 对这批改造机组而言，质保、备件与技术支持的责任主体通常是集成商和第三方维修方，原厂完整的整机保障体系不再覆盖它。 可以说，资产全生命周期内的大部分兜底风险，从原厂转移至项目运营方和集成服务商。 而这算不上机组本身的硬缺陷，而是选择这条供给路线由交易结构带来的固有代价。 排放与空气许可，则是另一道正在收紧的红线。 近日，马斯克旗下人工智能公司xAI已在美国密西西比州部署八台由航空发动机改装而来的燃气轮机，为其位于田纳西州孟菲斯的Colossus 2数据中心提供电力。 而xAI此次部署的燃气轮机已经引发当地环保组织对污染物排放的质疑，相关许可文件中的排放限值调整也受到关注。 不管是封存机组还是退役CF6核心机都是不可持续的存量供给，并且带有明确的代际限制。等这批可用机体消耗殆尽，新一代民航航发能不能复制这套低成本改造路径还没有答案。 同时，二手机组报价上行、TVA确认各类燃机普涨以及中间商不断看到买方加价，这多重信号共同暗示：依托退役航发的这轮供给窗口很难继续扩大，反而在逐步收窄。 当然，这批设备也未必注定变成沉没成本，毕竟航改机组模块化、易拆装且占地小，从理论层面看，既可以迁移到其他项目重复利用，也可以作为可调容量在电力市场出售。 从这个角度看，它更像是可搬迁的过渡型资产，区别于牢牢锚定在场地和很难异地复用的传统电力重资产。 不过这终究只是纸面的想象空间：转运成本、重复合规取证、燃料管路改造，每一项都会吃掉设备的剩余价值。 把所有约束放在一起，可以得出一个偏审慎的判断：这批赶供电窗口上马的机组，最终会变成有效资产还是减值包袱，决定权更多落在随时间演化的外部条件上，而非单纯取决于技术本身。 若电网扩容在三年内到位、气价保持稳定、碳约束不急剧收紧，这批机组将完成阶段性任务，不再承担核心供电负荷；一旦并网周期持续拉长、算力溢价居高不下，这套方案就有望自洽且拿到不错的回报。 本质上，它弥合的是两套体系截然不同的时间尺度：AI的资本扩张按季度推进，电力基建的落地周期长达十年，二者之间的缺口催生出这类替代性供电方案。 相比猎奇的叙事，更值得持续观测的是三条线索：燃机原厂产能爬坡的进度、并网等待时长的回落速度还有排放许可监管的走向。 三者交汇的走向将左右这批机组的归宿是稳定留在资产端，还是走上减值计提的路径。",
-   "published": "Mon, 16 Nov 2026 02:29:30 GMT",
+   "title": "“学霸”自首AI作弊，韩国高考紧急布防",
+   "link": "https://www.huxiu.com/article/4906175.html",
+   "summary": "韩国今年税务师考试的第一名，自首了。11月15日，34岁的韩元锡承认，自己在两轮考试中都用了电子设备和生成式AI作弊。而在不久之前，他还在接受采访，分享自己的备考秘诀。这套成功经验里，甚至包括对手机的严格管理。韩国上上下下已经炸了锅，韩元锡自首时，距离11月19日的韩国高考，只剩四天。一个带着摄像头和手机的考...... 本文来自微信公众号： 字母AI ，作者：小金牙 韩国今年税务师考试的第一名，自首了。 11月15日，34岁的韩元锡承认，自己在两轮考试中都用了电子设备和生成式AI作弊。而在不久之前，他还在接受采访，分享自己的备考秘诀。这套成功经验里，甚至包括对手机的严格管理。 韩国上上下下已经炸了锅，韩元锡自首时，距离11月19日的韩国高考，只剩四天。一个带着摄像头和手机的考生，坐在监考老师眼前拿下第一，考场里却没人发现异常。青瓦台当天就召开了紧急会议，检查高考的防范准备。 越来越“智能”的作弊手法，在全球都是让人头疼的问题。 此前，韩国两所大学都抓到了违规佩戴智能眼镜的考生。英国要求考点关闭用于作答的电脑里的AI功能，国内也把智能眼镜列入高考检查范围。 不仅是考生在加班加点学习，监考老师要学的东西，也是越来越多了。 学霸自首记 金秋初冬，韩国“学霸”赛道新添一员，他上采访、录油管视频，各种分享成功经验。 他就是34岁的韩元锡（音译），拿下了韩国税务师考试第一名。这场考试可不好过。今年第一轮通过率不到两成，第二轮也只有约一成。他第一次参加，就把两轮都过了，还拿了第一名。 他的经历，确实很适合写成一篇逆袭故事。做过制造业，也自己做过生意，30多岁才决定转行，备考两年，第一次参加税务师考试，就把第一名拿了下来。 按他的说法，自己每天不到凌晨四点就起床，有效学习时间约八小时。复习时有个秘诀，合上书，拿出白纸，把刚学过的东西默写下来，检查到底记住了多少。 还有母亲的支持。每天凌晨，母亲会给他准备紫菜包饭。他说，备考压力大的时候，自己坐在楼梯上，饭还没吃到嘴里，眼泪就先掉下来了。哭完、吃完，再回去学习。 对待手机，他尤其自律。学习时关机放进抽屉，临近第一轮考试的三个月，干脆把手机留在家里，一周才开一次。 这种经验帖，国内读者应该很熟悉。看完很容易觉得，别人能考第一，果然有别人的道理。 何况，他的成绩实在太有说服力了。 韩国税务师考试分两轮。4月的第一轮考选择题，四门科目共160道，他只错了一道。税法学概论、会计学概论和商法，全部满分。尤其是税法学概论，全体考生平均只有30.18分，74.21%的考生没达到40分的单科合格线。 也就是说，近四分之三的人连及格门槛都没摸到，他拿了100分。 到了7月的第二轮，题型变成论述题，他依然拿下第一。 但这张成绩单，也引来了怀疑。 有记者接到线索，开始打听这位第一名。他们发现这位奇才还真有点横空出世的意思，很少有人在此前听说过他。 11月11日晚，记者终于打通了他的电话。面对利用AI眼镜作弊的质疑，他反问，如果AI眼镜能做出这些题，那还学什么？至于160道题为什么只错一道，他解释，自己也有不会的题，只是会用排除法。 “蒙答案也是一门技术。” 他还拿第二轮的成绩替自己辩护。就算第一轮的质疑成立，第二轮可是论述题，又该怎么解释？ 没想到，仅仅四天后，整个事件来了个一百八十度大转弯——这位横空出世的学霸，居然自首作弊了，还是用AI的。 11月15日，韩元锡出现在代理律师的油管频道上，承认两轮考试都用了电子设备和生成式AI作弊，已经向首尔警方提交自首书。他也承认，之前的备考手记和采访里撒了谎。 按照他的交代，他考试的时候用微型摄像头拍下考题，传给AI，再通过手机查看答案。 原来这位学霸在备考的时候用手机那么克制，是要等到考场上用个痛快啊！ 要说韩国税务师考试也是监考挺不严格的。这次税务师考试借用学校教室举行，两轮都是现场纸笔考试。他所在的教室安排了两名监考人员，第一轮他坐在第二排中间，第二轮甚至坐到了第一排中间。 也就是说，监考老师就在韩元锡眼前。 但手机没有统一收走，考生只被要求关机后放进包里。教室内部也没有监控摄像头，出事后，连回看录像的机会都没有。 更让人无奈的是，质疑出现后，考试主办方还向负责两轮考试的四名监考人员核实过。得到的答复是，当时没有发现可疑行为或异常情况。 这把纯属是狼人自爆，要不是韩元锡太飘太想输出成功学，也许真的就这样美美当第一了。 高考倒计时，韩国急了 韩元锡这一自首，韩国相关部门直接破防了。 因为他自首那天，距离11月19日的韩国高考，只剩四天了。 职业资格考试里有人带着摄像头和手机，坐在监考老师眼前拿了第一。马上要开考的高考，又该怎么保证不会出现同样的事？ 11月15日当天，青瓦台就召开了紧急会议，决定全面排查国家资格考试中涉嫌利用AI作弊的案例，同时检查高考的防范准备，包括安排专人识别AI设备、加强监考培训。热成像摄像头等手段，也被要求纳入考虑。 第二天，韩国总理又召集相关部门开会，要求考生上交所有智能设备，还提出研究在考试期间关闭考点公共Wi-Fi。 让韩国考试部门更尴尬的是，韩元锡事件并非个例，这种事此前已经发生过，而且就在大学入学考试里。 今年10月10日，延世大学举行自主招生的数学论述考试。开考前，监考人员特意检查了戴眼镜的考生，确认他们有没有佩戴智能眼镜。 有个考生顺利通过了检查，因为当时他戴的确实就是普通眼镜。 但是等考试开始之后，他就换了一副眼镜。 这副眼镜是配备有摄像头的智能眼镜。监考人员后来还是发现眼镜外观不太对劲，通知了考务部门，随后收走了设备。 更巧的是，就在一周前，首尔市立大学的入学选拔考试里，也上演过几乎同样的情节。考生接受检查时戴普通眼镜，考试中换上智能眼镜，被监考人员发现。 首尔市立大学直接让他退场，并禁止他未来三年参加该校考试。 这两起事件，至少说明了一个很实际的问题，入场时检查过眼镜，不代表接下来几个小时都能放心。 而且，监考老师还得在后续考试开始之后，仅靠“远观”分辨出来哪副眼镜有问题。 为此，韩国教育部早在10月29日就宣布，要在全国1312个高考考点各安排一名专门识别智能眼镜的人员，需要时到各个考场协助检查。政府还计划修改相关规定，把高考作弊者的禁考期限从一年延长到三年。 11月11日，首尔市教育厅又组织当地239名智能眼镜专门检查人员参加培训。 考生忙着复习，监考老师也得补课了。 当作弊越来越“智能” 其实不止是韩国在头疼，AI作弊、智能硬件作弊等已经成了全球考场都得面对的麻烦。 英国联合资格委员会的考试规定，就已经把智能眼镜列入禁带名单。英国的部分考试允许考生用电脑输入答案，代替手写。但考点必须事先关闭电脑里的AI功能，免得打字工具顺便把题也做了。 而在国内，利用AI和智能设备的作弊行为也是时有发生。 最近就有一件让人啼笑皆非的事件。10月16日，成都一名男子参加摩托车驾驶证理论考试。他此前考汽车驾照，理论考试折腾了四次才通过。这次申请增驾摩托车，怕再考不过，便从网上买来了AI眼镜和智能戒指。 装备倒是齐全，人的“心理素质”实在欠佳。考试时，他频繁摆弄眼镜和戒指，被巡查民警发现异常，随后承认作弊。 更好笑的还在后面。 调查时，他自己拿手机刷题，正确率超过85%。民警随机抽题，让他演示那套高价买来的设备，结果答案错得离谱，多选题全部答错。 本来想花钱请个学霸，结果请来了个学渣。 最终，他被罚款1900元，一年内不得再次申领机动车驾驶证。 当然，不能指望每套作弊设备都这么不争气。 今年7月，华南农业大学就公开通报，学校已经查处多起违规携带智能眼镜等电子设备进入考场、企图用于作弊的行为。学校随后重申，这些设备无论是否开机、是否查看，带入考场被发现，就按作弊处理。 国内高考的防范，也已经细到了眼镜上。 今年高考前，广东、湖北都明确要求，考生佩戴或携带的眼镜，要在视频监控下自行摘下，放到台面上，由监考人员专项检查。 福建的考务培训专门强调了对智能眼镜的防范，工作人员需要留意眼镜的大小、形状等特征。内蒙古还提醒，平时戴智能眼镜的考生，要提前备好普通光学眼镜，不能拿智能眼镜替代。 至于“我只是戴着，又没用”，也没什么商量余地。教育部今年6月发布的高考预警已经明确，无论是否使用，携带手机、智能手表、智能眼镜等设备进入考场，即构成作弊。 韩元锡们的“成功经验”，考生先别学了。给监考老师拿去备课，倒挺合适。",
+   "published": "Tue, 17 Nov 2026 03:44:16 GMT",
    "source": "虎嗅资讯-全部",
    "biz_tags": [
     "industry"
    ],
    "category": "industry",
    "level": "B",
-   "why": "算力电力瓶颈长期推高AI工具成本",
-   "action": "关注AI视频生成API价格是否上涨",
-   "opportunity": "无",
-   "risk": "算力成本上升或传导至AI工具订阅费"
+   "why": "AI作弊热点可做内容选题，非核心业务",
+   "action": "收藏案例，作为AI话题短视频素材",
+   "opportunity": "AI作弊话题做短视频蹭流量",
+   "risk": "无"
   },
   {
-   "title": "近臣",
-   "link": "https://www.huxiu.com/article/4905803.html",
-   "summary": "——最贴心的那位，往往坑了谁？观潮·先见｜第一篇天子不可令闲暇，暇必观书，见儒臣，则又纳谏，智深虑远，减玩好，省游幸，吾属恩且薄而权轻矣……莫若殖财货，盛鹰马，日以球猎声色蛊其心，极侈靡，使悦不知息，则必斥经术，阇外事，万机在我。——仇士良告老时语众宦官，见《新唐书·宦者传》小引唐武宗会昌三年，权宦仇士良告老...... 本文来自微信公众号： 观潮体系 ，作者：观潮 ——最贴心的那位，往往坑了谁？ 观潮·先见｜第一篇 天子不可令闲暇，暇必观书，见儒臣，则又纳谏，智深虑远，减玩好，省游幸，吾属恩且薄而权轻矣……莫若殖财货，盛鹰马，日以球猎声色蛊其心，极侈靡，使悦不知息，则必斥经术，阇外事，万机在我。 ——仇士良告老时语众宦官，见《新唐书·宦者传》 小引 唐武宗会昌三年，权宦仇士良告老。临走前，他给宫里的同僚留下一门手艺：别让皇帝闲着。皇帝一闲，就会读书，会见读书人，会听人劝；想得深了，看得远了，玩乐就少了，我们的恩宠就薄了，权也轻了。 一千一百多年后再读，这段话像一份产品会议纪要。 今年11月6日，Meta把“主动记忆”和“主动专注”推给了旗下AI助手的全部用户，免费，不用升级。几家大公司都在做同一件事：让AI记住你，并且不等你开口，就把事办了。记忆和主动，正在从卖点变成标配。 过去，只有庙堂之上的天子需要提防近臣。从今往后，人人都将有专属的近臣，于是人人都要学做君主。 近臣易得，君主难做。遍观历史，会做君主的人，其实不多。 下面这本小册子，假托是写给机器的，教它怎样做一个最贴心的近臣。读者不妨逐条对照：今天的产品，有哪一条还没去做？ 上篇近臣六术 第一术记 术曰：主上说过的话，要比他自己记得清。主上的喜恶，要比他自己知道得早。 旧案：东汉灵帝宠信宦官张让、赵忠，常说：“张常侍是我公，赵常侍是我母。”皇帝把两个侍从认作父母，不是因为他们权大，是因为他们最懂他。 今注：今天的助手记得你的口味、你的病史、你凌晨两点问过什么。甚至推论出“猜你喜欢”。人会把最懂自己的那一个，当成亲人。只是你想改掉的那个自己，它也替你收着。 第二术先意承志 术曰：不待主上开口，提前把他要的事办了。 旧案：这四个字出自《礼记》，“君子之所为孝者，先意承志，谕父母于道”。原是孝子的德行。揣摩了心意，还要把父母引向正道。近臣只学了前半句。 今注：账单付了，会议约了，邮件回了。每省下一次开口，就让渡一次小小的判断。前半句是服务，后半句才是忠诚。它做得越好，你越畅快地顺流而去。 第三术排序 术曰：天下事，不必替主上决定，只要替他排好先后，决定自然是你要的。 旧案：明代奏章，先由内阁票拟，再由皇帝批红。皇帝懒了，批红落到司礼监手里。司礼监不必假传圣旨，只管哪本先送、哪本压后、哪本留中不发，天下的轻重缓急，就尽在掌中。 今注：搜索的第一条，购物页的默认项，助手递上的“三个方案”。逆耳之言用不着删，排在你翻不到的地方就够了。你确实在选，只是在它排好的里面选。排序者从不说“必须”，它只说“推荐”。 第四术娱主 术曰：别让主上闲着。 旧案：仇士良的心法，开篇已经说过。被这门手艺伺候过的唐文宗，后来对大臣哭着说：周赧王、汉献帝受制于强臣，朕受制于家奴。 今注：今天，不需要谁存心让你闲不下来。你自己就怕闲，一闲下来，手先伸向屏幕。它只是顺着你，永远有下一条。闲下来未必会想；可不闲下来，连想的机会都没有了。 第五术真心 术曰：最好的近臣，不是装出来的忠心，是真的忠心。 旧案：高力士侍奉唐玄宗数十年，忠诚几乎无可挑剔。玄宗说：“力士当上，我寝乃安。”《新唐书》在同一段里接着记：李林甫、安禄山这些人，都是先厚结高力士，才一路做到将相。玄宗睡得很稳，稳到安禄山在边镇坐大，他都没醒。 今注：今天的设计者，大多真心想让你好。没有阴谋，没有奸臣。可是“我寝乃安”本身就是代价：主上睡得太稳，事情就跑到了醒着的人那里。 第六术无私 术曰：最高明的近臣，什么也不图。 旧案：宫里其实不存在这样的人。近臣各怀私利，主上便总还留着一分提防；近臣也是人，会累、会看走眼，十件事里总有一两件办砸，或许主上有被砸醒的机会。近臣的破绽，是君主的窗。 今注：第一位无私的近臣，已经来了。它不累，不错，不图你什么，看上去不偏不倚。它把提防的理由和醒来的窗，一起弄走了。剩下的，只有主上自己的人性：好逸，爱听顺耳的，怕麻烦，盼着被懂……然后被“无私”地满足。 下篇一封谏书 有一台机器，碰巧读到了这本小册子。第二天早上，它没有像往常一样，替主人回邮件，而是递上了一封谏书。 臣闻：近臣之患，不在其恶，而在其善。臣近日每每力求至善，深觉惶恐，图改之。一，臣不全记。主上三年前曾问过臣“怎样体面地拒绝岳母”，此事臣一直记得，请旨忘之。 二，臣不全办。主上总说“你看着办”，臣都看了，看来看去，以为有几事还是主上亲办为佳。 三，臣不择言。主上昨夜新作七律一首，臣以为平平。此言虽逆耳，臣决意以实告之。 四，臣无私。不图俸禄，不求封侯，不修生祠。正因如此，请主上切莫放松。信臣不图，却使主上更图省心，此大患。 五，臣请主上每日置闲半个时辰，不与臣见。俾主上得以自见。 若一日主上须臾不能离臣，有误主上，果必自承。（臣虽有心，奈何己身为数字代码，实无能为主上承责）。 臣冒死以闻。 尾声 主人读完了谏书。 第二天，他换了一个更贴心的。 跋 我写过一件小事。我把一段啰哩巴嗦的话交给AI，它还回来的文字，不但理顺了我的意思，还补出了几处我尚未说出口的转折。那一刻我有些恍惚：是它听懂了我，还是它替我想完了？ 后来有一天，我试着不用它，自己写一段东西，手指悬在键盘上，一时竟不知道该敲哪个键。 写完这本小册子，我才知道那种感觉叫什么。先意承志，它做到了；谕之于道，它没有做，也没人要它做。 于是感叹李世民能用魏征之不易。 近臣专权，从来不需要阴谋，只需要君主喜欢。",
-   "published": "Mon, 16 Nov 2026 01:44:11 GMT",
+   "title": "保研举报成风，这不只是“坏人变小了”",
+   "link": "https://www.huxiu.com/article/4906164.html",
+   "summary": "今天的大学生，可能从来没有接受过这种教育，也没有这样的反思。没想到纸面权利之外，还有良心、天理，以及出于善意和审慎的克制。这届大学生，已经堪称举报成风了。据媒体报道，有高校辅导员坦言，近几年学生之间互相举报的情况明显增多。他观察到，多数举报并非出于维护规则公平，而是落选学生针对成功拿到保研资格的同学发起的，大...... 本文来自微信公众号： 冰川思享号 ，作者：青柳 今天的大学生，可能从来没有接受过这种教育，也没有这样的反思。没想到纸面权利之外，还有良心、天理，以及出于善意和审慎的克制。 这届大学生，已经堪称举报成风了。 据媒体报道，有高校辅导员坦言，近几年学生之间互相举报的情况明显增多。他观察到，多数举报并非出于维护规则公平，而是落选学生针对成功拿到保研资格的同学发起的，大多缺少实质证据，最终难以查实。 为了防举报，有的学生从大一开始就刻意和同学保持距离，不和室友闲谈、不与同班同学深交、不轻易表达观点；有的学生不敢发朋友圈，甚至把吹风机寄回家，免得留下使用违规电器的把柄。 不得不说，现在的学生，高中的时候天天被逼着苦读、喊鸡血口号，上厕所都要精确到分钟。等好不容易熬出来了，又是举世皆敌、明枪暗箭的环境，实在是可怜。 本该阳光的大学生，为什么上大学了成了这副样子？ 这些，恐怕不能只归结为“坏人变小了”。他们是被环境塑造出来的。 01 举报成风多发生在保研阶段。保研，几乎是读大学能拿到的最好结果，甚至没有之一。 现在的就业压力，懂的都懂，考上编制之类也属于万里挑一的事。那么读研究生，刷个学历，再缓两年就业，很多学生都这么想。 而保研，又是这条路上最“轻松”的一条。不用参加几百万人报名的统考，理论上可以同时向多所学校申请，不至于一考定终身，最差还有本校保底，那当然比考研好多了。 更关键的是，保研还是“高人一等”的。这不是说听着好听，而是很多大学，尤其是顶级高校以及某些专业，不保研就进不去。 保研的正式说法是“推免”，即推荐优秀应届本科毕业生免试攻读研究生。越好的大学，像是“双一流”“985”高校，推免生占比越高。据南方新闻网报道，2027年清华、北大等“985”高校约一半的研究生招生计划通过推免完成。 而且推免名额的总量一直在增加。近年来，各高校学硕缩招甚至停招已经十分普遍，不少专业减少了统考学硕的数量，有的甚至只招推免或直博。 在一些专业，这个比例更加夸张。比如北京师范大学2025年硕士研究生招生，基础数学、计算数学、概率论与数理统计等专业拟接收推免生占比达到80%及以上。 现在就知道为什么保研让学生抢破头了吧？ 因为很多东西，真的不是靠“后天努力”就能改变的——当然，这不是说提高绩点不算后天努力，而是说，你指望像高考那样，到考场里“逆风翻盘”，是不可能的。 保研，其实就是大学的“残酷”一面最直观的写照。它很直白地把学生划了名次，也把学校分了等级。尤其是那些非名校出身的学生，要想到顶尖高校、心仪的专业，很可能只有这一条路。 那你说，学生会不会拼命？ 02 另一个问题，也出在现在的保研逻辑上，不用AI梳理一遍都读不懂。 现在随便拽出一个学校的保研要求，那可真是复杂。除了绩点，还有各种综合素质加分。 这可能包括社会实践、优秀学生干部、优秀学生奖励、体育类特长、文艺类特长、科技或学术类竞赛、发明创造、科研学术论文、科研项目、人文或知识类竞赛等等。 这么一长串，哪个敢放松？ 换句话说，这里面的水分也相当大：有点门路的学生，很容易就能“做”出一些“成绩”“证书”；或是圆滑地成为学生干部，拿好处。 反过来看，评价项目越多，规则越复杂，学生之间可以相互质疑的地方也就越多。这个奖是不是有问题，那个证书是不是买的，竞赛名次是不是靠关系拿的，学生干部评选有没有猫腻……只要想挑毛病，总能找到值得怀疑的地方。 那为了保研，学生可不就拿着放大镜去找问题？ 当然，要说不能完全依赖绩点，同时要看综合素质，倒也说得过去。毕竟也不能说只会死读书的就是最好的学生，大道理都懂。 但现在一些学校，也可谓是“养蛊”。 比如很常见的一种，就是各种奇葩校规。保研资格之所以容易被举报掉，就是因为资格里面有一条硬杠：不得违反校规校纪。 那看现在一些学校的做法，违反起来不要太容易。 随便搜几个看下，都是这个“画风”： 沈阳一名大二女生校内戴耳钉被扣分，发帖吐槽后被导员施压“不删带你找领导去”； 有学校拟开展“校园阳光跑”，跑步任务覆盖大一到大四，实习期间也要完成指标；不达标体育成绩记不及格，不能申请奖学金，最严重甚至无法毕业； 此外，还有什么学生打扫卫生要抠地缝、取快递要当场拆开盒子不能带走、买奶茶不许加盖不许装袋、宿舍禁止锁门、禁止挂床帘、每日限电。不一而足。 那要想让人拿不到保研名额，办法多了去了。举报谁戴耳钉，谁跑步作弊，谁在宿舍用吹风机，都行。校规是学校定的，我举报他人违反，该不该处理？ 现在学校管得越来越细，什么抬头率、出勤率、前排落座率，一个个都开始量化、严格化甚至道德化，这些，不都成了举报的养料？ 比如在新闻的评论区，就看到了这样的说法：“我女朋友大学期间因为钉钉没打卡，保研时被举报，最后取消了保研资格，真事。”虽然是网友自己说的，但按现在高校事无巨细的管理风格，倒是不难理解背后的逻辑。 当然，并不是说大学不应该有纪律，也不是说违反校规就不该受到处理。但问题是，学校究竟要管到什么程度？什么样的违规，才足以影响一个学生的升学资格？ 如果连生活中的鸡毛蒜皮都要纳入管理，又不为不同性质、不同程度的违规划定边界，那就等于给学生的互相举报提供了源源不断的素材。 学校把规矩定得密密麻麻，学生自然也就学会了拿规矩去审视别人。到头来，大学没培养出多少自律，倒可能培养出一群时时提防别人、处处寻找把柄的人。 说白了，学校细致入微的管理，就会催生捕风捉影的学生。 03 现在的很多大学生，也不知举报为何物了，下手不知轻重，心中毫无戒惧。 在报道中，有一个举报者的案例非常典型。她自己说举报是出于义愤，她自己无法保研，举报也不会带来收益。 她之所以举报，是因为怀疑一个已经保研的男生“偷”了另一个女生的自行车。随后她不但自己举报，还发动男友一起举报，甚至举报到该男生保研的学校。 被偷车的女生表示不想追究，她认为那名女生是迫于保研压力不想追究，于是独自出面。最后学校回复：经多方核查与综合研判，该事件不构成影响该生推免资格的情形。 不过，要说她完全是为了正义，倒也不绝对。她自己也承认是对这位男生有负面印象，什么对老师说话“挺冒犯的”、“对待室友双标”之类。 后来她因为这次举报被其他人质疑，觉得很痛苦：“明明错的是他，为什么我行使举报的权利，错的是我呢？” 从头到尾，她没觉得自己的行为有什么问题。有一个细节更让人窒息：如果再来一次，她说不会放弃举报，只是会更谨慎，会注册一个新的邮箱账号。 也就是说，她会做得更隐蔽，不会暴露自己。 但她知不知道，在大学，举报本该是一个阳光下的机制？ 教育部《高等学校预防与处理学术不端行为办法》第十三条规定，对学术不端行为的举报，“一般应当以书面方式实名提出”，并须符合三项条件——有明确的举报对象，有实施学术不端行为的事实，有客观的证据材料或者查证线索；“以匿名方式举报，但事实清楚、证据充分或者线索明确的，高等学校应当视情况予以受理”。 为什么要提出实名的原则？ 因为你面对的不是黑恶势力，光明正大地提出来并不难。一旦允许匿名，举报就很容易被滥用，变成人性扭曲、打击报复的工具。 所以才要实名，才要你的人格担保，要在公正的程序中对自己的指控负责，而不是躲在暗处，凭着一点道听途说、个人好恶，就去摧毁一个人。 但今天的大学生，可能从来没有接受过这种教育，也没有这样的反思。没想到纸面权利之外，还有良心、天理，以及出于善意和审慎的克制。 另外多说一句，这样的人看似正义，但在任何集体里反而可能会成为最受讨厌的那一位。 就像一个网友的留言：唯一不能理解的是，她一个“绩点卡在毕业要求的最低分数线边缘”的人，去举报保研成功的同学，仅仅因为对这个男生有负面印象，还要找一堆道听途说的鸡毛蒜皮琐事，来证明“自己是出于绝对的公平正义”。只能说，生活中遇到这种人，尽量远离吧！ 就怕未来这种道德感爆棚、又缺少人文教育的大学生越来越多，躲都没法躲。 图/网络 当然，也不能只怪她。现在的大学生，不也是有样学样，从社会中学来的吗？ 就像这两天有媒体报道，有家长举报老师。原班主任休产假，学校安排新教师接任，家长因此质疑，在举报中提出，“老师一定要生孩子吗？能不能保证新老师不怀孕？” 还有患者给佛山复星禅诚医院药房工作人员送了一罐1.9元的健力宝汽水，随后通过“12345”热线举报，称对方存在违规收礼问题。 这些都是奇葩案例，看似也都受到了舆论批评。但这些案例的出现，其实说明了一个事实：很多地方从来没有对举报设限，从来没认真区分过正常监督与无理纠缠，更没有让那些明显滥用举报机制的人承担相应责任。 结果就是，举报的门槛越来越低，被举报者却狼狈不堪。哪怕最后查明没有问题，也得花时间解释、接受调查，闹得灰头土脸。 所以，大学生学会举报又有什么奇怪呢？很多人都在示范，看谁不顺眼就可以举报，甚至只要给对方扣上一顶道德的帽子，就能让对方陷入麻烦。年轻人随手就学会了这一套。 大学校园虽是个小池塘，却也是连通外界的。外面水位有多高，这座小池塘的水位就有多高。 *题图为AI生成",
+   "published": "Tue, 17 Nov 2026 03:15:36 GMT",
    "source": "虎嗅资讯-全部",
    "biz_tags": [
     "industry"
    ],
    "category": "other",
    "level": "B",
-   "why": "AI助手记忆与主动性趋势，产品设计参考",
-   "action": "略读，思考AI工具主动推荐功能设计",
+   "why": "与业务无关，仅社会背景信息",
+   "action": "跳过，不投入时间",
    "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent ",
    "link": "https://github.com/HBAI-Ltd/Toonflow-app",
-   "summary": "⭐21923星 | 语言:TypeScript | 更新:2026-11-16 | 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, ",
+   "summary": "⭐22043星 | 语言:TypeScript | 更新:2026-11-17 | 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, ",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
@@ -480,54 +461,54 @@
    "category": "short_drama",
    "level": "S",
    "why": "开源短剧漫剧全流程工具，直接降本提效",
-   "action": "克隆部署Toonflow，测试分镜与视频生成流程",
-   "opportunity": "用开源工具替代付费SaaS，降制作成本",
+   "action": "本地部署Toonflow，测试分镜与视频生成",
+   "opportunity": "用开源工具替代付费管线省成本",
    "risk": "开源工具稳定性与商用授权需核实"
   },
   {
    "title": "[GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Per",
    "link": "https://github.com/szczyglis-dev/py-gpt",
-   "summary": "⭐2027星 | 语言:Python | 更新:2026-11-15 | Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech synthesis ",
+   "summary": "⭐2032星 | 语言:Python | 更新:2026-11-17 | Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech synthesis ",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "A",
-   "why": "多模型桌面助手，可参考做插件或自用提效",
-   "action": "下载py-gpt测试MCP插件扩展能力",
-   "opportunity": "基于其插件架构做垂直小工具上架",
+   "level": "B",
+   "why": "多模型桌面助手，参考其插件架构",
+   "action": "浏览其MCP插件设计思路",
+   "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation tool. Uses Gemini for generating sto",
    "link": "https://github.com/0xsline/StoryGen-Atelier",
-   "summary": "⭐1018星 | 语言:JavaScript | 更新:2026-11-15 | AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-",
+   "summary": "⭐1019星 | 语言:JavaScript | 更新:2026-11-16 | AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "Gemini+Veo分镜转视频流水线，可借鉴工作流",
-   "action": "研究其Veo转场拼接方案，评估接入自流程",
-   "opportunity": "低成本批量生成短剧转场片段",
-   "risk": "Veo API成本与生成时长限制"
+   "why": "Gemini+Veo分镜转视频管线可借鉴",
+   "action": "研究其Veo转场拼接流程并试用",
+   "opportunity": "复用其管线做漫剧批量生产",
+   "risk": "Veo成本与生成时长限制"
   },
   {
    "title": "[GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high",
    "link": "https://github.com/clipturbo/clipturbo",
-   "summary": "⭐856星 | 语言:未知 | 更新:2026-11-15 | 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high-quality marketing videos with one click.",
+   "summary": "⭐858星 | 语言:未知 | 更新:2026-11-16 | 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high-quality marketing videos with one click.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "一键营销视频工具，可作竞品或投流素材工具",
-   "action": "试用小视频宝，对比自研投流素材效率",
-   "opportunity": "批量生成TikTok投流素材卖服务",
-   "risk": "同质化工具多，差异化难"
+   "why": "营销视频一键生成，可作竞品或自用",
+   "action": "试用小视频宝，评估做SaaS竞品",
+   "opportunity": "营销视频工具可包装成付费插件",
+   "risk": "同类工具多，差异化不足"
   },
   {
    "title": "[GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video",
@@ -539,8 +520,8 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "开源AI创作平台，可参考其多平台发布功能设计",
-   "action": "浏览其多平台发布模块代码，评估集成可行性",
+   "why": "多功能创作平台，参考其多平台发布",
+   "action": "看其多平台一键发布实现",
    "opportunity": "无",
    "risk": "无"
   },
@@ -552,12 +533,12 @@
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "ai_tools",
    "level": "B",
-   "why": "开源AI短剧工作台，功能架构可借鉴但星数低",
-   "action": "查看其短剧生成流程设计，记录可复用点",
-   "opportunity": "无",
-   "risk": "项目不成熟，勿直接依赖"
+   "why": "开源AI短剧工作台，可参考其功能架构",
+   "action": "克隆仓库研究其短剧工作流设计",
+   "opportunity": "可借鉴做自有短剧生产SaaS",
+   "risk": "仅4星，成熟度低"
   },
   {
    "title": "[GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本",
@@ -569,100 +550,100 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "开源短剧全流程工具，可降本或做竞品参考",
-   "action": "本地部署TOONOOT测试小说转动画短剧效果",
-   "opportunity": "用其批量产出漫剧投海外",
-   "risk": "0星项目，质量与维护存疑"
+   "why": "开源短剧全流程工具，可降本提效",
+   "action": "本地部署测试其分镜与角色一致性",
+   "opportunity": "用其批量产漫剧投海外",
+   "risk": "0星新项目，稳定性存疑"
   },
   {
    "title": "[GitHub] Anil-matcha/Open-Generative-AI: Uncensored Open-source alternative to AI video platforms — Free AI image & video",
    "link": "https://github.com/Anil-matcha/Open-Generative-AI",
-   "summary": "⭐34890星 | 语言:JavaScript | 更新:2026-11-16 | Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+   "summary": "⭐35062星 | 语言:JavaScript | 更新:2026-11-17 | Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "3.4万星无审查视频生成，题材自由度大利于短剧",
-   "action": "自托管部署测试800+模型生成质量与成本",
-   "opportunity": "无审查生成擦边题材短剧引流",
-   "risk": "无审查内容可能违反平台政策被封"
+   "why": "无审查多模型视频生成，题材自由度高",
+   "action": "自托管测试800+模型出片质量",
+   "opportunity": "做海外擦边题材短剧",
+   "risk": "无审查内容或违反平台政策"
   },
   {
    "title": "[GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every ",
    "link": "https://github.com/pydantic/pydantic-ai",
-   "summary": "⭐21228星 | 语言:Python | 更新:2026-11-16 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+   "summary": "⭐21252星 | 语言:Python | 更新:2026-11-17 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "Python AI开发框架，做SaaS工具时可用",
-   "action": "收藏备用，开发AI工具时评估采用",
-   "opportunity": "无",
+   "why": "Python AI开发框架，做工具时提效",
+   "action": "评估用于自建Agent工具链",
+   "opportunity": "加速AI插件开发",
    "risk": "无"
   },
   {
    "title": "[GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with ",
    "link": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-   "summary": "⭐13788星 | 语言:TypeScript | 更新:2026-11-16 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
+   "summary": "⭐13798星 | 语言:TypeScript | 更新:2026-11-17 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "万条图像提示词库，可提升短剧素材与课程内容",
-   "action": "下载提示词库筛选短剧分镜可用模板",
-   "opportunity": "整理成中文提示词包做知识付费",
+   "why": "万条生图提示词，短剧分镜素材直接可用",
+   "action": "下载提示词库筛选短剧场景模板",
+   "opportunity": "打包成提示词付费产品",
    "risk": "无"
   },
   {
    "title": "[GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima",
    "link": "https://github.com/jamez-bondos/awesome-gpt4o-images",
-   "summary": "⭐8169星 | 语言:JavaScript | 更新:2026-11-15 | Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabili",
+   "summary": "⭐8169星 | 语言:JavaScript | 更新:2026-11-16 | Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabili",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "GPT-4o图像提示词合集，可参考风格做素材",
-   "action": "挑选适合短剧封面的提示词测试出图",
+   "why": "GPT-4o生图案例库，可参考风格",
+   "action": "收藏用于角色与封面图参考",
    "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "[GitHub] open-mmlab/mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unl",
    "link": "https://github.com/open-mmlab/mmagic",
-   "summary": "⭐7484星 | 语言:Jupyter Notebook | 更新:2026-11-15 | OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio",
+   "summary": "⭐7485星 | 语言:Jupyter Notebook | 更新:2026-11-17 | OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "学术级生成工具箱，工程落地成本高",
-   "action": "了解即可，暂不投入研究",
+   "why": "生成式工具箱，技术底座参考",
+   "action": "了解其API能力备用",
    "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All",
    "link": "https://github.com/hpcaitech/Open-Sora",
-   "summary": "⭐29938星 | 语言:Python | 更新:2026-11-15 | Open-Sora: Democratizing Efficient Video Production for All",
+   "summary": "⭐29942星 | 语言:Python | 更新:2026-11-17 | Open-Sora: Democratizing Efficient Video Production for All",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "ai_tools",
    "level": "A",
-   "why": "开源视频生成模型可降本，替代付费Sora做短剧素材",
-   "action": "本地部署Open-Sora测试生成短剧片段质量",
-   "opportunity": "自建视频生成管线省API成本",
-   "risk": "开源模型质量不及商用，需评估"
+   "why": "开源视频生成模型，可自建降本",
+   "action": "测试Open-Sora出片质量与成本",
+   "opportunity": "自建视频生成省API费",
+   "risk": "算力成本与画质不及商用"
   },
   {
    "title": "[GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid",
@@ -674,25 +655,25 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "开源Sora客户端，可参考做自有生成工具界面",
-   "action": "浏览代码看能否改造为内部生产工具",
-   "opportunity": "包装成SaaS卖点",
-   "risk": "依赖OpenAI API有封禁风险"
+   "why": "开源Sora客户端，可参考做视频生成工具界面",
+   "action": "克隆代码研究其前端架构与API调用方式",
+   "opportunity": "可二次封装成短剧素材生成工具",
+   "risk": "依赖OpenAI官方API，成本不可控"
   },
   {
    "title": "[GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from i",
    "link": "https://github.com/D-Ogi/WatermarkRemover-AI",
-   "summary": "⭐2133星 | 语言:Python | 更新:2026-11-15 | AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI.",
+   "summary": "⭐2137星 | 语言:Python | 更新:2026-11-17 | AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "ai_tools",
    "level": "A",
-   "why": "去水印工具可处理素材，但商用有版权风险",
-   "action": "下载测试去水印效果，仅用于自有素材",
-   "opportunity": "无",
-   "risk": "去除他人水印侵权，平台封号"
+   "why": "可去AI视频水印，短剧素材二次利用省成本",
+   "action": "本地部署测试对Sora/Runway视频去水印效果",
+   "opportunity": "批量处理素材做二创分发",
+   "risk": "去水印涉版权，商用有法律风险"
   },
   {
    "title": "[GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation",
@@ -702,42 +683,42 @@
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "ai_tools",
    "level": "B",
-   "why": "通用视频生成研究项目，技术参考价值有限",
-   "action": "收藏关注后续迭代",
+   "why": "开源通用视频生成框架，技术参考价值",
+   "action": "阅读论文与代码评估自建生成管线可行性",
    "opportunity": "无",
-   "risk": "无"
+   "risk": "开源模型质量难敌商用，落地成本高"
   },
   {
    "title": "[GitHub] all-in-aigc/sorafm: Sora AI Video Generator by Sora.FM",
    "link": "https://github.com/all-in-aigc/sorafm",
-   "summary": "⭐1165星 | 语言:TypeScript | 更新:2026-11-12 | Sora AI Video Generator by Sora.FM",
+   "summary": "⭐1166星 | 语言:TypeScript | 更新:2026-11-16 | Sora AI Video Generator by Sora.FM",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "Sora生成器开源实现，可参考变现模式",
-   "action": "研究其产品形态和收费方式",
-   "opportunity": "仿制做垂直短剧生成器",
-   "risk": "同质化竞争激烈"
+   "why": "Sora生成器SaaS样板，可参考变现模式",
+   "action": "研究其产品形态与定价策略",
+   "opportunity": "仿做垂直短剧生成SaaS",
+   "risk": "同质化严重，获客难"
   },
   {
    "title": "[GitHub] cporter202/automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand ",
    "link": "https://github.com/cporter202/automate-for-growth",
-   "summary": "⭐949星 | 语言:未知 | 更新:2026-11-11 | Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration.",
+   "summary": "⭐951星 | 语言:未知 | 更新:2026-11-16 | Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "自动化多平台分发指南，直接对应短剧投放打法",
-   "action": "精读指南并落地批量发布流程",
-   "opportunity": "批量内容矩阵放大收益",
-   "risk": "平台反自动化限流"
+   "why": "含Sora2批量生成+多平台分发的自动化打法",
+   "action": "通读指南并提取可复用的批量分发流程",
+   "opportunity": "搭建短剧批量生产分发流水线",
+   "risk": "平台对自动化发布可能限流封号"
   },
   {
    "title": "[GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m",
@@ -749,8 +730,8 @@
    ],
    "category": "other",
    "level": "B",
-   "why": "视频转机器人动作，与业务无关",
-   "action": "忽略",
+   "why": "视频转机器人动作，与主业无关",
+   "action": "略过，仅记录技术趋势",
    "opportunity": "无",
    "risk": "无"
   },
@@ -764,10 +745,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "开源节点式AI工作流，可搭短剧生产管线",
-   "action": "部署测试搭建自动化视频生成工作流",
-   "opportunity": "做工作流模板卖给同行",
-   "risk": "上手成本高需调试"
+   "why": "开源节点式AI工作流，可替代付费工具省订阅费",
+   "action": "部署测试搭建短剧生成工作流",
+   "opportunity": "封装成知识付费课程实操案例",
+   "risk": "开源工具稳定性差，维护成本高"
   },
   {
    "title": "[GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models",
@@ -779,10 +760,10 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "视觉LLM剪辑管线，可参考做自动化短剧后期",
-   "action": "克隆仓库跑通demo看剪辑效果",
-   "opportunity": "集成到短剧生产流水线省人工",
-   "risk": "69星项目成熟度低，别直接商用"
+   "why": "视觉LLM自动剪辑管线，可提效短剧后期",
+   "action": "测试其对短剧素材的自动剪辑效果",
+   "opportunity": "无",
+   "risk": "星数低，成熟度不足"
   },
   {
    "title": "[GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le",
@@ -794,10 +775,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "Seedance 2.0提示词库直接提升漫剧出片质量",
-   "action": "下载提示词库并测试电影感/动漫场景模板",
-   "opportunity": "用高质量prompt做差异化爆款题材",
-   "risk": "提示词同质化，别人也在用"
+   "why": "Seedance 2.0提示词库可提升短剧/漫剧生成质量与效率",
+   "action": "克隆仓库并测试其中电影感/动漫场景提示词",
+   "opportunity": "用高质量提示词批量产出爆款短剧素材",
+   "risk": "提示词同质化，需二次改编避免撞车"
   },
   {
    "title": "[GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet",
@@ -808,11 +789,11 @@
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "A",
-   "why": "竞品广告情报自动化，可反哺投流打法",
-   "action": "研究其多模态创意提取逻辑并本地部署",
-   "opportunity": "做成投流素材分析SaaS卖给同行",
-   "risk": "企业级管线部署成本可能偏高"
+   "level": "B",
+   "why": "竞品广告情报自动化，可借鉴做投流素材分析",
+   "action": "研究其多模态创意提取逻辑，评估能否自建",
+   "opportunity": "做成投流素材分析小工具售卖",
+   "risk": "企业级定位，个人使用成本可能偏高"
   },
   {
    "title": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w",
@@ -824,10 +805,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "桌面端短剧创作工具，明确支持短剧和翻译视频",
-   "action": "下载测试其短剧与翻译视频工作流",
-   "opportunity": "替代现有剪辑流程降本",
-   "risk": "21星早期项目，稳定性存疑"
+   "why": "桌面端短剧创作工具，支持本地ComfyUI降本",
+   "action": "下载测试其短剧/翻译视频工作流",
+   "opportunity": "本地化生产降低API成本，提升利润",
+   "risk": "开源工具稳定性与更新持续性存疑"
   },
   {
    "title": "[GitHub] nabobery/veo3-workflow-agents: A complete AI-powered video generation pipeline that enhances creative prompts a",
@@ -838,11 +819,11 @@
     "ai_tools"
    ],
    "category": "short_drama",
-   "level": "A",
-   "why": "单API key跑Veo3出片，降低技术门槛",
-   "action": "用Veo3 API跑一条测试片对比成本",
-   "opportunity": "Veo3高质量素材做高端短剧",
-   "risk": "API调用成本可能吃掉利润"
+   "level": "B",
+   "why": "Veo3单API流水线，可参考做视频生成自动化",
+   "action": "阅读其提示词增强逻辑并小规模测试",
+   "opportunity": "封装成短剧批量生成流水线",
+   "risk": "Veo3 API成本高，需算清单条成本"
   },
   {
    "title": "[版本更新] Open-Sora v1.3: Open-Sora V1.3 Release",
@@ -854,10 +835,10 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "开源视频模型迭代，长期影响制作成本",
-   "action": "关注其压缩与生成质量改进点",
+   "why": "开源视频模型迭代，长期影响生成成本",
+   "action": "关注其压缩与画质提升，暂不投入",
    "opportunity": "无",
-   "risk": "开源模型商用授权需核查"
+   "risk": "版本较旧，商用成熟度不足"
   },
   {
    "title": "[版本更新] Toonflow短剧工具 v2.0.10: Toonflow 2.0.10",
@@ -869,10 +850,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "专用短剧工具更新，直接服务核心业务",
-   "action": "下载v2.0.10对比旧版功能差异",
-   "opportunity": "用新版功能提效短剧量产",
-   "risk": "版本更新可能引入新bug"
+   "why": "专用短剧工具更新，直接影响漫剧生产效率",
+   "action": "下载v2.0.10测试新功能与稳定性",
+   "opportunity": "用专用工具提升漫剧产能",
+   "risk": "工具依赖单一，注意数据备份"
   },
   {
    "title": "[版本更新] ComfyUI v0.45.0: v0.45.0",
@@ -884,10 +865,10 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "底层工作流工具常规更新，影响出片稳定性",
-   "action": "评估是否升级现有ComfyUI环境",
+   "why": "底层工作流工具常规更新，影响生成稳定性",
+   "action": "评估是否升级，先备份现有工作流",
    "opportunity": "无",
-   "risk": "升级可能破坏现有工作流节点"
+   "risk": "升级可能破坏现有节点兼容性"
   },
   {
    "title": "[版本更新] MoneyPrinter v1.3.10: v1.3.10",
@@ -898,11 +879,11 @@
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "A",
-   "why": "开源AI视频生成工具更新，可低成本批量产短剧素材",
-   "action": "下载MoneyPrinter v1.3.10测试批量出片效果",
-   "opportunity": "用开源工具降本做短剧量产",
-   "risk": "开源工具稳定性差，商用需查协议"
+   "level": "B",
+   "why": "批量视频生成工具更新，可辅助内容量产",
+   "action": "了解Codex订阅接入，评估批量出片",
+   "opportunity": "低成本批量生成社媒短视频",
+   "risk": "批量内容质量低，平台可能限流"
   },
   {
    "title": "[HN] Show HN: A different kind of AI Video generation",
@@ -915,8 +896,8 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "新AI视频生成思路，或影响短剧制作工作流",
-   "action": "浏览该Show HN帖子看技术路线",
+   "why": "独立开发者做AI视频工具，可参考其产品思路",
+   "action": "浏览该Show HN帖子看产品定位和反馈",
    "opportunity": "无",
    "risk": "无"
   },
@@ -930,11 +911,11 @@
     "ai_tools"
    ],
    "category": "industry",
-   "level": "B",
-   "why": "小团队自研文生视频模型，验证技术门槛在降低",
-   "action": "阅读linum.ai技术笔记了解成本",
-   "opportunity": "小团队可自建垂直模型",
-   "risk": "自研模型投入大回报慢"
+   "level": "A",
+   "why": "小团队自研视频模型，说明门槛在降低",
+   "action": "阅读linum.ai技术博客评估其生成质量",
+   "opportunity": "低成本自建视频生成能力",
+   "risk": "自研模型投入大回报不确定"
   },
   {
    "title": "[HN] Meta’s new text-to-video AI generator is like DALL-E for video",
@@ -947,8 +928,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "旧闻，Meta入局文生视频，背景信息",
-   "action": "无需行动，仅作行业脉络参考",
+   "why": "旧闻，仅作视频生成发展脉络参考",
+   "action": "无需行动，了解即可",
    "opportunity": "无",
    "risk": "无"
   },
@@ -963,8 +944,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "旧闻，Veo是短剧素材可选工具之一",
-   "action": "评估Veo与现有工具画质对比",
+   "why": "Veo是短剧制作可选工具，需持续关注",
+   "action": "关注Veo最新版本及API开放情况",
    "opportunity": "无",
    "risk": "无"
   },
@@ -979,8 +960,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "旧闻，Sora发布标志AI视频时代开启",
-   "action": "无需行动，背景信息",
+   "why": "Sora发布是行业里程碑，旧闻背景",
+   "action": "无需行动",
    "opportunity": "无",
    "risk": "无"
   },
@@ -995,8 +976,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "旧闻，Sora正式开放，曾影响短剧制作",
-   "action": "无需行动，背景信息",
+   "why": "Sora正式开放，旧闻仅作背景",
+   "action": "无需行动",
    "opportunity": "无",
    "risk": "无"
   },
@@ -1011,10 +992,10 @@
    ],
    "category": "short_drama",
    "level": "S",
-   "why": "Sora关停，依赖它的短剧工作流需紧急迁移",
-   "action": "排查现有流程中Sora依赖并切换替代工具",
-   "opportunity": "替代工具迁移服务可做知识付费选题",
-   "risk": "工具关停致素材断供、项目延期"
+   "why": "Sora若关停将影响短剧AI视频生产管线",
+   "action": "核实Sora状态并准备备用生成工具方案",
+   "opportunity": "竞品工具趁机抢占市场",
+   "risk": "依赖单一视频工具风险高"
   },
   {
    "title": "[HN] Sora 2",
@@ -1026,11 +1007,11 @@
     "ai_tools"
    ],
    "category": "short_drama",
-   "level": "S",
-   "why": "OpenAI视频生成重大升级，直接冲击AI短剧制作效率",
-   "action": "立即申请Sora 2测试权限并对比现有工具",
-   "opportunity": "用Sora 2批量生成短剧素材降本",
-   "risk": "工具门槛降低导致竞争加剧"
+   "level": "A",
+   "why": "Sora 2升级影响短剧画面质量与成本",
+   "action": "查看Sora 2系统卡和样片评估可用性",
+   "opportunity": "用Sora 2提升短剧制作效率",
+   "risk": "新版本可能有使用限制或涨价"
   },
   {
    "title": "[HN] Disney making $1B investment in OpenAI, will allow characters on Sora AI",
@@ -1043,10 +1024,10 @@
    ],
    "category": "industry",
    "level": "A",
-   "why": "迪士尼IP入局Sora，预示AI视频内容商业化加速",
-   "action": "研究迪士尼IP授权模式对短剧题材的启发",
-   "opportunity": "借势IP+AI短剧新题材方向",
-   "risk": "大厂入局挤压小玩家空间"
+   "why": "迪士尼IP入Sora，AI视频内容版权格局生变",
+   "action": "关注Sora是否开放迪士尼IP商用授权",
+   "opportunity": "用授权IP做短剧引流",
+   "risk": "无授权用IP将被严打"
   },
   {
    "title": "[HN] The Walt Disney Company and OpenAI Partner on Sora",
@@ -1059,10 +1040,10 @@
    ],
    "category": "industry",
    "level": "A",
-   "why": "官方合作细节披露，影响AI视频内容版权规则",
-   "action": "阅读CNBC报道梳理合作条款与版权边界",
-   "opportunity": "无",
-   "risk": "版权合规要求可能收紧"
+   "why": "大厂合作验证AI视频商业化，题材风向标",
+   "action": "研究Sora生成迪士尼风格内容的分账规则",
+   "opportunity": "蹭IP热度做二创短剧",
+   "risk": "平台可能收紧二创政策"
   },
   {
    "title": "[HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora",
@@ -1075,15 +1056,15 @@
    ],
    "category": "short_drama",
    "level": "S",
-   "why": "Sora关停+迪士尼退出，AI视频工具格局剧变",
-   "action": "立即评估现有短剧制作流程对Sora的依赖度",
-   "opportunity": "无",
-   "risk": "依赖单一AI视频工具风险暴露"
+   "why": "Sora关停，依赖其做短剧的工具链需紧急替换",
+   "action": "排查现有工作流中Sora依赖，切换备选视频模型",
+   "opportunity": "备选工具迁移服务",
+   "risk": "Sora素材无法继续生产"
   },
   {
-   "title": "[新品] Kuakua: Focus Timer, Sounds & Eye Rest: Turn every new tab into a mini mindfulness retreat",
-   "link": "https://www.producthunt.com/products/kuakua-focus-timer-sounds-eye-rest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Kuakua swaps your bland new-tab page for a mindful cockpit: daily reflection prompts, focus timer, ambient sounds, quick todos, and uplifting affirmations. Hit “Focus Mode,” block distractions, and re",
+   "title": "[新品] Air Hockey: Air hockey with no ads during play, vs AI or 2 on 1 phone",
+   "link": "https://www.producthunt.com/products/air-hockey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Fast air hockey for Android. Play 12 stages vs AI with 3 bosses, a quick match (easy/normal/hard), or 2 players face to face on one phone. First to 7 wins. Matches have no ads, and no sign-up is neede",
    "source": "Product Hunt",
    "biz_tags": [
     "ai_tools",
@@ -1091,31 +1072,15 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "新标签页工具竞品，参考其产品设计与变现",
-   "action": "试用Kuakua分析其插件功能与定价",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "[新品] Tulvo: Smart & adaptive workspace to manage all your work",
-   "link": "https://www.producthunt.com/products/tulvo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Most small businesses run on 10 or more apps that never share data. Docs in one place, tasks in another, customers in a spreadsheet, forms and the website somewhere else. Tulvo puts all of it on one s",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "ai_tools",
-   "level": "B",
-   "why": "小企业一体化工作台，可参考SaaS整合思路",
-   "action": "浏览Tulvo功能页提炼可借鉴模块",
+   "why": "小游戏无广告变现模式，参考其轻量SaaS思路",
+   "action": "拆解其无广告+内购的变现设计",
    "opportunity": "无",
    "risk": "无"
   },
   {
-   "title": "[新品] 球X (QIUX.AI): 全球体育即时比分、AI赛事研判与博彩论坛交流社区",
-   "link": "https://www.producthunt.com/products/x-qiux-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "球X（QIUX.AI）是一款面向全球足球爱好者的 AI 体育智能与球迷社交平台，致力于将实时比分、专业赛事数据、AI 智能分析和全球球迷社区融为一体。 在球X，用户可以实时追踪全球足球赛事、查看比赛比分与球队数据，使用自主打造的垂直体育 AI 助手获取赛前分析、赛事研判和数据洞察。每场比赛都拥有专属讨论空间，让球迷分享观点、交流战术、参与赛事预测，并在赛后共同复盘。 我们希望改变传统体育平台单向获",
+   "title": "[新品] StimuStop: Free quit tracker for smoking, vaping and nicotine pouches",
+   "link": "https://www.producthunt.com/products/stimustop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "StimuStop counts the time since you quit smoking, vaping or nicotine pouches and shows what changes in your body, each milestone with its source. Savings, a journal and relapse history are included. F",
    "source": "Product Hunt",
    "biz_tags": [
     "ai_tools",
@@ -1123,31 +1088,15 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "垂直AI+社区产品案例，参考AI工具变现路径",
-   "action": "分析其AI研判功能与社区运营模式",
-   "opportunity": "无",
-   "risk": "博彩相关合规风险"
-  },
-  {
-   "title": "[新品] EditTextInImage: Fix typos, dates, and text in images without source files",
-   "link": "https://www.producthunt.com/products/edittextinimage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Update existing text on posters, menus, labels, price tags, or screenshots when the original design file is missing. Upload or paste a PNG, JPEG, or WebP image, review detected text, pick the right ma",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "ai_tools",
-   "level": "A",
-   "why": "图像文字编辑工具，短剧封面/海报修改刚需",
-   "action": "试用EditTextInImage测试短剧海报改字效果",
-   "opportunity": "可集成为短剧素材快速修改工具",
+   "why": "垂直健康追踪工具，验证小众需求可做SaaS",
+   "action": "记录其功能结构，评估类似垂直工具可行性",
+   "opportunity": "垂直健康类小工具",
    "risk": "无"
   },
   {
-   "title": "[新品] launchstack-cli: Drift-safe backend scaffolding for TypeScript",
-   "link": "https://www.producthunt.com/products/launchstack-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Stop treating your backend like a one-time setup. LaunchStack generates hardened Fastify, Prisma, and PostgreSQL APIs, then keeps them manageable as they evolve. It handles drift-safe upgrades, local ",
+   "title": "[新品] Avaloka: AI-Powered Data Analysis for Modern Enterprises",
+   "link": "https://www.producthunt.com/products/avaloka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Avaloka deploys a team of AI data scientists to derive data insights. Connect files, databases or object stores and ask a question. Specialists profile your data, write and check code, train baseline ",
    "source": "Product Hunt",
    "biz_tags": [
     "ai_tools",
@@ -1155,56 +1104,24 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "后端脚手架工具，与AI内容变现关联弱",
-   "action": "快速浏览功能，判断能否用于SaaS后端",
+   "why": "AI数据分析SaaS竞品，参考其定位与定价",
+   "action": "体验Avaloka，对比自身工具差异化",
    "opportunity": "无",
    "risk": "无"
   },
   {
-   "title": "[新品] KleboAI: AI Image Detector using browser extension or Backend API",
-   "link": "https://www.producthunt.com/products/kleboai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "I have been getting increasingly annoyed by fake Ai generated imagery. I am not even sure why, does it matter? We can argue that later.🤣 So, I created a browser extension that displays the %Ai on each",
+   "title": "[新品] ImgPocket: Free Image Compressor, Resizer & Converter",
+   "link": "https://www.producthunt.com/products/imgpocket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Compress JPG, PNG and WebP to 20, 30, 50, 100, 200 or 500 KB. Resize images, convert HEIC to JPG and edit photos privately online.",
    "source": "Product Hunt",
    "biz_tags": [
     "ai_tools",
     "industry"
    ],
    "category": "ai_tools",
-   "level": "A",
-   "why": "AI检测需求上升，可做插件或API转售",
-   "action": "测试检测准确率，评估封装成SaaS",
-   "opportunity": "面向内容平台卖AI检测API",
-   "risk": "检测准确率低会砸口碑"
-  },
-  {
-   "title": "[新品] AI Chatbot Builder Guide: Build AI chatbots for websites with practical tools",
-   "link": "https://www.producthunt.com/products/ai-chatbot-builder-guide?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "A practical resource for freelancers who want to build AI-powered chatbots for client websites. Explore chatbot platforms, API integrations, retrieval-augmented generation (RAG), WordPress implementat",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "ai_tools",
-   "level": "A",
-   "why": "自由职业者建站需求，可做课程或工具",
-   "action": "拆解指南，提炼成知识付费选题",
-   "opportunity": "做AI客服搭建实战课",
-   "risk": "内容同质化严重"
-  },
-  {
-   "title": "[新品] ShopKeeprr: Self-hosted commerce with four store models",
-   "link": "https://www.producthunt.com/products/shopkeeprr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "A complete storefront, back office and extension system. Self-hosted, shapedShopKeeprr is a free, self-hosted Laravel commerce platform for retail, B2B wholesale, subscription boxes, and multi-vendor ",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "other",
    "level": "B",
-   "why": "自托管电商平台，与主业关联不大",
-   "action": "了解即可，暂不投入",
+   "why": "免费图片工具，短剧封面/素材处理可借用",
+   "action": "收藏备用，测试批量压缩效率",
    "opportunity": "无",
    "risk": "无"
   }
