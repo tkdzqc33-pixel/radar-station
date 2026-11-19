@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
+   "name": "Gemini 4 Neon",
+   "what": "谷歌新发布的百万token多模态模型，可低成本处理长文本与多模态素材",
+   "why_today": "S级情报，百万token多模态处理能力可直接降低短剧剧本与素材结构化生产成本，且性价比高，适合立即申请API测试跑通剧本+分镜+素材整合流程",
+   "time_est": "2-3小时",
+   "source": "谷歌推出Gemini 4 Neon模型 | 百万token多模态处理，可大幅降低短剧素材/文档处理成本"
+  },
+  {
    "name": "即梦 Seedance 2.5",
-   "what": "4K级AI视频生成生产线，支持高质量短剧/漫剧出片",
-   "why_today": "S级情报显示其大升级，直接提升短剧出片质量与效率，机会明确",
-   "time_est": "2小时",
+   "what": "AI视频生成工具大升级，支持4K成片生产线",
+   "why_today": "S级情报，4K成片能力直接提升短剧出海画质与交付效率，可抢先做4K漫剧差异化抢流量，今天跑一条4K短剧样片测试",
+   "time_est": "3-4小时",
    "source": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线"
   },
   {
-   "name": "腾讯 Hy4 flash",
-   "what": "极低成本多模态模型，可批量生成短剧脚本和开发工具",
-   "why_today": "S级情报实测快速实惠聪明，且官宣开源，降本效果显著",
-   "time_est": "1.5小时",
-   "source": "腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代"
+   "name": "Petalie",
+   "what": "免登录逐帧拆解TikTok爆款视频的AI社媒分析工具",
+   "why_today": "S级新品，可直接服务选题与投流，今天拿3条对标爆款短剧跑审计报告，反推题材公式",
+   "time_est": "1-2小时",
+   "source": "[新品] Petalie: The AI social media teammate that watches the videos"
   },
   {
-   "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作到视频生成全流程",
-   "why_today": "S级GitHub项目2.2万星，可本地部署跑通短剧生产链路，直接降本增效",
-   "time_est": "3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
+   "name": "Toonflow v2.0.11",
+   "what": "短剧专用工具新版本，可能提升漫剧生产效率",
+   "why_today": "版本更新情报，短剧专用工具迭代，下载测试新功能与稳定性，评估能否提速漫剧批量产出",
+   "time_est": "1-2小时",
+   "source": "[版本更新] Toonflow短剧工具 v2.0.11"
   },
   {
-   "name": "Qwen4-Max",
-   "what": "2.4万亿参数旗舰模型，长上下文适合批量剧本和视频处理",
-   "why_today": "A级情报显示成本大降且缓存价极低，可搭建自动化短剧生产流水线",
-   "time_est": "1小时",
-   "source": "全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」"
-  },
-  {
-   "name": "StoryGen-Atelier",
-   "what": "AI辅助分镜转视频流水线，基于Gemini+Veo",
-   "why_today": "A级GitHub项目，工作流可复刻用于短剧分镜到视频拼接",
-   "time_est": "2小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "name": "ComfyUI v0.46.0",
+   "what": "新增LTX/MiniMax节点的视频生成工作流工具",
+   "why_today": "版本更新情报，新增节点可扩展视频生成工作流，升级并测试LTX与MiniMax新节点，搭建更高效短剧生成流水线",
+   "time_est": "2-3小时",
+   "source": "[版本更新] ComfyUI v0.46.0: 新增LTX/MiniMax节点"
   }
  ],
  "things_to_watch": [
   {
-   "item": "红果短剧负责人调整后的政策变化",
-   "reason": "A级情报显示负责人调岗，可能带来短剧扶持或分账规则调整，影响平台选择"
+   "item": "Sora关停后的替代方案与工具洗牌",
+   "reason": "Sora关停导致依赖它的短剧生产流程断供，迪士尼退出OpenAI合作，AI视频工具格局剧变，需持续关注Veo等替代模型的可用性与质量"
   },
   {
-   "item": "韩国短剧CPA与回款周期动态",
-   "reason": "S级和A级情报均指出CPA高企、账期长，需持续监控止损线和现金流风险"
+   "item": "国区App Store AIGC合规必填要求",
+   "reason": "合规成为上架必填项，影响工具上架与出海法律环境，需跟踪具体细则与执行时间"
   },
   {
-   "item": "Sora关停后的替代方案迁移",
-   "reason": "S级情报提示依赖Sora的工作流需紧急迁移，关注替代工具成熟度"
+   "item": "巴西短剧投放CPA上涨与日本回款周期",
+   "reason": "巴西CPA涨到12美元、日本回款拖到60天，直接影响拉美与日本市场投放节奏与现金流模型，需持续跟踪竞价环境与回款数据"
   }
  ],
  "research_topics": [
   {
-   "topic": "爱奇艺号分账规则与AI短剧分账模式",
-   "why": "S级情报建议研究其分账规则，评估入驻或对标AI制作流程，复制到海外平台"
+   "topic": "红果短剧爆款题材与分发逻辑，反推海外改编方向",
+   "why": "红果日活1.68亿，国内爆款题材可改编出海，研究其分发逻辑与题材公式有助于选题决策"
   },
   {
-   "topic": "国区App Store AIGC合规具体要求",
-   "why": "A级情报显示AIGC合规成上架必填，影响工具类App国内分发，需明确清单"
+   "topic": "2026词元经济报告中的推理降本与MaaS定价数据",
+   "why": "词元成本直接影响AI工具与短剧生产成本，摘取降本数据做成本测算，指导模型选型与批量生产策略"
   },
   {
-   "topic": "美国手游ATT后归因窗口与回款周期对齐策略",
-   "why": "A级情报指出短剧投放同样踩坑，需研究SKAN粗粒度转化值放宽考核周期的做法"
+   "topic": "Agent商业支付协议（Poppy协议与ChatGPT Wallet）接入门槛",
+   "why": "OpenAI与Meta打通Agent下单支付，电商类工具新入口，研究接入门槛可评估做支持Agent下单的SaaS工具机会"
   }
  ],
- "daily_focus": "用即梦Seedance 2.5生成一集4K短剧样片，并评估其质量与效率是否达到投海外平台标准"
+ "daily_focus": "立即排查现有短剧工作流对Sora的依赖，并同步申请Gemini 4 Neon API测试，跑通剧本+分镜+素材整合流程，确保生产不断供且降本"
 }
