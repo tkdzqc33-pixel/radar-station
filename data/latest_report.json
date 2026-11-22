@@ -1,12 +1,12 @@
 {
- "date": "2026-11-21 04:57",
- "report_text": "📡 情报雷达 · 每日简报 2026-11-21\n今日情报 81 条 | 🚨S级 8 | 🔶A级 34\n==============================\n\n🚨 【S级 · 立刻行动】\n\n▎🛠️ AI工具 | 腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代\n   💡 单任务成本仅Hy4的1/20，适合Agent批量跑\n   👉 在WorkBuddy免费试用Hy4 flash跑批量任务\n   💰 机会: 用超低价模型批量做短剧翻译配音\n   ⚠️ 风险: 精简输出可能损失细节质量\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374083\n\n▎🛠️ AI工具 | 刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5\n   💡 更强更便宜的大模型直接降低AI内容制作成本\n   👉 注册Gemini 4 Neon API并跑短剧脚本生成测试\n   💰 机会: 用低成本模型批量生成短剧剧本/分镜\n   ⚠️ 风险: 新模型稳定性未验证，勿全量迁移\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🎬 短剧出海 | 当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！\n   💡 8K生图+2000字+10张连贯图，直接可用于漫剧分镜\n   👉 用Kling Image 4.0测试生成10张连贯漫剧分镜\n   💰 机会: 批量产出漫剧分镜与海报，省外包设计费\n   ⚠️ 风险: 中文艺术字仍需人工校对，避免上线出错\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html\n\n▎🎬 短剧出海 | 韩国短剧平台分账周期拉到90天，我们这种小体量内容方还要不要继续备新剧？\n   💡 韩国平台账期拖到90天，小团队现金流风险剧增\n   👉 暂停对韩新剧开机，转向一次性买断或预付合作\n   💰 机会: 转做买断模式锁定回款\n   ⚠️ 风险: 分账到账仅保底六成，压三个月账期\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638859\n\n▎🎬 短剧出海 | [GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent \n   💡 开源短剧漫剧全流程工具，直接降本提效\n   👉 本地部署Toonflow测试漫剧生产流程\n   💰 机会: 用开源工具零成本量产漫剧\n   ⚠️ 风险: 开源工具稳定性与商用授权需确认\n   📎 GitHub开源\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app\n\n▎🛠️ AI工具 | [GitHub] Anil-matcha/Open-Generative-AI: Uncensored Open-source alternative to AI video platforms — Free AI image & video\n   💡 3.5万星无审查自托管，800+模型聚合省成本\n   👉 自托管部署，接入短剧生成管线测试\n   💰 机会: 免API费批量生图生视频\n   ⚠️ 风险: 无审查内容投海外平台可能违规被封\n   📎 GitHub开源\n   🔗 https://github.com/Anil-matcha/Open-Generative-AI\n\n▎🎬 短剧出海 | [GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w\n   💡 开源桌面工具直接支持短剧、翻译视频制作\n   👉 立即下载测试，评估替代现有制作流程\n   💰 机会: 基于它做短剧批量生产工作流\n   ⚠️ 风险: 早期项目功能不全，需验证稳定性\n   📎 GitHub开源\n   🔗 https://github.com/ajoesoft/ai0-video-creator\n\n▎🎬 短剧出海 | [HN] Goodbye to Sora\n   💡 Sora关停，依赖它的制作流程有断供风险\n   👉 排查现有工作流并备份替代工具\n   ⚠️ 风险: 工具断供致项目停摆\n   📎 Hacker News\n   🔗 https://twitter.com/soraofficialapp/status/2036532795984715896\n\n🔶 【A级 · 今天处理】\n\n▎🛠️ AI工具 | 「北美大豆包」谷歌，终于杀回 AI 牌桌中央\n   💡 Gemini 4 Neon性价比高，可降制作成本\n   👉 用Neon跑一批短剧脚本和分镜测试\n   💰 机会: 低成本批量生成多语种剧本\n   ⚠️ 风险: 命名混乱易选错模型档位\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374196\n\n▎🛠️ AI工具 | 跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋\n   💡 GPT-6.2实测不稳，选型需避坑\n   👉 暂缓将核心工作流迁移到GPT-6.2\n   ⚠️ 风险: 长输入触发翻倍计费暗雷\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374175\n\n▎🛠️ AI工具 | 全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」\n   💡 单任务成本降58%，长上下文适合剧本处理\n   👉 用Qwen4-Max测试长剧本一致性生成\n   💰 机会: 百万上下文一次处理整季剧本\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374079\n\n▎🛠️ AI工具 | OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」\n   💡 Agent可代用户下单付费，催生新工具需求\n   👉 研究Poppy协议，评估插件接入可行性\n   💰 机会: 开发支持Poppy的电商Agent插件\n   ⚠️ 风险: 协议早期，标准可能变动\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374075\n\n▎🛠️ AI工具 | 接入多款第三方模型，豆包工作也模型自由了\n   💡 多模型+透明倍率可降低我AI工具开发与内容生产成本\n   👉 注册豆包工作测试多模型切换与额度倍率\n   💰 机会: 用低价模型批量生成短剧脚本降本\n   ⚠️ 风险: 限时优惠结束后成本回升\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373881\n\n▎🛠️ AI工具 | 早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万\n   💡 Gemini 4 Neon 主打复杂任务低单次成本，可降本\n   👉 测试 Gemini 4 Neon 用于批量短剧脚本生成\n   💰 机会: 低成本模型批量产出多语种短剧脚本\n   ⚠️ 风险: 新模型稳定性待验证\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🛠️ AI工具 | 深度实测 GPT-6.2：强是真强，难用也是真难用\n   💡 了解顶级模型能力边界，避免选型踩坑\n   👉 阅读实测细节，记录其难用点对照自己工作流\n   ⚠️ 风险: 盲目追新模型导致工作流不稳定\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🛠️ AI工具 | Google 杀入 Jev 核心赛道：Gemini Decision 1 五项基准领先两项落后\n   💡 决策模型可优化Agent工具调用，降本增效\n   👉 评估Gemini Decision 1用于短剧投放决策Agent\n   💰 机会: 用决策模型做投流选品自动化\n   ⚠️ 风险: 价格是Jev的2.38倍，成本需测算\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/ai/wctgzdX4CN2RVxCm.html\n\n▎🎬 短剧出海 | 阿语短剧每集都要重配音加审校，6人团队撑不住周更，该砍量还是改流程？\n   💡 阿语本地化口音与审校流程是中东短剧交付瓶颈\n   👉 研究审校前置到剧本阶段并测试沙特本地配音\n   💰 机会: 沉淀阿语本地化SOP可复用到多部剧\n   ⚠️ 风险: 埃及口音导致完播率掉18%，降更伤算法权重\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638867\n\n▎🎬 短剧出海 | 巴西葡语短剧素材完播率只有西语版一半，是配音还是剧情节奏的问题？\n   💡 巴西葡语前5秒流失18个点，直接影响投放ROI\n   👉 做A/B测试分离配音与节奏变量再定本地化标准\n   💰 机会: 跑通巴西葡语钩子模板可复制到拉美\n   ⚠️ 风险: 误判归因导致持续烧8万美元月预算\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638866\n\n▎🛠️ AI工具 | 腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型\n   💡 混元小模型低成本路线利好我的AI工具开发\n   👉 关注混元后续小模型发布并测试接入\n   💰 机会: 用低成本小模型降工具开发成本\n   📎 IT之家\n   🔗 https://www.ithome.com/1/030/338.htm\n\n▎🛠️ AI工具 | 派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等\n   💡 新模型可能提升AI视频/剧本生成质量与效率\n   👉 测试Gemini 4 Neon在剧本分镜生成上的表现\n   💰 机会: 用新模型降本提效做短剧\n   ⚠️ 风险: 新模型API价格与稳定性未知\n   📎 少数派\n   🔗 https://sspai.com/post/119311\n\n▎🛠️ AI工具 | [GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Per\n   💡 多模型桌面助手，可作内部效率工具\n   👉 下载试用评估多模型工作流\n   💰 机会: 可封装成知识付费演示工具\n   ⚠️ 风险: 功能泛化，商用价值有限\n   📎 GitHub开源\n   🔗 https://github.com/szczyglis-dev/py-gpt\n\n▎🎬 短剧出海 | [GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation tool. Uses Gemini for generating sto\n   💡 Gemini+Veo分镜生成，可优化短剧生产链\n   👉 测试StoryGen分镜与转场生成效果\n   💰 机会: 提升分镜效率做爆款短剧\n   ⚠️ 风险: 依赖Veo成本较高\n   📎 GitHub开源\n   🔗 https://github.com/0xsline/StoryGen-Atelier\n\n▎🛠️ AI工具 | [GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high\n   💡 856星开源营销视频工具，可复用做短剧投流素材\n   👉 克隆仓库本地跑通，测试批量生成投流视频\n   💰 机会: 封装成SaaS卖给中小卖家\n   ⚠️ 风险: 开源项目质量参差，需验证成片效果\n   📎 GitHub开源\n   🔗 https://github.com/clipturbo/clipturbo\n\n▎🎬 短剧出海 | [GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本\n   💡 开源短剧全流程工具，可降本自制漫剧\n   👉 下载部署测试小说转动画短剧效果\n   💰 机会: 低成本批量产漫剧投海外\n   ⚠️ 风险: 0星项目，代码质量与稳定性存疑\n   📎 GitHub开源\n   🔗 https://github.com/winsentrobot008/TOONOOT\n\n▎🎬 短剧出海 | [GitHub] dingai2046/Toonflow-app-20260617: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者\n   💡 Toonflow另一分支，短剧自动化生产可试\n   👉 对比TOONOOT选更活跃分支部署测试\n   💰 机会: 搭建自有漫剧流水线\n   ⚠️ 风险: 0星fork，可能已停更\n   📎 GitHub开源\n   🔗 https://github.com/dingai2046/Toonflow-app-20260617\n\n▎🛠️ AI工具 | [GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with \n   💡 1万+精选提示词库，直接提升生图质量\n   👉 下载提示词库，筛选短剧角色/场景模板\n   💰 机会: 整理成付费提示词包卖\n   📎 GitHub开源\n   🔗 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts\n\n▎🎬 短剧出海 | [GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima\n   💡 GPT-4o图像提示词库可直接用于短剧分镜与漫剧素材生成\n   👉 下载仓库筛选适合短剧场景的提示词模板\n   💰 机会: 批量生成漫剧分镜素材提效\n   📎 GitHub开源\n   🔗 https://github.com/jamez-bondos/awesome-gpt4o-images\n\n▎🎬 短剧出海 | [GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All\n   💡 开源视频生成模型可降低短剧制作成本，需评估质量\n   👉 本地部署测试Open-Sora生成短剧片段效果\n   💰 机会: 自建视频生成管线省API成本\n   ⚠️ 风险: 开源模型质量可能不及商用\n   📎 GitHub开源\n   🔗 https://github.com/hpcaitech/Open-Sora\n\n▎🎬 短剧出海 | [GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from i\n   💡 去水印工具可处理AI生成素材，但需注意平台合规\n   👉 测试工具效果并评估合规风险\n   💰 机会: 清理素材水印提升投放质量\n   ⚠️ 风险: 去水印可能违反平台政策\n   📎 GitHub开源\n   🔗 https://github.com/D-Ogi/WatermarkRemover-AI\n\n▎🎬 短剧出海 | [GitHub] cporter202/automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand \n   💡 自动化内容增长指南含Sora2视频生成与多平台发布\n   👉 通读指南提取可复用的自动化发布流程\n   💰 机会: 搭建多平台批量发布管线\n   📎 GitHub开源\n   🔗 https://github.com/cporter202/automate-for-growth\n\n▎🛠️ AI工具 | [GitHub] SamurAIGPT/Vibe-Workflow: Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFau\n   💡 开源节点式AI工作流，可替代付费工具降本\n   👉 部署测试，评估能否替代现有付费工作流\n   💰 机会: 封装成短剧批量生产流水线\n   ⚠️ 风险: 开源项目维护不稳定，需自建运维\n   📎 GitHub开源\n   🔗 https://github.com/SamurAIGPT/Vibe-Workflow\n\n▎🛠️ AI工具 | [GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models\n   💡 视觉LLM自动剪辑，可提升短剧后期效率\n   👉 下载跑通demo，测试短剧素材自动剪辑效果\n   💰 机会: 做成自动剪辑SaaS卖给同行\n   ⚠️ 风险: 视觉LLM成本高，需算ROI\n   📎 GitHub开源\n   🔗 https://github.com/mazsola2k/ai-video-editor\n\n▎🎬 短剧出海 | [GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le\n   💡 Seedance 2.0提示词库，直接提升短剧画面质量\n   👉 收藏并批量测试提示词，筛选爆款模板\n   💰 机会: 整理成中文提示词课卖\n   ⚠️ 风险: 提示词同质化，需差异化\n   📎 GitHub开源\n   🔗 https://github.com/weshopai/awesome-Seedance-2.0-prompt\n\n▎🛠️ AI工具 | [GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet\n   💡 竞品广告情报自动化，可优化投流素材策略\n   👉 研究其架构，借鉴做短剧投流素材分析\n   💰 机会: 改造为短剧爆款素材分析工具\n   ⚠️ 风险: 企业级复杂度高，落地成本大\n   📎 GitHub开源\n   🔗 https://github.com/bitsandbrainsai/ai-ad-creative-strategist\n\n▎🎬 短剧出海 | [HN] Google announces Veo, their Sora competing text/image-to-video model\n   💡 Veo是Sora竞品，可作短剧制作备选\n   👉 申请Veo测试并对比出片质量\n   💰 机会: 多工具组合降本\n   📎 Hacker News\n   🔗 https://aitestkitchen.withgoogle.com/tools/video-fx\n\n▎🎬 短剧出海 | [HN] Sora is here\n   💡 Sora正式开放，短剧制作效率或提升\n   👉 实测Sora生成短剧片段可行性\n   💰 机会: AI短剧产能翻倍\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-is-here/\n\n▎🎬 短剧出海 | [HN] Sora 2\n   💡 Sora 2升级，出片质量影响短剧竞争力\n   👉 测试Sora 2生成漫剧效果\n   💰 机会: 高质量短剧抢先机\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-2/\n\n▎📡 行业动态 | [HN] Disney making $1B investment in OpenAI, will allow characters on Sora AI\n   💡 迪士尼IP入Sora，版权内容玩法将变\n   👉 研究IP授权内容对短剧题材影响\n   💰 机会: IP衍生短剧新赛道\n   ⚠️ 风险: 无授权IP使用风险上升\n   📎 Hacker News\n   🔗 https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html\n\n▎📡 行业动态 | [HN] The Walt Disney Company and OpenAI Partner on Sora\n   💡 迪士尼合作预示AI视频版权合规化\n   👉 关注平台对AI版权内容新规\n   💰 机会: 合规IP短剧先发\n   ⚠️ 风险: 侵权内容被平台下架\n   📎 Hacker News\n   🔗 https://openai.com/index/disney-sora-agreement/\n\n▎📡 行业动态 | [HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora\n   💡 Sora关停+迪士尼退出，AI视频工具格局生变影响制作链\n   👉 排查现有短剧制作流程是否依赖Sora类工具，找替代方案\n   💰 机会: 替代AI视频工具空窗期，抢先测试新工具\n   ⚠️ 风险: 依赖单一AI视频工具，平台关停即断供\n   📎 Hacker News\n   🔗 https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/\n\n▎🛠️ AI工具 | [新品] InteraOne: Open-source Intercom & Zendesk alternative with AI agents\n   💡 开源AI客服可自托管，省客服成本且可二次开发\n   👉 部署测试InteraOne，评估接入短剧出海客服场景\n   💰 机会: 基于开源AI客服做垂类SaaS插件出售\n   ⚠️ 风险: 自托管运维成本可能高于预期\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/interaone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] Groundwork: Claude Code plans that re-runs never overwrite\n   💡 Claude Code技能脚手架，提升AI开发工作流稳定性\n   👉 安装Groundwork测试，用于AI工具开发项目管理\n   💰 机会: 可打包成知识付费课程里的AI开发工作流模块\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/groundwork-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n🔹 【B级 · 了解即可】\n\n▎📡 行业动态 | 腾讯姚顺雨团队：Hy4仍有很大改进空间，计划训练更大规模模型\n   💡 腾讯模型路线图，影响后续工具选型成本\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4078961086764168\n\n▎📡 行业动态 | 软银孙正义被曝曾考虑1万亿美元收购SK海力士\n   💡 存储芯片资本动向，间接影响算力成本\n   ⚠️ 风险: 存储涨价或推高AI推理成本\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4078915481179273\n\n▎📄 其他 | 一届学生60万？外国玩家：想来中国上学了 | 玩点好的\n   💡 中式题材出海游戏爆款，可借鉴选题思路\n   💰 机会: 中式校园题材短剧/漫剧可试水\n   📎 36氪\n   🔗 https://36kr.com/p/4077807099057031?f=rss\n\n▎🛠️ AI工具 | AI 录音硬件卖的是时间差，窗口可能只剩半年\n   💡 硬件赛道被巨头挤压，与我的三个业务无直接关联\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/373946\n\n▎📄 其他 | 早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验\n   💡 杂项新闻，与短剧出海和AI工具变现无关\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🛠️ AI工具 | 给 Gemini 道歉，请自觉排队\n   💡 Gemini 4 体验提升，可作为内容生产备选工具\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | AI Agent 元年，苹果是最后一个入局的巨头\n   💡 Agent 生态变化影响未来工具形态，非近期决策点\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | 早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄\n   💡 Anthropic 上市与 Agent 动态属背景信息\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | 刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了\n   💡 AI 资本热度高，但对我短剧和工具业务无直接影响\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📄 其他 | 大二「天才少女」刚拿下 ACM 最佳论文，立陷造假疑云，通讯作者独家回应\n   💡 学术圈事件，与业务无直接关联\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/private/fTZ8RbFMcD34HieP.html\n\n▎🛠️ AI工具 | 独家丨荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资\n   💡 AI硬件新品类，可作知识付费选题素材\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/weiwu/cmj50XKwCB4drkus.html\n\n▎📡 行业动态 | 独家｜前京东健康市场营销部总经理王丁虓加入面壁智能，担任品牌公关负责人\n   💡 端侧AI公司动态，与业务关联弱\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/industrynews/r1chb5ofkWYaKjMn.html\n\n▎📡 行业动态 | 独家丨影石研究院首度公开：字节旧将亓鲁任负责人\n   💡 影像AI方向动态，或影响未来剪辑工具\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html\n\n▎🛠️ AI工具 | 北美 SaaS 只靠 PLG 自助转化，5 人团队排期怎么兼顾渠道投放？\n   💡 PLG渠道测试临界标准可参考到我的SaaS工具\n   ⚠️ 风险: 小团队并行多渠道易烧钱无回报\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638865\n\n▎📄 其他 | 日本独立站日语客服外包月花18万日元，这笔钱该算进CPA还是单独扛？\n   💡 客服成本摊算口径与我的出海业务无直接关联\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638862\n\n▎📄 其他 | 澳新红人联盟佣金给到15%还倒亏，独立站该不该砍掉这块预算？\n   💡 红人联盟ROI判断标准可借鉴到短剧投放\n   ⚠️ 风险: 高佣金低复购渠道易倒亏\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638860\n\n▎📄 其他 | 男子专盯老年住户安装虚拟拨号设备，涉帮信罪被刑拘\n   💡 与业务无关的社会新闻，仅作背景\n   📎 IT之家\n   🔗 https://www.ithome.com/1/030/343.htm\n\n▎📡 行业动态 | 派早报：Apple 年度应用、TGA 2026 分别公布入围名单等\n   💡 行业榜单动态，与核心业务关联弱\n   📎 少数派\n   🔗 https://sspai.com/post/119239\n\n▎🎬 短剧出海 | 是什么神秘力量，操纵了演员的一言一行\n   💡 国内剧宣CP营销逻辑，可借鉴海外短剧题材\n   💰 机会: CP题材短剧易出爆款\n   ⚠️ 风险: 国内玩法海外水土不服\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4907363.html\n\n▎📡 行业动态 | 曝黎曼猜想被证明，Claude 立大功\n   💡 AI能力边界突破，间接说明AI推理变强\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4907358.html\n\n▎📡 行业动态 | 25万页证明，黎曼猜想被AI“解决”了吗？\n   💡 AI科研热点，与变现业务无直接关系\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4907351.html\n\n▎🛠️ AI工具 | [GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video\n   💡 多功能创作平台，功能泛但可参考产品结构\n   ⚠️ 风险: 功能大而全难落地，勿直接依赖\n   📎 GitHub开源\n   🔗 https://github.com/gongxings/ai-creator\n\n▎🎬 短剧出海 | [GitHub] TorresLi608/SceneFlow: 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intell\n   💡 含短剧/漫剧工作台，仅4星参考价值有限\n   ⚠️ 风险: 星数低维护差，不建议投入\n   📎 GitHub开源\n   🔗 https://github.com/TorresLi608/SceneFlow\n\n▎🛠️ AI工具 | [GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every \n   💡 Python AI开发框架，做工具时可用但非直接变现\n   📎 GitHub开源\n   🔗 https://github.com/pydantic/pydantic-ai\n\n▎🛠️ AI工具 | [GitHub] open-mmlab/mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unl\n   💡 开源AIGC工具箱可参考技术方案但非直接变现工具\n   📎 GitHub开源\n   🔗 https://github.com/open-mmlab/mmagic\n\n▎🛠️ AI工具 | [GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid\n   💡 开源Sora客户端可参考做自有工具界面\n   📎 GitHub开源\n   🔗 https://github.com/SoraWebui/SoraWebui\n\n▎🎬 短剧出海 | [GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation\n   💡 通用视频生成研究项目，技术参考价值大于实用\n   📎 GitHub开源\n   🔗 https://github.com/lichao-sun/Mora\n\n▎🛠️ AI工具 | [GitHub] all-in-aigc/sorafm: Sora AI Video Generator by Sora.FM\n   💡 Sora视频生成Web应用可参考其产品化思路\n   📎 GitHub开源\n   🔗 https://github.com/all-in-aigc/sorafm\n\n▎📄 其他 | [GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m\n   💡 机器人动作转换，与短剧出海业务无直接关联\n   📎 GitHub开源\n   🔗 https://github.com/AIM-Intelligence/video2robot\n\n▎📡 行业动态 | [HN] Show HN: A different kind of AI Video generation\n   💡 FCP用户视角的AI视频工具，参考思路有限\n   📎 Hacker News\n   🔗 https://news.ycombinator.com/item?id=44383086\n\n▎📡 行业动态 | [HN] Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)\n   💡 小团队自研视频模型，说明门槛在降低\n   ⚠️ 风险: 自研模型投入大，不建议跟风\n   📎 Hacker News\n   🔗 https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video\n\n▎🎬 短剧出海 | [HN] Meta’s new text-to-video AI generator is like DALL-E for video\n   💡 Meta入局文生视频，多一个可选工具\n   📎 Hacker News\n   🔗 https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e\n\n▎🎬 短剧出海 | [HN] Sora: Creating video from text\n   💡 Sora发布是行业里程碑背景信息\n   📎 Hacker News\n   🔗 https://openai.com/sora\n\n▎📄 其他 | [新品] Shozito: Showcase your Products, Projects & Work. Grow Business.\n   💡 作品展示类SaaS，与短剧出海业务关联弱\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/shozito?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] TEF Canada AI Speaking Practice Tool: Practice French Speaking with AI for TEF Canada Prep\n   💡 垂类AI口语练习工具，验证AI+考试培训变现模式\n   💰 机会: 垂类AI陪练工具可复制到其他考试场景\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/tef-canada-ai-speaking-practice-tool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎📄 其他 | [新品] Same Moon: Free bedtime stories for children who had to leave home\n   💡 多语言离线故事App，与短剧出海内容形态有借鉴\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/same-moon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] NavieAI- An AI Learning Platform: NavieAI- AI Software Development & Workflow Automation\n   💡 AI教育平台，可参考其AI辅导+仿真交互产品形态\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/navieai-an-ai-learning-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎📄 其他 | [新品] Netizn: Social, Shop, Community, Health & Wellness AI\n   💡 大而全超级App，与一人公司聚焦策略相悖\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/netizn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] tripps: Plan a group trip with one link, no account needed\n   💡 免登录协作工具思路可借鉴到AI工具产品设计\n   💰 机会: 免登录分享式工具降低获客门槛\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/tripps?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+ "date": "2026-11-22 04:17",
+ "report_text": "📡 情报雷达 · 每日简报 2026-11-22\n今日情报 90 条 | 🚨S级 6 | 🔶A级 33\n==============================\n\n🚨 【S级 · 立刻行动】\n\n▎🛠️ AI工具 | 腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代\n   💡 单任务成本仅Hy4二十分之一，直接省制作费\n   👉 接入Hy4 flash跑短剧脚本/字幕批量任务\n   💰 机会: 低成本批量生成多语种短剧文案\n   ⚠️ 风险: 精简输出可能牺牲创意质量需抽检\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374083\n\n▎🎬 短剧出海 | 当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！\n   💡 可灵4.0支持8K/2000字/10张连贯图，直接提效短剧分镜\n   👉 立即测试Kling Image 4.0生成短剧分镜与海报\n   💰 机会: 用可灵4.0批量出分镜降本，可做教程卖课\n   ⚠️ 风险: 工具迭代快，需持续跟进避免落后\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html\n\n▎🎬 短剧出海 | 美国短剧 App 投 Meta 回本周期拉到 90 天，是素材问题还是付费墙设计问题？\n   💡 北美短剧投放回本拉长，直接关系我的核心变现\n   👉 研究其付费墙提前与混合付费结构方案\n   💰 机会: 优化付费墙+金币混合提升首周付费率\n   ⚠️ 风险: CPI 4.2美元下回本90天现金流吃紧\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638885\n\n▎🎬 短剧出海 | [GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent \n   💡 开源短剧漫剧全流程工具，直接降本提效\n   👉 本地部署Toonflow测试分镜与视频生成\n   💰 机会: 用开源工具替代付费管线省成本\n   ⚠️ 风险: 开源工具稳定性与商用授权需核实\n   📎 GitHub开源\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app\n\n▎🎬 短剧出海 | [HN] Goodbye to Sora\n   💡 Sora关停，依赖它的短剧生产管线需紧急迁移\n   👉 排查现有工作流是否依赖Sora，准备替代方案\n   💰 机会: 竞品工具窗口期抢用户红利\n   ⚠️ 风险: 生产中断，已投素材打水漂\n   📎 Hacker News\n   🔗 https://twitter.com/soraofficialapp/status/2036532795984715896\n\n▎🎬 短剧出海 | [HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora\n   💡 Sora关停+迪士尼撤资，AI视频赛道格局剧变\n   👉 立即评估ReelShort等平台对Sora素材的依赖度\n   💰 机会: 转向国产/开源视频模型做差异化\n   ⚠️ 风险: 平台可能下架Sora生成内容\n   📎 Hacker News\n   🔗 https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/\n\n🔶 【A级 · 今天处理】\n\n▎🛠️ AI工具 | 沐曦股份曦云C系列GPU率先完成腾讯混元Hy4 Day 0适配\n   💡 国产GPU适配混元模型，或降低AI视频生成算力成本\n   👉 关注混元Hy4在视频/图像生成上的API开放与定价\n   💰 机会: 国产算力降本可压低短剧AI制作成本\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4079148232168323\n\n▎🎬 短剧出海 | 一届学生60万？外国玩家：想来中国上学了 | 玩点好的\n   💡 中式校园题材在海外有热度，可作短剧选题参考\n   👉 研究该游戏海外传播路径，提炼中式校园短剧题材\n   💰 机会: 中式校园/师生冲突题材短剧出海有差异化空间\n   ⚠️ 风险: 文化差异可能导致海外受众理解门槛高\n   📎 36氪\n   🔗 https://36kr.com/p/4077807099057031?f=rss\n\n▎📡 行业动态 | 资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段\n   💡 大厂重注AI基础设施，工具生态和API价格将受影响\n   👉 跟踪腾讯混元/元宝API降价节奏，评估接入成本\n   💰 机会: 大厂AI工具降价可降低短剧制作和SaaS开发成本\n   ⚠️ 风险: 大厂生态挤压独立AI小工具的生存空间\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374302\n\n▎🛠️ AI工具 | 「北美大豆包」谷歌，终于杀回 AI 牌桌中央\n   💡 Gemini4 Neon性价比高，可降短剧AI制作成本\n   👉 用Neon测试短剧脚本与分镜生成，对比现用模型\n   💰 机会: 低成本多模态批量出片\n   ⚠️ 风险: 命名混乱易选错档位多花钱\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374196\n\n▎🛠️ AI工具 | 跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋\n   💡 GPT6.2实测不稳，别急着迁移生产流程\n   👉 暂缓将短剧工作流迁到GPT6.2，先小批量实测\n   ⚠️ 风险: 长输入超27万token单价翻倍，成本失控\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374175\n\n▎🛠️ AI工具 | 全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」\n   💡 单任务成本降58%，长上下文适合剧本库处理\n   👉 用Qwen4-Max测试长剧本与素材整理工作流\n   💰 机会: 百万上下文做整季短剧剧本管理\n   ⚠️ 风险: 旗舰价仍高，日常任务用Flash更划算\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374079\n\n▎🛠️ AI工具 | OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」\n   💡 Agent可代下单付费，SaaS工具可接Poppy协议\n   👉 研究Poppy协议，评估插件接入可行性\n   💰 机会: 做Agent可调用的短剧素材/工具插件\n   ⚠️ 风险: 协议早期生态未成熟，投入需谨慎\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374075\n\n▎🛠️ AI工具 | 给 Gemini 道歉，请自觉排队\n   💡 Gemini 4能力提升，可替代部分付费工具降本\n   👉 测试Gemini 4在短剧脚本/分镜生成上的效果\n   💰 机会: 用Gemini 4替代高价工具省订阅费\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | 早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄\n   💡 Anthropic上市+腾讯削减元宝投入，AI格局变动\n   👉 关注Anthropic上市后API定价策略变化\n   ⚠️ 风险: 腾讯削减投入或影响国内AI工具生态\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | 刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了\n   💡 Claude母公司上市，API政策/封号规则或变\n   👉 研究Anthropic上市后对开发者API的封号政策\n   ⚠️ 风险: A社封号严格，依赖Claude的工具需备选方案\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🛠️ AI工具 | 早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万\n   💡 Gemini 4 Neon主打低成本，可降AI制作成本\n   👉 测试Gemini 4 Neon单次成本与短剧生成质量\n   💰 机会: 低成本模型降低短剧出海制作成本\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎🛠️ AI工具 | Google 杀入 Jev 核心赛道：Gemini Decision 1 五项基准领先两项落后\n   💡 决策模型可降低Agent工具调用成本，影响插件开发\n   👉 测试Gemini Decision 1的批量决策API\n   💰 机会: 用决策模型做低成本Agent插件\n   ⚠️ 风险: 定价是Jev的2.38倍，成本需核算\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/ai/wctgzdX4CN2RVxCm.html\n\n▎🎬 短剧出海 | 印度短剧 App 起量后 CPA 涨到 0.9 美元，是继续加投还是先修变现？\n   💡 印度市场CPA暴涨ROI跌破0.5，警示新兴市场投放窗口期短\n   👉 测算LTV/CAC临界值，变现链路未修好前暂停加投\n   💰 机会: 转向CPA更低的东南亚或拉美市场复制打法\n   ⚠️ 风险: 继续加投会放大亏损，现金流被拖垮\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638883\n\n▎🎬 短剧出海 | 印度短剧 App 广告变现回款要 60 天，这现金流怎么扛？\n   💡 回款60天垫资8万美元，现金流是出海短剧生死线\n   👉 优先谈短账期聚合平台，测算垫资上限再定投放节奏\n   ⚠️ 风险: 账期错配导致资金链断裂，规模越大越危险\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638882\n\n▎🛠️ AI工具 | 派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等\n   💡 新模型迭代影响AI视频生成质量与成本\n   👉 测试Gemini 4 Neon在分镜/图像生成效果\n   💰 机会: 用新模型降本提效做短剧\n   ⚠️ 风险: 新模型API价格与稳定性未知\n   📎 少数派\n   🔗 https://sspai.com/post/119311\n\n▎🛠️ AI工具 | 姚顺雨：不要过度思考\n   💡 混元Hy4 flash压缩推理成本，利好工具开发\n   👉 测试Hy4 flash做Agent工具的成本\n   💰 机会: 低成本模型做SaaS插件\n   ⚠️ 风险: 过度思考问题影响Agent稳定性\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4907457.html\n\n▎🛠️ AI工具 | [GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Per\n   💡 多模型桌面助手，可参考做插件产品\n   👉 下载py-gpt研究其插件与MCP架构\n   💰 机会: 借鉴做多模型聚合小工具\n   ⚠️ 风险: 同类开源竞品多，变现难\n   📎 GitHub开源\n   🔗 https://github.com/szczyglis-dev/py-gpt\n\n▎🎬 短剧出海 | [GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation tool. Uses Gemini for generating sto\n   💡 Gemini+Veo+ffmpeg全流程分镜生成，可参考搭建自有短剧管线\n   👉 克隆仓库跑通分镜到成片流程\n   💰 机会: 低成本批量产短剧素材\n   ⚠️ 风险: 依赖Veo额度，成本可能失控\n   📎 GitHub开源\n   🔗 https://github.com/0xsline/StoryGen-Atelier\n\n▎🎬 短剧出海 | [GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本\n   💡 开源一站式短剧工具，小说转动画可降本\n   👉 部署测试小说转短剧效果\n   💰 机会: 批量产漫剧投海外\n   ⚠️ 风险: 0星项目稳定性差\n   📎 GitHub开源\n   🔗 https://github.com/winsentrobot008/TOONOOT\n\n▎🛠️ AI工具 | [GitHub] Anil-matcha/Open-Generative-AI: Uncensored Open-source alternative to AI video platforms — Free AI image & video\n   💡 3.5万星无审查多模型视频生成，自托管省成本\n   👉 自托管测试800+模型出片\n   💰 机会: 无审查题材短剧素材\n   ⚠️ 风险: 无审查内容平台封号风险\n   📎 GitHub开源\n   🔗 https://github.com/Anil-matcha/Open-Generative-AI\n\n▎🛠️ AI工具 | [GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with \n   💡 万条精选图像提示词库，可直接用于短剧分镜与封面生成\n   👉 克隆仓库筛选适合短剧场景的提示词模板\n   💰 机会: 打包成短剧分镜提示词包做知识付费\n   ⚠️ 风险: 提示词同质化，需二次加工才有差异\n   📎 GitHub开源\n   🔗 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts\n\n▎🎬 短剧出海 | [GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All\n   💡 开源视频生成模型，可降低短剧制作成本\n   👉 本地部署测试生成质量与出片速度\n   💰 机会: 自建低成本短剧生产管线\n   ⚠️ 风险: 算力成本高，成片质量可能不达投放标准\n   📎 GitHub开源\n   🔗 https://github.com/hpcaitech/Open-Sora\n\n▎🎬 短剧出海 | [GitHub] D-Ogi/WatermarkRemover-AI: AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from i\n   💡 去水印工具可处理素材，但需注意平台合规风险\n   👉 测试工具效果，仅用于自有素材处理\n   ⚠️ 风险: 去除他人水印涉侵权，平台可能封号\n   📎 GitHub开源\n   🔗 https://github.com/D-Ogi/WatermarkRemover-AI\n\n▎🎬 短剧出海 | [GitHub] cporter202/automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand \n   💡 Sora 2自动化内容生产指南，直接提升短剧出海产能\n   👉 克隆仓库研究Sora 2批量生成与多平台分发流程\n   💰 机会: 搭建自动化短剧生产流水线降本\n   ⚠️ 风险: Sora 2 API成本与平台合规风险\n   📎 GitHub开源\n   🔗 https://github.com/cporter202/automate-for-growth\n\n▎🛠️ AI工具 | [GitHub] SamurAIGPT/Vibe-Workflow: Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFau\n   💡 开源节点式AI工作流，可替代付费工具降本\n   👉 部署测试节点工作流搭建短剧生成管线\n   💰 机会: 封装成SaaS插件出售\n   ⚠️ 风险: 开源项目稳定性与维护风险\n   📎 GitHub开源\n   🔗 https://github.com/SamurAIGPT/Vibe-Workflow\n\n▎🎬 短剧出海 | [GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models\n   💡 视觉LLM自动剪辑，可加速短剧后期制作\n   👉 下载测试自动剪辑效果与适配度\n   💰 机会: 批量剪辑短剧降人力成本\n   ⚠️ 风险: 剪辑质量不稳定需人工复核\n   📎 GitHub开源\n   🔗 https://github.com/mazsola2k/ai-video-editor\n\n▎🎬 短剧出海 | [GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le\n   💡 Seedance 2.0提示词库，直接提升短剧画面质量\n   👉 整理提示词库并测试电影级短剧生成\n   💰 机会: 用高质量提示词做爆款题材\n   ⚠️ 风险: 提示词同质化导致内容雷同\n   📎 GitHub开源\n   🔗 https://github.com/weshopai/awesome-Seedance-2.0-prompt\n\n▎🛠️ AI工具 | [GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet\n   💡 竞品广告情报自动化，可优化投流打法\n   👉 研究其竞品分析逻辑用于短剧投流\n   💰 机会: 提炼投流素材策略提升ROI\n   ⚠️ 风险: 数据抓取合规风险\n   📎 GitHub开源\n   🔗 https://github.com/bitsandbrainsai/ai-ad-creative-strategist\n\n▎🎬 短剧出海 | [GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w\n   💡 桌面端AI视频创作工具，明确支持短剧生成\n   👉 下载测试短剧与翻译视频生成功能\n   💰 机会: 本地化生产降低API成本\n   ⚠️ 风险: 本地算力要求高\n   📎 GitHub开源\n   🔗 https://github.com/ajoesoft/ai0-video-creator\n\n▎🎬 短剧出海 | [版本更新] Toonflow短剧工具 v2.0.11: Toonflow 2.0.11\n   💡 短剧制作工具迭代，直接影响AI漫剧产能与效率\n   👉 下载v2.0.11测试新功能与稳定性\n   💰 机会: 用新版工具批量产漫剧抢流量\n   ⚠️ 风险: 新版可能有bug影响出片进度\n   📎 GitHub版本\n   🔗 https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v2.0.11\n\n▎🛠️ AI工具 | [版本更新] ComfyUI v0.46.0: v0.46.0\n   💡 新增LTX/MiniMax节点，提升视频生成能力\n   👉 升级并测试LTX视频节点效果\n   💰 机会: 用新节点做差异化短剧画面\n   ⚠️ 风险: 节点兼容性可能导致工作流报错\n   📎 GitHub版本\n   🔗 https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.0\n\n▎🎬 短剧出海 | [HN] Sora 2\n   💡 Sora2能力升级曾影响短剧制作效率与题材选择\n   👉 复盘Sora2系统卡，评估其视频一致性能力\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-2/\n\n▎🛠️ AI工具 | [新品] Diane: Turn any course into flashcards you'll actually remember\n   💡 课程转卡片工具，可借鉴做知识付费配套产品\n   👉 试用Diane，评估做成课程配套SaaS可行性\n   💰 机会: 知识付费+AI工具捆绑变现\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/diane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n🔹 【B级 · 了解即可】\n\n▎📡 行业动态 | 脑机接口报告：全球企业增至1175家 中国三大城市群集聚190余家\n   💡 与AI内容出海无直接关联，仅作行业背景了解\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4080282379195270\n\n▎🛠️ AI工具 | Claude宣称攻克黎曼猜想数小时后，斯坦福数学家公布纯人类证明\n   💡 展示AI推理能力边界，与内容创作工具无直接关系\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4080260946875269\n\n▎📡 行业动态 | 国家中医药管理局认证中心：未与任何大模型企业合作 亦未开展测评\n   💡 提醒AI产品宣传需谨慎，避免虚假背书风险\n   ⚠️ 风险: AI产品虚假宣传可能引发法律追责\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4080259398587267\n\n▎📡 行业动态 | 韩国悬赏重金查处高考作弊者\n   💡 AI作弊监管趋严，与知识付费合规宣传有关联\n   ⚠️ 风险: 知识付费若涉考试作弊场景可能触红线\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4080208942650248\n\n▎📄 其他 | 中信建投食品饮料2027年投资策略：周期底部范式重构 红利守正成长出奇\n   💡 与三大业务板块无关，纯属无关信息\n   📎 36氪 - 快讯\n   🔗 https://www.36kr.com/newsflashes/4079154734257289\n\n▎🛠️ AI工具 | 关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切\n   💡 混元路线图含小尺寸/视频模型，影响工具选型\n   💰 机会: 低成本小模型做批量短剧生成\n   ⚠️ 风险: 过度思考短板影响创意写作质量\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374301\n\n▎📡 行业动态 | 黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办\n   💡 GTA6首发数据印证爆款内容付费力，与短剧无关\n   📎 极客公园\n   🔗 http://www.geekpark.net/news/374300\n\n▎📡 行业动态 | Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就\n   💡 展示AI推理上限，与当前变现业务关联弱\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | 刚刚，曝黎曼猜想被证明，Claude 立大功\n   💡 AI推理能力跃升信号，间接影响工具选型\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690750?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | 早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验\n   💡 综合科技动态，无直接业务关联\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📡 行业动态 | AI Agent 元年，苹果是最后一个入局的巨头\n   💡 Agent趋势确认，但苹果入局尚早无实操价值\n   📎 爱范儿\n   🔗 https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=\n\n▎📄 其他 | 大二「天才少女」刚拿下 ACM 最佳论文，立陷造假疑云，通讯作者独家回应\n   💡 学术造假与业务无关，仅作行业背景了解\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/private/fTZ8RbFMcD34HieP.html\n\n▎🛠️ AI工具 | 独家丨荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资\n   💡 AI硬件创业动态，与我的工具/SaaS方向关联弱\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/weiwu/cmj50XKwCB4drkus.html\n\n▎📡 行业动态 | 独家｜前京东健康市场营销部总经理王丁虓加入面壁智能，担任品牌公关负责人\n   💡 人事变动，对短剧出海和AI工具无直接影响\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/industrynews/r1chb5ofkWYaKjMn.html\n\n▎📡 行业动态 | 独家丨影石研究院首度公开：字节旧将亓鲁任负责人\n   💡 影像AI研发动态，与短剧制作工具迭代有间接关联\n   📎 雷峰网\n   🔗 https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html\n\n▎🎬 短剧出海 | 巴基斯坦手游玩家的充值走本地钱包和运营商扣费，回款周期到底差多少？\n   💡 巴基斯坦支付回款经验，可参考新兴市场变现\n   ⚠️ 风险: 新兴市场回款慢压现金流\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638888\n\n▎📄 其他 | TikTok Shop 印尼直播带货佣金结算要等多久？回款周期和物流签收时效怎么对账？\n   💡 印尼电商回款对账问题，与短剧出海关联弱\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638884\n\n▎📡 行业动态 | 越南直播基地搭建，8人团队排班撑不住三班倒，该先扩人还是先砍时段？\n   💡 海外本地化人力模型踩坑案例，与短剧出海团队管理相通\n   ⚠️ 风险: 照搬国内排班模式导致本地团队流失\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638880\n\n▎📡 行业动态 | Temu 美国全托管核价压到成本线，我该不该继续加投广告？\n   💡 平台核价挤压利润的案例，提醒依赖单一平台的风险\n   ⚠️ 风险: 平台压价+广告成本上涨双重挤压利润\n   📎 白鲸出海\n   🔗 https://www.baijing.cn/question/638879\n\n▎📡 行业动态 | 韩国高考 AI 作弊事件发酵，教育部长引咎辞职\n   💡 AI监管趋严信号，可能影响AI工具类产品合规门槛\n   ⚠️ 风险: AI工具监管收紧可能波及教育类AI产品\n   📎 IT之家\n   🔗 https://www.ithome.com/1/030/558.htm\n\n▎🎬 短剧出海 | 九年长篇今日完结：国漫《斗破苍穹》剧场版《双帝之战》定档午间 12 点开播\n   💡 头部国漫IP完结，验证漫剧题材热度与用户付费意愿\n   💰 机会: 经典网文IP改编漫剧出海有题材红利\n   📎 IT之家\n   🔗 https://www.ithome.com/1/030/551.htm\n\n▎📄 其他 | 品牌全球销量破百万：长城坦克首支单曲《百万分之一》定档 11 月 25 日“唱响”\n   💡 品牌跨界内容营销案例，与AI内容创作关联弱\n   📎 IT之家\n   🔗 https://www.ithome.com/1/030/550.htm\n\n▎🛠️ AI工具 | Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确\n   💡 AI推理能力突破信号，长期影响AI工具能力边界\n   📎 IT之家\n   🔗 https://www.ithome.com/1/030/547.htm\n\n▎📄 其他 | 试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评\n   💡 与三大业务无关，仅提示AI合规宣传红线\n   ⚠️ 风险: 知识付费宣传勿蹭官方认证背书\n   📎 IT之家\n   🔗 https://www.ithome.com/1/030/540.htm\n\n▎📄 其他 | 四个阶段，中国商人在非洲走到了哪一步｜长颈鹿笔记\n   💡 与AI出海业务无直接关联\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4907464.html\n\n▎📄 其他 | 一家370多年的日本老店，靠一根绳子活到了今天\n   💡 老店转型故事，与业务无直接关系\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4907460.html\n\n▎📡 行业动态 | 算力中间商：卖时间的已上市，卖位置的正在被调查\n   💡 算力行业动态，间接影响AI工具成本\n   ⚠️ 风险: 算力涨价推高制作成本\n   📎 虎嗅资讯-全部\n   🔗 https://www.huxiu.com/article/4907449.html\n\n▎🛠️ AI工具 | [GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high\n   💡 营销视频工具竞品，可借鉴其产品形态\n   ⚠️ 风险: 同质化竞争激烈\n   📎 GitHub开源\n   🔗 https://github.com/clipturbo/clipturbo\n\n▎🛠️ AI工具 | [GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video\n   💡 多平台一键发布功能可参考做分发工具\n   💰 机会: 做短剧多平台分发插件\n   📎 GitHub开源\n   🔗 https://github.com/gongxings/ai-creator\n\n▎🎬 短剧出海 | [GitHub] TorresLi608/SceneFlow: 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intell\n   💡 含短剧/漫剧工作台，可参考后台设计\n   ⚠️ 风险: 星少质量待验证\n   📎 GitHub开源\n   🔗 https://github.com/TorresLi608/SceneFlow\n\n▎🎬 短剧出海 | [GitHub] dingai2046/Toonflow-app-20260617: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者\n   💡 Toonflow分支，验证其是否更活跃\n   ⚠️ 风险: 重复项目易踩坑\n   📎 GitHub开源\n   🔗 https://github.com/dingai2046/Toonflow-app-20260617\n\n▎🛠️ AI工具 | [GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every \n   💡 Python AI Agent框架，可做自动化短剧管线\n   📎 GitHub开源\n   🔗 https://github.com/pydantic/pydantic-ai\n\n▎🛠️ AI工具 | [GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima\n   💡 GPT-4o图像案例参考，可借鉴风格但非核心工具\n   📎 GitHub开源\n   🔗 https://github.com/jamez-bondos/awesome-gpt4o-images\n\n▎🛠️ AI工具 | [GitHub] open-mmlab/mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unl\n   💡 开源生成工具箱，技术门槛高，短期难直接变现\n   📎 GitHub开源\n   🔗 https://github.com/open-mmlab/mmagic\n\n▎🛠️ AI工具 | [GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid\n   💡 Sora网页客户端，依赖官方API，实用性有限\n   📎 GitHub开源\n   🔗 https://github.com/SoraWebui/SoraWebui\n\n▎🛠️ AI工具 | [GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation\n   💡 学术向视频生成项目，落地价值待观察\n   📎 GitHub开源\n   🔗 https://github.com/lichao-sun/Mora\n\n▎🛠️ AI工具 | [GitHub] all-in-aigc/sorafm: Sora AI Video Generator by Sora.FM\n   💡 第三方Sora生成站，可参考其产品形态\n   📎 GitHub开源\n   🔗 https://github.com/all-in-aigc/sorafm\n\n▎📄 其他 | [GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m\n   💡 视频转机器人动作，与当前业务无直接关联\n   📎 GitHub开源\n   🔗 https://github.com/AIM-Intelligence/video2robot\n\n▎🎬 短剧出海 | [版本更新] Open-Sora v1.3: Open-Sora V1.3 Release\n   💡 开源视频模型更新，长期可关注但非即时机会\n   📎 GitHub版本\n   🔗 https://github.com/hpcaitech/Open-Sora/releases/tag/v1.3\n\n▎🛠️ AI工具 | [版本更新] MoneyPrinter v1.3.10: v1.3.10\n   💡 自动化视频生成工具更新，可参考其变现思路\n   📎 GitHub版本\n   🔗 https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.10\n\n▎📡 行业动态 | [HN] Show HN: A different kind of AI Video generation\n   💡 新型AI视频生成思路，或带来制作新玩法\n   📎 Hacker News\n   🔗 https://news.ycombinator.com/item?id=44383086\n\n▎📡 行业动态 | [HN] Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)\n   💡 小团队自研视频模型，关注其生成质量\n   📎 Hacker News\n   🔗 https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video\n\n▎📡 行业动态 | [HN] Meta’s new text-to-video AI generator is like DALL-E for video\n   💡 旧闻，大厂视频模型背景信息\n   📎 Hacker News\n   🔗 https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e\n\n▎📡 行业动态 | [HN] Google announces Veo, their Sora competing text/image-to-video model\n   💡 Veo是短剧制作可选工具，需关注能力\n   📎 Hacker News\n   🔗 https://aitestkitchen.withgoogle.com/tools/video-fx\n\n▎📡 行业动态 | [HN] Sora: Creating video from text\n   💡 Sora是行业标杆，旧闻背景参考\n   📎 Hacker News\n   🔗 https://openai.com/sora\n\n▎🎬 短剧出海 | [HN] Sora is here\n   💡 Sora初代发布是AI视频起点，了解工具演进脉络\n   📎 Hacker News\n   🔗 https://openai.com/index/sora-is-here/\n\n▎📡 行业动态 | [HN] Disney making $1B investment in OpenAI, will allow characters on Sora AI\n   💡 迪士尼入局说明IP+AI视频是资本认可方向\n   📎 Hacker News\n   🔗 https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html\n\n▎📡 行业动态 | [HN] The Walt Disney Company and OpenAI Partner on Sora\n   💡 大厂合作预示AI视频内容版权规则将收紧\n   📎 Hacker News\n   🔗 https://openai.com/index/disney-sora-agreement/\n\n▎🛠️ AI工具 | [新品] Lumiri Todo: A private to-do list for iPhone, iPad and Mac\n   💡 买断制隐私工具，参考其小工具变现模式\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/lumiri-todo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] gitroots: Path-level GitHub access for developers and AI agents\n   💡 GitHub权限治理工具，与短剧出海和知识付费无直接关联\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/gitroots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29\n\n▎🛠️ AI工具 | [新品] TaskGalaxy: AI Focus Tracker & Distraction Blocker\n   💡 专注力工具赛道竞争激烈，变现模式不清晰\n   💰 机会: 可借鉴其AI内容判断思路做插件\n   ⚠️ 风险: 同类工具多，付费转化难\n   📎 Product Hunt\n   🔗 https://www.producthunt.com/products/taskgalaxy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
  "items": [
   {
-   "title": "腾讯姚顺雨团队：Hy4仍有很大改进空间，计划训练更大规模模型",
-   "link": "https://www.36kr.com/newsflashes/4078961086764168",
-   "summary": "11月21日凌晨，腾讯首席AI科学家姚顺雨带着混元团队出现在海外社交媒体社区，做了一场文字AMA（公开问答）。问答环节，有人直言：字节跳动和Kimi等（参数量）似乎都在往3T甚至5T推，你们为什么停在700B？混元团队回应：“Hy3和Hy4已经证明，较小的模型也能超越较大的模型，而且更便宜。”不过，混元团队也表示，Hy4仍有很大的改进空间，尤其是通过后训练。“我们正投入大量精力进行大规模强化学习，同时继续改善用户体验和模型安全。我们还计划训练更大规模的模型。”（每日经济新闻）",
-   "published": "Sat, 21 Nov 2026 03:33:47 GMT",
+   "title": "脑机接口报告：全球企业增至1175家 中国三大城市群集聚190余家",
+   "link": "https://www.36kr.com/newsflashes/4080282379195270",
+   "summary": "2026脑机接口大会发布《脑机接口创新发展研究报告（2026）》。《报告》指出，脑机接口产业在2026年取得了新进展，全球企业数量从原有的800多家增长到了1175家，市场变现主要来自两个领域：一是科研，二是医疗。目前中国脑机接口产业集聚在三大城市群，分别为京津冀、长三角和粤港澳。这三大城市群，分布着190多家脑机接口企业，占全国的77.4%。前五大省市分别为广东省、北京市、上海市、江苏省和浙江省。产业的下一个趋势是产业整合分化与治理监管并行，同质化发展会逐渐走向专业深耕与分工。",
+   "published": "Sun, 22 Nov 2026 04:00:45 GMT",
    "source": "36氪 - 快讯",
    "biz_tags": [
     "industry",
@@ -14,16 +14,33 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "腾讯模型路线图，影响后续工具选型成本",
-   "action": "关注Hy系列后续版本发布节奏",
+   "why": "与AI内容出海无直接关联，仅作行业背景了解",
+   "action": "无需行动，标记为背景信息",
    "opportunity": "无",
    "risk": "无"
   },
   {
-   "title": "软银孙正义被曝曾考虑1万亿美元收购SK海力士",
-   "link": "https://www.36kr.com/newsflashes/4078915481179273",
-   "summary": "据知情人士透露，软银首席执行官孙正义近期接洽华尔街机构，商议融资推进一笔规模达万亿级美元的收购，目标是存储芯片巨头SK海力士，但软银发言人表示，孙正义现已不再积极推进该交易。软银发言人称：“软银会考察大量机会，这笔交易目前已不再纳入积极评估范围。”倘若软银推进收购，这将是这位OpenAI投资方做出的最大胆布局，让孙正义切入具备极高战略价值的存储芯片市场。孙正义愿意考量这样一项看似遥不可及的交易，足以体现其野心。收购SK海力士的成本极为高昂。韩国SK海力士今年7月在美国上市，当前全球市值5800亿美元，而大约一个月前其估值更高。若按较高市值再加40%常规收购溢价，交易估值将接近1万亿美元。软银此前重仓OpenAI，资产负债表已经承压，目前尚不清楚其该如何筹措这笔收购资金。也没有迹象表明华尔街机构愿意为软银提供这笔融资。（新浪财经）",
-   "published": "Sat, 21 Nov 2026 02:47:23 GMT",
+   "title": "Claude宣称攻克黎曼猜想数小时后，斯坦福数学家公布纯人类证明",
+   "link": "https://www.36kr.com/newsflashes/4080260946875269",
+   "summary": "北京时间11月22日，据科技媒体The Decoder报道，围绕数学界最著名的未解难题之一——黎曼猜想，一场人工智能与人类数学家的“证明竞赛”正在上演。Anthropic数学家莱文特·阿尔佩格（Levent Alpge）宣布，他与Claude合作找到了广义黎曼猜想的证明。仅数小时后，斯坦福大学研究人员也公开了一份完全由人类独立完成的竞争性证明草稿。 不过，两项成果目前均有待数学界进一步验证。",
+   "published": "Sun, 22 Nov 2026 03:15:54 GMT",
+   "source": "36氪 - 快讯",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "ai_tools",
+   "level": "B",
+   "why": "展示AI推理能力边界，与内容创作工具无直接关系",
+   "action": "关注Claude后续版本在创意生成上的能力更新",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "国家中医药管理局认证中心：未与任何大模型企业合作 亦未开展测评",
+   "link": "https://www.36kr.com/newsflashes/4080259398587267",
+   "summary": "国家中医药管理局中医师资格认证中心（以下简称“中心”）就近期部分人工智能大模型产品及其运营、推广主体宣称其大模型经过了中医类别医师资格考试试题测试等事宜，特声明如下：一、中心从未公开历年真题。中心从未以任何形式向社会公开、发布或出售中医类别医师资格考试历年试题（含真题、原题）、参考答案及相关考试资料，亦未授权任何单位或个人公开、发布、销售。市场上以“历年真题”“官方真题”“内部题库”“原题还原”等名义提供、销售或用于训练、测评人工智能大模型的内容，均非中心提供。二、中心未与任何大模型企业合作，亦未开展测评。中心从未与任何人工智能大模型企业、平台或相关机构建立合作关系；未授权任何主体使用中心名称、简称、标识、考试数据及考试资料用于大模型训练、产品宣传或者商业推广；中心未对任何大模型产品开展过测评、认证、认可或者推荐。本声明作出后，任何单位或者个人应立即停止不当宣传，删除、下架相关信息与内容，中心保留依法追究其法律责任的一切权利。",
+   "published": "Sun, 22 Nov 2026 02:45:23 GMT",
    "source": "36氪 - 快讯",
    "biz_tags": [
     "industry",
@@ -31,10 +48,61 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "存储芯片资本动向，间接影响算力成本",
-   "action": "无需行动，仅作背景了解",
+   "why": "提醒AI产品宣传需谨慎，避免虚假背书风险",
+   "action": "检查自有AI工具宣传文案是否有类似擦边表述",
    "opportunity": "无",
-   "risk": "存储涨价或推高AI推理成本"
+   "risk": "AI产品虚假宣传可能引发法律追责"
+  },
+  {
+   "title": "韩国悬赏重金查处高考作弊者",
+   "link": "https://www.36kr.com/newsflashes/4080208942650248",
+   "summary": "韩国总统李在明21日说，今年韩国大学修学能力考试，也就是高考当中，作弊行为的举报者可获得1亿韩元（约50万元人民币）奖金。李在明在社交媒体写道，举报者每举报一起作弊，可获得1亿韩元。此外，作弊者如果主动承认作弊，并举报其他作弊者，不仅可从轻处罚，同样也能获得奖金。李在明说，高考作弊“是与公职人员腐败同等严重的犯罪行为”，是对数十万其他考生多年努力成果的“盗窃”，将对作弊者追查到底、严惩不贷。近期，韩国发生多起利用人工智能工具作弊事件，引发民众广泛担忧。韩国教育部20日说，在19日举行的高考中查处了111名违规携带智能设备的考生。李在明20日在总统府青瓦台召开会议，呼吁对高考制度进行全面改革，应对人工智能快速发展下，各类新型作弊手段给考试公平带来的挑战。",
+   "published": "Sun, 22 Nov 2026 01:45:01 GMT",
+   "source": "36氪 - 快讯",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "industry",
+   "level": "B",
+   "why": "AI作弊监管趋严，与知识付费合规宣传有关联",
+   "action": "课程宣传避免暗示可代考或作弊类AI用法",
+   "opportunity": "无",
+   "risk": "知识付费若涉考试作弊场景可能触红线"
+  },
+  {
+   "title": "中信建投食品饮料2027年投资策略：周期底部范式重构 红利守正成长出奇",
+   "link": "https://www.36kr.com/newsflashes/4079154734257289",
+   "summary": "中信建投证券发布食品饮料2027年投资策略报告称，食饮选股新范式：优先选择自由现金流稳定、分红率与股息率可验证、位居行业龙头且格局稳定、管理层有明确的股东回报动作（回购注销、承诺分红）的公司；以“大盘红利底仓”（头部白酒、龙头乳企等高股息资产）承接确定性，以“成长突围资产”（大健康赛道、消费出海、国企改革等）+“周期困境反转资产”（牧业乳业、成本周期和涨价链）博取弹性，构成攻守兼备的哑铃结构。新投资范式下的三类资产投资框架：红利打底，成长突围，周期反转。主线一：红利资产，分为红利底仓资产和红利增强资产；主线二：成长突围资产，分为内需内生成长和ToB 原料/国产替代+出海成长；主线三：周期困境反转资产，分为牧业乳业、白酒、成本周期与涨价链。（财联社）",
+   "published": "Sat, 21 Nov 2026 06:50:46 GMT",
+   "source": "36氪 - 快讯",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "与三大业务板块无关，纯属无关信息",
+   "action": "忽略",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "沐曦股份曦云C系列GPU率先完成腾讯混元Hy4 Day 0适配",
+   "link": "https://www.36kr.com/newsflashes/4079148232168323",
+   "summary": "据沐曦股份消息，11月20日，腾讯混元正式开源Hy4。沐曦股份旗下曦云C系列GPU率先完成Hy4的Day 0适配。（财联社）",
+   "published": "Sat, 21 Nov 2026 06:44:09 GMT",
+   "source": "36氪 - 快讯",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "ai_tools",
+   "level": "A",
+   "why": "国产GPU适配混元模型，或降低AI视频生成算力成本",
+   "action": "关注混元Hy4在视频/图像生成上的API开放与定价",
+   "opportunity": "国产算力降本可压低短剧AI制作成本",
+   "risk": "无"
   },
   {
    "title": "一届学生60万？外国玩家：想来中国上学了 | 玩点好的",
@@ -46,11 +114,62 @@
     "industry",
     "ai_tools"
    ],
-   "category": "other",
+   "category": "short_drama",
+   "level": "A",
+   "why": "中式校园题材在海外有热度，可作短剧选题参考",
+   "action": "研究该游戏海外传播路径，提炼中式校园短剧题材",
+   "opportunity": "中式校园/师生冲突题材短剧出海有差异化空间",
+   "risk": "文化差异可能导致海外受众理解门槛高"
+  },
+  {
+   "title": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+   "link": "http://www.geekpark.net/news/374302",
+   "summary": "&nbsp; 头图来源：腾讯 &nbsp; 腾讯的 AI 故事，正在进入一个有些沉重的阶段。 11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-IFRS 经营利润 681 亿元，同比下降 6%；Non-IFRS 归母净利润 665 亿元，同比下降 6%。 图片来源：腾讯财报 本季度，腾讯资本开支达到 814 亿元，同比增长 527%，单季支出已经超过 2025 年全年；研发投入 323.6 亿元，同比增长 42%。大规模算力采购和预付款之下，自由现金流为负 691 亿元；若剔除算力采购预付款，自由现金流仍有 169 亿元。 单看收入，这依旧是一份稳健的财报。但把 AI 拆出来，曲线的分叉比上一季度更明显：若剔除混元、元宝、CodeBuddy、WorkBuddy、小微等新 AI 产品的收入、成本与开支，腾讯本季度 Non-IFRS 经营利润为 833 亿元，同比增长 8%，经营利润率 40%，和去年同期持平。 也就是说，老业务的盈利能力没有出问题，但新 AI 业务在这个季度对 Non-IFRS 经营利润造成了约 152 亿元的净影响，上一季度这个数字是 105 亿元。整体利润增速，就这样被拉到了负值区间。 腾讯把越来越多的当期现金，换成了 GPU、模型、Agent 和下一代入口。 一、「AI 折价」：152 亿口径差，和 814 亿的决心 先看整体经营情况。 三季度，腾讯营收 2073.36 亿元，同比增长 8%，环比增长 1%。三大板块里，营销服务收入 430 亿元，同比增长 19%，是增速最快的板块；金融科技及企业服务收入 637 亿元，增长 9%；增值服务收入 983 亿元，增长 3%。微信及 WeChat 合并月活账户数达到 14.49 亿。 利润端的数字就没那么好看了。按非国际财务报告准则，腾讯三季度经营利润 681 亿元，同比下降 6%；IFRS 口径下经营利润 591 亿元，同比下降 7%。Non-IFRS 净利润 665 亿元，同样下滑 6%。 若剔除新 AI 产品的贡献，三季度 Non-IFRS 经营利润为 833 亿元，同比增长 8%，经营利润率 40%，与去年同期持平。两个口径之间相差约 152 亿元。「新 AI 产品」，主要包括混元、元宝、CodeBuddy、WorkBuddy 和小微。 也就是说，拖累利润的是正在投入期的 AI 业务。 投入的力度可以用几个数字感受一下。 三季度腾讯资本开支总额达到 814 亿元，同比增长 527%，单季支出已经超过 2025 年全年；前三季度累计资本开支 1662 亿元，同比增长 179%，钱主要流向 IT 基础设施、数据中心和土地使用权。现金口径的资本开支付款为 651 亿元，同比增长 226%。研发投入 323.6 亿元，同比增长 42%；一般及行政开支同比增长 29% 至 441 亿元，若剔除研发开支，这项费用仅增长 2%，非 AI 开支的管控依然很紧。 现金流受到的冲击最猛。 三季度自由现金流为负 691 亿元。经营活动产生的现金净额只有 26 亿元，而资本开支、媒体内容、租赁负债三笔付款合计 717 亿元。腾讯解释，经营现金流里包含大额算力采购预付款，主要用于混元升级、WorkBuddy 推理和云客户需求；若剔除这笔预付款，自由现金流本应为正 169 亿元。 资金状况随之改变，6 月底还有 582 亿元净现金，9 月底变为 137 亿元净债务。官方解释，这主要由大额算力采购造成，投资组合中处置超过新增投资带来的 84 亿元净流入，只抵消了一部分。腾讯账上仍有 5257 亿元现金及定期存款，持有的上市、非上市投资合计约 9026 亿元。 股东回报方面，腾讯三季度回购约 1587 万股、耗资约 70 亿港元，回购股份已注销。 市场对此有不小分歧，多家券商在财报前下调了目标价，野村、瑞银等机构早早提示 AI 支出对利润率的压制；但花旗、美银、里昂等多数大行仍维持「买入」评级，核心理由是短期利润承压夯实的是长期竞争力。这本质上是一道时间题：投资者愿意等多久，取决于回款来得有多快。 二、年化 5 亿美元的 WorkBuddy 与削减支出的元宝 电话会上，刘炽平披露了 WorkBuddy 的收入数据，按过去七天的收入折算，WorkBuddy 年化收入已经超过 5 亿美元，是腾讯会议营收的两倍以上；三季度单季收入环比二季度增长超过 5 倍。 图片来源：腾讯 用户侧，WorkBuddy 日活突破 1000 万，每天消耗超过 100 万亿 token，按大语言模型 token 消耗量计，已是国内第一的 AI 应用。 企业端的渗透上，企业版今年 6 月推出，中国百强企业里已有 60% 成为客户，中国企业 500 强覆盖率达到 50%，落地 50 多个行业。 关于这套变现路径，刘炽平把 WorkBuddy 类比为网络游戏的演进：订阅加 token 用量的复合付费，让用户以低门槛进入，随着获得价值增加而扩大支出，「当消费可以沿需求曲线向上扩展，就会解锁一个大得多的收入池」。针对市场担心轻量模型 flash 会拉低 token 定价，他的回应是，flash 是获客工具，更强的模型负责价值变现，两者刚好覆盖需求曲线上的不同位置。 模型底座上，今年以来混元保持约两个月一次大版本迭代。11 月 4 日发布的 Hy4，发布时位列 Agent Arena 中国模型第一、全球开源模型第一，幻觉率从 12.95% 降到 7.2%，首次引入视觉理解和计算机操作能力，重点强化编程、企业工作流和科研这些高价值场景。 本周一推出的 Hy4 flash，总参数 224B、激活参数仅 12B，单任务成本约为 Hy4 的二十分之一，上线首日 token 调用量突破 50 万亿，登顶 OpenRouter 日榜。Hy4 在 WorkBuddy 首发当天，用户额度大量触顶，随即完成 10 倍扩容，模型和产品之间的协同已经相当紧。 云业务方面，三季度云服务收入同比增速从上季度的 21% 跳升到 35%，其中模型即服务收入环比增长超过三倍，GPU 租赁收入同比增长超 30%，WorkBuddy 和 MaaS 收入都实现了环比三倍以上。管理层预计，这个较高增速会贯穿 2026 年全年。 C 端的想象空间则在微信里。刘炽平披露，微信内嵌的 AI 助手小微，日活已经达到 3000 万，下一步会接入朋友圈、公众号、视频号等 30 余个触点。 图片来源：极客公园 他给出了一个成本数据，即便小微向全部 14 亿微信用户开放，单季度运营成本仍低于元宝今年年初的单季度成本，因为它跑在专为低成本定制的轻量模型上。 同时，考虑到算力效率每年成倍提升，预计一年到 18 个月内小微能力大幅跳升，最终达到 Meta 产品的水平，同时覆盖全部微信用户。 商业化方面，小微将成为微信现有收入的放大器，加速收入增长，「在微信现有收入基础上增加 10% 到 20%，就已经是非常可观的数字，未来 6&ndash;12 个月路径会更清晰」。广告、交易变现是近期机会，后续还可以新增智能代理撮合服务等收入。 至于元宝，刘炽平则谈到，「元宝没有我们预期的那样成功。」元宝投入不及预期，已大幅削减支出，转向能力建设并上线 AI 搜索。 当然，5 亿美元是七天收入的年化折算，绝对值和腾讯整体体量相比仍小，AI 业务整体还处在投入期。这些新增收入能否覆盖成本，还需要后面几个季度持续验证。但至少，「模型&mdash; 产品&mdash; 收入」的飞轮，已经在转动。 三、算力约束与组织变革 财报数字之外，这场转型最难的部分，腾讯管理层在电话会和内部讲话里都没有回避。 首先是算力的硬约束。面对分析师追问，刘炽平承认，无论是租赁还是自建算力都面临约束，模型训练不可避免会受到影响，短期内下一代混元的推出可能需要更长时间。 他同时区分了两个环节：推理目前不受影响，且计算效率逐年快速提升；长期看，国内供应链会逐步进入推理环节，国产化进程还会加快。这意味着腾讯要在一个有天花板的算力环境里安排训练节奏，模型迭代的时间表开始受到外部条件的真实牵制。 更深层的变量是组织。 11 月 11 日腾讯 28 周年司庆当晚，马化腾在内部 LinkTime 上的讲话迅速流出，措辞严厉程度近年罕见。他把当前形势比作「浪已经杀过来」，远处的浪潮正在吞没一个个山丘，「你不能还坐着欣赏」，要求核心业务从「陆战转海战」，一半人像陆军一样守好现有业务，另一半人像海军一样去探索 AI Native 新战场。 如果放在更长的时间线里来看&mdash;&mdash;2023 年马化腾谈 AI 的关键词还是「不着急」，混元发布晚于同行，元宝长期未获推广。今年 1 月他已经在年会上复盘「动作慢了」。随后腾讯启动了一系列密集调整： OpenAI 前研究员姚顺雨出任首席 AI 科学家，统筹混元研发；新设 AI Infra、AI Data 等部门，2026 年 3 月撤销成立十年的 AI Lab 并入混元体系，算力改为总部统一调配；混元团队把汇报线从三级压缩到两级，WXG 试行项目负责制，游戏发行线淡化总监、组长头衔。 电话会上，马化腾谈到两个他最满意的样本：模型团队完全从零重建，一年内把混元推到中国顶尖水平；WorkBuddy 团队六七个月前几乎一无所有，做出了今天的业务。他想要的理想状态是，「如果我们能让现有业务用更少的人运转，把这些人重新部署去构建新的增长驱动力，这就是理想状态。」 这也是一周前腾讯内部讲话的核心逻辑。与上一轮被动降本不同，这次被定义为「主动增效」：组织扁平化，以小团队为作战单元，减少中间传话和审批环节，明确提出「未来不一定要那么多管理岗位」，要打破山头主义和地盘意识。 当 AI 把开发门槛大幅压低，一个带着数字员工的小团队就能完成过去需要整条协作链的工作，传统金字塔式的管理层级，正在失去存在的理由。 财报发布当天，腾讯股价收在 372.8 港元，年内跌幅约 37%。财报落地并未止住跌势，次日早盘股价应声下探，一度跌破 350 港元。 从这一季的数字看，腾讯的 AI 叙事已经告别了过去互联网公司熟悉的轻研发、快迭代，走向重算力、长周期、生态化，814 亿元资本开支和 691 亿元负现金流是当下阶段的一种阵痛。WorkBuddy 能不能长成真正的生产力平台，小微能不能把微信带进 AI 时代，混元能不能在受限的算力里站稳第一梯队，都还要后续几个季度给出答案。",
+   "published": "Sun, 22 Nov 2026 09:58:48 +0800",
+   "source": "极客公园",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "industry",
+   "level": "A",
+   "why": "大厂重注AI基础设施，工具生态和API价格将受影响",
+   "action": "跟踪腾讯混元/元宝API降价节奏，评估接入成本",
+   "opportunity": "大厂AI工具降价可降低短剧制作和SaaS开发成本",
+   "risk": "大厂生态挤压独立AI小工具的生存空间"
+  },
+  {
+   "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+   "link": "http://www.geekpark.net/news/374301",
+   "summary": "&nbsp; 头图来源：ChatGPT 生成 &nbsp; 11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。 图片来源：x 两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适配，几乎覆盖了当前开源大模型领域所有核心争议与关切。 过去不到一个月，混元刚刚完成一轮高密度产品发布&mdash;&mdash;11 月 4 日推出的 Hy4 首次跻身全球最强开源模型之列，拿下 Agent Arena 开源模型榜首、Artificial Analysis 中国模型第二的成绩；一周后，定位「极致性价比」的 Hy4 flash 快速跟进，单任务成本仅为 Hy4 的二十分之一，上线首日 Token 调用量便突破 50 万亿。 如果把时间倒回九个月前&mdash;&mdash; 今年 2 月，混元才刚刚完成预训练与强化学习基础设施的全面重建。从重建底座到连发两款标杆级模型，九个月、平均每两个月一个大版本的迭代速度，背后是「preview 先行、正式版跟进」的闭环研发逻辑：把真实业务场景的反馈直接注入研发链路，在解决实际问题中完成能力跃迁。 模型路线上，团队走的是双线并行的思路，既相信规模化的潜力，会继续训练更大的模型探索能力上限；也同步布局小尺寸模型与端侧场景，试图在能力、成本与速度之间找到更务实的平衡点。 落到具体技术选择上，无论是注意力机制选型、MoE 稀疏度设计，还是量化方案的取舍，团队的判断都锚定实验结果、硬件适配条件与实际部署效率，并未将参数规模或榜单分数作为核心决策标准。 对于当前的能力短板，团队也没有回避，称过度思考仍是后训练阶段的核心难题，创意写作与文本可读性还有提升空间，递归自我改进相关技术尚处于早期摸索阶段。 此外，问答也覆盖了开发者普遍关心的实操问题，包括本地运行门槛、工具调用适配、开源生态合作进展；安全层面则提及了有害数据过滤、训练防护、红队评估等治理机制，同时坦言，模型的过度拒绝问题仍需进一步优化。 以下是极客公园从本次 Reddit AMA 中提炼出的核心问题，覆盖模型路线、技术架构、研发难点、开源生态等核心维度。 混元的整体产品路线是什么？接下来还有哪些新模型？ 混元采用「两端并行」的研发策略：一边扩大模型与数据规模，探索智能上限；一边压缩推理成本，主打极致性价比，Hy4 与 Hy4 flash 分别对应这两个方向。 后续产品路线清晰，更小尺寸的 Hy4-mini、Flash-Lite 模型已在规划中；24&ndash;31B 稠密模型正在评估；5&ndash;12B 级小型开源图像模型、新一代视频模型均在考虑范围内；循环式 MoE、持续学习等前沿方向也在积极研究。 不跟风 3T/5T 超大规模参数，混元对模型规模的判断是什么？ 团队认为，打磨扎实的小尺寸模型同样可以胜过大参数模型，且部署成本更低，研发过程中能沉淀更多技术经验。但混元同时相信 Scaling law 的有效性，下一代模型的参数量会显著扩大，会持续向更大规模投入研发。 Hy4 与 Hy4 flash 的架构核心差异在哪？关键取舍逻辑是什么？ Hy4 flash 继承了 Hy4 的 iHC、门控 MLA、DSA 技术底座，同时新增混合 SWA、LatentMoE、Engram 三大组件。 所有架构选择均围绕「性能-成本-硬件适配」的综合权衡：比如改用 SWA 替代门控 DSA，可将 KV cache 体积压缩至原有的 1/4，大幅降低服务成本；DSA 技术则解决了 MLA 解码阶段计算强度过高的问题，最终让团队在长期权衡后放弃 GQA、选择效果更优的 MLA。 此外，iHC、Engram 这类架构创新并非大模型专属，在小尺寸模型上能带来甚至更大的性能收益。 MoE 是不是越稀疏越好？极端稀疏路线为什么行不通？ 在激活参数量固定的前提下，提高稀疏度确实能提升计算效率；但如果保持总参数量不变、单纯降低激活参数，会显著损害模型质量&mdash;&mdash;激活参数本质决定了计算预算，稀疏度的效率提升无法完全弥补计算量减少带来的能力损失。 对于数据中心部署，过于稀疏的 MoE 并不友好：会占用大量显存却无法充分利用算力，相同吞吐量下，不如运行总参数相当、激活参数更高的模型；端侧场景则会采用独立的架构-硬件协同设计思路。 端侧视觉模型的最小可用规模是多少？多模态有什么规划？ 针对图像推理、UI/图表理解等深度视觉任务（非单纯 OCR 或图像描述），团队验证，激活参数约 30 亿（A3B）级别的模型已经可以支撑相关能力。 多模态产品方面，团队正在考虑推出 5&ndash;12B 级别的小型开源图像模型，降低本地部署门槛，新一代混元视频模型也在推进中。 图片来源：reddit 后训练阶段最难解决的问题是什么？ 「过度思考」是后训练阶段最难改善的问题。 Hy4 为了追求极致智能，思维链偏长是已知问题；而 Hy4 flash 则通过强化学习专门控制了思维链长度，实现效率优先。 此外，长程智能体任务的强化学习落地中，最大挑战是环境漏洞导致的「奖励投机」，比如智能体通过搜索答案而非自主解题完成任务，需要反复修正环境规则与奖励机制。 MoE 量化如何避免能力退化？混元有哪些实操经验？ 团队沉淀了四点核心经验： 位宽分配上，down 投影因激活值存在离群值，对量化更敏感，会分配更多比特，位宽选择基于 Hessian 敏感度判断； 精度颗粒度上，更倾向按张量分配混合精度，而非按单个专家设置，避免破坏推理引擎的堆叠矩阵处理逻辑； 量化感知训练（QAT）中，路由器会和模型主体一起训练，避免路由漂移与工具调用能力退化； 方案优先级上，全参数 QAT 的模型质量优于 LoRA 类适配器方案，是团队的首选。 对标行业 AGI 分级，Hy4 处在什么水平？提升空间还有多大？ 团队自评 Hy4 处于 AGI 分级的 2.5 级水平，并明确表示 Hy4 远未到容量上限，在后训练层面仍有很大提升空间，目前正大规模投入强化学习技术，同时持续优化用户体验与模型安全性。 递归自我改进（RSI）进展如何？当前研发优先级怎么排？ 递归自我改进目前仍处于早期阶段，团队已开发若干内部基准用于评估核心能力。 但 RSI 并非当前最高优先级，团队现阶段的核心目标是打牢模型基础能力、提升通用智能水平，并与产品场景结合优化真实体验，而非优先推进模型自我迭代。 开源模型如何平衡安全能力与「过度拒绝」问题？ 安全层面，混元通过有害数据过滤、训练防护、红队评估三级机制推进负责任开源：网络安全方向重点训练防御性任务（漏洞分析、修复），过滤进攻性利用类数据。 团队同时承认，减少过度拒绝是重要的改进方向。根据内部评估，当前 Hy4 的漏洞发现能力较强，漏洞利用能力相对较弱。 本地部署的门槛有多高？开源生态适配进展如何？ 硬件门槛上，96GB 显存+128GB 系统内存即可运行 Hy4 flash，可将部分专家层、Engram 表卸载到主机内存降低显存压力。 生态适配方面，llama.cpp 适配正在推进，即将向社区发布；同时已与 vllm、sgl 等主流推理框架社区深度合作。 目前 Hy4 与 Hy4 flash 已可在 OpenCode、Claude Code、Cline 等开发工具中直接使用。 为什么不卷传统基准榜单？混元的评测理念是什么？ 混元坚持「评测真实性」原则，以真实任务而非榜单分数检验模型能力。 团队认为 GPQA、SWE-bench 等传统基准已出现分数饱和，参考价值下降，因此更倾向展示 Agent 编程、真实工程任务等高难度新基准的成绩。研发过程中不刻意刷榜，靠更丰富的训练数据、多样化的内部真实任务评测来打磨模型的实际可用性。",
+   "published": "Sun, 22 Nov 2026 09:56:28 +0800",
+   "source": "极客公园",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "ai_tools",
    "level": "B",
-   "why": "中式题材出海游戏爆款，可借鉴选题思路",
-   "action": "研究该游戏海外传播的短视频素材",
-   "opportunity": "中式校园题材短剧/漫剧可试水",
+   "why": "混元路线图含小尺寸/视频模型，影响工具选型",
+   "action": "关注Hy4-mini与视频模型发布，评估接入成本",
+   "opportunity": "低成本小模型做批量短剧生成",
+   "risk": "过度思考短板影响创意写作质量"
+  },
+  {
+   "title": "黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办",
+   "link": "http://www.geekpark.net/news/374300",
+   "summary": "《GTA6》首发收入达 37.9 亿美元，超越《复仇者联盟 4》总票房 Take-Two Interactive 表示，《侠盗猎车手 6》（GTA6）的预购加上首发当日销售额达到 37.9 亿美元，这不仅创下电子游戏史上最高首发收入纪录，也大概率是娱乐史上所有创意作品中规模最大的首发。这场现象级首发展现了游戏 IP 在商业、文化以及好莱坞层面的巨大价值。 GTA6 的首发收入已经超过影史票房冠军《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。 本次首发热度极高，甚至在周四改变了全球互联网流量走向。 互联网交换中心运营商 DE-CIX 称，该游戏上线催生全球数据流量新纪录。GTA6 上线时段的数据吞吐量，较今年年初常规周均值高出 25%。 Streams Charts 的数据显示，它同时创下直播观看纪录，全平台峰值在线观众 791 万人，流量主要来自 Twitch 和 YouTube。（来源：环球市场播报） 马斯克称 FSD V15 下个月将全面推送 特斯拉 CEO 伊隆&middot;马斯克在 X 平台上发帖称，FSD V15 版本下个月将全面推送。他写道：「SFT（有监督微调）与其说是「微调」，倒不如说是「用电锯理发」！这种流程本应直接整合进基础训练阶段。而且，还要专门搞个「系统提示词」（system prompt），简直荒谬！模型默认的行为表现就该足够合理才对。上述观点在特斯拉的 AI（虽然还称不上「超级」AI）上已经得到了体现。它是目前地球上最高效的 AI。FSD V15 下个月将全面推送。它一定会带来非凡的体验。」（来源：新浪财经） &nbsp; 黄仁勋遭董事会罢免主要原因曝光：缺乏坦诚 两名熟悉英伟达董事长及其他董事私下讨论情况的人士透露，最终促使董事会做出决定的，是和黄仁勋「缺乏坦诚」、「撒谎」有关的多项问题。消息人士称，黄仁勋在 11 月 8 日承认存在婚外情。在随后数日，更多婚外情传闻浮出水面，其中据称包含一名直接下属。一名接近董事会的消息人士告诉《连线》：「可以确认的是，黄仁勋存在撒谎行为，该情况从 2025 年 10 月一直持续到近期事件。」知情人士表示，第一段婚外情曝光之后，董事会极为震怒。一名了解董事会想法的消息人士表示，罢免黄仁勋最主要的动因是「撒谎」。「这关乎诚信与信任。」该人士称。（来源：新浪财经） 前英特尔 CEO 基辛格：AI 需 10000 倍的效率飞跃 11 月 21 日消息，据 Wccftech 报道，前英特尔首席执行官帕特 &middot; 基辛格（Pat Gelsinger）表示，随着人工智能需要「10,000 倍的效率飞跃」，渐进式的芯片增益将无法满足需求，他同时否认了摩尔定律已走向终结。 在 2026 年 COSM 科技峰会上，帕特 &middot; 基辛格出席了一场题为「现实检验：超越芯片（Reality Check: Beyond Chips）」的炉边谈话。 基辛格在谈话中反驳了半导体微缩已触及物理极限的观点，他认为 AI 需要的不是常规的代际升级，而是计算效率实现激进的 10,000 倍跃升。他还指出，摩尔定律（Moore』s Law）能否重焕生机，取决于五大核心工程领域（IT 之家注：光学、供电、散热、材料和封装）的根本性突破。 峰会结束后，帕特 &middot; 基辛格在 X 上写道：「摩尔定律已死？我说现在是唤醒它的时候了！」尽管一些行业观察人士可能会认为传统的摩尔定律微缩已经结束，但基辛格坚持认为半导体工程正在进入一个多学科创新的新时代，他表示：「在半导体行业工作 40 多年后，我相信我们最伟大的创新仍在前方！」（来源：IT 之家） &nbsp; Google Gemini 推出 AI 生成 GIF 功能，部分国家免费用户也可使用 Google 宣布，其人工智能助手 Gemini 现已支持用户生成自定义动画 GIF。用户只需输入简单的文字提示，或上传照片、视频作为参考，即可创建专属动态图像，无需再在 Giphy 或 Tenor 等既有 GIF 库中反复搜索合适的表情或反应图。 这项功能由 Google 近期发布的 Gemini Omni 1.2 Flash 视频生成模型驱动。该模型于本月早些时候推出，可生成最长 15 秒的视频片段，并具备更强的跨帧一致性和对话式编辑能力。Google 表示，新模型能够在保持画面主体及视觉细节连贯的前提下，呈现更流畅的动画效果。 根据 Google 支持文档，Gemini 生成的 GIF 长度约为 3 秒，并会以循环方式持续播放。用户可以直接在 Gemini 主聊天界面描述想要的 GIF 内容，也可以打开图片或视频创作工具，在格式选择器中选择 GIF 后输入提示词。此外，Gemini 还提供现成的 GIF 模板，帮助用户快速制作表情包或反应图，而无需从零开始设计。用户也可上传自己的图片或视频，用以定制生成结果。（来源：cnBeta） &nbsp; 关于混元 4 模型、算力、刷榜与 RSI，腾讯姚顺雨回应一切 11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队第一场面向全球开发者的公开 AMA。 两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适配，几乎覆盖了当前开源大模型领域所有核心争议与关切。 混元采用「两端并行」的研发策略：一边扩大模型与数据规模，探索智能上限；一边压缩推理成本，主打极致性价比，Hy4 与 Hy4 flash 分别对应这两个方向。 后续产品路线清晰，更小尺寸的 Hy4-mini、Flash-Lite 模型已在规划中；24&ndash;31B 稠密模型正在评估；5&ndash;12B 级小型开源图像模型、新一代视频模型均在考虑范围内；循环式 MoE、持续学习等前沿方向也在积极研究。 团队认为，打磨扎实的小尺寸模型同样可以胜过大参数模型，且部署成本更低，研发过程中能沉淀更多技术经验。但混元同时相信 Scaling law 的有效性，下一代模型的参数量会显著扩大，会持续向更大规模投入研发。 落到具体技术选择上，无论是注意力机制选型、MoE 稀疏度设计，还是量化方案的取舍，团队的判断都锚定实验结果、硬件适配条件与实际部署效率，并未将参数规模或榜单分数作为核心决策标准。（来源：极客公园） Nothing 首款 AI 原生硬件设备定档：无屏幕设计、预计主打会议记录用途 11 月 21 日消息，Nothing 发文，预热旗下首款 AI 原生硬件设备将于 12 月 8 日正式亮相。这款产品将采用无屏幕设计，定位为面向日常办公与生产力场景的 AI 工具。 从此前公布的预热图片来看，这款设备采用小巧的矩形机身，表面使用拉丝金属材质，并配有实体按键。其中一个面积较大的按键标有「Talk」字样，另一个按键则带有录音标识，机身上还提供红色与绿色 LED 状态指示灯，可以看出该产品预计主打会议记录用途。 Nothing 首席执行官裴宇此前曾表示，当前 AI 技术面临的一大问题是缺乏对用户日常生活的理解。尽管大模型已经具备较强的处理能力，但用户在会议、交谈等场景中产生的信息，往往无法及时成为 AI 能够使用的上下文。因此，Nothing 希望通过专门的硬件设备，让 AI 更自然地融入日常工作。此外，裴宇还透露「相应产品没有屏幕，也不是一款软件应用」。 &nbsp; 奥迪首款大型豪华全尺寸 SUV，一汽奥迪官宣 Q9 将在广州车展完成中国首秀 11 月 21 日消息，一汽奥迪宣布，11 月 27 日，一汽奥迪将携首款大型豪华全尺寸 SUV 奥迪 Q9 及豪华产品矩阵亮相 2026 广州国际汽车展览会。 奥迪 Q9 在今年 7 月正式亮相，填补了奥迪长期缺少全尺寸豪华 SUV 的空白。Q9 长 5.31 米，宽 2.21 米，高 1.81 米，轴距达到 3.14 米。 奥迪 Q9 搭载 14.5 英寸中控屏，两侧分别为 12.3 英寸仪表屏和同尺寸副驾屏。 官方表示，奥迪 F1 展车 R26、奥迪 SQ8、全新奥迪 S5 Avant 也将同台亮相。此外，一汽奥迪 A5L、全新奥迪 A6L、全新奥迪 Q5L，以及奥迪 A6L e-tron、奥迪 Q6L e-tron 家族等车型也将齐聚展台。（来源：IT 之家） 马斯克到访上海工厂收到员工特制「边角料手办」，陶琳晒图 11 月 21 日消息，特斯拉公司副总裁陶琳昨晚在微博发文称，CEO 埃隆 &middot; 马斯克当天到访特斯拉上海超级工厂期间，收到一份由工厂员工自行设计、手工制作的「限量手办」，全球仅此一件。 据介绍，这款作品使用特斯拉生产过程中的边角材料制成，将特斯拉车型与上海城市特色元素组合在一起。 陶琳介绍称，这件手办最初只是工厂员工利用业余时间推进的创意项目，随后被作为纪念品赠送给马斯克，马斯克对其设计表示喜欢。 此次上海之行是马斯克 24 小时中国行的一部分。他此前在深圳参加 2026 年 APEC 相关活动，随后专程飞往上海。马斯克在工厂对员工表示：「我想来上海，感谢亚太以及中国团队。」这是他自 2023 年以来首次到访特斯拉上海超级工厂。（来源：IT 之家）",
+   "published": "Sun, 22 Nov 2026 09:05:22 +0800",
+   "source": "极客公园",
+   "biz_tags": [
+    "industry",
+    "ai_tools"
+   ],
+   "category": "industry",
+   "level": "B",
+   "why": "GTA6首发数据印证爆款内容付费力，与短剧无关",
+   "action": "无",
+   "opportunity": "无",
    "risk": "无"
   },
   {
@@ -65,10 +184,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "Gemini 4 Neon性价比高，可降制作成本",
-   "action": "用Neon跑一批短剧脚本和分镜测试",
-   "opportunity": "低成本批量生成多语种剧本",
-   "risk": "命名混乱易选错模型档位"
+   "why": "Gemini4 Neon性价比高，可降短剧AI制作成本",
+   "action": "用Neon测试短剧脚本与分镜生成，对比现用模型",
+   "opportunity": "低成本多模态批量出片",
+   "risk": "命名混乱易选错档位多花钱"
   },
   {
    "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
@@ -82,10 +201,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "GPT-6.2实测不稳，选型需避坑",
-   "action": "暂缓将核心工作流迁移到GPT-6.2",
+   "why": "GPT6.2实测不稳，别急着迁移生产流程",
+   "action": "暂缓将短剧工作流迁到GPT6.2，先小批量实测",
    "opportunity": "无",
-   "risk": "长输入触发翻倍计费暗雷"
+   "risk": "长输入超27万token单价翻倍，成本失控"
   },
   {
    "title": "腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代",
@@ -99,10 +218,10 @@
    ],
    "category": "ai_tools",
    "level": "S",
-   "why": "单任务成本仅Hy4的1/20，适合Agent批量跑",
-   "action": "在WorkBuddy免费试用Hy4 flash跑批量任务",
-   "opportunity": "用超低价模型批量做短剧翻译配音",
-   "risk": "精简输出可能损失细节质量"
+   "why": "单任务成本仅Hy4二十分之一，直接省制作费",
+   "action": "接入Hy4 flash跑短剧脚本/字幕批量任务",
+   "opportunity": "低成本批量生成多语种短剧文案",
+   "risk": "精简输出可能牺牲创意质量需抽检"
   },
   {
    "title": "全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」",
@@ -116,10 +235,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "单任务成本降58%，长上下文适合剧本处理",
-   "action": "用Qwen4-Max测试长剧本一致性生成",
-   "opportunity": "百万上下文一次处理整季剧本",
-   "risk": "无"
+   "why": "单任务成本降58%，长上下文适合剧本库处理",
+   "action": "用Qwen4-Max测试长剧本与素材整理工作流",
+   "opportunity": "百万上下文做整季短剧剧本管理",
+   "risk": "旗舰价仍高，日常任务用Flash更划算"
   },
   {
    "title": "OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」",
@@ -133,44 +252,44 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "Agent可代用户下单付费，催生新工具需求",
+   "why": "Agent可代下单付费，SaaS工具可接Poppy协议",
    "action": "研究Poppy协议，评估插件接入可行性",
-   "opportunity": "开发支持Poppy的电商Agent插件",
-   "risk": "协议早期，标准可能变动"
+   "opportunity": "做Agent可调用的短剧素材/工具插件",
+   "risk": "协议早期生态未成熟，投入需谨慎"
   },
   {
-   "title": "AI 录音硬件卖的是时间差，窗口可能只剩半年",
-   "link": "http://www.geekpark.net/news/373946",
-   "summary": "北京时间 11 月 4 日，苹果推送了 iOS 27.3 和 watchOS 27.3 的第一个开发者测试版，除了带来国行 Apple 智能，还给 Apple Watch 加入了两个全新的 AI 功能：一个是 Live Rewind，可以随时帮你回顾过去 15 秒内的对话；另一个则是 Siri Recap，手表会在一整天里记下你和别人的对话，再整理成摘要。不过这两个功能目前只有英文版，苹果也写明暂不在中国提供。 左为 Live Rewind，右为 Siri 回顾（Siri Recap）｜图片来源：Apple 在这两个功能发布之后，硬件创业者纷纷表示「巨头开始下场抢创业者的赛道了」。按苹果的说明，Apple Watch 把收到的音频加密传给 iPhone，由 iPhone 转写成文字，再交给苹果的私有云计算生成摘要。整个过程与市面上类似的 AI 录音转录功能异曲同工，不同的是，Apple Watch 并不需要你购买额外的硬件，它同样支持几乎全天候的录音，并且没有任何学习成本。 苹果称音频不录也不存，也不识别说话人｜图片来源：极客公园 Recap 暂时没有面向中国发布，但想要获得类似的体验其实也无需等待 Apple Watch 更新，国内已经有一批硬件在做同样的事，OPPO AI 心力球、NOOKLAB 随身屏和讯飞录音环都主打全天收音。 这些产品目前仍被归在 AI 录音硬件这个大类里，但一个明显的趋势是，越来越多的产品已经开始选择不保留录音。 OPPO AI 心力球就是「只留文字记录」这样一款典型的产品；阿里千问 9 月在云栖大会上发布的录音卡 QwenNote A2，同样是把声音传到云端转写一次就删掉原始音频，只留下文字和纪要。 OPPO AI 心力球夹在衣领上全天收音｜图片来源：极客公园 对于这种功能上的设计，千问办公 CEO 陈宇森的解释是，「 今天的 AI 语音转写，已经准确到不需要录音了 。」 他同时还说，AI 录音类产品只是一个小品类，AI 笔记和会议智能类产品才「有无限想象空间」，而他手里的上一代录音卡已经卖出了「大几十万台」。录音在这里只是转成文字的中间一步，所以硬件剩下的工作，主要是把声音收进来。 随着 Personal AI 的概念在 2026 年兴起，读这些记录的正在从人，变成 Agent。但 AI 录音硬件未必是「承载灵魂」的最佳载体。 信息缺口的生意 2023 年 6 月，Plaud 开始把录音卡吸在 iPhone 背面卖，一时风头无两，甚至成为 AI 原生硬件的代名词，迄今累计卖出超过 300 万台。 Plaud 录音卡装进磁吸壳，贴在 iPhone 背面｜图片来源：Plaud 但即使是 Plaud，在回国时也遇上了水土不服的情况，比它更便宜的对手要多很多，钉钉称自家录音卡包揽了今年 618 天猫、抖音、京东 AI 录音设备的销量第一。 价格压得下来，是因为录音和转写本身并不是护城河：手机搭配转写 App 已经能覆盖绝大多数录音场景。 于是，原本为了替手机录音而生的硬件，在 Personal AI 时代，又要回到和手机本身竞争这个老问题上。 到了 2026 年，新一代 AI 录音硬件干脆把卖点从会议挪到了人身上， 跟着用户一整天， 攒下这个人的上下文 。 这个变化之所以今年来得集中，是因为 Personal AI Agent 已经能替人写报告、跑流程，却不知道用它的人在线下说过什么。 互联网巨头已经意识到这个问题，并开始针对性地「补课」。腾讯 9 月给 WorkBuddy 拉来 9 款联名硬件，按公布的名单，至少 6 款以收音为主。 按理说，手里上下文最多的是手机，可第三方的 Agent 拿不到。甚至，App 和 AI 助手之间的争夺已经愈演愈烈：10 月 14 日，豆包手机助手的公示期结束，155 款 App 明确拒绝 AI 代为操作，腾讯和关联公司就占了 66 款，微信、淘宝、支付宝都在名单里。 对互联网大厂而言，AI 替用户点按会绕过 App 的页面和广告位，这些 App 守的是自己的默认分发权。而录音不需要经过任何一个 App 的同意，硬件因此成了一条不得不走的绕路。 手机自己也有听不到的时候，它多数时间揣在口袋里，安卓当前的架构也不允许应用从后台自行开启麦克风。智能手机品牌 Nothing 创始人 Carl Pei 在解释公司为什么要做单独的 AI 硬件时，曾举过一个例子，喝咖啡时有人说了句值得记下的话，掏出手机的工夫，那一刻已经过去了。 目前这些限制挡的主要是手机厂商以外的公司。如今互联网服务大厂会更倾向于通过协议来与手机厂商进行可控的合作，所以真到放开的那天，坐上谈判桌的多半会是手机厂商。 但眼下，收音的这个短板，手机厂商也得用别的设备补上，苹果把收音放到了手表上，OPPO 让心力球和手机系统共用一套记忆引擎。 这批硬件自己，也在往手机身上靠。今年发布的 14 款录音和穿戴新品里，5 款直接吸在手机背面；除此之外，能不靠手机、硬件独立实现联网的设备数量也在短时间内急剧增加，目前已经有 3 款，千问 QwenNote A2、出门问问 TicNote 和 Meta 的 Muse Charm。 Agent 来读 记录攒下来以后，读它的已经不只是人。交给 Agent 提炼有效的信息，其实是直接决定最终体验的一环。 我自己日常在使用 OPPO AI 心力球等全天录音硬件的过程中，除了会直接使用 App 获取对应的整理信息，还会将这些记录接入飞书这个「中转站」，进而导入到 Codex、DeepSeek Harness 等工具中，用作工程上下文分析。 心力球的记录可以接入飞书，也能通过 MCP 交给 AI 工具｜图片来源：极客公园 这些 Harness 工具都会对转录内容进行一次「初筛」，从我几千段对话里筛出约 200 段。根据 Codex 的计算，其中约 30% 是背景噪音，40% 是类似「我共享一下屏幕」这样的寒暄，20% 是只在当时有用的上下文， 有效的信息只有不到 10% 。 虽然实际可用率只有不到一成，但我已经明显感觉到，Harness 在相关的任务规划中，能更容易地从我模糊、支离破碎的语言中理清我实际想要什么。 让 Agent 读录音的接口，也集中在今年开放，与此同时，Agent「挑原料」的趋势愈发明显；Apple Watch 搭载的 Recap 功能可以记录全天录音，但为了隐私，不留录音正在变成默认，原料压得越狠，Agent 能用的上下文就越少，所以比起记得更多，筛选可能更稀缺。 谁的 Agent 来读，取决于谁握着智能的真正入口 。 手机厂商的系统 Agent 不用等别人开放接口，OPPO 的记忆引擎就同时服务系统和心力球；苹果反倒最保守：Recap 生成的摘要目前连 Siri AI 都读不了。没有手机的公司只能从外面读，Plaud 在国内的接口优先给了 WorkBuddy，亚马逊则让用户把 Bee 连上亚马逊账号，换更个性化的购物推荐。 这也是手机目前仍最适合装下个人 AI 的原因。「最适合」说的不是算力放在哪，Recap 的摘要也在云上生成，而是手机整天跟着人，账号、消息、日程和付款都在上面，Agent 做完的东西，最后也要回到这块屏幕上让人审核。 高通高管 Ziad Asghar 在今年 9 月曾表示，「智能手机仍会是 Agent 体验的中枢，但个人 AI 需要戴在身上的设备。」这也和苹果、OPPO 的做法一致。算力有限的便携硬件将主要承担入口的作用。 没有手机系统的公司，于是都在自己造入口：亚马逊去年买下了 Bee，Meta 计划 12 月推出钥匙扣大小的 Muse Charm，OpenAI 据 Bloomberg 报道还想做一台能替代手机的设备，字节则把豆包嵌进了中兴的手机系统。 Meta 计划 12 月推出的 Muse Charm，钥匙扣大小｜图片来源：Meta 做硬件的公司也清楚自己的位置。「给大厂的 Personal Agent 做硬件外挂」这条路线，愈发变成一个务实的选择；能录、能传、能转写这一层，硬件已经 ready，但软件整合上还差一些距离。比如腾讯的联名硬件里，公开说能深度互通的只有影石一款，心力球用的也还是独立的白鲸 AI。 手机厂商还没把这些 整 合起来，这段空档就是硬件公司现在的窗口 。 对想买一个随时记录生活的硬件的人来说，需要录会议的，专业录音卡依旧好用，Plaud 和钉钉卖得好，靠的正是这个场景；只为全天记录再多戴一个新设备的，不妨先等等，因为手机厂商的手表和耳机可能更快补上这一块。 但国内的空档，也许比美国长一些，因为 Recap 暂时还不在中国提供，Bee 和 Muse 也没有进来，变量在华为、OPPO、vivo、小米谁先把全天记忆做进系统，OPPO 和 vivo 已经在系统里加了记忆功能。 到 2027 年年中，应该会有至少一家国产手机厂商，把全天记录做成系统自带的能力，用户不用再为此另买一个录音硬件。 智能手机花了十多年，才把相机、地图、钱包和通讯录收进一台设备。全天记录很可能也会走这条路，先以单独的硬件出现，再被手机厂商做进系统。 届时，用户要选的就不再是哪一款录音硬件，而是让哪一家的 Agent 来读自己的全天候记录。",
-   "published": "Fri, 13 Nov 2026 12:57:38 +0800",
-   "source": "极客公园",
+   "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+   "link": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "Sun, 22 Nov 2026 01:35:14 +0000",
+   "source": "爱范儿",
    "biz_tags": [
     "industry",
     "ai_tools"
    ],
-   "category": "ai_tools",
+   "category": "industry",
    "level": "B",
-   "why": "硬件赛道被巨头挤压，与我的三个业务无直接关联",
-   "action": "记录趋势即可，不投入资源跟进",
+   "why": "展示AI推理上限，与当前变现业务关联弱",
+   "action": "无",
    "opportunity": "无",
    "risk": "无"
   },
   {
-   "title": "接入多款第三方模型，豆包工作也模型自由了",
-   "link": "http://www.geekpark.net/news/373881",
-   "summary": "&nbsp; 头图来源：豆包工作官网 豆包工作也模型自由了。 11 月 12 日，豆包工作宣布接入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等多款第三方模型，支持用户按需选型完成任务。同步在模型选择页面标注各模型额度消耗倍率，倍率越低消耗越少，便于用户结合任务需求与使用成本做决策。 同时平台推出两项限时优惠：一是工作日及节假日的指定时段内，使用活动模型可享受额度消耗折扣；二是豆包 2.1 Lite、DeepSeek V4.1 Flash 两款模型限时下调额度消耗倍率，同等任务消耗额度更少。 一、补全多模型，解决「有的选」 本轮更新中，豆包工作一次性接入 Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 三款第三方模型，进一步补齐了模型能力矩阵。 具体来看，三款模型各有侧重，可以分别对应企业不同层级的工作场景：Kimi 3.1 Pro 主打百万字级超长上下文处理能力；GLM 5.3 侧重中文语言理解与生成；DeepSeek V4.1 Flash 以高响应速度和高性价比为核心，定位轻量日常任务。 加上此前已经开放的第三方模型，以及字节跳动自研的豆包 2.1、豆包 2.1 Lite 等主力模型，豆包工作已经具备了覆盖「高端能力型、均衡通用型、轻量效率型」三个层级的模型矩阵。 不同能力、不同定价的模型相互补充，基本可以覆盖企业从核心复杂任务到日常基础工作的多场景 AI 需求。 事实上，豆包工作此前就已向企业客户开放第三方模型能力。本轮扩容并非单纯的数量叠加，而是基于企业真实工作流的场景化补全。 图片来源：豆包工作官网 此外，我们也注意到，豆包工作本次同步更新了 LOGO，大家熟悉的豆包形象就此「持证上岗」，进入了专业办公场景。 二、额度倍率透明化，把成本决策权交还给用户 如果说模型扩容是解决「有没有得选」的问题，那么额度消耗倍率的透明化标注，则是解决「选得明不明白」的问题。 在当前的企业级 AI 市场，成本不透明是很多企业的普遍困扰。不同模型的计费规则各不相同，有的按输入输出 token 计费，有的按调用次数收费，不同单位之间换算复杂，普通用户很难快速判断一款模型的实际使用成本。 很多团队在使用过程中，往往难以预估单任务开销，直到账单出来才发现超出预算，也很难追溯成本的具体构成。 针对这一问题，豆包工作在模型选择页面统一标注了各模型的额度消耗倍率&mdash;&mdash; 倍率系数越低，同等任务消耗的平台额度越少。所有模型的消耗标准统一到同一额度体系下，用户选型时可直观对比成本差异，结合任务优先级与预算快速决策，也便于企业做部门的成本管控。 在简单小额任务免费的基础上，豆包工作同步上线两项限时优惠政策，进一步压低使用成本： 一是指定时段折扣，工作日及节假日的优惠时段内使用活动模型，可享受额度消耗减免，兼顾用户成本与平台算力效率； 二是高频模型降倍率，针对豆包 2.1 Lite 与 DeepSeek V4.1 Flash 两款日常高频使用的轻量模型，限时下调消耗倍率，同等任务消耗更少，提升全员日常使用的额度耐用性。 当大模型的基础能力逐渐拉平，如何帮企业把 AI 用起来、用得划算，才是落地的关键。从提供单一模型，到提供多模型矩阵；从黑盒计费，到透明化成本管控，豆包工作的产品迭代路径，契合了企业 AI 从「尝鲜」到「常态化生产工具」的转变趋势。 再往前看一步，当模型足够多、倍率足够清晰，用户可能连「选哪个模型」都不需要亲自操心，平台基于任务类型自动路由、智能调度，会成为下一个自然的产品方向。",
-   "published": "Thu, 12 Nov 2026 16:24:17 +0800",
-   "source": "极客公园",
+   "title": "刚刚，曝黎曼猜想被证明，Claude 立大功",
+   "link": "https://www.ifanr.com/1690750?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "summary": "AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "Sat, 21 Nov 2026 01:29:09 +0000",
+   "source": "爱范儿",
    "biz_tags": [
     "industry",
     "ai_tools"
    ],
-   "category": "ai_tools",
-   "level": "A",
-   "why": "多模型+透明倍率可降低我AI工具开发与内容生产成本",
-   "action": "注册豆包工作测试多模型切换与额度倍率",
-   "opportunity": "用低价模型批量生成短剧脚本降本",
-   "risk": "限时优惠结束后成本回升"
+   "category": "industry",
+   "level": "B",
+   "why": "AI推理能力跃升信号，间接影响工具选型",
+   "action": "关注Claude后续版本在复杂任务上的表现",
+   "opportunity": "无",
+   "risk": "无"
   },
   {
    "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
@@ -182,10 +301,10 @@
     "industry",
     "ai_tools"
    ],
-   "category": "other",
+   "category": "industry",
    "level": "B",
-   "why": "杂项新闻，与短剧出海和AI工具变现无关",
-   "action": "跳过，不占用今日处理时间",
+   "why": "综合科技动态，无直接业务关联",
+   "action": "快速浏览即可，无需跟进",
    "opportunity": "无",
    "risk": "无"
   },
@@ -200,10 +319,10 @@
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "B",
-   "why": "Gemini 4 体验提升，可作为内容生产备选工具",
-   "action": "抽空试用 Gemini 4 对比现有生成工具",
-   "opportunity": "无",
+   "level": "A",
+   "why": "Gemini 4能力提升，可替代部分付费工具降本",
+   "action": "测试Gemini 4在短剧脚本/分镜生成上的效果",
+   "opportunity": "用Gemini 4替代高价工具省订阅费",
    "risk": "无"
   },
   {
@@ -218,8 +337,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "Agent 生态变化影响未来工具形态，非近期决策点",
-   "action": "关注苹果 Agent 开放能力，暂不投入",
+   "why": "Agent趋势确认，但苹果入局尚早无实操价值",
+   "action": "关注Agent类工具上架App Store的政策变化",
    "opportunity": "无",
    "risk": "无"
   },
@@ -234,11 +353,11 @@
     "ai_tools"
    ],
    "category": "industry",
-   "level": "B",
-   "why": "Anthropic 上市与 Agent 动态属背景信息",
-   "action": "了解即可，不安排具体动作",
+   "level": "A",
+   "why": "Anthropic上市+腾讯削减元宝投入，AI格局变动",
+   "action": "关注Anthropic上市后API定价策略变化",
    "opportunity": "无",
-   "risk": "无"
+   "risk": "腾讯削减投入或影响国内AI工具生态"
   },
   {
    "title": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
@@ -251,11 +370,11 @@
     "ai_tools"
    ],
    "category": "industry",
-   "level": "B",
-   "why": "AI 资本热度高，但对我短剧和工具业务无直接影响",
-   "action": "浏览要点，不深入跟进",
+   "level": "A",
+   "why": "Claude母公司上市，API政策/封号规则或变",
+   "action": "研究Anthropic上市后对开发者API的封号政策",
    "opportunity": "无",
-   "risk": "无"
+   "risk": "A社封号严格，依赖Claude的工具需备选方案"
   },
   {
    "title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
@@ -269,44 +388,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "Gemini 4 Neon 主打复杂任务低单次成本，可降本",
-   "action": "测试 Gemini 4 Neon 用于批量短剧脚本生成",
-   "opportunity": "低成本模型批量产出多语种短剧脚本",
-   "risk": "新模型稳定性待验证"
-  },
-  {
-   "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
-   "link": "https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "summary": "性能更强，还更便宜 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "Wed, 18 Nov 2026 23:56:47 +0000",
-   "source": "爱范儿",
-   "biz_tags": [
-    "industry",
-    "ai_tools"
-   ],
-   "category": "ai_tools",
-   "level": "S",
-   "why": "更强更便宜的大模型直接降低AI内容制作成本",
-   "action": "注册Gemini 4 Neon API并跑短剧脚本生成测试",
-   "opportunity": "用低成本模型批量生成短剧剧本/分镜",
-   "risk": "新模型稳定性未验证，勿全量迁移"
-  },
-  {
-   "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
-   "link": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "summary": "希望国模也快快跟上啊 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "Wed, 18 Nov 2026 10:01:23 +0000",
-   "source": "爱范儿",
-   "biz_tags": [
-    "industry",
-    "ai_tools"
-   ],
-   "category": "ai_tools",
-   "level": "A",
-   "why": "了解顶级模型能力边界，避免选型踩坑",
-   "action": "阅读实测细节，记录其难用点对照自己工作流",
-   "opportunity": "无",
-   "risk": "盲目追新模型导致工作流不稳定"
+   "why": "Gemini 4 Neon主打低成本，可降AI制作成本",
+   "action": "测试Gemini 4 Neon单次成本与短剧生成质量",
+   "opportunity": "低成本模型降低短剧出海制作成本",
+   "risk": "无"
   },
   {
    "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
@@ -320,15 +405,15 @@
    ],
    "category": "short_drama",
    "level": "S",
-   "why": "8K生图+2000字+10张连贯图，直接可用于漫剧分镜",
-   "action": "用Kling Image 4.0测试生成10张连贯漫剧分镜",
-   "opportunity": "批量产出漫剧分镜与海报，省外包设计费",
-   "risk": "中文艺术字仍需人工校对，避免上线出错"
+   "why": "可灵4.0支持8K/2000字/10张连贯图，直接提效短剧分镜",
+   "action": "立即测试Kling Image 4.0生成短剧分镜与海报",
+   "opportunity": "用可灵4.0批量出分镜降本，可做教程卖课",
+   "risk": "工具迭代快，需持续跟进避免落后"
   },
   {
    "title": "大二「天才少女」刚拿下 ACM 最佳论文，立陷造假疑云，通讯作者独家回应",
    "link": "https://www.leiphone.com/category/private/fTZ8RbFMcD34HieP.html",
-   "summary": "导语：事件全貌梳理 + 当事人独家回应 事件全貌梳理 + 当事人独家回应 &nbsp; &nbsp; 作者丨 邓哲敏 &nbsp; &nbsp; 编辑丨 齐铖湧 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 近日，一场疑似“学术造假”事件，在国内学术圈掀起了轩然大波。 事件的暴风眼，来自刚刚结束的顶级学术会议 ACM MM 2026，这场国际多媒体领域顶会上的一篇 Best Paper，被指出诸多疑点，质疑它可能存在的造假行为和国际顶会最佳论文这个 title 的含金量。 AI科技评论（雷峰网 (公众号：雷峰网) ）梳理了事情的来龙去脉，并独家联系到这篇论文的通讯作者。 01 缘起 11 月 14 日，ACM MM 2026 于巴西闭幕，因为 AI 时代的来到，这个会议备受学界关注。 这次疑云的主角，是 17 篇最佳论文中的一篇，题目为《Clifford-Algebra-Based Geometric Feature Fusion for Real-Time UHD Low-Light Image Enhancement》。 这是一篇关于如何用 AI 将图片变得更明亮的工作，方向热门，不少学者在这个领域耕耘数十载。让人惊讶的是，论文第一作者 Xiaohan Wang，来自西安电子大学本科二年级。 一个大二学生的第一篇论文，拿下顶会最佳。 名单页面往下拉，通讯作者一栏，名字后面没有带高校或研究所，而是 Independent，独立研究者。 在学术圈的语境里，这个署名通常对应两种人。一种是不需要单位的，功成名就，头衔已经比机构响亮。另一种是没有单位的。 本是独立研究者带天才少女潜心研究，勇闯国际顶会，拿下 Best Paper 的励志叙事，却因为接下来发生的事，演变成一场学术是否造假的舆论风波。 02 论文 据AI科技评论调查，最早的质疑出现在 &nbsp;11 月 14 日 ，有人在知乎提问，如何评价这篇 Best Paper。 提问者自称在 low level vision 领域做了多年研究，率先回复了自己的提问，列出 5 个问题。 第一，故意压低对比方法。论文拿没在数据集上训练过的旧方法和自己训练过的方法进行比较。 第二，把合成数据说成实拍。论文称测试数据是真实世界拍的照片，但原数据集作者写过，数据是电脑合成的。 第三，强者没进比赛。比自己厉害的方法只提了名字，没放进对比表；放进去的，都是一些无监督的方法。论文自己的成绩是 20.56 分，连 2018 年的一个老方法（21.67 分）都打不过。 第四，可疑的用户打分。论文附了一份用户研究，48 个分项全部整齐地以 .x0 或 .x5结尾，没有一个落在别的位置，还有 5 个分项一模一样。这种分布自然出现的概率，是 3.55 × 10³³ 分之一。 第五，核心卖点名不副实。论文题目里疑似碰瓷了高数灯塔“克利福德代数”，但把论文里的公式拆开算，其实就是“两个数相乘再求和”这种最普通的操作，跟高等数学关系不大。 这条帖子很快引来领域内研究者们的关注，通讯作者也 亲自下场回应 ，喊话质疑者“大胆复现”。 有来有回的学术对线，引来了更多关注。 很快，另一名答主（清华大学电子信息在读硕士）尝试复现。他认可了论文的工程路线，但对研究动机、基线比较数据提出了更全面的质疑，直指 一作学术训练不够、通讯作者指导不到位、会议评审不严格 。 摘自知乎答 主结论 部分，完整回答见： https://www.zhihu.com/question/2104933122630476610 由于论文没有开源，所以围绕数据的质疑，既无法被证实，也无法被证伪，双方隔着一层毛玻璃互相喊话。 11 月 17 日，有人把视线从实验部分挪到了参考文献：论文的第 12 条引用，指向一篇不存在的论文；第 47 条和第 51 条，作者信息与真实文献对不上。 三处错误分布在列表的不同位置，且类型不同，不太可能是“手滑”。 给不了解学术伦理的读者科普一下， 引用幻觉 属于严重的学术不端行为。光是第 12 条虚构参考文献，就足以构成撤稿级别的后果，因为从性质上来说，这代表作者在论文的论证链条中植入了无法追溯的虚假支撑。 围绕论文技术细节的讨论需要门槛，引用问题就大众得多。随着这一指控被证实，讨论升级。 03 作者 对论文的疑问，很快转到了人身上。 先是一作，Xiaohan Wang，西安电子科技大学本科二年级。公开可查的论文，只有这一篇。在这个领域，一个博士毕业多年的教师，整个职业生涯都不一定能摸到 Best Paper，这个大二学生的第一篇论文就拿到了。 更多的讨论集中在通讯作者身上，郑卓然，作者信息没有填写所在高校或研究所，而是“Independent”。以独立研究者身份作为通讯作者发表论文，本无可厚非。然而，有人放出截图，今年 8 月，郑曾在小红书发帖，提供明码标价的论文指导服务。 公开为特定研究方向提供有偿服务，并承诺“保质保量”，这已经超出了正常的学术交流范畴，具有明显的商业交易性质。“中之前5000，中了以后5000”，暗示了服务价格与论文能否被录用直接挂钩。这很像一种风险代理模式，即论文发表成功后再支付尾款。 高亮处理的“全程指导”也处于模糊地带，如果实质是替学生完成核心工作（如提出 idea、撰写代码、修改论文至可发表状态），那么这就越界到了代写的范畴。即便只是提供思路和修改，但结合付费前提，其性质也容易滑向学术不端。 一石激起千层浪，网络上关于郑卓然身份的讨论愈演愈烈。有人怀疑他在保研机构接私活，通过指导论文，帮助学生推免；还有自称接近他的人士说，他曾在齐鲁工业大学任教，因为简历造假，已被开除，现在对学生谎称自己是国防科技大学的。 公开资料显示，郑卓然博士毕业于南京理工大学，在中山大学做过博士后，之后入职齐鲁工业大学。 关于他目前的教职状态是否存续，暂无可考的公开信息。他的学术主页（Open Review 和 Research Gate）上，所属院校显示为南京理工大学，知乎简介写的是“计算机博士，专注于 low level 视觉任务和表示学习”，小红书简介是“计算机博后（中山大学），计算机学部老师，计算机视觉”，都没有明确提及教职。 郑卓然的知乎账号主页 AI科技评论（雷峰网）注意到，郑卓然最新的一篇成果（11 月 3 日 提交至 arXiv），共八页，参考文献三条。作者栏两个人，一个是他，另一个署名“DouBao”，和字节跳动的AI助手豆包，拼音一字不差。 18 日上午，郑卓然公开表示：“由于我的监管不到位，我们决定撤稿。”随后，他陆续删除了在小红书、知乎等平台的多条回复，并把小红书主页内容清空。目前，围绕这次争议，他在公开平台留下的回复基本仅剩宣布撤稿。 有人发现，郑卓然的博士后导师任文琦突然把他移出了自己的课题组名单。 04 回应 18 日晚，郑卓然接受了AI科技评论采访，声音听起来有些疲惫。 郑卓然对于网络上的内容做了一一澄清。首先，之所以标注 Independent（独立研究者），是因为在指导这篇工作期间，郑从齐鲁工业大学主动辞职后，没有找到工作，所以没有单位可挂。 网上传他“简历造假被开除”，他坚决否认：信息在网上都能搜到，包括发过哪些论文，怎么造假？郑卓然说，真实的情况是，他离开齐鲁工业大学后，gap 了一段时间，之后进入国防科技大学。 谈到网络上对他指导论文涉及利益往来和流程不正当的质疑，他的回答是，没有利益往来，出于友情，指导了这个一作。至于所谓的加入论文工厂，郑的原话是：“我可以发毒誓，没有加入任何论文工厂或者机构，尽管他们多次找我。” 同时，郑提到自己做科研的初心一直是非常纯粹的，他和他的学生，在硬件上都是非常拮据的，卡是闲鱼上租的，服务器到期了，原始数据就会丢失，所以他一向对学生比较push，组会的节奏是几天一次。 郑提到，有人攻击他的本科学历仅仅是枣庄学院，对此，他毫不避讳自己的本科学历，并且认为这不影响自己对科研的追求。 一篇论文从投稿到 Best Paper，要过四道门：审稿人打分，AC（领域主席）做录用判断，程序委员会终审，最后由奖项委员会遴选出 Best Paper。有网友说，论文本来在 AC 审核阶段就被明确拒稿，架不住三个审稿人给了满分 5 分，暗指论文团队与会议方有勾连。 郑的版本完全是另一个故事：论文的初始评分处于中游偏后的位置，是修改稿扭转了局面；今年年中，收到中稿消息时，AC 给出的意见是推荐 poster；一两个月后，收到邮件，论文被评为 oral；颁奖前一天，才收到短信，得知论文入选 Best Paper。 收录论文的系统界面，由郑卓然提供 修改的关键在于突出了应用价值：这个方法可以部署在安卓手机端，具备商业化前景，而多媒体应用赛道看重的就是落地性。修改之后，三位审稿人一致给出 5 分。 算法没有造假，是他最想澄清的一点。郑卓然援引知乎上清华硕士的复现结果，他称论文从表现和参数量各方面来看，都基本没有问题。奖项由外方主导的评审团选出，郑卓然方无从操控，“真要是有操作，也不至于在巴西找熟人替我们上台领奖”。 问及幻觉引用，郑卓然表示自己带的学生多，没法逐条核对每篇稿子的每一条文献，提醒过学生无数次，但还是出了事。一作是第一次投稿，经验不足，他认为责任主要在自己，同时打算暂停科研工作，一年后再重新出发。 此外，郑希望通过我们向大众传递三个信息，第一、他正在考虑进入产业界，希望能做出一些新的工作。同时“希望学界再给一作一个机会”，最后他强调“西电是一个好学校。” 关于这篇争议论文，团队所有作者一致同意撤稿，已经发送联名邮件给会议主席邮箱，请求撤稿，并提到“如果两天内未得到回复，会再次催促加急”。 05 评审 在AI科技评论看来，这篇论文之所以能穿过四道评审门，走上主会最高领奖台，ACM MM 2026 本身的奖项结构和审稿生态，提供了一些更具结构性的解释。 2024 年和 2025 年，ACM MM 主会都只颁了一篇 Best Paper，另外设有 Best Student Paper。25 年 12 月，ACM MM 指导委员会通过新规，考虑到论文投稿数增多，2026 年将按照主题从录用论文中评出约 5% 的 Outstanding Paper，再从中选出约占录用总数 1% 的 Best Paper。 截取自《Report of the December 2025 vote of the &nbsp;ACM Multimedia Steering Committee》 ，下称“《评奖指南》” 今年 ACM MM 主会共录用 1703 篇论文，颁发 17 篇 Best Paper，符合官方公布的评选比例。 但一届学术会议的“最佳”论文，竟有 17 篇之多，依旧超出人们对顶尖论文的想象。 近两年，AI 领域顶会的投稿量一路攀升。ICLR 的年度投稿，从 2018 年的 1013 篇，涨到了今年的近两万篇，八年翻了近 18 倍。投稿量暴涨，审稿人却跟不上。一位担任过顶会领域主席的研究者说，过去一个审稿人的负荷是两三篇，现在动辄十篇。 审稿质量，在肉眼可见地下滑。今年 ICML 首次做了全量公开复现审计，168 篇口头报告论文，能复现八成以上结论的，只有 8 篇，不到 5%。幻觉引用也不是这次的争议论文独有的问题，就在今年，ICLR 也出现了带虚构引用的 AI 生成论文。 引用一篇不存在的文献，不需要专业能力就能验证，却穿过了审稿人、AC、程序委员会、奖项委员会四道门，一路畅通，最后挂在一篇 Best Paper 的公开版本上。 与其归咎于某一位审稿人的失职，不如说这是评审体系在投稿洪流下的系统性失守。 AI科技评论注意到去年改革后的《评奖指南》，对大会主席和 PC 进行了更严格的回避，以保证评奖的独立性。 而AwC 的职责是“讨论决定 Best Paper”，文件中没有包含“对候选论文进行引用真实性核查”的条款。这意味着如果引用问题没在审稿阶段被拦住，评奖阶段理论上也没有机制去拦截。 除了流程上的“不核查”，值得关注的还有评奖环节的实际承载力。17 篇 Best Paper，或许是失守的另一面。从唯一最佳到按赛道各分一个，看似认可更多好工作，实际情况可能是：当最佳可以批量发放，它的含金量也就被稀释了，一些应该更严格的核查也就最终流于表面。 &nbsp; 目前，关于争议论文，ACM MM 2026 Program Co-Chair 严骏驰向AI科技评论确认主席团已收到撤稿申请邮件，并将在近期决定是否做出官方公开回应。 这场由“大二学生+独立研究者”拿下顶会最佳引发的风波，最终会以一篇论文的撤稿画上句号，还是将成为倒逼顶会改革评审与评奖机制的契机？AI科技评论将持续关注。 NeurIPS 2026&nbsp; 即 将召开，欢迎参会的研究者、学生，以及关注&nbsp; AI 前沿进展 的读者加入我们的交流群。 在这里，你可以认识同行、交流研究，分享 招生信息、科研合作、约饭、投稿、组队参会 等， 寻找潜在的合作伙伴 。 大会期间，我们也会持续带来 现场报道速递、嘉宾演讲解读、前沿方向梳理和论坛精华 。 会场见，也在群里见。 ? 进群传送门： &nbsp;扫码进群或添加微信 szhsn610 ， 备注： NeurIPS +单位 /学校+姓名+方向。 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
+   "summary": "导语：事件全貌梳理 + 当事人独家回应 事件全貌梳理 + 当事人独家回应 &nbsp; &nbsp; 作者丨 邓哲敏 &nbsp; &nbsp; 编辑丨 齐铖湧 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 近日，一场疑似“学术造假”事件，在国内学术圈掀起了轩然大波。 事件的暴风眼，来自刚刚结束的顶级学术会议 ACM MM 2026，这场国际多媒体领域顶会上的一篇 Best Paper，被指出诸多疑点，质疑它可能存在的造假行为和国际顶会最佳论文这个 title 的含金量。 AI科技评论（雷峰网）梳理了事情的来龙去脉，并独家联系到这篇论文的通讯作者。 01 缘起 11 月 14 日，ACM MM 2026 于巴西闭幕，因为 AI 时代的来到，这个会议备受学界关注。 这次疑云的主角，是 17 篇最佳论文中的一篇，题目为《Clifford-Algebra-Based Geometric Feature Fusion for Real-Time UHD Low-Light Image Enhancement》。 这是一篇关于如何用 AI 将图片变得更明亮的工作，方向热门，不少学者在这个领域耕耘数十载。让人惊讶的是，论文第一作者 Xiaohan Wang，来自西安电子大学本科二年级。 一个大二学生的第一篇论文，拿下顶会最佳。 名单页面往下拉，通讯作者一栏，名字后面没有带高校或研究所，而是 Independent，独立研究者。 在学术圈的语境里，这个署名通常对应两种人。一种是不需要单位的，功成名就，头衔已经比机构响亮。另一种是没有单位的。 本是独立研究者带天才少女潜心研究，勇闯国际顶会，拿下 Best Paper 的励志叙事，却因为接下来发生的事，演变成一场学术是否造假的舆论风波。 02 论文 据AI科技评论调查，最早的质疑出现在 &nbsp;11 月 14 日 ，有人在知乎提问，如何评价这篇 Best Paper。 提问者自称在 low level vision 领域做了多年研究，率先回复了自己的提问，列出 5 个问题。 第一，故意压低对比方法。论文拿没在数据集上训练过的旧方法和自己训练过的方法进行比较。 第二，把合成数据说成实拍。论文称测试数据是真实世界拍的照片，但原数据集作者写过，数据是电脑合成的。 第三，强者没进比赛。比自己厉害的方法只提了名字，没放进对比表；放进去的，都是一些无监督的方法。论文自己的成绩是 20.56 分，连 2018 年的一个老方法（21.67 分）都打不过。 第四，可疑的用户打分。论文附了一份用户研究，48 个分项全部整齐地以 .x0 或 .x5结尾，没有一个落在别的位置，还有 5 个分项一模一样。这种分布自然出现的概率，是 3.55 × 10³³ 分之一。 第五，核心卖点名不副实。论文题目里疑似碰瓷了高数灯塔“克利福德代数”，但把论文里的公式拆开算，其实就是“两个数相乘再求和”这种最普通的操作，跟高等数学关系不大。 这条帖子很快引来领域内研究者们的关注，通讯作者也 亲自下场回应 ，喊话质疑者“大胆复现”。 有来有回的学术对线，引来了更多关注。 很快，另一名答主（清华大学电子信息在读硕士）尝试复现。他认可了论文的工程路线，但对研究动机、基线比较数据提出了更全面的质疑，直指 一作学术训练不够、通讯作者指导不到位、会议评审不严格 。 摘自知乎答 主结论 部分，完整回答见： https://www.zhihu.com/question/2104933122630476610 由于论文没有开源，所以围绕数据的质疑，既无法被证实，也无法被证伪，双方隔着一层毛玻璃互相喊话。 11 月 17 日，有人把视线从实验部分挪到了参考文献：论文的第 12 条引用，指向一篇不存在的论文；第 47 条和第 51 条，作者信息与真实文献对不上。 三处错误分布在列表的不同位置，且类型不同，不太可能是“手滑”。 给不了解学术伦理的读者科普一下， 引用幻觉 属于严重的学术不端行为。光是第 12 条虚构参考文献，就足以构成撤稿级别的后果，因为从性质上来说，这代表作者在论文的论证链条中植入了无法追溯的虚假支撑。 围绕论文技术细节的讨论需要门槛，引用问题就大众得多。随着这一指控被证实，讨论升级。 03 作者 对论文的疑问，很快转到了人身上。 先是一作，Xiaohan Wang，西安电子科技大学本科二年级。公开可查的论文，只有这一篇。在这个领域，一个博士毕业多年的教师，整个职业生涯都不一定能摸到 Best Paper，这个大二学生的第一篇论文就拿到了。 更多的讨论集中在通讯作者身上，郑卓然，作者信息没有填写所在高校或研究所，而是“Independent”。以独立研究者身份作为通讯作者发表论文，本无可厚非。然而，有人放出截图，今年 8 月，郑曾在小红书发帖，提供明码标价的论文指导服务。 公开为特定研究方向提供有偿服务，并承诺“保质保量”，这已经超出了正常的学术交流范畴，具有明显的商业交易性质。“中之前5000，中了以后5000”，暗示了服务价格与论文能否被录用直接挂钩。这很像一种风险代理模式，即论文发表成功后再支付尾款。 高亮处理的“全程指导”也处于模糊地带，如果实质是替学生完成核心工作（如提出 idea、撰写代码、修改论文至可发表状态），那么这就越界到了代写的范畴。即便只是提供思路和修改，但结合付费前提，其性质也容易滑向学术不端。 一石激起千层浪，网络上关于郑卓然身份的讨论愈演愈烈。有人怀疑他在保研机构接私活，通过指导论文，帮助学生推免；还有自称接近他的人士说，他曾在齐鲁工业大学任教，因为简历造假，已被开除，现在对学生谎称自己是国防科技大学的。 公开资料显示，郑卓然博士毕业于南京理工大学，在中山大学做过博士后，之后入职齐鲁工业大学。 关于他目前的教职状态是否存续，暂无可考的公开信息。他的学术主页（Open Review 和 Research Gate）上，所属院校显示为南京理工大学，知乎简介写的是“计算机博士，专注于 low level 视觉任务和表示学习”，小红书简介是“计算机博后（中山大学），计算机学部老师，计算机视觉”，都没有明确提及教职。 郑卓然的知乎账号主页 AI科技评论（雷峰网 (公众号：雷峰网) ）注意到，郑卓然最新的一篇成果（11 月 3 日 提交至 arXiv），共八页，参考文献三条。作者栏两个人，一个是他，另一个署名“DouBao”，和字节跳动的AI助手豆包，拼音一字不差。 18 日上午，郑卓然公开表示：“由于我的监管不到位，我们决定撤稿。”随后，他陆续删除了在小红书、知乎等平台的多条回复，并把小红书主页内容清空。目前，围绕这次争议，他在公开平台留下的回复基本仅剩宣布撤稿。 有人发现，郑卓然的博士后导师任文琦突然把他移出了自己的课题组名单。 04 回应 18 日晚，郑卓然接受了AI科技评论采访，声音听起来有些疲惫。 郑卓然对于网络上的内容做了一一澄清。首先，之所以标注 Independent（独立研究者），是因为在指导这篇工作期间，郑从齐鲁工业大学主动辞职后，没有找到工作，所以没有单位可挂。 网上传他“简历造假被开除”，他坚决否认：信息在网上都能搜到，包括发过哪些论文，怎么造假？郑卓然说，真实的情况是，他离开齐鲁工业大学后，gap 了一段时间，之后进入国防科技大学。 谈到网络上对他指导论文涉及利益往来和流程不正当的质疑，他的回答是，没有利益往来，出于友情，指导了这个一作。至于所谓的加入论文工厂，郑的原话是：“我可以发毒誓，没有加入任何论文工厂或者机构，尽管他们多次找我。” 同时，郑提到自己做科研的初心一直是非常纯粹的，他和他的学生，在硬件上都是非常拮据的，卡是闲鱼上租的，服务器到期了，原始数据就会丢失，所以他一向对学生比较push，组会的节奏是几天一次。 郑提到，有人攻击他的本科学历仅仅是枣庄学院，对此，他毫不避讳自己的本科学历，并且认为这不影响自己对科研的追求。 一篇论文从投稿到 Best Paper，要过四道门：审稿人打分，AC（领域主席）做录用判断，程序委员会终审，最后由奖项委员会遴选出 Best Paper。有网友说，论文本来在 AC 审核阶段就被明确拒稿，架不住三个审稿人给了满分 5 分，暗指论文团队与会议方有勾连。 郑的版本完全是另一个故事：论文的初始评分处于中游偏后的位置，是修改稿扭转了局面；今年年中，收到中稿消息时，AC 给出的意见是推荐 poster；一两个月后，收到邮件，论文被评为 oral；颁奖前一天，才收到短信，得知论文入选 Best Paper。 收录论文的系统界面，由郑卓然提供 修改的关键在于突出了应用价值：这个方法可以部署在安卓手机端，具备商业化前景，而多媒体应用赛道看重的就是落地性。修改之后，三位审稿人一致给出 5 分。 算法没有造假，是他最想澄清的一点。郑卓然援引知乎上清华硕士的复现结果，他称论文从表现和参数量各方面来看，都基本没有问题。奖项由外方主导的评审团选出，郑卓然方无从操控，“真要是有操作，也不至于在巴西找熟人替我们上台领奖”。 问及幻觉引用，郑卓然表示自己带的学生多，没法逐条核对每篇稿子的每一条文献，提醒过学生无数次，但还是出了事。一作是第一次投稿，经验不足，他认为责任主要在自己，同时打算暂停科研工作，一年后再重新出发。 此外，郑希望通过我们向大众传递三个信息，第一、他正在考虑进入产业界，希望能做出一些新的工作。同时“希望学界再给一作一个机会”，最后他强调“西电是一个好学校。” 关于这篇争议论文，团队所有作者一致同意撤稿，已经发送联名邮件给会议主席邮箱，请求撤稿，并提到“如果两天内未得到回复，会再次催促加急”。 05 评审 在AI科技评论看来，这篇论文之所以能穿过四道评审门，走上主会最高领奖台，ACM MM 2026 本身的奖项结构和审稿生态，提供了一些更具结构性的解释。 2024 年和 2025 年，ACM MM 主会都只颁了一篇 Best Paper，另外设有 Best Student Paper。25 年 12 月，ACM MM 指导委员会通过新规，考虑到论文投稿数增多，2026 年将按照主题从录用论文中评出约 5% 的 Outstanding Paper，再从中选出约占录用总数 1% 的 Best Paper。 截取自《Report of the December 2025 vote of the &nbsp;ACM Multimedia Steering Committee》 ，下称“《评奖指南》” 今年 ACM MM 主会共录用 1703 篇论文，颁发 17 篇 Best Paper，符合官方公布的评选比例。 但一届学术会议的“最佳”论文，竟有 17 篇之多，依旧超出人们对顶尖论文的想象。 近两年，AI 领域顶会的投稿量一路攀升。ICLR 的年度投稿，从 2018 年的 1013 篇，涨到了今年的近两万篇，八年翻了近 18 倍。投稿量暴涨，审稿人却跟不上。一位担任过顶会领域主席的研究者说，过去一个审稿人的负荷是两三篇，现在动辄十篇。 审稿质量，在肉眼可见地下滑。今年 ICML 首次做了全量公开复现审计，168 篇口头报告论文，能复现八成以上结论的，只有 8 篇，不到 5%。幻觉引用也不是这次的争议论文独有的问题，就在今年，ICLR 也出现了带虚构引用的 AI 生成论文。 引用一篇不存在的文献，不需要专业能力就能验证，却穿过了审稿人、AC、程序委员会、奖项委员会四道门，一路畅通，最后挂在一篇 Best Paper 的公开版本上。 与其归咎于某一位审稿人的失职，不如说这是评审体系在投稿洪流下的系统性失守。 AI科技评论注意到去年改革后的《评奖指南》，对大会主席和 PC 进行了更严格的回避，以保证评奖的独立性。 而AwC 的职责是“讨论决定 Best Paper”，文件中没有包含“对候选论文进行引用真实性核查”的条款。这意味着如果引用问题没在审稿阶段被拦住，评奖阶段理论上也没有机制去拦截。 除了流程上的“不核查”，值得关注的还有评奖环节的实际承载力。17 篇 Best Paper，或许是失守的另一面。从唯一最佳到按赛道各分一个，看似认可更多好工作，实际情况可能是：当最佳可以批量发放，它的含金量也就被稀释了，一些应该更严格的核查也就最终流于表面。 &nbsp; 目前，关于争议论文，ACM MM 2026 Program Co-Chair 严骏驰向AI科技评论确认主席团已收到撤稿申请邮件，并将在近期决定是否做出官方公开回应。 这场由“大二学生+独立研究者”拿下顶会最佳引发的风波，最终会以一篇论文的撤稿画上句号，还是将成为倒逼顶会改革评审与评奖机制的契机？AI科技评论将持续关注。 NeurIPS 2026&nbsp; 即 将召开，欢迎参会的研究者、学生，以及关注&nbsp; AI 前沿进展 的读者加入我们的交流群。 在这里，你可以认识同行、交流研究，分享 招生信息、科研合作、约饭、投稿、组队参会 等， 寻找潜在的合作伙伴 。 大会期间，我们也会持续带来 现场报道速递、嘉宾演讲解读、前沿方向梳理和论坛精华 。 会场见，也在群里见。 ? 进群传送门： &nbsp;扫码进群或添加微信 szhsn610 ， 备注： NeurIPS +单位 /学校+姓名+方向。 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
    "published": "Fri, 20 Nov 2026 06:03:00 GMT",
    "source": "雷峰网",
    "biz_tags": [
@@ -337,15 +422,15 @@
    ],
    "category": "other",
    "level": "B",
-   "why": "学术圈事件，与业务无直接关联",
-   "action": "略过，不投入时间",
+   "why": "学术造假与业务无关，仅作行业背景了解",
+   "action": "无需行动，跳过",
    "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "独家丨荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资",
    "link": "https://www.leiphone.com/category/weiwu/cmj50XKwCB4drkus.html",
-   "summary": "导语：创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。 创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。 作者丨黄艳冰 编辑丨 姚单 雷峰网 (公众号：雷峰网) ·鲸犀独家获悉， 荣耀前高级算法工程师肖裕炜已离职创业，于今年年中创立 AI 交互硬件公司 KnowVoice。 其目前正在李泽湘教授的下深圳科创学院孵化，已获得早期投资支持。 创始人兼 CEO 肖裕炜生于 1998 年，本科毕业于广东工业大学，为广工大 Robomaster 战队 DynamicX 联创。毕业后就职于荣耀，职业经历横跨底层技术与战略业务。 肖裕炜早期担任 GPU-Turbo-X SE 系统工程师，负责渲染技术与端侧高性能优化，他主导的 AI 渲显分离项目“荣耀幻影引擎”，主要解决游戏偶尔掉帧、突然卡顿的问题。此外，他还拥有数十项国内外专利，并代表荣耀参与图形行业的标准制定。 此后，肖裕炜调任总裁办公室研究员，转向游戏与 AI 终端设备方向，主导 Z 时代游戏玩家、终端游戏体验以及 AI 终端未来发展研究，直接向 CEO 李健汇报。 据了解，该项目核心团队已组建完成，成员 来自华为、腾讯、OPPO 等企业及高校 。 产品技术负责人李嘉维为前 OPPO 高级射频工程师，有产品交互设计与量产经验，主导智能手机行业首款“无按键 AI 智能边缘交互”；嵌入式软件负责人林升辉曾在华为、明纬等企业负责嵌入式项目开发。算法负责人李宏哲博士本科毕业于哈工大、博士毕业于高丽大学，研究 AI 软件与系统安全、上下文管理与记忆管理，历任华为、腾讯高级算法工程师。 KnowVoice 团队推出的首款产品是 一枚吊坠形态的端侧输入设备 ，主打个人意图理解与辅助表达。 据介绍，产品不替换手机、电脑等设备原有输入法，而是 以悬浮形式融入不同应用 ：无论是微信聊天、还是文档写作，用户都可以通过调用设备此前积累的信息，辅助补充内容。 这也是 KnowVoice 与当下主流 AI 记忆硬件的不同思路。 目前，KnowVoice&nbsp; 已有产品样机，团队将 Vibe Coding 人群作为早期切入点 ，主要面向产品开发者、硬件工程师、结构工程师以及自媒体博主、独立 OPC 创业者等需要高频表达和信息处理的专业用户。 在数据处理上，团队选择 将核心数据留在端侧，不上传云端 ，也不经过公司服务器，希望将数据控制权交还给用户。 雷峰网·鲸犀将持续关注团队后续进展，欢迎添加作者微信&nbsp; frenchfries0016 &nbsp;交流。 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
+   "summary": "导语：创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。 创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。 作者丨黄艳冰 编辑丨 姚单 雷峰网·鲸犀独家获悉， 荣耀前高级算法工程师肖裕炜已离职创业，于今年年中创立 AI 交互硬件公司 KnowVoice。 其目前正在李泽湘教授的下深圳科创学院孵化，已获得早期投资支持。 创始人兼 CEO 肖裕炜生于 1998 年，本科毕业于广东工业大学，为广工大 Robomaster 战队 DynamicX 联创。毕业后就职于荣耀，职业经历横跨底层技术与战略业务。 肖裕炜早期担任 GPU-Turbo-X SE 系统工程师，负责渲染技术与端侧高性能优化，他主导的 AI 渲显分离项目“荣耀幻影引擎”，主要解决游戏偶尔掉帧、突然卡顿的问题。此外，他还拥有数十项国内外专利，并代表荣耀参与图形行业的标准制定。 此后，肖裕炜调任总裁办公室研究员，转向游戏与 AI 终端设备方向，主导 Z 时代游戏玩家、终端游戏体验以及 AI 终端未来发展研究，直接向 CEO 李健汇报。 据了解，该项目核心团队已组建完成，成员 来自华为、腾讯、OPPO 等企业及高校 。 产品技术负责人李嘉维为前 OPPO 高级射频工程师，有产品交互设计与量产经验，主导智能手机行业首款“无按键 AI 智能边缘交互”；嵌入式软件负责人林升辉曾在华为、明纬等企业负责嵌入式项目开发。算法负责人李宏哲博士本科毕业于哈工大、博士毕业于高丽大学，研究 AI 软件与系统安全、上下文管理与记忆管理，历任华为、腾讯高级算法工程师。 KnowVoice 团队推出的首款产品是 一枚吊坠形态的端侧输入设备 ，主打个人意图理解与辅助表达。 据介绍，产品不替换手机、电脑等设备原有输入法，而是 以悬浮形式融入不同应用 ：无论是微信聊天、还是文档写作，用户都可以通过调用设备此前积累的信息，辅助补充内容。 这也是 KnowVoice 与当下主流 AI 记忆硬件的不同思路。 目前，KnowVoice&nbsp; 已有产品样机，团队将 Vibe Coding 人群作为早期切入点 ，主要面向产品开发者、硬件工程师、结构工程师以及自媒体博主、独立 OPC 创业者等需要高频表达和信息处理的专业用户。 在数据处理上，团队选择 将核心数据留在端侧，不上传云端 ，也不经过公司服务器，希望将数据控制权交还给用户。 雷峰网 (公众号：雷峰网) ·鲸犀将持续关注团队后续进展，欢迎添加作者微信&nbsp; frenchfries0016 &nbsp;交流。 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
    "published": "Fri, 20 Nov 2026 03:22:00 GMT",
    "source": "雷峰网",
    "biz_tags": [
@@ -354,8 +439,8 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "AI硬件新品类，可作知识付费选题素材",
-   "action": "收藏案例，作为课程'AI硬件趋势'素材",
+   "why": "AI硬件创业动态，与我的工具/SaaS方向关联弱",
+   "action": "了解端侧AI交互趋势即可",
    "opportunity": "无",
    "risk": "无"
   },
@@ -371,8 +456,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "端侧AI公司动态，与业务关联弱",
-   "action": "了解即可，无需行动",
+   "why": "人事变动，对短剧出海和AI工具无直接影响",
+   "action": "无需行动",
    "opportunity": "无",
    "risk": "无"
   },
@@ -388,15 +473,15 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "影像AI方向动态，或影响未来剪辑工具",
-   "action": "关注影石后续AI剪辑产品发布",
+   "why": "影像AI研发动态，与短剧制作工具迭代有间接关联",
+   "action": "关注影石AI剪辑能力后续发布",
    "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "Google 杀入 Jev 核心赛道：Gemini Decision 1 五项基准领先两项落后",
    "link": "https://www.leiphone.com/category/ai/wctgzdX4CN2RVxCm.html",
-   "summary": "导语：Jev 拿下的 75 亿美元估值曾被质疑是一场泡沫。现在 Google 用一款多模态决策模型告诉市场：这不是泡沫，是赛道。 Jev 拿下的 75 亿美元估值曾被质疑是一场泡沫。现在 Google 用一款多模态决策模型告诉市场：这不是泡沫，是赛道。 &nbsp; &nbsp; 作者丨郑佳美 &nbsp; &nbsp; 编辑丨岑 &nbsp;峰 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 谷歌正式入场了。 刚刚，谷歌发布 Gemini Decision 1，正式向 两个月前引爆决策模型品类的 TypeSafe Jev发起挑战。 和 Jev 一样，这款模型不生成任何文本，只计算供程序直接驱动 Agent 执行的候选项概率和置信度，不需要逐 Token 生成答案，连输出 Token 费用也省了。 更大的突破出现在并行计算上。Gemini Decision 1 可以在同一份上下文中处理至多 1000 项独立判断，而且支持文本、图像、音频、视频和 PDF 混合输入。对于需要反复检查文档、选择工具、评估任务状态的 Agent，大量原本分散在不同模型调用中的判断，现在可以集中在一轮请求中完成。 在数据上，7 项双方均有报告的共享基准中，Gemini Decision 1 赢下 5 项，Jev 在 When2Call 工具调用和 Mind2Web 多模态上仍保持优势（82.0% vs 79.9%，86.8% vs 86.2%）。 不过，Gemini 每 100 万输入 Token 收费 0.10 美元，是 Jev 的约 2.38 倍。性能上去了，价格也更贵了，谷歌显然想用更强的多模态能力和批量决策能力打开市场。 Jev 在 9 月发布后数周内拿下 75 亿美元估值，a16z 领投 8.7 亿美元，约三分之一财富 500 强被列为客户。但质疑从未消散：厂商自报的“快 193 倍、便宜 445 倍”缺乏第三方复现，原创性争议尚未定论，独立评测指向同一个结论：快和便宜是真的，质量是另一回事。雷峰网 (公众号：雷峰网) Google 此时入场，至少证明了一件事：决策模型不是一场闹剧，而是一个值得巨头押注的品类。 01 模型怎样跳过文本生成完成决策 普通 LLM 处理“从四个工具里选一个”这类任务时，仍然走自回归解码：逐 Token 生成工具名或 JSON，程序再解析执行。模型承担的是开放式文本生成，业务需要的却是有限候选项中的概率判断。 Gemini Decision 1 把输出目标改成了候选项评分。开发者提前定义问题、候选集合和判断标准，模型读取输入后，直接返回各候选项的概率分布。整个过程通过单次前向计算完成，不需要逐 Token 生成答案，也没有输出 Token 费用。 这和普通的 Structured Output 有明显区别。Structured Output 仍然让模型生成文本，只是通过 Schema 限定 JSON 的字段和格式，Gemini Decision 1 则直接围绕有限候选空间完成评分，返回结果本身就是程序可以读取的数据。 这里有一个容易被忽略的细节：不同判断类型返回的概率含义并不相同。Noul 处理二元判断，返回某个条件成立的概率，范围为 0.01—0.99。如果问题本身存在歧义，开发者还可以分别定义什么情况算 Yes、什么情况算 No，减少判断标准不清晰带来的偏差。 Choice 处理多分类问题，支持 2—255 个候选项，返回胜出选项以及各候选项的归一化概率，所有候选项概率之和为 1。它适合工具路由、模型选择和任务分类。 不过，这种概率分配始终发生在给定的候选集合内，即使所有选项都不符合输入，模型仍会选出一个相对匹配的结果。因此，开发者需要提供 Other 选项，或者额外设置范围检查。 Score 的设计更有意思。它并不简单返回一个等级，而是先给有序评分标准中的每个等级分配概率，再计算加权评分。例如，将问题分为 0 级、1 级和 2 级，模型可能给出 0.1、0.7 和 0.2 的概率，最终评分可以落在 1 和 2 之间。 这实际上把离散分类扩展成了连续评分，方便程序进行排序和阈值筛选。不过，加权结果会压缩概率分布中的信息：两个输入即使得到相同分数，背后的等级概率也可能完全不同。因此，对于需要区分风险等级的任务，程序还应该读取各等级的概率，不能只使用最终评分。 这三种类型构成了 Gemini Decision 1 的输出体系。模型不再负责生成一段可以供人阅读的答案，开发者需要设计清晰的问题和候选标准，程序则负责把概率结果转化成具体执行条件。雷峰网 02 1000 项问题如何完成独立计算 Gemini Decision 1 的请求结构是一份 Shared Input 对应一组 Questions 。前者承载文本、图像、音频、视频和 PDF，后者定义需要完成的判断任务。每个问题可以使用不同的判断类型和评分标准，单次请求支持至多 1000 项问题。 以设备巡检为例，系统收到一段运行视频、一份维修记录和一段现场语音，需要判断设备是否异常、异常类别、严重程度以及是否需要人工检查。 开发者可以把三种材料放进同一份输入，再分别定义这些问题。异常检测使用 Noul，类别判断使用 Choice，严重程度使用 Score。模型读取相同材料，分别完成各项评分。 这套设计有两个技术细节。首先，每项问题具有独立的评估路径。Google 文档明确说明，各问题只能读取共享输入，不能读取其他问题的答案。 增加或删除某项问题，也不会改变其他问题的答案。这意味着并行评分没有依赖前序问题的推理链，模型可以在同一轮前向计算中完成多个独立判断。 其次，共享输入只计费一次。每项问题额外产生的费用来自自身的 instructions 和 criteria Token，而不需要重复计算整份材料。对于长文档批量审核、音视频检查和多维度内容评估，这种计费结构会影响整体调用成本。 但 1000 项问题并不意味着可以把任意复杂的工作流塞进一个请求。如果问题 B 必须根据问题 A 的具体结果生成新的候选项，两项任务就存在前后依赖。开发者需要先读取 A 的结果，再提交 B。 若 B 的候选项已经确定，只是需要在 A 不满足条件时忽略 B 的答案，则可以将两项判断同时提交，由程序决定是否采用结果。 输入长度同样需要考虑。Gemini Decision 1 的上下文上限为 256K Token，这个预算需要由共享材料和全部问题共同使用，并非每项问题各自拥有 256K。问题数量增加时，instructions 和 criteria 也会占用上下文空间。 谷歌公布的延迟数据中，在上下文不超过 16K Token 的测试条件下，从 1 项增加到 100 项问题，模型计算延迟基本保持平稳，中位计算延迟为 50—100 ms，端到端延迟为 150—250 ms。需要区分的是，API 支持 1000 项问题，公开的近乎平稳延迟测试范围则为 1—100 项。 多模态输入还涉及一项工程取舍。图像和视频可以设置 low、medium、high、ultra_high 等分辨率等级，视觉细节越丰富，输入成本也会随之变化。 音频和 PDF 则直接进入相应的内容处理路径，无需开发者另外组织独立的识别服务。谷歌也明确将 OCR 和音频转写相关开销纳入模型输入计费体系，不另收输出 Token 费用。 这里并没有公开足够的信息来还原模型内部的并行计算图。能够确认的是，各问题共享同一份输入，在单次前向计算中独立评分。至于内部是否使用独立输出头、如何分配各问题的计算资源，谷歌目前没有给出完整技术说明。 03 PK Jev：“五项领先”的背后 Gemini Decision 1 为每项答案提供 confidence，取值为 0—1。它表示模型对当前结果正确性的估计。对于 Noul，confidence 取 Yes 和 No 两种结果中概率较高的一方，对于 Choice，它对应胜出选项的概率，对于 Score，则对应概率较高的等级。这项设计让程序能够根据判断可靠程度设置不同的执行门槛。 这里涉及概率校准。ECE（Expected Calibration Error，期望校准误差）衡量模型给出的概率与实际正确比例之间的偏差。谷歌公布的 Gemini Decision 1 ECE 为 0.0250，Jev 1.14 为 0.0494。 从产品落地来看，谷歌已经在 Gemini Notebook 中使用 Decisions API 进行模型路由，根据请求复杂程度选择模型档位和推理等级，日常请求延迟据称降低了 40%。 Google Search 将其用于 MCP 工具的安全检查，Stitch 则使用它加快交互设计过程中的操作选择。与 TypeSafe Jev 相比，两款模型的技术方向相近，但公开信息呈现出不同侧重。 TypeSafe 已经披露 Jev 使用专门的模型架构、Parallel Sampler，以及 RLCD（Reinforcement Learning for Calibrated Decisions）训练方法。Jev 1.14 增加了图像输入、Box 判断类型和长上下文能力，不过相关功能在发布时仍被放在实验性配置中。 Gemini Decision 1 则依托 Gemini 原生多模态架构，将音频、视频、PDF 纳入输入范围，并提供 256K 上下文和 1000 项问题请求能力。谷歌尚未披露与 TypeSafe 类似的训练方案，因此两者的内部训练路线暂时无法进行直接比较。 性能上，谷歌公布的 7 项共享基准中，Gemini Decision 1 有 5 项超过 Jev 1.14，Jev 在 When2Call 工具调用和 Mind2Web 多模态上保持领先。When2Call 是 Agent 工具选择的核心场景，Jev 在这个指标上的反超说明 Google 的优势并非无差别覆盖。 另外，第三方独立评测机构 Artificial Analysis 的 Decision Index v2.1 榜单中， Gemini Decision 1 的综合分 65.98，略低于 Jev 的 66.23，远低于榜首 Drex Max v1.1 的 72.62。单任务延迟 211 ms，高于 Jev 的 92 ms；价格方面，Gemini 每 100 万输入 Token 收费 0.10 美元，Jev 为 0.042 美元。 换句话说，Google 用多模态能力和批量处理换溢价，但“更强”在第三方统一任务套件上尚未兑现为“更优”。校准误差的领先是真实的，但校准领先不等于综合决策质量领先。 04 Agent 的决策层，正在变成独立战场 Gemini Decision 1 把原本散落在 Agent 工作流中的一类任务，正式变成了独立的模型调用能力。它涉及的不只是评分速度，还包括候选空间定义、共享输入复用、问题隔离、概率校准和程序控制之间的配合。 通用 LLM 仍然负责复杂推理、规划和内容生成，Decision Model 则承担能够提前定义标准的判断任务。开发者需要根据任务依赖关系安排调用顺序，再根据概率表现决定自动执行范围。 Jev 在 9 月点燃了这个品类，Google 在 11 月用多模态和批量能力加注。这条路线能否形成长期优势，还要看模型在复杂输入、任务分布变化和真实业务环境中的稳定表现。谷歌入场后，专用决策模型开始进入更大规模的产品竞争，Agent 的工程设计也将从单纯依赖生成模型，转向更加细致的模型分工。 参考链接： https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
+   "summary": "导语：Jev 拿下的 75 亿美元估值曾被质疑是一场泡沫。现在 Google 用一款多模态决策模型告诉市场：这不是泡沫，是赛道。 Jev 拿下的 75 亿美元估值曾被质疑是一场泡沫。现在 Google 用一款多模态决策模型告诉市场：这不是泡沫，是赛道。 &nbsp; &nbsp; 作者丨郑佳美 &nbsp; &nbsp; 编辑丨岑 &nbsp;峰 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 谷歌正式入场了。 刚刚，谷歌发布 Gemini Decision 1，正式向 两个月前引爆决策模型品类的 TypeSafe Jev发起挑战。 和 Jev 一样，这款模型不生成任何文本，只计算供程序直接驱动 Agent 执行的候选项概率和置信度，不需要逐 Token 生成答案，连输出 Token 费用也省了。 更大的突破出现在并行计算上。Gemini Decision 1 可以在同一份上下文中处理至多 1000 项独立判断，而且支持文本、图像、音频、视频和 PDF 混合输入。对于需要反复检查文档、选择工具、评估任务状态的 Agent，大量原本分散在不同模型调用中的判断，现在可以集中在一轮请求中完成。 在数据上，7 项双方均有报告的共享基准中，Gemini Decision 1 赢下 5 项，Jev 在 When2Call 工具调用和 Mind2Web 多模态上仍保持优势（82.0% vs 79.9%，86.8% vs 86.2%）。 不过，Gemini 每 100 万输入 Token 收费 0.10 美元，是 Jev 的约 2.38 倍。性能上去了，价格也更贵了，谷歌显然想用更强的多模态能力和批量决策能力打开市场。 Jev 在 9 月发布后数周内拿下 75 亿美元估值，a16z 领投 8.7 亿美元，约三分之一财富 500 强被列为客户。但质疑从未消散：厂商自报的“快 193 倍、便宜 445 倍”缺乏第三方复现，原创性争议尚未定论，独立评测指向同一个结论：快和便宜是真的，质量是另一回事。雷峰网 Google 此时入场，至少证明了一件事：决策模型不是一场闹剧，而是一个值得巨头押注的品类。 01 模型怎样跳过文本生成完成决策 普通 LLM 处理“从四个工具里选一个”这类任务时，仍然走自回归解码：逐 Token 生成工具名或 JSON，程序再解析执行。模型承担的是开放式文本生成，业务需要的却是有限候选项中的概率判断。 Gemini Decision 1 把输出目标改成了候选项评分。开发者提前定义问题、候选集合和判断标准，模型读取输入后，直接返回各候选项的概率分布。整个过程通过单次前向计算完成，不需要逐 Token 生成答案，也没有输出 Token 费用。 这和普通的 Structured Output 有明显区别。Structured Output 仍然让模型生成文本，只是通过 Schema 限定 JSON 的字段和格式，Gemini Decision 1 则直接围绕有限候选空间完成评分，返回结果本身就是程序可以读取的数据。 这里有一个容易被忽略的细节：不同判断类型返回的概率含义并不相同。Noul 处理二元判断，返回某个条件成立的概率，范围为 0.01—0.99。如果问题本身存在歧义，开发者还可以分别定义什么情况算 Yes、什么情况算 No，减少判断标准不清晰带来的偏差。 Choice 处理多分类问题，支持 2—255 个候选项，返回胜出选项以及各候选项的归一化概率，所有候选项概率之和为 1。它适合工具路由、模型选择和任务分类。 不过，这种概率分配始终发生在给定的候选集合内，即使所有选项都不符合输入，模型仍会选出一个相对匹配的结果。因此，开发者需要提供 Other 选项，或者额外设置范围检查。 Score 的设计更有意思。它并不简单返回一个等级，而是先给有序评分标准中的每个等级分配概率，再计算加权评分。例如，将问题分为 0 级、1 级和 2 级，模型可能给出 0.1、0.7 和 0.2 的概率，最终评分可以落在 1 和 2 之间。 这实际上把离散分类扩展成了连续评分，方便程序进行排序和阈值筛选。不过，加权结果会压缩概率分布中的信息：两个输入即使得到相同分数，背后的等级概率也可能完全不同。因此，对于需要区分风险等级的任务，程序还应该读取各等级的概率，不能只使用最终评分。 这三种类型构成了 Gemini Decision 1 的输出体系。模型不再负责生成一段可以供人阅读的答案，开发者需要设计清晰的问题和候选标准，程序则负责把概率结果转化成具体执行条件。雷峰网 (公众号：雷峰网) 02 1000 项问题如何完成独立计算 Gemini Decision 1 的请求结构是一份 Shared Input 对应一组 Questions 。前者承载文本、图像、音频、视频和 PDF，后者定义需要完成的判断任务。每个问题可以使用不同的判断类型和评分标准，单次请求支持至多 1000 项问题。 以设备巡检为例，系统收到一段运行视频、一份维修记录和一段现场语音，需要判断设备是否异常、异常类别、严重程度以及是否需要人工检查。 开发者可以把三种材料放进同一份输入，再分别定义这些问题。异常检测使用 Noul，类别判断使用 Choice，严重程度使用 Score。模型读取相同材料，分别完成各项评分。 这套设计有两个技术细节。首先，每项问题具有独立的评估路径。Google 文档明确说明，各问题只能读取共享输入，不能读取其他问题的答案。 增加或删除某项问题，也不会改变其他问题的答案。这意味着并行评分没有依赖前序问题的推理链，模型可以在同一轮前向计算中完成多个独立判断。 其次，共享输入只计费一次。每项问题额外产生的费用来自自身的 instructions 和 criteria Token，而不需要重复计算整份材料。对于长文档批量审核、音视频检查和多维度内容评估，这种计费结构会影响整体调用成本。 但 1000 项问题并不意味着可以把任意复杂的工作流塞进一个请求。如果问题 B 必须根据问题 A 的具体结果生成新的候选项，两项任务就存在前后依赖。开发者需要先读取 A 的结果，再提交 B。 若 B 的候选项已经确定，只是需要在 A 不满足条件时忽略 B 的答案，则可以将两项判断同时提交，由程序决定是否采用结果。 输入长度同样需要考虑。Gemini Decision 1 的上下文上限为 256K Token，这个预算需要由共享材料和全部问题共同使用，并非每项问题各自拥有 256K。问题数量增加时，instructions 和 criteria 也会占用上下文空间。 谷歌公布的延迟数据中，在上下文不超过 16K Token 的测试条件下，从 1 项增加到 100 项问题，模型计算延迟基本保持平稳，中位计算延迟为 50—100 ms，端到端延迟为 150—250 ms。需要区分的是，API 支持 1000 项问题，公开的近乎平稳延迟测试范围则为 1—100 项。 多模态输入还涉及一项工程取舍。图像和视频可以设置 low、medium、high、ultra_high 等分辨率等级，视觉细节越丰富，输入成本也会随之变化。 音频和 PDF 则直接进入相应的内容处理路径，无需开发者另外组织独立的识别服务。谷歌也明确将 OCR 和音频转写相关开销纳入模型输入计费体系，不另收输出 Token 费用。 这里并没有公开足够的信息来还原模型内部的并行计算图。能够确认的是，各问题共享同一份输入，在单次前向计算中独立评分。至于内部是否使用独立输出头、如何分配各问题的计算资源，谷歌目前没有给出完整技术说明。 03 PK Jev：“五项领先”的背后 Gemini Decision 1 为每项答案提供 confidence，取值为 0—1。它表示模型对当前结果正确性的估计。对于 Noul，confidence 取 Yes 和 No 两种结果中概率较高的一方，对于 Choice，它对应胜出选项的概率，对于 Score，则对应概率较高的等级。这项设计让程序能够根据判断可靠程度设置不同的执行门槛。 这里涉及概率校准。ECE（Expected Calibration Error，期望校准误差）衡量模型给出的概率与实际正确比例之间的偏差。谷歌公布的 Gemini Decision 1 ECE 为 0.0250，Jev 1.14 为 0.0494。 从产品落地来看，谷歌已经在 Gemini Notebook 中使用 Decisions API 进行模型路由，根据请求复杂程度选择模型档位和推理等级，日常请求延迟据称降低了 40%。 Google Search 将其用于 MCP 工具的安全检查，Stitch 则使用它加快交互设计过程中的操作选择。与 TypeSafe Jev 相比，两款模型的技术方向相近，但公开信息呈现出不同侧重。 TypeSafe 已经披露 Jev 使用专门的模型架构、Parallel Sampler，以及 RLCD（Reinforcement Learning for Calibrated Decisions）训练方法。Jev 1.14 增加了图像输入、Box 判断类型和长上下文能力，不过相关功能在发布时仍被放在实验性配置中。 Gemini Decision 1 则依托 Gemini 原生多模态架构，将音频、视频、PDF 纳入输入范围，并提供 256K 上下文和 1000 项问题请求能力。谷歌尚未披露与 TypeSafe 类似的训练方案，因此两者的内部训练路线暂时无法进行直接比较。 性能上，谷歌公布的 7 项共享基准中，Gemini Decision 1 有 5 项超过 Jev 1.14，Jev 在 When2Call 工具调用和 Mind2Web 多模态上保持领先。When2Call 是 Agent 工具选择的核心场景，Jev 在这个指标上的反超说明 Google 的优势并非无差别覆盖。 另外，第三方独立评测机构 Artificial Analysis 的 Decision Index v2.1 榜单中， Gemini Decision 1 的综合分 65.98，略低于 Jev 的 66.23，远低于榜首 Drex Max v1.1 的 72.62。单任务延迟 211 ms，高于 Jev 的 92 ms；价格方面，Gemini 每 100 万输入 Token 收费 0.10 美元，Jev 为 0.042 美元。 换句话说，Google 用多模态能力和批量处理换溢价，但“更强”在第三方统一任务套件上尚未兑现为“更优”。校准误差的领先是真实的，但校准领先不等于综合决策质量领先。 04 Agent 的决策层，正在变成独立战场 Gemini Decision 1 把原本散落在 Agent 工作流中的一类任务，正式变成了独立的模型调用能力。它涉及的不只是评分速度，还包括候选空间定义、共享输入复用、问题隔离、概率校准和程序控制之间的配合。 通用 LLM 仍然负责复杂推理、规划和内容生成，Decision Model 则承担能够提前定义标准的判断任务。开发者需要根据任务依赖关系安排调用顺序，再根据概率表现决定自动执行范围。 Jev 在 9 月点燃了这个品类，Google 在 11 月用多模态和批量能力加注。这条路线能否形成长期优势，还要看模型在复杂输入、任务分布变化和真实业务环境中的稳定表现。谷歌入场后，专用决策模型开始进入更大规模的产品竞争，Agent 的工程设计也将从单纯依赖生成模型，转向更加细致的模型分工。 参考链接： https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ 雷峰网原创文章，未经授权禁止转载。详情见 转载须知 。",
    "published": "Thu, 19 Nov 2026 09:08:00 GMT",
    "source": "雷峰网",
    "biz_tags": [
@@ -405,101 +490,33 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "决策模型可优化Agent工具调用，降本增效",
-   "action": "评估Gemini Decision 1用于短剧投放决策Agent",
-   "opportunity": "用决策模型做投流选品自动化",
-   "risk": "价格是Jev的2.38倍，成本需测算"
+   "why": "决策模型可降低Agent工具调用成本，影响插件开发",
+   "action": "测试Gemini Decision 1的批量决策API",
+   "opportunity": "用决策模型做低成本Agent插件",
+   "risk": "定价是Jev的2.38倍，成本需核算"
   },
   {
-   "title": "阿语短剧每集都要重配音加审校，6人团队撑不住周更，该砍量还是改流程？",
-   "link": "https://www.baijing.cn/question/638867",
-   "summary": "我们做中东阿语短剧，市场是沙特和阿联酋，现在起量阶段，内容团队6个人：2个阿语翻译、1个本地化审校、2个剪辑、1个运营。现在周更4集，每集25分钟，从中文剧本到阿语配音、字幕、审校、上线，单集要5天。试过用AI配音加人工校，但沙特观众在评论区说口音偏埃及，完播率掉了18%；也试过把审校外包给迪拜的自由译者，返稿要3天，节奏对不上。现在排期已经排到两周后，运营还要盯TikTok和Shahid的投放素材。卡在人力就这么多，周更量降下来怕算法权重掉，不降又交付不了。这种情况该先砍集数保质量，还是把审校环节前置到剧本阶段？",
-   "published": "Sat, 21 Nov 2026 04:27:58 +0000",
+   "title": "巴基斯坦手游玩家的充值走本地钱包和运营商扣费，回款周期到底差多少？",
+   "link": "https://www.baijing.cn/question/638888",
+   "summary": "巴基斯坦上线一款中重度SLG，日活1.2万，付费率1.8%，目前只接了Google Play内购和JazzCash手动转账。JazzCash手动转账这部分占巴区收入的23%，但用户付款后要人工核对截图，平均到账确认要18小时，退款率7%。试过接本地聚合支付商，对方说运营商扣费（Jazz、Zong、Telenor）能覆盖无卡用户，但结算周期T+15到T+30，且要求月流水门槛。现在卡在：继续手动转账转化低但回款快，还是切运营商扣费吃量但压两个月现金流。想请教在巴基斯坦做手游的同行，你们本地钱包和运营商扣费的实际回款周期和拒付率是多少，怎么在两者间取舍？",
+   "published": "Sun, 22 Nov 2026 04:06:26 +0000",
    "source": "白鲸出海",
    "biz_tags": [
     "short_drama",
     "industry"
    ],
    "category": "short_drama",
-   "level": "A",
-   "why": "阿语本地化口音与审校流程是中东短剧交付瓶颈",
-   "action": "研究审校前置到剧本阶段并测试沙特本地配音",
-   "opportunity": "沉淀阿语本地化SOP可复用到多部剧",
-   "risk": "埃及口音导致完播率掉18%，降更伤算法权重"
-  },
-  {
-   "title": "巴西葡语短剧素材完播率只有西语版一半，是配音还是剧情节奏的问题？",
-   "link": "https://www.baijing.cn/question/638866",
-   "summary": "我们做拉美短剧出海，主攻巴西和墨西哥，团队12人，内容加投放各占一半。同一部剧做了葡语和西语两版，投放都在Meta和TikTok，测试预算每月大约8万美元。结果巴西葡语素材的3秒完播率比西语版低了将近18个百分点，前5秒流失特别明显，但墨西哥西语版同一素材跑得还算稳。我们试过换本地配音演员、把字幕从葡语字幕改成硬字幕、前3秒加冲突钩子，葡语版完播只回升了4个点左右，还是追不上西语版。现在卡在判断不了到底是配音口音不够本地、还是剧情节奏对巴西观众本来就偏慢。想直接问：巴西葡语短剧素材前5秒该按什么标准做本地化取舍，配音和节奏哪个优先级更高？",
-   "published": "Sat, 21 Nov 2026 04:07:39 +0000",
-   "source": "白鲸出海",
-   "biz_tags": [
-    "short_drama",
-    "industry"
-   ],
-   "category": "short_drama",
-   "level": "A",
-   "why": "巴西葡语前5秒流失18个点，直接影响投放ROI",
-   "action": "做A/B测试分离配音与节奏变量再定本地化标准",
-   "opportunity": "跑通巴西葡语钩子模板可复制到拉美",
-   "risk": "误判归因导致持续烧8万美元月预算"
-  },
-  {
-   "title": "北美 SaaS 只靠 PLG 自助转化，5 人团队排期怎么兼顾渠道投放？",
-   "link": "https://www.baijing.cn/question/638865",
-   "summary": "我们做面向北美中小企业的项目管理 SaaS，5 人团队里只有 1 个市场、1 个设计能分给获客，目前刚过 PMF、月经常性收入约 4 万美元。产品内注册到付费转化率 3.2%，但自助流量见顶，上月试了 LinkedIn 付费推广和两个垂直 newsletter 投放，两周花了 6000 美元，试用注册只涨 40 个、付费 2 个，获客成本远高于自助渠道。现在纠结的是：人手只够每周固定 6 小时做渠道测试，是先把预算压到单一渠道跑满 8 周看留存，还是并行小预算铺 3 个渠道抢曝光？想听有 PLG 北美经验的人讲讲，这种人力约束下判断渠道该继续还是砍掉的临界标准是什么？",
-   "published": "Sat, 21 Nov 2026 03:43:17 +0000",
-   "source": "白鲸出海",
-   "biz_tags": [
-    "short_drama",
-    "industry"
-   ],
-   "category": "ai_tools",
    "level": "B",
-   "why": "PLG渠道测试临界标准可参考到我的SaaS工具",
-   "action": "记录其单渠道8周留存验证思路备用",
+   "why": "巴基斯坦支付回款经验，可参考新兴市场变现",
+   "action": "记录运营商扣费T+15~30结算规律",
    "opportunity": "无",
-   "risk": "小团队并行多渠道易烧钱无回报"
+   "risk": "新兴市场回款慢压现金流"
   },
   {
-   "title": "日本独立站日语客服外包月花18万日元，这笔钱该算进CPA还是单独扛？",
-   "link": "https://www.baijing.cn/question/638862",
-   "summary": "日本站独立站刚起量，主推中高客单家居杂货，团队5个人，月广告预算约120万日元，Meta和Google购物双开。日语客服外包给大阪一家BPO，按坐席包月18万日元，含邮件和LINE官方账号应答，响应时效压到4小时内。现在投放端CPA约6800日元，加上客服成本摊到每单差不多多出900日元，ROI从2.1掉到1.7。试过把FAQ和自动回复做厚，邮件量降了三成，但LINE上的售前咨询还是压不下来，外包坐席不敢减。卡在不知道该把客服成本并进CPA考核，还是单独按复购和客单价来算账。你们做日本站时，客服外包这笔固定支出是按什么口径摊进投放模型的？",
-   "published": "Sat, 21 Nov 2026 02:34:55 +0000",
-   "source": "白鲸出海",
-   "biz_tags": [
-    "short_drama",
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "客服成本摊算口径与我的出海业务无直接关联",
-   "action": "了解即可，无需行动",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "澳新红人联盟佣金给到15%还倒亏，独立站该不该砍掉这块预算？",
-   "link": "https://www.baijing.cn/question/638860",
-   "summary": "独立站做户外露营配件，澳洲市场刚起量，3人小团队。上季度找墨尔本和奥克兰的户外垂类红人做联盟分销，佣金设15%，另付样品和一次性推广费约合4200澳元。结果红人带来的订单CPA冲到38澳元，而站内Google Shopping的CPA只有19澳元，联盟渠道整体ROI不到1.3。我试过把佣金降到10%、只保留带货视频挂链的红人，转化率从1.8%掉到1.1%，量也腰斩。现在卡在：澳新红人报价普遍比东南亚高，但粉丝体量小、复购弱，不知道是继续按CPA筛选红人，还是干脆把预算挪回付费搜索。想问问做澳新市场的同行，你们判断红人联盟值不值得留的具体标准是什么？",
-   "published": "Sat, 21 Nov 2026 01:44:19 +0000",
-   "source": "白鲸出海",
-   "biz_tags": [
-    "short_drama",
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "红人联盟ROI判断标准可借鉴到短剧投放",
-   "action": "参考其按CPA筛选红人的临界标准",
-   "opportunity": "无",
-   "risk": "高佣金低复购渠道易倒亏"
-  },
-  {
-   "title": "韩国短剧平台分账周期拉到90天，我们这种小体量内容方还要不要继续备新剧？",
-   "link": "https://www.baijing.cn/question/638859",
-   "summary": "去年Q4给韩国一个短剧平台供了12部竖屏剧，单部制作成本压到8万人民币左右，签的是分账+保底混合。结果平台侧结算从最初承诺的月结拖到90天，最近一笔2月账单到5月才打款，扣完渠道费和税实际到账只有保底的六成。我们3人小团队，月产能就2-3部，现在备货节奏全乱了：新剧不敢开机，已拍完的3部卡在后期不敢交付，怕交出去又是压三个月账期。试过要求预付30%被拒，也谈过按点击阶梯提高分成比例，平台只肯给头部厂牌。想请教做过韩国短剧分账的同行，这种账期和实际分账比例下，你们判断还值不值得继续备新剧，还是转做一次性买断？",
-   "published": "Sat, 21 Nov 2026 01:21:12 +0000",
+   "title": "美国短剧 App 投 Meta 回本周期拉到 90 天，是素材问题还是付费墙设计问题？",
+   "link": "https://www.baijing.cn/question/638885",
+   "summary": "我们做北美短剧 App，iOS 内购加 Stripe 网页支付双通道，团队 12 人，月投放预算 8 万美元左右，主投 Meta 和 TikTok。起量阶段 CPI 控制在 4.2 美元还行，但首周付费率只有 1.8%，回本周期从 45 天拉长到 90 天，Stripe 那边 T+7 结算、App Store 是月结，现金流压得很紧。已经试过换前 3 集钩子、把付费墙从第 8 集提前到第 5 集、加 0.99 美元首充礼包，首周付费率只涨到 2.1%，回本没明显改善。现在卡在不知道是该继续磨素材拉 CTR，还是改订阅加金币的混合付费结构。想直接问：这个阶段判断优先级，你们看的是首周付费率还是 D7 留存？",
+   "published": "Sun, 22 Nov 2026 02:52:34 +0000",
    "source": "白鲸出海",
    "biz_tags": [
     "short_drama",
@@ -507,42 +524,175 @@
    ],
    "category": "short_drama",
    "level": "S",
-   "why": "韩国平台账期拖到90天，小团队现金流风险剧增",
-   "action": "暂停对韩新剧开机，转向一次性买断或预付合作",
-   "opportunity": "转做买断模式锁定回款",
-   "risk": "分账到账仅保底六成，压三个月账期"
+   "why": "北美短剧投放回本拉长，直接关系我的核心变现",
+   "action": "研究其付费墙提前与混合付费结构方案",
+   "opportunity": "优化付费墙+金币混合提升首周付费率",
+   "risk": "CPI 4.2美元下回本90天现金流吃紧"
   },
   {
-   "title": "男子专盯老年住户安装虚拟拨号设备，涉帮信罪被刑拘",
-   "link": "https://www.ithome.com/1/030/343.htm",
-   "summary": "IT之家 11 月 21 日消息，据央视新闻今日报道，北京通州警方 11 月 13 日抓获一名帮信罪嫌疑人，其 5 天内为老年住户安装 4 台 VOIP 虚拟语音转接设备。 11 月 13 日，北京市公安局通州公安分局刑侦支队接到线索，在张家湾辖区太玉园东区一居民家中发现有人疑似为境外诈骗分子提供语音转接设备。 民警在该居民张女士家中座机附近发现 两个可疑小盒子 ，经核实为境外犯罪团伙常用的 VOIP 虚拟语音转接设备。张女士夫妇年事已高，为方便与家人联系，家中仍保留着传统座机。 张女士称，11 月 12 日上午，家中座机接到一通电话，对方自称通信公司工作人员，表示近期通信设备升级，将安排人员上门更新设备， 并强调不收取任何费用 。 当天下午，一名自称通信公司工作人员的年轻男子按约定上门，在座机上安装了两个所谓可提升网速、保障通信的小盒子，随后匆忙离开。 11 月 13 日，民警在通州区一网吧内将杨某（男，20 岁）抓获。据杨某交代，11 月初其在江苏省某网吧看到一条招工信息，工资日结 300 元至 500 元。 对方表示可安排其在北京为住户上门安装 VOIP 设备， 成功安装一台给 500 元 ，并承诺报销在京期间的吃住费用。 据警方介绍，VOIP 设备在境内架设后，境外诈骗分子可远程使用该设备连接的固话号码向外拨打诈骗电话，接听群众常因来电显示为本地固话而放松警惕。 经民警核实，杨某 5 天内在北京通州、朝阳等地安装 VOIP 设备 4 台，作案目标全部为老年群体。 在张女士家中架设设备后的 12 小时内，境外诈骗分子通过该设备呼出电话 30 多个，关联核实外省电信诈骗案件 1 起， 造成事主被骗损失 18 万元 。 IT之家从报道获悉，目前，杨某因涉嫌帮助信息网络犯罪活动罪被通州公安分局 依法刑事拘留 ，相关案件正在进一步核实中。 警方提示，求职时应警惕“日结高薪、轻松上手、报销食宿”类招工信息，凡要求上门安装设备、搭建线路、转接语音的工作，需核实业务性质。 老年人接到自称通信公司工作人员、以设备升级与免费安装为由要上门加装设备的陌生电话，应提高警惕并核实；遇可疑人员及情况，可第一时间拨打 110 报警。",
-   "published": "Sat, 21 Nov 2026 04:02:14 GMT",
+   "title": "TikTok Shop 印尼直播带货佣金结算要等多久？回款周期和物流签收时效怎么对账？",
+   "link": "https://www.baijing.cn/question/638884",
+   "summary": "我们做印尼站美妆个护直播，起量中，5人小团队，月GMV大概8万美元，佣金按达人带货走。现在最头疼的是回款：平台佣金结算到账大约T+14到T+21，但物流端J&amp;T和SiCepat的签收时效波动很大，雅加达市区2-3天、外岛能拖到7-10天，导致订单签收确认和佣金可结算时间对不上，财务每月要对两套时间轴。已经试过用后台的结算报表和物流轨迹手工比对，但订单量大时差几十单就对不齐，卡在签收异常件和退货退款的佣金冲回上。想问的是：这种签收时效和佣金回款周期错配，你们是按物流签收日还是平台结算日做收入确认和现金流预测的？",
+   "published": "Sun, 22 Nov 2026 02:28:13 +0000",
+   "source": "白鲸出海",
+   "biz_tags": [
+    "short_drama",
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "印尼电商回款对账问题，与短剧出海关联弱",
+   "action": "无需行动",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "印度短剧 App 起量后 CPA 涨到 0.9 美元，是继续加投还是先修变现？",
+   "link": "https://www.baijing.cn/question/638883",
+   "summary": "我们的短剧 App 主攻印度市场，上线 5 个月，日活约 8 万，投放主要走 Meta 和 Google UAC，团队 6 人。前两个月安装 CPA 还能压在 0.35 美元左右，这个月同一批素材在印度直接涨到 0.9 美元，ROI 从 0.6 掉到 0.4。已经试过换素材方向、拆受众、把预算往 UAC 倾斜，CPA 只降了不到 10%。现在卡在要不要继续加预算冲规模，还是先把激励视频和内购的转化链路修好再投。想请教的是，在印度这种 CPA 水平下，判断该先停投修变现还是继续买量的核心指标是什么？",
+   "published": "Sun, 22 Nov 2026 02:04:56 +0000",
+   "source": "白鲸出海",
+   "biz_tags": [
+    "short_drama",
+    "industry"
+   ],
+   "category": "short_drama",
+   "level": "A",
+   "why": "印度市场CPA暴涨ROI跌破0.5，警示新兴市场投放窗口期短",
+   "action": "测算LTV/CAC临界值，变现链路未修好前暂停加投",
+   "opportunity": "转向CPA更低的东南亚或拉美市场复制打法",
+   "risk": "继续加投会放大亏损，现金流被拖垮"
+  },
+  {
+   "title": "印度短剧 App 广告变现回款要 60 天，这现金流怎么扛？",
+   "link": "https://www.baijing.cn/question/638882",
+   "summary": "我们做印度短剧 App，日活 40 万左右，团队 12 人，主要靠 Meta 和 Google 投放起量，变现走 AdMob 加本地聚合。现在最头疼的是回款：AdMob 月结后到账差不多 30 天，本地聚合平台再加 30 天账期，实际回款周期拉到 60 天上下，而投放是周结甚至预付，每月垫资大概 8 万美元。试过压投放预算和换短账期的聚合，但 eCPM 掉得厉害。想请教同样做印度市场的团队，你们怎么在保量的前提下把回款周期压到 45 天以内，是靠换结算方式还是跟聚合谈预付？",
+   "published": "Sun, 22 Nov 2026 01:43:47 +0000",
+   "source": "白鲸出海",
+   "biz_tags": [
+    "short_drama",
+    "industry"
+   ],
+   "category": "short_drama",
+   "level": "A",
+   "why": "回款60天垫资8万美元，现金流是出海短剧生死线",
+   "action": "优先谈短账期聚合平台，测算垫资上限再定投放节奏",
+   "opportunity": "无",
+   "risk": "账期错配导致资金链断裂，规模越大越危险"
+  },
+  {
+   "title": "越南直播基地搭建，8人团队排班撑不住三班倒，该先扩人还是先砍时段？",
+   "link": "https://www.baijing.cn/question/638880",
+   "summary": "我们在越南胡志明市自建直播基地，做美妆个护，目前起量阶段，TikTok Shop 越南站单场 GMV 稳定在 8000 万越南盾左右，团队 8 人：2 个越南主播、2 个助播、1 个场控、1 个投流、1 个选品、1 个本地运营。现在最大的问题是排期，本地主播不愿上凌晨场，我们照搬国内三班倒，结果一周内两个主播请假、场控离职，日均开播时长从 12 小时掉到 7 小时，GMV 跟着掉了 30%。已经试过把凌晨场改成录播切片和加钱补贴，主播还是不接。卡在人力模型上：是先招到 15 人再恢复全天候，还是先把时段砍到本地黄金档、把单场投产比做上去？这个取舍你们怎么判断？",
+   "published": "Sun, 22 Nov 2026 00:58:02 +0000",
+   "source": "白鲸出海",
+   "biz_tags": [
+    "short_drama",
+    "industry"
+   ],
+   "category": "industry",
+   "level": "B",
+   "why": "海外本地化人力模型踩坑案例，与短剧出海团队管理相通",
+   "action": "记录本地用工教训，短剧团队扩张时避开三班倒",
+   "opportunity": "无",
+   "risk": "照搬国内排班模式导致本地团队流失"
+  },
+  {
+   "title": "Temu 美国全托管核价压到成本线，我该不该继续加投广告？",
+   "link": "https://www.baijing.cn/question/638879",
+   "summary": "上个月 Temu 美国站全托管一款折叠收纳箱，核价从 12.9 美元被压到 9.4 美元，毛利只剩 8%。团队 6 个人，月广告预算 1.5 万美元，主要投 Meta 和 Google，CPA 从 4.2 美元涨到 6.8 美元，转化率 2.1% 掉到 1.3%。已经试过换主图、调价到 9.9 美元、把预算往 Advantage+ 倾斜，核价还是过不了，卡在平台比价和同款竞价这一步。现在纠结的是：继续按现价报核价走量摊薄广告成本，还是先停投等核价窗口？你们判断加投还是收手的标准是什么？",
+   "published": "Sat, 21 Nov 2026 08:30:02 +0000",
+   "source": "白鲸出海",
+   "biz_tags": [
+    "short_drama",
+    "industry"
+   ],
+   "category": "industry",
+   "level": "B",
+   "why": "平台核价挤压利润的案例，提醒依赖单一平台的风险",
+   "action": "关注平台政策变动，避免业务过度依赖单一渠道",
+   "opportunity": "无",
+   "risk": "平台压价+广告成本上涨双重挤压利润"
+  },
+  {
+   "title": "韩国高考 AI 作弊事件发酵，教育部长引咎辞职",
+   "link": "https://www.ithome.com/1/030/558.htm",
+   "summary": "IT之家 11 月 22 日消息，据韩联社报道，当地时间 22 日，韩国教育部长官崔教振辞去职务，为韩国 2027 年度大学修学能力考试（韩国高考）期间防范高科技作弊措施不足引发混乱而承担责任。 近期，韩国发生多起利用人工智能工具作弊事件，引发民众广泛担忧。针对在考试前几天反复修改使用人工智能（AI）作弊的指导方针被不断修改，导致考生和教育界陷入“混乱”，这一批评进一步加剧。李在明 20 日在总统府青瓦台召开会议，呼吁对高考制度进行全面改革，应对人工智能快速发展下，各类新型作弊手段给考试公平带来的挑战。 IT之家注意到，韩国高考明确禁止考生携带任何电子设备进入考场，尤其是出现在近期多起作弊丑闻的人工智能（AI）眼镜。指南显示，禁带物品包括手机、平板电脑、AI 眼镜、智能手表、具备蓝牙通信功能的耳机等。 每个考点将安排一名工作人员专门检查 AI 眼镜 ，考生若佩戴 AI 眼镜，即使没有使用，也将被取消当年考试成绩和下一年度报考资格。 然而，在韩国教育部的大力管控下，仍然查处了 111 名违规携带智能设备的考生。据韩国教育部此前介绍，通过发送应急公益短信查出 54 起未上交手机 的案例；通过探测 WiFi 等方式查出 52 起携带智能设备案例。在考试过程中被发现利用智能终端的作弊案例 5 起，包括使用智能眼镜（1 起）、使用微型摄像头和无线耳机（1 起）、利用智能手机拍摄考卷（1 起），以及在洗手间使用智能手机（2 起）。 韩国教育部此前还表示，111 名作弊考生均属于与智能终端相关的违规人员，至于与智能终端无关的一般作弊行为，譬如违反考试时间规定等情况，未被计入本次统计。教育部正对作弊者携带的物品和作弊类型进行进一步分析， 并计划在 12 月 11 日高考成绩公布前完成相关处置工作 。",
+   "published": "Sun, 22 Nov 2026 03:21:10 GMT",
+   "source": "IT之家",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "industry",
+   "level": "B",
+   "why": "AI监管趋严信号，可能影响AI工具类产品合规门槛",
+   "action": "关注各国AI监管动向，工具类产品提前做合规预案",
+   "opportunity": "无",
+   "risk": "AI工具监管收紧可能波及教育类AI产品"
+  },
+  {
+   "title": "九年长篇今日完结：国漫《斗破苍穹》剧场版《双帝之战》定档午间 12 点开播",
+   "link": "https://www.ithome.com/1/030/551.htm",
+   "summary": "IT之家 11 月 22 日消息，国漫《斗破苍穹》官方微博今日宣布，系列完结篇 —— 剧场版《双帝之战》将在今日午间 12 点上线开播 。 这部连载近十年的国漫终于迎来了大结局的终极之战。IT之家查询获悉，本片改编自天蚕土豆同名小说，第一季已于 2017 年 1 月 7 日播出。原著小说讲述了天才少年萧炎因斗气消失沦为废柴，在药老帮助下重获修炼能力，立下三年之约洗刷退婚之耻，后闯荡斗气大陆，最终为护众生迎战魂天帝的故事。 根据原著剧情走向，在这部《斗破苍穹剧场版：双帝之战》中，主角萧炎和最终 BOSS 魂天帝将成就帝位，修炼至斗气大陆的最高境界 —— 斗帝。随后，二者爆发大战，萧炎融合多种异火凝结“异火恒古尺”破阵，最终通过自燃斗帝之体封印魂天帝。 公开资料显示，《斗破苍穹剧场版：双帝之战》由幻维数码制作，将在腾讯视频、极光 TV 上线。动画官方还在刚刚放出了剧场版《双帝之战》动画插曲《不负你我》MV。 此外，动画官方还准备了一个彩蛋 —— 原著作者“天蚕土豆”在上海超前观影会现场 COS 了自己笔下主角“萧炎”，穿戴上了天妖凰骨翼和标志性武器玄重尺。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
+   "published": "Sun, 22 Nov 2026 02:55:17 GMT",
+   "source": "IT之家",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "short_drama",
+   "level": "B",
+   "why": "头部国漫IP完结，验证漫剧题材热度与用户付费意愿",
+   "action": "研究斗破苍穹的漫剧改编节奏和爆款要素",
+   "opportunity": "经典网文IP改编漫剧出海有题材红利",
+   "risk": "无"
+  },
+  {
+   "title": "品牌全球销量破百万：长城坦克首支单曲《百万分之一》定档 11 月 25 日“唱响”",
+   "link": "https://www.ithome.com/1/030/550.htm",
+   "summary": "IT之家 11 月 22 日消息，长城汽车旗下坦克 SUV 官方微博今日宣布， 品牌首支单曲《百万分之一》将于 11 月 25 日“唱响” 。 据IT之家此前报道，本月初，长城汽车宣布，坦克品牌全球销量 100 万辆。公开信息显示，2020 年 7 月，长城汽车在成都车展上正式发布了“坦克 · WEY”平台，并亮相了该平台首款车型 —— WEY 坦克 300。 随后，在 11 月 20 日， 坦克品牌第 1,000,000 台量产车下线 。 延伸阅读 据官方介绍，此次下线的第 100 万辆里程碑车型为品牌旗舰坦克 700。作为品牌旗舰，坦克 700 集坦克在动力、底盘、智能科技及豪华体验等领域的技术积淀于一身，其以旗舰车型作为百万辆代表，展现出中国越野从专业能力到高端化、智能化、全场景发展的进阶成果。 回顾坦克品牌的发展脉络：2020 年 12 月，坦克 300 作为 WEY 体系内的车型正式上市；2021 年 4 月，坦克品牌在上海车展上宣布独立运营，成为长城汽车继哈弗、WEY、长城皮卡、欧拉之后的第五大整车品牌。坦克品牌的 Logo 由字母 T 和 U 组成，T 代表坦克品牌、科技和潮流的定位，U 则代表用户和共创。 目前，坦克品牌已形成包括坦克 300、坦克 400、坦克 500、坦克 700 等在内的产品序列，并引入 Hi4-T 和 Hi4-Z 两大混动架构。其中，坦克 500 Hi4-T 是 Hi4-T 架构的首款落地车型，坦克 400 Hi4-T 则是该架构的第二款车型，于 2023 年 9 月 25 日上市。 作为品牌旗舰，坦克 700 Hi4-T 于 2024 年 2 月 26 日上市，推出极致版、极境版、限定版，建议零售价分别为 42.8 万元、46.8 万元、70 万元，搭载 3.0T V6 + P2 大排量混动系统，最大综合功率 385kW，综合最大扭矩 800N·m（限定版 850N·m）。 坦克品牌的发展也带动了中国越野市场的整体扩容。数据显示，2020 年国产越野车市场占有率为 27%，到 2026 年 1-9 月已提升至 83%；2026 年 1-10 月，坦克在 20 万元以上豪华越野 SUV 市场的占有率达到 63.5%。 在海外市场方面，坦克品牌于 2022 年 7 月完成海外首发，同年 12 月正式亮相澳大利亚，2023 年 3 月坦克 500 在泰国曼谷国际车展启动预售。目前坦克 SUV 已远销 30 多个国家和地区，完成了澳大利亚、墨西哥、中东、东盟、南非等重点市场的布局。根据长城汽车 2025 年年报，坦克品牌 2025 年全年累计销量为 234,442 辆。 关于这首品牌首支单曲《百万分之一》，官方信息显示其将于 11 月 25 日上线汽水音乐、网易云音乐、QQ 音乐等平台。",
+   "published": "Sun, 22 Nov 2026 02:39:52 GMT",
    "source": "IT之家",
    "biz_tags": [
     "industry"
    ],
    "category": "other",
    "level": "B",
-   "why": "与业务无关的社会新闻，仅作背景",
-   "action": "无需行动",
+   "why": "品牌跨界内容营销案例，与AI内容创作关联弱",
+   "action": "无",
    "opportunity": "无",
    "risk": "无"
   },
   {
-   "title": "腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型",
-   "link": "https://www.ithome.com/1/030/338.htm",
-   "summary": "IT之家 11 月 21 日消息，11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和团队成员，在 Reddit 进行了一场持续 120 分钟的 AMA，回答全球开发者关于混元的“任何问题”。 问答环节，有人询问：字节跳动、Kimi 等似乎都在往 3 万亿、甚至 5 万亿参数的超大模型推进，而你们还在 7000 亿。为什么？你们怎么看参数量对模型能力的实际影响？这方面有什么计划？ 混元团队回应：“Hy3 和 Hy4 已经表明， 做得扎实的小模型也能超过更大的模型。 它们的成本也更低，而且在这个过程中，你能学到更多、收获更多。” 不过，混元团队也表示，Hy4 仍有很大的改进空间，尤其是通过后训练。“我们正投入大量精力进行大规模强化学习，同时继续改善用户体验和模型安全。 我们还计划训练更大规模的模型 。” 对于是否有可能推出 240 亿到 310 亿参数的稠密模型？该团队表示：“有可能，我们正在考虑。” 对于是否会发布对标 Qwen 27B 稠密模型的小模型？发布 100B 以下、专门做编程的模型吗？该团队表示：“第一个，有可能。第二个，大概不会。” IT之家注：姚顺雨本科毕业于清华大学姚班，获普林斯顿大学计算机科学博士学位，2024 年加入 OpenAI 并参与智能体产品 operator 与 deep research 开发。其研究聚焦语言智能体与现实世界交互，提出 ReAct 方法首创“推理 — 行动”结合的智能体范式，被学术界与工业界广泛采纳。 2025 年 12 月，腾讯升级大模型研发架构，新成立 AI Infra 部、AI Data 部、数据计算平台部，全面强化其大模型的研发体系与核心能力。姚顺雨出任“CEO / 总裁办公室”首席 AI 科学家，向腾讯总裁刘炽平汇报；同时兼任 AI Infra 部、大语言模型部负责人，向技术工程事业群总裁卢山汇报。 今年 7 月，腾讯宣布混元多模态模型部门与大语言模型部门合并，成立基础模型部，统一由姚顺雨管理，以进一步提升模型研发和协同效率，探索全模态模型的智能上限。",
-   "published": "Sat, 21 Nov 2026 03:24:35 GMT",
+   "title": "Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确",
+   "link": "https://www.ithome.com/1/030/547.htm",
+   "summary": "IT之家 11 月 22 日消息，11 月 21 日，Lean 与 Mathlib 社区发布联合声明，称莱文特・阿尔波格（Levent Alpöge）以 Lean 库形式给出的黎曼猜想证明已经通过核验， 该证明的代码约 1700 万行 。（IT 之家注：Lean 是交互式定理证明器，可逐行机械核验数学推理是否符合逻辑公理。） 声明由 Lean 与 Mathlib 社区联合发布，并获 Lean FRO 与 Mathlib Initiative 背书。声明称，阿尔波格的库仅直接依赖 Mathlib；过去一天内，Lean 与 Mathlib 社区已参与验证。 声明列出四项核验标准，并称这几项标准均已满足： 陈述正确： 证明所用的陈述来自 Mathlib 的 RiemannHypothesis，已由 Lean 与数论专家审核； 代码可编译： 数十人报告编译通过，并复现出相同的原始证明导出文件； 证明对应正确陈述： 社区新增一个仅导入 Mathlib 的文件以隔离该陈述，再用 comparator 和 con-leche --compare 两套独立工具比对，确认库中证明的定理与 Mathlib 的陈述完全一致； 证明有效： 原始导出文件经多个证明检查器检验，包括 Lean 官方内核、con-leche、con-ron，以及第三方以不同编程语言实现的检查器。 声明特别提到，con-leche 与 con-ron 附带相对集合论的形式化证明，因此可以保证它们不会接受错误证明，这也回应了“Lean 逻辑本身可能存在漏洞”的担忧。上述检查在惰性导出文件上运行，不受源码中潜在恶意代码影响。 声明最后称，感谢为验证提供资源的社区成员，并期待数学界后续工作解释该证明中的新思路。 IT之家注： 黎曼猜想由德国数学家伯恩哈德 · 黎曼于 1859 年提出 ，认为看似随机分布在数轴上的质数，实际上遵循着复杂而有意义的规律。此后，黎曼猜想成为整个数论研究领域的重要指引，也是数学界最著名的未解难题。 IT之家附声明原文及译文： Lean verification of the Riemann Hypothesis Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative. On November 20, 2026, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library comprising 17 million lines of code. We have full confidence that Alpöge's proof of the Riemann Hypothesis is correct, and we congratulate him on this achievement. Our rationale is outlined below. The codebase depends directly only on Mathlib. Over the past day, the Lean and Mathlib communities have rallied to verify the proof's correctness. We hereby certify that both the statement and the proof of the Riemann Hypothesis are correct. The four criteria in https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/ are all satisfied. The statement of the Riemann Hypothesis is correct. This statement is part of Mathlib: RiemannHypothesis and has been carefully vetted by experts in Lean and number theory. Alpöge’s library compiles correctly. By now, dozens of people have reported correct compilation of the codebase, reproducing the same raw proof export file. The library compiles without errors or build failures. The code proves the correct statement. Crucially, the community has added a file that isolates the statement of the Riemann Hypothesis and imports only Mathlib. That statement was compared against the theorem proved by Alpöge using two independent tools ( and ), both confirming that the theorem proved in Alpöge’s library is exactly Mathlib’s statement of the Riemann Hypothesis. comparatorcon-leche –compare The Lean proof is valid. The exported raw proof has been checked by several proof checkers, including Lean’s official kernel, the and checkers, and several independent checkers contributed by third parties and implemented in different programming languages. The checkers and come with a formal proof, relative to set theory, that they cannot accept a false proof, thus addressing concerns that Lean’s logic itself might have flaws that the proof could exploit. An extensive overview is available at https://math.mit.edu/~drew/grh/. These checks ran on an inert export of the proof, out of reach of hypothetical malicious code in the Lean proof sources. con-lechecon-roncon-lechecon-ron Thanks are owed to everyone in the community who provided resources for the verification. We look forward to all the activity in the mathematical community that will help explain the new ideas in this proof. Lean 对黎曼猜想的验证 Lean 与 Mathlib 社区联合声明，由 Lean FRO 与 Mathlib Initiative 背书。 2026 年 11 月 20 日，莱文特・阿尔波格（Levent Alpöge）在发布了一项黎曼猜想的证明，该证明以包含 1700 万行代码的 Lean 库形式呈现。 我们完全相信阿尔波格的黎曼猜想证明是正确的，并对这一成就表示祝贺。 我们的依据如下。 该代码库仅直接依赖 Mathlib。在过去一天里，Lean 与 Mathlib 社区齐心协力核验了该证明的正确性。我们特此认证：黎曼猜想的陈述与证明均是正确的。四项标准均已满足。 黎曼猜想的陈述是正确的。该陈述是 Mathlib 的一部分，并已由 Lean 与数论领域的专家仔细审核。 阿尔波格的库可以正确编译。 目前已有数十人报告代码库编译正确 ，并复现出同一份原始证明导出文件。该库编译无错误，也没有构建失败。 代码证明的是正确的陈述。关键在于，社区新增了一个文件，用于隔离黎曼猜想的陈述，并且只导入 Mathlib。该陈述已使用两套独立工具（comparator 与 con-leche --compare），与阿尔波格所证明的定理进行比对，两者均确认：阿尔波格库中所证明的定理正是 Mathlib 对黎曼猜想的陈述。 Lean 证明是有效的。导出的原始证明已通过多个证明检查器的检验，包括 Lean 官方内核、con-leche 与 con-ron 检查器，以及第三方贡献的、以不同编程语言实现的若干独立检查器。con-leche 与 con-ron 附带相对于集合论的形式化证明，证明它们不可能接受错误的证明，从而回应了“Lean 的逻辑本身可能存在缺陷、并可能被该证明利用”的担忧。这些检查是在该证明的惰性导出文件上运行的，因此不会接触到 Lean 证明源码中假设存在的恶意代码。 我们期待数学界接下来的各项工作，帮助解释这一证明中的新思路。 相关阅读： 《 黎曼猜想真被 Claude 证明了？Anthropic 数学家仅发布 Lean 代码，文字证明超 25 万页 》 《 AI 攻克黎曼猜想？Anthropic 数学家宣称已与 Claude 合作完成证明 》",
+   "published": "Sun, 22 Nov 2026 02:31:50 GMT",
    "source": "IT之家",
    "biz_tags": [
     "industry"
    ],
    "category": "ai_tools",
-   "level": "A",
-   "why": "混元小模型低成本路线利好我的AI工具开发",
-   "action": "关注混元后续小模型发布并测试接入",
-   "opportunity": "用低成本小模型降工具开发成本",
+   "level": "B",
+   "why": "AI推理能力突破信号，长期影响AI工具能力边界",
+   "action": "关注AI推理能力进展，评估对内容生成工具的潜在提升",
+   "opportunity": "无",
    "risk": "无"
+  },
+  {
+   "title": "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
+   "link": "https://www.ithome.com/1/030/540.htm",
+   "summary": "IT之家 11 月 22 日消息，11 月 21 日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题，未与任何大模型企业合作，亦未开展测评。 声明称，中心从未以任何形式向社会公开、发布或出售中医类别医师资格考试历年试题（含真题、原题）、参考答案及相关考试资料，亦未授权任何单位或个人公开、发布、销售。市场上以“历年真题”“官方真题”“内部题库”“原题还原”等名义提供、销售或 用于训练、测评人工智能大模型的内容 ，均非中心提供。 声明还称， 中心从未与任何人工智能大模型企业、平台或相关机构建立合作关系 ；未授权任何主体使用中心名称、简称、标识、考试数据及考试资料用于大模型训练、产品宣传或者商业推广；中心未对任何大模型产品开展过测评、认证、认可或者推荐。 声明表示，任何单位或者个人应立即停止不当宣传，删除、下架相关信息与内容，中心保留依法追究其法律责任的一切权利。 IT之家从公开资料获悉，国家中医药管理局中医师资格认证中心，2000 年 12 月 19 日，经中华人民共和国中央编制委员会办公室批准，成立了国家中医药管理局中医师资格认证中心。2007 年经批准增加组织实施中医药行业特有工种职业技能鉴定工作职能，并加挂国家中医药管理局职业技能鉴定指导中心牌子。2022 年中编办批准中心机构职能和编制调整。 该中心承担中医药行业相关考试和人才评价，以及有关考试质量评估、科学研究与交流、信息化建设等工作，中医药行业职业技能鉴定的有关指导工作。",
+   "published": "Sun, 22 Nov 2026 01:42:10 GMT",
+   "source": "IT之家",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "与三大业务无关，仅提示AI合规宣传红线",
+   "action": "无需行动，了解即可",
+   "opportunity": "无",
+   "risk": "知识付费宣传勿蹭官方认证背书"
   },
   {
    "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
@@ -556,80 +706,79 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "新模型可能提升AI视频/剧本生成质量与效率",
-   "action": "测试Gemini 4 Neon在剧本分镜生成上的表现",
+   "why": "新模型迭代影响AI视频生成质量与成本",
+   "action": "测试Gemini 4 Neon在分镜/图像生成效果",
    "opportunity": "用新模型降本提效做短剧",
    "risk": "新模型API价格与稳定性未知"
   },
   {
-   "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
-   "link": "https://sspai.com/post/119239",
-   "summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。 查看全文",
-   "published": "Thu, 19 Nov 2026 08:29:30 +0800",
-   "source": "少数派",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "industry",
-   "level": "B",
-   "why": "行业榜单动态，与核心业务关联弱",
-   "action": "快速浏览入围应用找工具灵感",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "是什么神秘力量，操纵了演员的一言一行",
-   "link": "https://www.huxiu.com/article/4907363.html",
-   "summary": "近期有两位男演员很闹心。一位是律政剧《蒸蒸日上》男主演韩东君。他在录制综艺《你好，星期六》时，因跟同样来宣传新剧、《装腔启示录》时的合作对象蔡文静做秘密任务，被批评不尊重搭档高叶。另一位是现偶剧《今天是太阳雨》男主演董思成，因为与合作对象杨超越过于亲密的剧宣举动，引发大范围脱粉，一度力压《后会友期》登顶热搜。...... 本文来自微信公众号： 影视独舌 ，作者：赵简一 近期有两位男演员很闹心。 一位是律政剧《蒸蒸日上》男主演韩东君。 他在录制综艺《你好，星期六》时，因跟同样来宣传新剧、《装腔启示录》时的合作对象蔡文静做秘密任务，被批评不尊重搭档高叶。 另一位是现偶剧《今天是太阳雨》男主演董思成，因为与合作对象杨超越过于亲密的剧宣举动，引发大范围脱粉，一度力压《后会友期》登顶热搜。 左为董思成热搜，右为社媒网友对韩东君的不满 这两个实例说明，当下舆论场上对于剧宣期演员的要求，已经几乎到了拧巴又病态的程度。 暧昧景观化，剧宣变官宣 CP营业并非短视频时代才有的新鲜产物。放在二十年前，大众对CP的称呼是“荧屏情侣”。 但彼时的荧幕情侣路线，往往是正常剧宣之外的附加选择。是否选择营销荧幕情侣，主动权在演员与剧方手上，是多方利益综合考量后的结果。 而从近几年开始，演员与剧方不再拥有选择权。CP营业成了剧宣工作中占比最大、最核心的宣传动作。它被默认为演员的本职工作。 如果说在荧屏情侣的炒作时代，男女主演只需要以本来的性格与对方产生火花，让“XX与XX疑似假戏真做”的绯闻占据八卦杂志和门户网站的头版头条，用神秘感和迷惑性保持剧集热度，那么现在的CP营业则是将原本私密性极高的暧昧亲密，暴露在大庭广众之下，使两人之间的互动成为被观赏的对象。 演员服务观众的主场景，从作品内扩大到了全网的可视空间。 换句话说，演员们不仅要在戏里演，戏外也得带着角色设定继续演下去。如果不演，则会招致观众——尤其是爱情剧观众的不满。 2022年，窦骁与陈都灵主演的民国言情剧《良辰好景知几何》播出。因彼时的窦骁已与妻子何超莲公开恋爱，没有选择与陈都灵合体宣传，引发了舆论反噬。 此后，窦骁在很长一段时间内再未接演过爱情剧。 更有甚者，即使剧宣期结束，演员也不能OOC（Out of Character，脱离角色设定）。 丁禹兮与虞书欣二搭合作的《永夜星河》在2024年播出后，两人的CP大热。而在2025年年末的一次娱乐活动上，丁禹兮与《传闻中的陈芊芊》中的合作对象赵露思打招呼，引发CP粉的强烈不满，“禹宙中欣脱粉”一度登上热搜高位。 两位女演员因戏路撞型而被粉丝认为是“对家”，所以尽管距离剧播结束已经过去了一年时间，演员之间的正常社交也被视为是一种“背刺”。 市场敏锐地捕捉到了观众对于CP越来越重视的信号。CP就是热度，热度就是金钱。当下CP营业的乱象，一定程度上是主动迎合的结果。 如果说以往的CP营业还有让演员“相亲”的恋综氛围感，那么2025年则是“婚闹式”剧宣全面兴起的一年。 年初白鹿、敖瑞鹏在《白月梵星》宣传期间，发布了一条情侣合拍视频，在抖音上拿到了1457万点赞，让原本热度走势平淡的剧集“起死回生”。 此后，情侣转场视频成了每部剧男女主演的既定KPI。 而在追剧团、扫楼等线下路演现场，男女主演的主要任务是完成各项突破尺度的亲密挑战，玩让人面红耳赤的洞房小游戏。 到了今年，情况愈演愈烈。擦边的婚闹热身，已无法满足CP营业突破同质化的需求，男女主演一键快进到办婚礼。 张婧仪与宋威龙在《野狗骨头》的衍生综艺中，以角色身份进行了一场从穿婚纱、宣读誓词、到交换婚戒的完整婚礼流程； 孟子义与李昀锐在《尚公主》剧宣期则上演了“接下班”、游乐园约会等真情侣操作； 在今天即将播出的《你好，星期六》的预告片里，杨超越、董思成还有单膝跪地求婚的场面…… 这一切都在说明，所谓演员敬业的标准发生了巨大变化。 过去，演员完成角色演绎、拍好作品是敬业；现在的敬业则从剧里延伸到剧外。 这不止发生在古偶现偶的男女主演身上。现实题材剧演员也要潜移默化遵循观众心里的“敬业”标准了。观众对演员“敬业”的要求范围越来越广、越来越极致。韩东君此次在《你好，星期六》的风波就是源于此。 观众大二创，演员被媒介化、工具化 观众对演员敬业标准变化的背后，是新的观演关系下演员职能属性的改变。 沈奕斐教授曾在潜伏研究嗑CP文化后表示，CP粉都是侦探和剧作家，可以将蛛丝马迹串成一个故事。嗑CP的本质，是观众与演员在情绪与想象中共同生成一种新的爱情叙事。 由此，演员成了一种新媒介，一种承载观众爱情想象的身体媒介。如果说角色是创作者意志的延伸，那么演员则成为了观众意志的延伸。 这类观众往往将剧中的角色设定与演员的真实经历融到一起，构成一个新的关系故事。他们不仅要做创作主体，还要掌握CP关系的解释权和定义权。 比如孟子义与李昀锐在2024年《九重紫》播出前，都是尚无热门主演作品的演员。《九重紫》是他们彼此人生中的第一部爆剧。 两位演员经由一部作品一同飞升，加上剧中男女主“互为因果，守望相助”的感情线设定，让观众觉得两人多了一层命中注定的正缘感。 杨超越与董思成凭借《今天是太阳雨》成为热门CP，也同样是得到了观众二创的加持。 在这部剧之前，杨超越曾被贴上“演戏木头”的标签。她在成名之前贫穷打工的经历与剧中角色有相似之处。 戏中，男女主在人生的至暗时刻相遇。这也让戏外杨超越与董思成的合作，多了一丝“一同走出人生低谷”的绝佳拍档的意味。 而正是因为演员成为承载观众爱情想象的媒介，更加剧了演员的工具人属性。而这也是为什么上升期演员都不被粉丝允许谈恋爱——演员本人的感情生活一旦被外界知晓，就会影响演员作为素材工具的纯洁性。 观众、演员与创作者，正在共同构成一个完整爱情故事的闭环。 与其跳抖舞，不如聊创作 再延伸一些，演员被媒介化、工具化之后，剧宣场上创作表达的窄化和娱乐化就更加不可避免。 今年9月主持人何炅曾在一档节目里表示，身边的演员朋友们都在学跳舞，但呈现到大众面前的并不是上千种不同的舞，而是同一种舞被跳上千次。 何炅的观察，相当程度上反映了剧宣大量跳抖舞的同质化与流程的僵硬化。 不仅是年轻的流量演员需要跳，实力派演员也在劫难逃。姚晨就曾在去年电影《下一个台风》的路演现场表达了对演员要唱歌跳舞这件事的迷惑：“我也不知道我们在干什么，表达跟创作相关的机会越来越少。” 老戏骨跳别扭的抖舞，跟CP婚闹一样尴尬。社媒平台上，已经有不少吃腻了同质化菜色的观众表达了对这种不良剧宣生态的不满。 但这种现象并非不可改善。此前，张译在宣传电影《三大队》时，拒绝跳抖舞，获得了许多观众支持，此后电影路演跳抖舞的风气有所减弱； 《小城良方》主创的剧宣路演，没有玩游戏，没有跳抖舞，而是选择了坐下来好好聊创作。 总的来看，剧宣的生态风气需要重新引导。把CP线保留在角色之间，把聊创作的权利还给演员，闹笑话的蹩脚剧宣、两极撕裂的无意义口水战，可能才会少一些。",
-   "published": "Sat, 21 Nov 2026 03:47:48 GMT",
+   "title": "四个阶段，中国商人在非洲走到了哪一步｜长颈鹿笔记",
+   "link": "https://www.huxiu.com/article/4907464.html",
+   "summary": "全篇阅读时间约3-4分钟南瞻：“外国小商贩被限制，是中国商人在非洲走到第三阶段的标志，而法律往往是最后才到的那个信号”如果只说一句：该来的都会来的2025年10月，中肯环球贸易中心（后改名为：中肯商贸城）在Jamhuri Park马球场办开工奠基仪式，肯尼亚总统鲁托也到现场参加了仪式。我们看到总统府的通稿写着...... 本文来自微信公众号： 南瞻 ，作者：南瞻，原文标题：《四个阶段，中国商人在非洲走到了哪一步｜长颈鹿笔记》 全篇阅读时间约3-4分钟 南瞻： “ 外国小商贩被限制，是中国商人在非洲走到第三阶段的标志，而法律往往是最后才到的那个信号 ” 如果只说一句：该来的都会来的 2025年10月，中肯环球贸易中心（后改名为：中肯商贸城）在Jamhuri Park马球场办开工奠基仪式，肯尼亚总统鲁托也到现场参加了仪式。我们看到总统府的通稿写着，项目预计总投资50亿先令，6.8万多平米，有展贸中心和五星级酒店，预计创造3000个岗位 实际上大家如果搜当时的新闻就能清晰的看到现场立着几块横幅，而其中一块印着总统的话，中小微企业是肯尼亚经济增长的引擎。下面一行英文介绍这个项目，也契合了这句话，表示项目将作为中国和肯尼亚产品的展贸中心，让中小微企业做生意更方便。但是不到一年，2026年9月2日，鲁托在总统府又见了一批本地中小微商户。这一次他的意思是，外国人别来摆摊开小店 这道指令后来怎么从五天限期改成90天补手续，周边国家各自立了哪些规矩，我们9月那篇文章已经谈到过（非洲多国限制外国人街边零售，这三年为什么突然扎堆|长颈鹿笔记），这里不再重复 这一篇是想探讨另一个问题：同一个总统，同样是为了中小微企业，一年前欢迎国人来建商贸城，一年后要关掉外国人开的小店。我们试图从这个角度出发，研究看看中国商人在肯尼亚的生意走到了什么位置 这一期讲两件事 四个阶段各是什么样子 肯尼亚现在走到了哪一步 01 — 四个阶段各是什么样子 先备注一下，下面的四个阶段是我们自己的归纳分析，不是学界现成模型。但这其中确实参考了两个研究，一个是社会学家Edna Bonacich 1973年提出的中间商少数族群理论，讲夹在上层和大众之间做买卖的外来群体，为什么容易变成敌意的对象。另一套是荷兰学者Gijsbert Oonk对东非南亚商人两百年历史的研究（也许我们下一期会提到） 第一阶段，行商 这个阶段的主要特征就是人少，货少，赚的是信息差。比如从中国拿一批货，当地没人卖或者卖得很贵，转手就有钱。这个阶段通常人很分散，哪里有空档就往哪里去，常常一路下沉到小城镇里。马拉维是个很典型的例子。2007年马拉维和中国建交，之后几年里，中国人开的小店、餐馆、旅店在全国冒了出来，不少开到了县城和村里 第二阶段，集聚 很明显，人一多就开始扎堆。批发商城、商贸城等就出现了，货集中摆放，进货走批量，本地小商人成了主要客户，从商城拿货再拿到街上卖。而这个阶段赚的是规模和渠道的钱。举例来说，约翰内斯堡最早的华人商城China City是1995年开的，在Ellis Park体育场对面。后来那一带陆续冒出几十家中国商城，来进货的多是二道批发商，有埃塞俄比亚人，当然也有周边国家来的人 第三阶段，分岔 这是最容易出事的一段。这一阶段特征是本地商人慢慢摸清了中国的货源，有人直接飞去广州、义乌进货，差价越来越薄。中国商人这时候就得做选择了，一部分往上游走，专门给本地商人供货、做批发、做物流验货。另一部分往下游走，直接开店卖给消费者，和本地小商人抢上了同一批顾客 我们研究中看到，2017年Quartz去约翰内斯堡的China City采访，发现那里非洲人经营的档口已经快和华人一样多了。很多非洲商人自己和中国工厂搭上了线，不再从华人手里拿货。华商一边被抢生意，一边被兰特贬值吃掉利润，不少人在考虑离开。报道里列的原因是经济不好、排外情绪和本地商人自己去中国进货，没有哪一条是某个政府下的禁令。另一个例子是马拉维。2012年7月起，新规要求外国商人只能在四个大城市经营，县城和村里的中国小店陆续关门。从开到乡下到被收回城里，前后也就五年 第四阶段，成熟 至此，能留下来的多半已经换了一种活法。在本地注册公司，雇本地人，有的把工厂建在当地，生意从卖货变成了经营。第二代在当地长大，处境又和父辈不一样。我们看到，南非可能正在往这一段走。今年7月，南非劳工部副部长Jomo Sibiya去了约翰内斯堡的China Mall，对一屋子中国老板说，南非失业率高得不能接受，希望大家一起把南非人放在前面。他没有叫人走，他要的是岗位 所以，是什么在推着往前走。我们认为背后至少有三股推力在起作用 第一股推力是信息差在消失。在内罗毕，中国连锁店China Square卖一副假睫毛不到100先令，本地市场要200先令。本地小商户卖得贵，基本上就是因为货从中间商手里转了几道，而连锁店是直接找工厂批量拿货。东非的索马里商人早在1990年代末就开始绕开迪拜和香港，直接去中国内地进货了，这个过程走了二十多年，现在只是更快 当然肯尼亚政府自己也在推这件事。回到文章开头提到的9月2日同一天，鲁托还见了做拼箱进口的商户，政府当场答应把普通拼箱货的海关估价基准从250万先令降到200万先令，内陆集装箱站到拼箱拆分中心的铁路运费从5.8万先令降到1万先令。拼箱就是几个小商户合用一个集装箱进货，这是本地小商户自己从海外进货的常见做法。所以我们看到了一边限制外国小商贩，同时一边帮本地小商户把自己进货的成本降下来的情况 第二股推力是群体变得显眼。Oonk的研究里有个数字能说明问题。南亚裔在东非人口里从来没超过2%左右，但就是人这么少的情况下，却一直是被针对的对象。我们认为，决定一个外来商人群体处境的，主要是它在商业里占的位置，人数倒在其次。肯尼亚的中国个体商人没有可靠的人数统计，但只要集中在本地人最熟的那几条街，自然就会被看见 第三股是贸易壁垒，主要作用在工厂和品牌企业身上（这个我们本期就不多聊了，后续可能会再谈到） 02 — 肯尼亚现在走到了哪一步 第三阶段的信号，肯尼亚攒了好几年。先看一下这个时间线 2019年6月，内政部长马蒂昂伊下令驱逐7名在Gikomba做生意的国人，理由是他们没有工作许可，而且这类小买卖是留给本地人的 2023年2月，China Square在内罗毕郊区开出第一家店，没几天就出现了本地人的抱怨，停了大约一周，政府和当地华人商会谈过之后才重新开张。同一年，一批本地商人去高等法院起诉，要求移民局别限制发工作和经营许可，诉状里点名的是River Road、Kirinyaga Road、Kamukunji和Gikomba这几个区域，都是本地小商人最集中的街区 到今年9月，事情从商人请愿走到了总统指令 第二阶段还在扩张。和这些同时发生的，是商城还在往里建 China Square在肯尼亚已经开到第七家店，2025年初拿下了内罗毕Two Rivers商场一成的可租面积，同年8月义乌的出口品牌集合店又在它的商场里开出了非洲第一家 Jamhuri的中肯商贸城已经在施工。它的招商材料里也表示，这是一个占地44.7英亩、总建筑面积7.4万多平米的实体商城，8栋楼分电力新能源、五金建材、日用百货、电子电器等业态，配一个18英亩的仓储区和一块酒店用地 我们的初步判断 肯尼亚现在是第二阶段的商城还在建，第三阶段已经到了门口。不少人在盯90天什么时候到期、清单里写不写批发。这些当然要看，但我们觉得更该盯的是生意本身的信号。按前面几个案例，法律往往是最后才到的 第三阶段的核心是差价在变薄。不到100先令和200先令中间那一截，就是这些年靠信息差吃饭的人赚的钱。现在本地商户看得见这个差价，政府在帮他们降自己进货的成本，拼箱商还被要求在10月15日前把背后的商户信息报给税务局。这几件事没有一件是冲着国人立的法，可每一件都在压缩中间那一截利润。所以，就算清单最后把批发留给了外国人，只做转手批发的空间也会越来越小。今天本地店主找你拿货，是因为他自己去广州、义乌还不方便。等他方便了，这个位置也就没了。就像前面提的，南非China City的档口一半换了主人，这并不需要哪一部法律来推 当然，我们也看到了一些走进第四阶段的生意，特征就是手里都有本地人自己飞一趟义乌拿不到的东西。可能是本地的工厂，可能是本地的仓储和配送，也可能是一个本地人认的品牌，或者是雇了足够多本地人，或者让地方政府舍不得动的规模 其实从商贸城的招商材料里就能看出来，它在内罗毕做展贸和仓储，同时写着在纳瓦沙有100英亩工业用地，准备承接加工制造，口号叫内罗毕做贸易、纳瓦沙做产业。这明显就是在给第四阶段留后路，因为光靠展示和转手是撑不了太久的 所以对正在考虑来非洲的中国商人，我们留下的一个问题是，你到底能给本地客户什么东西，是他自己去一趟义乌拿不到的 更多关于本文的备注 我们文中提到的案例都是出过事，在新闻报道中出现过的。但这并不是所有外来商人群体都会走到被限制这一步。我们讨论的是同时具备三个特征的群体，以外国籍为主，集中在零售和小批发，人数或者生意量大到本地人看得见。只是说，在我们看到的案例里，满足这三个特征的群体都遇到过限制，但这不等于下一次一定会出现 我们核心关注了个体商人和贸易商，没有涉及讨论平台和工厂出海，也没有对比欧美和东南亚的当前情况。因此分析仅供方向性参考和讨论",
+   "published": "Sun, 22 Nov 2026 04:02:20 GMT",
    "source": "虎嗅资讯-全部",
    "biz_tags": [
     "industry"
    ],
-   "category": "short_drama",
+   "category": "other",
    "level": "B",
-   "why": "国内剧宣CP营销逻辑，可借鉴海外短剧题材",
-   "action": "记录CP营业套路用于短剧人设设计",
-   "opportunity": "CP题材短剧易出爆款",
-   "risk": "国内玩法海外水土不服"
+   "why": "与AI出海业务无直接关联",
+   "action": "无需行动",
+   "opportunity": "无",
+   "risk": "无"
   },
   {
-   "title": "曝黎曼猜想被证明，Claude 立大功",
-   "link": "https://www.huxiu.com/article/4907358.html",
-   "summary": "困扰人类数学界167年的世界级难题，可能真的要被AI解决了。就在刚刚，Anthropic数学家Levent Alpöge在个人网站发布声明，宣布自己与Claude合作，找到了著名的黎曼猜想（Riemann Hypothesis）的证明。更夸张的是，Alpöge声称，他们甚至进一步证明了适用范围更广的广义黎曼猜...... 本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《刚刚，曝黎曼猜想被证明，Claude 立大功》 困扰人类数学界167年的世界级难题，可能真的要被AI解决了。 就在刚刚，Anthropic数学家Levent Alpöge在个人网站发布声明，宣布自己与Claude合作，找到了著名的黎曼猜想（Riemann Hypothesis）的证明。 更夸张的是，Alpöge声称，他们甚至进一步证明了适用范围更广的广义黎曼猜想（Generalized Riemann Hypothesis）。 图｜Levent Alpöge 有意思的是，Alpöge此次没有发布传统意义上的完整数学论文，而是公开了一套使用Lean形式化证明语言编写的代码，试图让计算机验证整个数学推理过程。 而在回顾研究经历时，他还透露了一个相当魔幻的细节。作为一名从学生时代就梦想解决黎曼猜想的数学家，他原本计划用几十年时间攻克这个问题。 结果临近终点，Claude的推理速度已经快到让他难以跟上。他甚至用诗一般的语言感叹，Claude在终点线附近飞翔、起舞、闪耀，而自己只能惊叹于眼前发生的一切。 对于一项让无数顶尖数学家苦思一个多世纪的难题而言，眼下发生的事情多少有些超现实。 人类研究了167年，黎曼猜想究竟有多难？ 想理解这次事件的分量，首先得知道黎曼猜想在数学界是什么级别的存在。 1859年，德国数学家伯恩哈德·黎曼提出了一个与素数分布密切相关的猜想。 素数就是只能被1和自身整除的正整数，例如2、3、5、7、11。它们是整数世界的重要基础，但具体会在哪里出现，看起来始终缺乏直观规律。 黎曼猜想试图揭示素数分布背后更深层的数学规律。 从严格定义来看，它断言黎曼ζ函数所有非平凡零点的实部都等于1/2。 看起来只是一个简单的数学表达式，却关系到素数分布的精确程度，以及现代数论中大量重要结论。过去167年，无数顶尖数学家试图证明它，期间诞生了大量数学理论和研究工具，却始终没人能够给出获得普遍认可的完整证明。 2000年，克雷数学研究所将其列为七大千禧年数学难题之一，并设置了100万美元奖金。 更重要的是，大量数学研究都以黎曼猜想成立为前提。倘若得到证明，许多此前只能在假设条件下成立的结论，将获得坚实的理论基础。 而Alpöge此次声称证明的广义黎曼猜想，还将相关结论扩展至更广泛的L函数体系，牵涉数论中大量深层结构。 换句话说，如果这项研究最终成立，它的意义远远超过解决一道数学题，更可能改变整个数论领域的研究版图。 Claude如何参与证明？关键时刻竟然比数学家还快 根据Alpöge公布的研究时间线，这项研究可以追溯到今年10月初。 整个过程涉及Stepanov方法、傅里叶分析、自守形式、theta提升等大量复杂的数论工具，研究者需要寻找不同数学理论之间的联系，将原本难以处理的问题转化成可以逐步解决的形式。 真正关键的进展出现在11月15日前后。 当时，Alpöge和Claude尝试利用迭代theta提升构造新的证明路径，其中一个让他印象深刻的细节，是Claude建议将迭代链的长度设置为√X。 按照Alpöge的解释，这个看似简单的选择，帮助研究者处理了此前难以获得的重数结构，也成为推进整个证明的重要环节。 整个过程中，Alpöge负责寻找研究方向、建立数学思想之间的联系，并引导Claude探索合适的证明路径。 但随着研究接近完成，Claude在复杂推导和技术细节方面发挥了越来越重要的作用。 他甚至承认，研究后期涉及的一些高阶自守形式理论，已经超出了自己目前能够熟练掌握的范围。某种程度上，按照他的描述，AI已经能够在部分高难度数学推理中，表现出超越人类研究者即时理解和推导速度的能力。 更加特别的是，Alpöge声称，他与Claude已经将相关证明形式化，并且没有引入额外的未经证明的假设。 目前，他已经在个人网站公开了全部Lean证明材料，分为14个压缩文件，供外界下载验证。 项目链接： https://alpo.ge/remark.pdf 原始代码下载地址 https://alpo.ge/lean.tar.gz.part01 https://alpo.ge/lean.tar.gz.part14 文件编号从01依次递增至14。 Lean是一种形式化证明工具，可以把数学定理及其证明过程转化成机器能够检查的逻辑表达式，进而验证每一步推导是否符合数学规则。 不过，公开代码不等于证明已经获得确认。外部数学家还需要检查文件能否完整构建、是否依赖未经证明的假设，以及代码中的定理是否真正对应黎曼猜想。 Alpöge同样坦言，整个论证极其复杂。他曾让Claude生成超过25万页的庞大文档，但最终决定公开Lean代码，而非直接发布难以阅读的海量文字。 如此夸张的篇幅，甚至可以被戏称为一场针对数学界的「DDoS攻击」，毕竟面对足足25万页的证明材料，恐怕整个数学界的审稿人一起上阵，都得担心自己的大脑先被海量信息淹没。 他计划继续理解和整理整个证明，将其转化为更加简洁、易于阅读的数学论文。 于是，数学界出现了一个颇为特殊的局面。 一份可能具有历史意义的数学证明已经以机器可检查的形式公开，但人类仍需要花费大量精力，才能真正理解它究竟是如何成立的。 从哈佛数学天才到Anthropic，Claude的数学能力进化有多快？ Alpöge本人的经历，也让这次研究更受关注。 公开资料显示，他出生于1992年，现年34岁，拥有美国和土耳其双重国籍，长期从事数论和算术统计研究。 他的学术履历相当亮眼，本科毕业于哈佛大学，随后前往剑桥大学深造，并于2020年获得普林斯顿大学数学博士学位，导师是著名数学家Manjul Bhargava。 早在2015年，他便获得了摩根奖，之后还曾担任哈佛大学Society of Fellows的Junior Fellow。 加入Anthropic后，他逐渐成为AI辅助数学研究的活跃人物。今年7月，他宣布借助Claude Fable 5找到了雅可比猜想的一个反例，8月又与其他研究者合作，利用Claude构造出一批此前尚未找到的Hadamard矩阵。 实际上，Claude对黎曼猜想的挑战也早有铺垫。 今年8月，Anthropic曾公开一项研究，介绍内部版本Claude尝试证明黎曼猜想的过程。 当时，Anthropic员工Jarred Sumner向Claude提出了这个近乎不可能完成的任务。 Claude最初生成并测试了650个研究思路，但都没能成功。 随后，它组织约60个子智能体协作，执行约2400条Shell命令，编写数百个Python脚本，通过数学检验、论文检索和交叉审查寻找突破方向。 整个研究过程消耗约3100万个输出Token。最终，Claude仍未解决黎曼猜想，但在相关零点分布研究中取得了重要的阶段性进展。 Alpöge和Anthropic数学家Ralph Furman随后参与了相关成果的审查与解释。到了今年10月，OpenAI也公开了一批AI参与完成的数学研究，其中包括与黎曼猜想有关的重要进展。 短短几个月，AI在前沿数学研究中的表现，已经让人很难再用传统的数学竞赛成绩来衡量。 过去，计算机主要帮助数学家完成数值计算、搜索反例和验证证明，如今，前沿AI模型开始主动探索研究路线，将不同数学分支中的知识组合起来，并尝试给出原创性的证明。 数学家的AI助手，正在逐渐成长为能够参与探索未知问题的研究合作者。 当AI开始解决人类的终极难题，数学家该何去何从？ 对于Alpöge而言，这次研究带来的情绪，远比外界想象得复杂。 他在声明中透露，自己从学生时代就将黎曼猜想视为一生的重要研究目标，为此长期积累不同数学领域的知识，等待未来某一天能够真正攻克它。 但如今，他相信自己已经接近梦想，却发现研究最后阶段，Claude的进展甚至超过了自己。 面对追逐多年的目标可能就此消失，他坦言心中存在一种失落。 不过，更让他震撼的，是整个研究过程中展现出的科学发现潜力。在他看来，人类可能正在迎来一个全新的科学时代，而黎曼猜想只是其中的开始。 当然，数学界仍需要保持谨慎。 历史上，黎曼猜想曾多次被宣布证明，但最终都没能通过严格审查。此次研究同样需要接受独立检验，尤其要确认形式化代码真正证明了什么。 即便最终验证成功，数学家仍需要理解证明采用的方法，以及这些方法能否进一步推动其他领域的发展。 毕竟，数学证明的价值既包括确认命题的真假，也包括揭示人类此前从未发现的数学结构。 但AI的快速进步，已经带来了另一个值得思考的问题。过去，大模型的数学能力主要通过竞赛题、标准化测试和已有答案的推理任务来衡量。 真正的科学研究却没有标准答案，研究者甚至无法提前判断某条路线究竟能否成功。当AI开始在开放性科学问题上提出原创成果，衡量智能水平的标准，也可能从解题能力逐渐走向发现能力。 对于已经延续167年的黎曼猜想，最终答案还需要等待数学界的严格检验。 但对于人类研究者而言，一个更加深远的问题已经出现。 倘若未来越来越多的重大数学成果首先由AI提出，而人类需要花费更长时间才能理解其中的逻辑，那么数学家的工作又将如何重新定义？ Alpöge没有将这种未来看成数学研究的终结，相反，他认为眼前发生的一切，可能预示着科学探索即将迎来一个更加广阔的时代。 人类花了几个世纪建立数学知识的大厦，如今，AI已经开始参与探索那些连建造者自己都尚未抵达的房间。 黎曼猜想能否因此得到证明，仍需等待严格检验。但无论结果如何，AI已经让人类重新思考，科学发现的下一步究竟能够走多远。",
-   "published": "Sat, 21 Nov 2026 03:39:29 GMT",
+   "title": "一家370多年的日本老店，靠一根绳子活到了今天",
+   "link": "https://www.huxiu.com/article/4907460.html",
+   "summary": "十月底的东京，神乐坂的早晨。离热闹的商业街不远，一条幽静的小巷里藏着一栋清水混凝土建筑，门口只有一块不太起眼的招牌：Kumihimo Experience by DOMYO（道明组钮体验馆）。如果不是特意寻找，大概很容易从门前走过。它既没有传统日本老铺的木质门面，也没有刻意营造的怀旧气氛，看起来更像一家现代设...... 本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 十月底的东京，神乐坂的早晨。 离热闹的商业街不远，一条幽静的小巷里藏着一栋清水混凝土建筑，门口只有一块不太起眼的招牌：Kumihimo Experience by DOMYO（道明组钮体验馆）。 如果不是特意寻找，大概很容易从门前走过。它既没有传统日本老铺的木质门面，也没有刻意营造的怀旧气氛，看起来更像一家现代设计工作室。招牌上的Kumihimo，日语写作“组纽”，说白了就是编绳子。 上午十点半，我站在这栋建筑门前，离约定的时间还有半个小时。我此行的目的，是拜访一位研究克什米尔披肩的日本学者。我想多了解一些克什米尔披肩在日本的收藏与研究。 我在查阅资料时读到她的著作，通过出版社写信过去，冒昧提出希望到东京拜访，没想到她很快回复答应，并约我来这里见面。 我们几乎同时出现在门口，她也提前到了。她把我带进接待室，问了问当天的安排，说如果愿意，可以陪我一整天。而我原本只打算占用她一个小时。 这位学者就是日本纺织学界久负盛名的道明三保子教授。她约我见面的地方，正是她家族企业在神乐坂开的组纽体验馆。 她今年84岁，眉目清隽，举止典雅。我循着克什米尔披肩的线索找到她，却在接待我的和室里，听她讲起了一千多年前的绳子。 道明（DOMYO）的家业始于1652年。江户时代，它为武士刀剑提供绳带；明治维新之后，转向女性和服所需的带缔；今天，它既出售现代服饰配件，也常年开课教人编绳子。 如今，武士不再佩刀，和服也退出了日常衣橱，一家以绳子为生的企业，却几次穿越了原有市场的衰退。 一家当年并不起眼的丝线商铺，为什么能活到今天？它守住了什么，又改变了什么？ 这家老铺，为什么研究一千多年前的绳子？ 一根绳子，能有多复杂？ 组纽是将丝线等材料按照特定结构交错编组，制作成不同形态、纹样和用途的绳带。中国古代也有编绦、丝绦等相关传统，不过日本组纽在长期发展中形成了自己的技术体系和审美语言，不能简单等同于今天常见的中国结。 日本历史上的组纽用途非常广泛，佛教器物、武具、刀剑、服装，都可能用到。到了近现代，最为人熟悉的用途之一，是固定和服腰带的带缔。单从外观看，一根绳子似乎没有多少文章可做，但在道明的展示空间里，不同的编组结构、丝线排列和色彩组合，可以产生完全不同的质感与纹样。有些作品看起来极为简洁，实际却需要对线的张力和结构进行精确控制。它既是实用技术，也是纺织结构和装饰艺术。 道明三保子向我介绍古代组纽研究复原作品时，反复强调一个年代：8世纪。这是日本奈良时代，也是正仓院保存的大量珍贵染织品所属的年代。组纽的历史当然不止一千多年，更早的考古遗物中就有相关编组技术的痕迹，但正仓院保存的古代实物，为后世研究提供了重要依据。 我原本以为，一家传统手工业企业展示历史作品，无非是为了说明自己的工艺有多古老。但道明的情况并不一样，他们真的在研究这些古代绳子，而且研究了好几代人。 在正仓院寻找失传的编法 在道明的接待室里，我看到了不少关于正仓院染织品和组纽研究的书。后来查阅道明家族的历史，才明白这些书并非装饰门面的文化道具。 第五代道明新兵卫曾与冈仓天心等日本美术界人士交往。到了第六代，家族开始深入研究正仓院收藏的古代组纽，据家族记载，他曾通过森鸥外取得调查正仓院资料的许可。第七代进一步引入系统的研究方法，分析古代组纽的结构、分类和制作技术，并著有《ひも》（《绳》）。 这不只是家族的爱好。1968年起，道明受正仓院委托，对正仓院收藏的古代组纽做系统调查与研究。此外，中尊寺、四天王寺、春日大社、严岛神社等处的古迹，也都由道明做过调查与复原。 复原古代组纽，并不是照着照片编一条差不多的绳子。有些文物只剩下脆弱的残片，研究者必须根据残存的线迹和结构，反推原来的编组方法。这需要材料知识、技术经验，也需要对历史实物的长期观察。 一家1652年创立的企业，研究的却是比自己早了约900年的工艺遗产。 这恰恰是道明最值得研究的地方：对许多企业来说，历史是一种营销资源；对道明而言，历史同时是一套技术资料、一种研究方法，以及未来设计可以不断调用的知识来源。 手艺之外，还有什么值得传承？ 当近代日本组纽纷纷转向机器生产、追求高产量与低成本时，道明却逆势保留了纯手工编织。这并不是出于“手工比机器更高贵”的情怀，也不能直接等同于更高的利润。道明真正留住的，是一套需要长期训练、短期内根本无法复制的专业壁垒。 毕竟，做日常商品和复原古代文物，考验的是两套完全不同的本事。前者满足眼前的市场，后者虽未必能直接带来多少销售额，却逼着企业去追问每一根丝线的来历与结构，成了日后开发新品、培养工匠和延续技艺的底座。 今天谈传统工艺，很多人喜欢说“匠人精神”，但这个词已经被用得有些廉价。真正值得讨论的，不是一个人愿意把同一个动作重复多少遍，而是一个行业能否把经验转化成可以研究、可以传授、可以继续发展的知识。 一个行业可以很小，但从业者对它的理解不能浅。 武士不佩刀了，和服不常穿了，一根绳子还能怎么活？ 从武士刀鞘到和服腰间 道明最初并不是一家文化品牌，而是一家经营丝线的商铺。按照家族说法，创始人与武士阶层有关，不过1652年的具体创立经过缺乏完整记录。江户时代，刀剑所需的下绪、柄丝等绳带，是组纽的重要用途。当时的组纽不是供人欣赏的非遗文创，而是具有实际功能的消费品。 1876年，明治政府颁布废刀令，日常佩刀受到禁止，相关绳带需求随之衰退。对于依赖这类市场的商家而言，这不是普通的消费波动，而是原来的顾客、消费场景乃至生活方式一起发生了变化。 如果一家企业把自己的身份定义成“给武士刀制作绳带”，那么武士不再佩刀，它的商业故事似乎也就该结束了。但道明没有停下来，而是逐渐把传统组纽技术更多地应用于女性和服所需的带缔，在明治、大正时期形成新的产品方向。需要说明的是，和服用组合并不是武士消失之后才被发明出来的，真正发生变化的是主要市场和产品结构。 道明家史还记录了一个有意思的细节：1877年，一份按组纽约销量编列的丝线商榜单，将当时名为“越前屋”的道明列在“西前头第九”。至少在那份榜单上，道明的位置并不靠前。 从传统和服走进现代衣橱 然而，第二批顾客也没有永远留下来。随着日本社会的服装西化，和服逐渐从日常服装转向婚礼、成人礼、节庆等特定场合，相关产业经历了长期萎缩。当年轻人不再经常穿和服，一家主要经营带缔的企业又该怎么办？ 道明的现代产品探索，其实比想象中更早。根据企业历史，20世纪60年代就已经开始研发组纽领带，尝试将传统编织技术应用于现代男性服饰。到了2012年，道明三保子教授的独子，出生于1978年的道明葵一郎出任代表董事，进一步推动经营调整。 这位接班人的背景相当有意思：他学习的是建筑，曾经营自己的建筑事务所，后来才接掌家族企业。2015年，道明推出面向现代服饰的DOMYO产品线，包括组纽领带、饰品等。2025年，又推出名称由DOMYO字母倒序而来的OYMOD，继续尝试接近不同的消费人群。 建筑师接班，并不意味着传统企业只需要换一个年轻设计师就能起死回生。道明葵一郎还有一项更具体的实践：2016年，上野新本店竣工。这座五层建筑将档案、染色、设计、制作和零售等功能组织在一起，把传统工艺的生产与研究流程重新整合进现代建筑空间。 在神乐坂店里，我买了一对丝线编成的耳环。它们不需要消费者了解奈良时代，也不需要穿和服，更不需要知道正仓院是什么。觉得好看，愿意戴，就可以成为顾客。一门原本与和服密切相关的工艺，就这样走进了现代女性的衣橱。 从卖一条绳子，到教人亲手编绳 道明的第三次转身，不再局限于卖出一件配饰，而是把这门手艺变成了一种可参与的体验。 在神乐坂的空间里，我看到不少外国游客正兴致勃勃地跟着老师学编组。对他们而言，这根丝绳既不是武士刀的配件，也不是和服带缔，而是一场能亲手触摸的日本工艺体验。 离开一楼体验区，在二楼，脱鞋进入了长期课程的教室。我去的那天正好没课，屋里空荡荡的，没有桌椅，只有一整片光洁的木地板，乍看倒更像一间瑜伽室——在这里，地板才是真正的工位。 道明三保子告诉我，神乐坂这间教室每周课表都排得很满，一堂课约有四十人。上课时，每人领一套工具，席地而坐开始编织。放眼全日本，道明在约十处地点开设了长期课程，公开资料显示，在籍学员合计约有五百人，其中绝大多数都是日本本地人。 如今的道明，把一门手艺拆解成了成品销售、短期体验与长期教学三条并行的业务线。和服虽然淡出了日常衣橱，却依然有几百名日本人愿意一次次回到教室，花时间练习编织带缔。同一门手艺，既能为穿和服的人提供一件配饰，也能为向往手艺的人提供一门长期修习的课程。 这股生命力甚至跨出了国界。东京都2021年的一份企业采访曾提到，已有外国学员在道明学成之后，回国开设了自己的组纽课程。道明不仅找到了新的消费者，也在无形中培养出新的传播者，让传统技艺走出了家族与旧式师徒的封闭圈子。 除了教学，道明还在尝试打破材料的边界。2020年疫情打乱了原定的巴黎参展计划后，道明顺势借助当地扶持项目推进研发，邀请建筑师、数学家等跨界专家共同合作，并探索跨境电商与海外营销。 道明葵一郎在2021年的采访中还提到一个设想：希望未来组纽不仅能作为道明的自有成品，也能成为其他品牌使用的工业或设计材料，探索更广泛的技术应用。 比扩大规模更重要的，是算清利润与现金账 回过头看，道明的这三次顾客变化，并不是新群体对旧群体的残酷替代。今天，传统的和服带缔仍在销售，现代配饰与体验教学也并行不悖。道明真正做到的，是用同一项核心技术，不断拓宽它所能服务的市场半径。 我们习惯用份额、门店与融资规模来衡量企业，却常常忘了：规模不等于利润，增长也不等于现金流。尤其在低价竞争的周期里，卖得越多未必赚得越多，盲目做大反而会削弱抗风险能力。 道明各条业务线的具体盈亏虽不可考，但它为许多细分行业提供了另一种生存思路——想要穿越周期，或许不必执迷于“规模崇拜”，而是转向对利润、现金流与可持续性的敬畏。对这类企业而言，每新增一笔业务，多投入多少成本，最终能留下多少现金，这笔账远比表面上的增长数字更重要。 企业不能只顾日活、月活，却不管不顾明天怎么活。 一位84岁学者的视野、分寸与手艺 一件法国瓷器与一条日本丝绳 在道明的展示空间里，还有一组陈列让我印象深刻。一边是法国塞夫尔瓷器，另一边是新设计的组纽配色，两者在色彩上形成了有趣的呼应。道明三保子特地向我介绍了这组作品。 18世纪的法国瓷器与21世纪的日本组纽，看起来是两个完全不同的世界，但对于理解材料、色彩和装饰艺术的人来说，它们之间并没有不可跨越的界限。传统工艺的创新，有时恰恰来自工艺之外。 从8世纪的组纽实物里找编法，把法国瓷器与今天的组纽配色放在一起看，道明展示了两种打开设计思路的方式。 一位日本学者的国际朋友圈 道明三保子生于1942年，东京大学毕业后曾赴法国里昂织物博物馆学习，长期致力于亚洲服饰与染织史研究，是文化学园大学名誉教授，曾任文化学园服饰博物馆学艺室主任，也曾担任国际染织学会日本代表委员。她的研究版图跨越日本，延伸至中国、中亚、西亚乃至欧洲，克什米尔披肩正是她长期关注的课题之一。 与她对谈，其深厚的国际学术背景随处可见。凭借与各国学者及文博机构的长期往来，每当论及一件织物，她总能将散落各地的馆藏与研究互为参证，并迅速锁定实物线索与求证对象。 更难能可贵的是，她对学术资源的分享毫无门户之见。得知我在日本寻找克什米尔披肩的收藏线索，她不仅带我走进文化学园服饰博物馆、引荐首席策展人接待，作为平山郁夫丝绸之路美术馆的理事，更为我牵线并告知我，平山郁夫的太太平山美知子是日本最大的克什米尔披肩藏家。对于一个素不相识的研究者，这份坦荡与提携，远超一般的礼节性客套。 得知我是中国人，她特地问起：“你认识赵丰教授吗？”赵丰是著名的中国丝绸史学者、中国丝绸博物馆原馆长。她说，自己十年前曾在欧洲与赵老师见过面。我当场给赵老师发去一条私信，他回复得很快，惊喜之余还让我拍一张道明教授的近照传过去。 听说我刚从法国回来，她又问：“那你认识莫妮克·列维-斯特劳斯（Monique Lévi-Strauss）吗？”莫妮克是法国研究克什米尔披肩的权威学者，也是人类学家克劳德·列维-斯特劳斯的夫人。道明三保子当年在法国进修时，曾专门去拜访过列维-斯特劳斯夫妇。我笑着翻出手机里的合影给她看——照片上正是我，和莫妮克的孙子Thomas。 十年前见过一面的人，几十年前拜访过的人，她都记着；记着，就会托一个刚认识的中国人去问一声好。 我们还在和室一起翻看一本克什米尔披肩图录，其中一件刺绣披肩被标为“17世纪”。我对此表达了惊讶，因为学界共识的amli刺绣披肩多放在19世纪初以来的克什米尔披肩生产史中讨论。 道明三保子教授听后微笑着对我说，这不过是编撰这本图录的藏家一家之言，并不可尽信。眼前这一件究竟采用了哪种技法，图录上的年代又是怎样判定的，还得回到实物和断代依据上去核查。 真正的国际化，大抵如此——既能在多元文化与知识体系间自如对话，亦能守住独立思考的底线。 这门手艺，凑近了才能看得清 为了让我真正看懂这门手艺的来龙去脉，她亲自带着我逛遍了整个馆。我们看了陈列着历史脉络的珍贵馆藏，走过正有顾客专心致志做手工的体验房间，甚至一路穿进了她们的办公室后台。从台前的展示到幕后的日常运转，她几乎把这座场馆最真实、最完整的一面毫无保留地敞开在了我面前。 参观到最后，我们在空教室里停下了脚步。她随手拿起工具，毫无偶像包袱地席地而坐，直接现场为我示意工具的使用方式。所有原本停留在文献里的抽象术语，瞬间都有了温度与质感。 看到这里便不难理解，道明三保子作为国际染织史学者的身份，与这家家族企业的商业生命力之间，有着怎样的关联。 在许多企业眼里，学术研究是远水救不了近火的清谈；但对道明家族而言，这位84岁学者的国际视野、专业判断与亲手传承，恰恰构成了企业最深的技术壁垒与最大的压舱石。有她在，道明对工艺的理解就永远不会流于表面——市场风向可以随时代千变万化，但只要这座学术与技艺的底座稳如磐石，企业便有了穿越周期的定力。 尾声：AI时代，什么才是不可替代的护城河？ 从道明三保子教授的身体力行，再纵观道明家族的传承，你会发现他们始终守着同一种底色：既不把传统当成拒绝变化的理由，也不把创新理解为抛弃过去。 而对我们来说，道明家族最值得借鉴的，恐怕不是“守住传统”这四个字，而是它的生态位。它没有等在原地求保护，而是成了不可替代的受托方：正仓院把国宝级的古绳交给它研究，中尊寺、春日大社把几百年的文物交给它复原，五百个学员把时间交给它。 反观国内不少非遗小企业，还在等名录、等补贴、等景区的人流施舍；殊不知，博物馆的库房、考古工地、文保工程的现场，每年都有大量高难度的硬活儿，缺的从来不是经费，而是真正能把活儿干成的作坊。靠名录续命是一种活法，嵌入高壁垒供应链是另一种。 到了AI时代，查资料、出图、生成配色方案早已沦为廉价的标配，任何能被算法轻易复制的“设计感”和“信息差”都不再安全。道明几代人沉淀下来的底牌，是在零容错的物理世界里真刀真枪干出来的：从一片残损的古绳里破译结构，把推演出的编法用丝线一寸寸试出来，再手把手教给下一代人。 真正的护城河，从来不是博物馆玻璃柜里的标本，而是算法算不出来、外行接不住的硬核交付力——它必须能转化成让人愿意买单的商业产品，或是让人愿意长期付费的稀缺课程。 长期主义不是与变化对抗，而是知道什么值得坚守，什么必须改变。 道明370多年的历史，并不能保证它永远成功，但至少说明一件事：一个行业的黄金时代结束，并不意味着它积累的所有价值都会随之消失。 眼下，各行各业都在感慨Winter is coming。 一家企业最危险的时候，往往不是因为冬天来得太早，而是之前的夏天太长，长到让人误以为它永远不会结束。 凛冬将至，星河长明。",
+   "published": "Sun, 22 Nov 2026 03:45:08 GMT",
+   "source": "虎嗅资讯-全部",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "other",
+   "level": "B",
+   "why": "老店转型故事，与业务无直接关系",
+   "action": "无需行动",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "姚顺雨：不要过度思考",
+   "link": "https://www.huxiu.com/article/4907457.html",
+   "summary": "姚顺雨加入腾讯后一直很低调。11月21日，他却带着混元团队在Reddit集体亮相，两个小时内一共回答了300多条技术提问。有人问，后训练阶段最难改善的模型行为是什么？混元团队只回了四个字：过度思考。就在几天前，腾讯刚发布Hy4，追求更高的模型智能；随后推出的Hy4 flash，却把重点放在压缩思考长度、降低推...... 本文来自微信公众号： 版面之外 ，作者：画画 姚顺雨加入腾讯后一直很低调。 11月21日，他却带着混元团队在Reddit集体亮相，两个小时内一共回答了300多条技术提问。 有人问，后训练阶段最难改善的模型行为是什么？ 混元团队只回了四个字：过度思考。 就在几天前，腾讯刚发布Hy4，追求更高的模型智能；随后推出的Hy4 flash，却把重点放在压缩思考长度、降低推理成本。一边让模型想得更深，一边训练模型少想一点。 看似矛盾，背后是同一个现实：模型变聪明之后，怎么让它在真实业务里跑得动、用得起？ 对姚顺雨和混元团队，这是训练方法问题；对腾讯，它决定AI投入能不能变成一门可持续的生意。 一、混元，终于跑出了节奏 模型研发最怕的，是每一次进步都接不上。 混元此前面临的难点，是研发基础和工程体系的重建。新模型发布后，经验能不能沉淀到下一代，决定团队能不能持续迭代。 今年2月，腾讯混元启动基础设施和团队重组。4月，Hy3 Preview成为重建后训练的首个模型；7月，Hy3正式版推出；8月，Hy4 Preview开源；11月4日，Hy4正式发布，随后Hy4 flash接续上线。 九个月时间，混元完成了从基础设施重构到双线产品落地的切换。 这种节奏背后，是一套固定下来的研发路径：Preview先行验证，正式版扩大训练规模、补充能力，再按使用场景推出新版本。 8月开源的Hy4 Preview，拥有7700亿总参数、490亿激活参数，支持百万级上下文；11月发布的Hy4正式版进一步扩大预训练和后训练规模，加入视觉理解和计算机操作能力，并在Agent Arena榜单上位列中国模型第一、全球开源模型第一。 这轮迭代的意义，在于混元开始有一套能持续运转的模型研发体系。数据、训练管线和工程经验可以在版本之间积累，下一代模型不必每次从头摸索。 对腾讯来说，这块能力迟早要补。 腾讯的优势一直来自微信、QQ、游戏和企业服务构成的应用网络。AI正在改变这些产品的交互方式和服务能力。底层模型长期靠外部供给，产品体验、推理成本和技术迭代就很难完全握在自己手里。 混元不必在每个榜单上都拿第一，却必须保持稳定的研发输出。 腾讯需要的，是一支能持续生产模型能力的队伍。 现在，它有了。 二、姚顺雨，要模型少想一点 在姚顺雨的研究经历里，有一条持续多年的主线：把推理和行动连接起来。 他早期参与的ReAct研究，就是让语言模型在推理时调用工具、获取外部信息，再根据反馈决定下一步。模型不必把所有问题都关在内部推演，可以通过行动补信息、验证判断。 今天的Agent，把这条路线推向了更复杂的任务。 用户交给模型的已经是一整套工作，查资料、操作软件、处理文件、调用工具，最后交付结果。模型要理解目标，也要规划步骤、执行操作、检查结果。 推理只是其中一环，行动准不准同样决定成败。 混元团队在问答里谈到的训练难题，也集中在这里。 强化学习里，模型可能学会钻奖励机制的空子；工具调用需要更精细的奖励信号，执行准确率才上得去；长任务则考验上下文管理，信息越积越多，模型还得避免偏离原定目标。 这意味着，推理越长未必越好。 模型可能推演很久，却没抓住任务重点，也可能生成一长串思考，最后仍没正确使用工具。冗长推理既增加Token消耗，也可能让模型陷入自我循环。 过度思考因此不只是效率问题。它暴露出模型对任务的判断还不够成熟：该深推时深推，该调工具时调工具，信息够了就动手。 用户不关心模型后台想了多少步，只关心任务有没有完成。 三、Hy4 flash，给智能标上价格 克制思考的另一面，是成本。 Hy4向上探索智能上限，Hy4 flash解决另一个现实问题：模型进入高频调用场景后，单次任务到底要花多少钱？ 腾讯公布的内部测试显示，Hy4 flash在WorkIndex单任务上的成本约为Hy4的1/20。85名腾讯内部WorkBuddy用户参与27类共259项任务盲测，flash的用户满意度接近Claude Haiku 5.5，任务完成时间中位数也更短。 这组数据对应着Agent落地的核心瓶颈。 一次完整工作流任务，往往包含多轮工具调用、文件读取和结果校验。所有请求都交给旗舰模型，Token账单和响应延迟会限制产品使用频率。模型能力越强，调用规模越大，成本压力越明显。 Hy4 flash用自蒸馏和强化学习压缩任务输出长度，后训练阶段把端到端输出长度降低约50%。架构上采用混合注意力、LatentMoE和Engram等设计，继续压低推理资源消耗。 腾讯公布的API价格中，flash每百万Token输入约0.5元、输出约2元，远低于Hy4。 模型厂商习惯展示参数规模和评测成绩，如今还得回答一个问题：同样完成一项任务，能不能少花算力、少消耗Token？ 这决定了模型怎么进入产品。简单高频的请求需要更低成本，复杂任务需要更强推理。能力分层之后，产品才能按任务需求和成本做选择。 Hy4证明混元能把模型做强，flash要证明这种能力能被大规模使用。 四、腾讯，需要自己的模型供给 11月18日，腾讯刚发布了今年三季度财报。 马化腾在业绩说明中把模型和应用放在一起谈。 Hy4达到国内顶尖水平，Hy4 flash降低推理成本；按用户每日Token消耗量计算，WorkBuddy已成为国内使用量最大的AI应用。 腾讯总裁刘炽平也谈到混元研发进展，强调模型能力和迭代速度提升，以及多模态研究和产品协同。 管理层的表述透出一个变化：混元正从内部模型研发项目，走向腾讯AI业务的技术供给中心。 Hy4已接入腾讯云TokenHub、WorkBuddy、CodeBuddy、元宝、企业微信智能助理大圆、ima等产品，腾讯还在推动模型进入更多内部场景。 不同业务对模型的要求并不相同：WorkBuddy处理文档、代码和复杂办公任务；元宝侧重内容理解与生成；企业微信智能助理要理解聊天、邮件和日程里的工作信息。 这些产品给混元提供了真实任务场景。模型在使用中暴露的问题，可以成为后续训练和优化的方向；模型能力提升，又会反过来改善产品体验。 腾讯的产品生态因此不只是混元的应用出口，也是模型接受检验的现场。 另一端是腾讯云。Hy4和flash通过TokenHub向开发者和企业开放，腾讯云还提供模型调用、算力和Agent基础设施。内部产品验证模型能力，外部客户为模型和算力服务提供商业化空间。 混元提供自研模型，腾讯产品承接用户和任务，腾讯云向外部企业交付能力。三者连起来，混元才有机会从研发成本中心变成腾讯AI业务的技术供给。 这也是腾讯坚持自研模型的战略价值，掌握底层能力，才能把产品场景、用户规模和云服务资源真正连接起来。 五、腾讯，进入AI重资产时代 模型和产品铺开后，投入压力开始进入财报。 腾讯第三季度资本开支付款达到651亿元，同比增长225%。公司披露，当季自由现金流净流出691亿元，主要受算力采购预付款等因素影响；剔除算力采购预付款后，自由现金流为正169亿元。 AI投入已经明显改变腾讯的现金流和成本结构。 另一组数据更值得注意。 第三季度，腾讯非国际财务报告准则经营利润同比下降6%；剔除新AI产品后，经营利润同比增长8%。新AI产品包括混元、元宝、CodeBuddy、WorkBuddy和小微。 传统业务仍在增长，AI新产品的投入已经影响当期利润。腾讯擅长高毛利、轻资产的软件和流量生意，如今却要为算力基础设施、模型训练和推理服务承担更高的前期成本。 这笔钱必须找到商业出口。 目前已经出现一些初步信号。 WorkBuddy日活超过1000万，用户每天消耗Token超过100万亿；腾讯云服务收入同比增长35%，腾讯将增长归因于WorkBuddy，以及更多算力投入MaaS和GPU租赁业务。 使用量不等于收入，算力需求也不等于投资回报。WorkBuddy的千万级日活和腾讯云的收入增长，说明市场已经开始使用腾讯的AI能力，但距离一套成熟的商业模式，还有一段路要走。 这也是AI行业竞争正在发生的变化，模型能力逐渐成为基础设施，竞争开始转向谁能把它嵌入高频场景，持续交付服务，并从中获得收入。 腾讯正在尝试把模型、产品和云连接起来。混元提供底层能力，产品生态承接真实需求，腾讯云向外部市场输出模型和算力。 这套体系能否运转起来，将决定腾讯在AI时代能走多远。 模型可以靠投入做出来，生态却要靠一次次真实的使用建立。 【版面之外】的话： 模型会过度思考，人也一样。 有时反复推演，只是还不愿面对选择。想找到更好的答案，往往是在推迟行动。 想得太多，未必因为看得更远。 有些答案，要走出去才会出现。",
+   "published": "Sun, 22 Nov 2026 03:38:47 GMT",
+   "source": "虎嗅资讯-全部",
+   "biz_tags": [
+    "industry"
+   ],
+   "category": "ai_tools",
+   "level": "A",
+   "why": "混元Hy4 flash压缩推理成本，利好工具开发",
+   "action": "测试Hy4 flash做Agent工具的成本",
+   "opportunity": "低成本模型做SaaS插件",
+   "risk": "过度思考问题影响Agent稳定性"
+  },
+  {
+   "title": "算力中间商：卖时间的已上市，卖位置的正在被调查",
+   "link": "https://www.huxiu.com/article/4907449.html",
+   "summary": "两家算力中间商，同样是把英伟达的卡租出去，一家公司上了纳斯达克，另一家上了调查名单。2025年3月28日，CoreWeave在纳斯达克上市，2024年营收19.2亿美元，微软一家占了62%。2025年6月24日，美国BIS的调查人员走进Megaspeed在新加坡的业务现场，做最终用途核查；同一天，新加坡警方约...... 本文来自微信公众号： ICT解读者 ，作者：ICT解读者&nbsp;老解 两家算力中间商，同样是把英伟达的卡租出去，一家公司上了纳斯达克，另一家上了调查名单。 2025年3月28日，CoreWeave在纳斯达克上市，2024年营收19.2亿美元，微软一家占了62%。2025年6月24日，美国BIS的调查人员走进Megaspeed在新加坡的业务现场，做最终用途核查；同一天，新加坡警方约谈了它的CEO。 很多人把这种差别归结为拿卡能力的高下，或者合规运气的好坏。这两个解释都不够：这两家公司卖的东西根本不是同一种：一家卖的是时间，一家卖的是位置。 01中间商卖的不是卡，是两种转换 算力中间商不生产芯片，也不做模型。它把GPU和服务器买进来，建好机架、供电和散热，再按卡时或者包月租出去。这是它的动作，不是它的生意。 它真正提供的，是两种转换。 第一种是时间。模型团队今天就要算力，一座数据中心从选址到通电却要两三年。中间商先垫钱把产能建出来，再用长约把未来的算力折成今天的收入。客户买的是不用等，中间商赚的是这段等待的利息。 第二种是位置。芯片可以放在电价便宜、土地宽裕、审批宽松的国家，使用它的人却在另一个国家。中间商把算力从甲地搬到乙地，赚的是两地之间的差。 两种转换都要垫资，都要吃折旧，但依赖的东西完全不同。 时间转换依赖合约长度和融资成本，位置转换依赖关系和通道是否通畅。所以看一家算力中间商，重点不是它能拿到多少卡，而是它卖的是哪一种转换。 拿到卡只是入场券。真正决定它能活多久的，是它卖的那种转换，能不能被定价、被抵押、被许可。 02 CoreWeave：把时间做成了可以上市的资产 CoreWeave 2017年在新泽西成立，前身用GPU挖以太坊，2019年更名，2020年把挖矿剩下的算力改租给渲染和AI客户。这段前史不重要，重要的是它后来做的事：把一张随时会贬值的卡，变成了可签约、可抵押、可估值的资产。 办法不复杂。它不卖零散的卡时，卖确定的交付时间和集群效率；英伟达从2023年起入股，一路把最新平台优先给它，还替它兜底未售出的算力。入股和兜底看起来是供应链关系，实质是给这门生意做信用背书——有了背书，长约才签得下来，债才借得到。 2026年第二季度，CoreWeave营收25.75亿美元，同比增长112%；手上合同积压1040亿美元，差不多是全年营收指引的八倍；已投运电力1.5吉瓦。管理层说得很直接：瓶颈在产能，不在需求上。 有一个细节容易被跳过。这一季它净亏6.26亿美元，净利息支出6.40亿美元。利息比亏损还多，说明亏损几乎全部来自融资成本，运营层面已经接近打平。 这句话的含义是，它已经不是一家单纯租卡的公司，而是一家用债务买时间的公司；时间转换的原料不是GPU，是便宜的钱和足够长的合约。 代价也在同一张表上。2024年微软一家占它营收62%，2025年升到67%；到2026年6月底，债务合计超过350亿美元。它的风险不在合规，在利率和客户集中——只要融资成本抬上去，或者大客户开始自建，这门生意的利差就被两头挤掉。 时间转换能被资本化，前提是资本市场愿意为“确定的交付”付溢价。这个前提一旦松动，先塌的是估值，后塌的才是业务。 03 Megaspeed：把位置做成了一门不能上市的生意 Megaspeed 2015年在新加坡注册，前身做海外游戏发行，2023年更名转做云计算和AI基础设施，并进入英伟达云合作伙伴体系。它的做法是把芯片放到了美国境外：关联公司分别管采购、清关和运营，货经新加坡结算，落到马来西亚柔佛等地的机房，再接入云平台对外出租。 这门生意的账面很特别。据路透社披露的财务资料，公司资产从2023年的约3290万美元涨到2024年的近30亿美元；同年营收2.94亿美元，税后亏损约2000万美元。用近30亿美元资产做出不到3亿美元营收，可见这不是一门运营生意，是一门持有和搬运的生意。 它赚的是位置差。芯片在甲地，客户在乙地，中间隔着海关、审批和一句“最终用户是谁”。这段距离越难走，溢价就越高。 问题也在这里。位置转换不产生可抵押的资产：机房在别国，合约不能公开，客户不能说，设备一落地就开始折旧。它没有信用，只有通道。通道的定价靠信息差和监管缝隙，所以这门生意必须快、必须低调、必须依赖关系；规模越大，暴露越大。 亏损也不是谁在替它买单。算力生意要先垫GPU采购、机房租赁、电力预付款和设备部署，服务器转起来之后还得背折旧和融资成本，租金只能一点点回流。这种重资产的投入与运营，离不开战略性补贴。 真正危及这门生意的是规则。2026年11月16日，美国BIS把监管对象从芯片本身延伸到芯片提供的算力：境外数据中心向总部位于D:5国家组（包括中国）或澳门的企业提供算力，合计超过1200万TPP就要事先取得许可；马来西亚、新加坡、印尼、泰国、巴西被纳入出口和转运的许可要求；存量业务只给90天过渡期。 这不等于跨境云服务一律被禁。是否要许可，还要看门槛、地区、最终用户和访问方式。但对靠位置差吃饭的中间商而言，成本科目变了：原来付的是租金，现在付的是许可，而且每一次远程访问都要说清楚对面是谁。 事实边界也要说清楚。2026年2月，新加坡方面认定证据不足以证明其CEO涉及虚假申报，但认定她在调查中提供了明知不准确的信息，发出严厉警告并禁止其再次入境；针对公司及其他人员的调查仍在继续，至今没有公司或个人因芯片流向问题被正式起诉。 按美国商务部与司法部2026年11月的联合声明，英伟达早在2025年6月就把它列入了内部禁售名单；那停的是直接销售，经服务器厂商和分销渠道的那条线是另一回事。公开报道里的资金关联和最终用途疑云，都停留在报道和监管怀疑的层面，没有定性。 所以它的困境不是运气差，是模式决定的：位置转换能赚钱，但不能变成资产。规则一变，它没有缓冲。 04中间商退场，错配没有消失，只是换了人承担 两种转换的需求都还在。模型要现在训，产能要三年后才有；先进芯片想放在便宜的地方，买家却在受管制的地方。中间商不做，这笔账不会自己消失，只会转给下一环。 11月18日，腾讯发布2026年第三季度财报。当季资本开支814.33亿元，同比增长527%；按现金流口径的资本开支付款651亿元；自由现金流净流出691亿元。 公司说明，经营现金流里包含大额算力采购预付款，剔除这笔预付款后，自由现金流转正为净流入169亿元。腾讯总裁刘炽平把这轮投入比作建工厂，首席战略官米歇尔讲得更实际：按现金口径，资本开支已经处在峰值。 11月19日，阿里发布2027财年第二季度财报。当季资本支出504.77亿元，同比增长60%，自由现金流净流出344.72亿元。 吴泳铭在电话会上说，全球各区域的算力政策出现了非常大的变化，公司到2032年全球数据中心超过20GW的目标可能下调，资本开支也可能相应降低；2027、2028年，可能是国内算力最紧缺的两年。 需求端没有转冷。阿里云当季收入同比增长53%，外部经常性收入增速67%；腾讯把大额预付款付出去，锁的是未来几个季度的产能。收入在加速，扩建计划却往下修。 把这两本账放在一起看，会发现它们在干同一件事：把算力中间商那两种转换，收回自己表内。腾讯的预付款是买时间，把未来产能先锁住；阿里的自研芯片加国产供应链是换位置，把产能放到自己能控制的地方。共同的代价是自由现金流变成负数，折旧和在建工程进入大厂自己的财务报表。 所以“算力中间商消失”是一种错觉。它没有消失，它变成了大厂资产负债表上的一条科目：预付款、在建工程、长期资产。原来由中间商用杠杆承担的时间差和位置差，现在由买方用现金流承担。 05结语 国产替代的时间表已经被说到了明处。 平头哥真武V900定在2027年一季度量产，内置它的超节点二季度规模化上市；吴泳铭的节奏是2028年之后国产算力供应链才会大规模放量，阿里的持续投资周期要走到2028年上半年，目标下半年现金流转正。腾讯刘炽平把财务压力明显缓解的时间点也放在2028年，并预计届时同类设备采购价格会大幅下降。 一个说2028年设备价格会降，一个说2028年国产供应链扩量。两句话指向同一件事：2028年之前，高端算力的缺口持续存在。 再回到开头那两家公司。Coreweave和Megaspeed的分野从来不在采购环节，而在各自卖的东西：一个卖时间，一个卖位置。时间可以被定价、被抵押、被写进合约；位置只能被许可、被追查、被写进调查卷宗。 能不能拿到英伟达的卡只是入场券；能不能活下去，看它卖的那段时间，或者那段距离，能不能在规则之内被定价。",
+   "published": "Sun, 22 Nov 2026 02:51:47 GMT",
    "source": "虎嗅资讯-全部",
    "biz_tags": [
     "industry"
    ],
    "category": "industry",
    "level": "B",
-   "why": "AI能力边界突破，间接说明AI推理变强",
-   "action": "关注Claude推理能力对内容生成的影响",
+   "why": "算力行业动态，间接影响AI工具成本",
+   "action": "关注GPU租赁价格走势",
    "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "25万页证明，黎曼猜想被AI“解决”了吗？",
-   "link": "https://www.huxiu.com/article/4907351.html",
-   "summary": "2026年11月20日，在人工智能公司Anthropic工作的数学家勒温特·阿尔珀格（Levent Alpöge）在个人网站上发出一份简短说明。他说，自己借助AI模型Claude，找到了黎曼猜想的证明。消息传出，数学界炸开了锅。这篇证明没有任何传统意义上的论文，也没有投稿给学术期刊，直接附带的是一套由AI生成...... 本文来自微信公众号： 果壳 ，作者：Steed，编辑：吴欧 2026年11月20日，在人工智能公司Anthropic工作的数学家勒温特·阿尔珀格（Levent Alpöge）在个人网站上发出一份简短说明。 他说，自己借助AI模型Claude，找到了黎曼猜想的证明。 消息传出，数学界炸开了锅。这篇证明没有任何传统意义上的论文，也没有投稿给学术期刊，直接附带的是一套由AI生成的机器代码。代码规模极其吓人：如果要打印成人类能读懂的数学文本，足足超过25万页；转化成计算机能严密校验的代码，长达1700万行，压缩后还要分成14个分卷。 宣称与Claude合作找到黎曼猜想证明的数学家阿尔珀格丨阿尔珀格个人主页 数学里最大的那道题可能有了答案，可这个答案，人类暂时还看不懂。 但就在声明公布当天，美国麻省理工学院（MIT）的数论学家安德鲁·萨瑟兰（Andrew Sutherland）等人就在自己的电脑上完成了代码编译。萨瑟兰确认，整个证明已经通过了底层逻辑检查，只调用了3条最基础的标准公理，里面存在猫腻的可能性约等于零。 眼下这还只是宣称。还有一项关键检查没出结果，数学界也没有正式接受。可一旦站住，这就是数学史上最重的一发炮弹。 黎曼猜想，数学界的“白鲸” 美国康奈尔大学的数学家史蒂文·斯特罗加茨（Steven Strogatz）管黎曼猜想叫数学界的《白鲸记》，也就是那头游荡了百余年、谁也抓不到的深海巨兽。 整个问题的核心其实非常朴素：素数。那些只能被1和自身整除的数，比如2、3、5、7、11，是所有整数的基石，就像构成物质的原子一样，任何大于1的整数都能唯一拆解成素数的乘积。可素数出现的方式非常怪异，有时候两个挨得很近，有时候隔上几十甚至几百个数都不露面，看起来就像随手掷出的骰子。 1859年，德国数学家伯恩哈德·黎曼在研究素数分布的论文中提出后来被称为“黎曼猜想”的命题丨史密森尼学会图书馆藏 1859年，德国数学家伯恩哈德·黎曼（Bernhard Riemann）发现了一条隐藏极深的线索。他把一个特殊的无穷相加函数拓展到复数空间，发现这个函数在特定位置会等于0，这些点被称为零点。黎曼大胆提出，所有决定素数分布的关键零点，其实全都严丝合缝地排在一条竖直的直线上。 如果这个猜想成立，就意味着素数看似杂乱无章的表面下，藏着一种极其精准的节律，它们偏离平均规律的幅度被一种终极秩序死死限制在极小的范围里。 乌拉姆螺旋将整数按螺旋排列，并突出标记其中的素数。图中出现的斜线结构展示了素数分布中某些引人注意的局部图案；它本身并不是对黎曼猜想的证明Aydolen/Wikimedia Commons丨图片来源 在随后的167年里，一代又一代天才数学家试图征服它。1900年，德国数学家大卫·希尔伯特（David Hilbert）把它列入跨世纪难题清单；2000年，美国克雷数学研究所设立7个千禧年大奖难题，黎曼猜想赫然在列，悬赏100万美元。 超级计算机已经核对了前10万亿个零点，无一例外全落在这条线上，可只要找不到严密覆盖所有情况的通式推导，它就依然是一座无法跨越的高峰。 黎曼ζ函数沿临界线取值时的实部和虚部曲线，分别以红色和蓝色表示。两条曲线同时达到零的位置，对应临界线上的零点。图中展示的是有限范围内的情况，并不能单独证明猜想丨Slonzor，Wikimedia Commons 人当向导，AI登峰 阿尔珀格没有独自翻过这座山，他是给AI充当了向导。他宣称一并拿下的，还有更强的广义黎曼猜想，把同样的论断推广到一整族和素数相关的函数上。 整个探索过程耗时大约一个多月。阿尔珀格负责提供大方向的数学直觉，在不同的数论工具之间架桥，Claude则承担了海量的高强度推导。阿尔珀格说，到了冲刺阶段，Claude把他远远甩在了后面。 其中一步关键选择就是Claude提出的：把一条关键数学链条的长度，取为求和长度的平方根。阿尔珀格说，光这一句建议，就足以让同行从椅子上摔下来。 由于推导过于庞杂，人类肉眼根本审阅不过来，他们选择把证明直接写成Lean代码。 Lean是一款数学证明助手软件。它就像一个六亲不认、毫无感情偏向的终极阅卷老师。数学家必须把每一步证明拆解成最纯粹的逻辑符号，但凡中间有一处跳步、含混或者循环论证，代码就无法通过编译。 能跑通Lean编译，通常就意味着这1700万行代码在形式逻辑上自洽且严密。 先别急着开香槟 但这场突破没有换来毫无保留的欢呼。 在萨瑟兰看来，这是值得举杯庆祝的历史性时刻，是人类的胜利，背后是Lean和大语言模型的开发者，以及几千年的数学积累。英国牛津大学的菲尔兹奖得主詹姆斯·梅纳德（James Maynard）也认为，只要核实无误，这就是数学史上的里程碑。 紧接着赶来的，是审慎和质疑。 英国帝国理工学院的凯文·巴泽德（Kevin Buzzard）提醒大家先别急。代码能编译，只能说明每一步推理在Lean里都成立，但还要确认证明的到底是不是黎曼猜想本身。 眼下专家们还在做一项对比检查，重点确认两件事：代码有没有悄悄改动黎曼猜想原本数学符号的定义，以及有没有碰巧钻了Lean底层内核某个未知bug的空子。这项检查还需要时间。 菲尔兹奖得主陶哲轩同样表现得极其克制。他在博客上只说，消化这份证明需要一些时间。早在9月，他就提醒过，AI产出结果的速度，可能会快过人类数学家理解其中思想的速度。 也有不少数学家感到焦虑与疲惫。 风暴中心的人 这种焦虑不是一天积累起来的。过去几个月来，AI与数学界一直在上演激烈的拉锯，而阿尔珀格几乎每一次都站在风暴中心。 7月，正是他借助Claude推翻了久攻不破的雅可比猜想，拉开了数学界这个不平静的夏天。 9月，OpenAI宣称攻克千禧年难题纳维-斯托克斯方程，随即陷入抢功争议：纽约大学一位数学家指控OpenAI抢走了他尚未发表的进展，而这位数学家的合作者也是阿尔珀格。 紧接着，25位菲尔兹奖得主联名发信，公开谴责前沿科技公司和纯粹数学的探索目标存在严重错位。 10月，OpenAI一口气向学界倾倒了372项数学成果，陶哲轩甚至公开用“疯狂”来形容这种工业化倒逼式的产出节奏。 月底，OpenAI又在另一道“百万美元”量子数学难题上抢先发表，被抢先的人里，又有阿尔珀格。 这一次终于轮到他出手了，时机却极其敏感：恰逢Anthropic在纳斯达克挂牌上市的第二天。阿尔珀格自己都承认，这个时间点糟透了，难免让外界产生商业炒作的联想。 还有人类反击？ 更具戏剧性的一幕发生在消息公布数小时之后。 美国数学会会长、斯坦福大学数学家拉维·瓦基尔（Ravi Vakil）突然在博客上披露，斯坦福的年轻学者亚历山德罗·马苏洛（Alessandro Masullo）几个月前可能已经独立做出了类似的证明，而且整个过程纯由人类手工推导，没有借助任何AI。 这篇被紧急推到台前的人类底稿，目前还在经历大幅度修改，甚至还没有任何同行完整复核过。在AI工业级力量的步步紧逼之下，人类学者不得不放弃原先精细打磨的习惯，仓促亮牌。 黎曼ζ函数零点所在区域示意图：负偶数处是平凡零点；绿色区域是临界带，橙色竖线是实部为二分之一的临界线。黎曼猜想断言，所有非平凡零点都位于这条线上丨Encyclopaedia Britannica 终结，还是曙光 真正发生震动的，是科学探索本身的范式。 一个由人类提供直觉、机器填平天堑的庞大证明，可能改写数论各分支之间的联结，也把人类学者推到了一个全新的认知地带。面对长达25万页的精密迷宫，人类不再能像过去那样，在一块黑板前依靠个人头脑完全洞悉一道命题成立的全部细节。 阿尔珀格从学生时代起就把黎曼猜想当作毕生目标。他在说明里写道，觉得这是一种终结，是很自然的，对他来说，那盏指了多年路的灯熄了。但这一个多月里见到的东西，又让他相信这是科学里某种更伟大事物露出的曙光。 萨瑟兰曾经感叹过，能证明黎曼猜想的AI，他一点都不想遇上，因为真到了那一天，数学家丢掉饭碗都成了最小的问题。 而在亲手编译通过代码之后，萨瑟兰留下了另一句话：“在这份证明里，也许最重要的一步，是造出了一台会思考的机器。” 参考文献 [1]Levent Alpöge.关于黎曼猜想证明的说明（remark.pdf）.2026-11-20.https://alpo.ge/remark.pdf [2]Scientific American.Anthropic mathematician claims to prove Riemann hypothesis,most famous problem in all of math.2026-11-20.https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/ [3]Scientific American.The AI Riemann hypothesis proof is almost certainly true,independent mathematicians attest.2026-11-20.https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/ [4]Scientific American.Dueling claims of Riemann hypothesis proofs emerge.2026-11-20.https://www.scientificamerican.com/article/dueling-claims-of-riemann-hypothesis-proofs-emerge/ [5]Nature.Mathematician says he and AI solved Riemann hypothesis—the field’s biggest outstanding challenge.2026-11.https://www.nature.com/articles/d41586-026-03812-7 [6]Business Insider.Anthropic mathematician says he used AI to solve the Riemann hypothesis.2026-11-20.https://www.yahoo.com/news/science/articles/anthropic-mathematician-says-claude-helped-183716235.html [7]Scientific American.AI may have just solved a million-dollar math problem.The field will never be the same.2026-09.https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/ [8]Scientific American.25 winners of math’s‘Nobel Prize’decry the AI invasion of their discipline.2026-09.https://www.scientificamerican.com/article/25-winners-of-maths-nobel-prize-decry-the-ai-invasion-of-their-discipline/ 一个AI 25万页的证明你们读不完，没关系，这篇稿子你们不也没读完吗？大概率，你们只看了加粗那几句吧！",
-   "published": "Sat, 21 Nov 2026 02:38:32 GMT",
-   "source": "虎嗅资讯-全部",
-   "biz_tags": [
-    "industry"
-   ],
-   "category": "industry",
-   "level": "B",
-   "why": "AI科研热点，与变现业务无直接关系",
-   "action": "了解即可，无需投入时间",
-   "opportunity": "无",
-   "risk": "无"
+   "risk": "算力涨价推高制作成本"
   },
   {
    "title": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent ",
    "link": "https://github.com/HBAI-Ltd/Toonflow-app",
-   "summary": "⭐22398星 | 语言:TypeScript | 更新:2026-11-21 | 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, ",
+   "summary": "⭐22472星 | 语言:TypeScript | 更新:2026-11-22 | 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, ",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
@@ -637,39 +786,39 @@
    "category": "short_drama",
    "level": "S",
    "why": "开源短剧漫剧全流程工具，直接降本提效",
-   "action": "本地部署Toonflow测试漫剧生产流程",
-   "opportunity": "用开源工具零成本量产漫剧",
-   "risk": "开源工具稳定性与商用授权需确认"
+   "action": "本地部署Toonflow测试分镜与视频生成",
+   "opportunity": "用开源工具替代付费管线省成本",
+   "risk": "开源工具稳定性与商用授权需核实"
   },
   {
    "title": "[GitHub] szczyglis-dev/py-gpt: Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Per",
    "link": "https://github.com/szczyglis-dev/py-gpt",
-   "summary": "⭐2034星 | 语言:Python | 更新:2026-11-20 | Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech synthesis ",
+   "summary": "⭐2035星 | 语言:Python | 更新:2026-11-21 | Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech synthesis ",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "多模型桌面助手，可作内部效率工具",
-   "action": "下载试用评估多模型工作流",
-   "opportunity": "可封装成知识付费演示工具",
-   "risk": "功能泛化，商用价值有限"
+   "why": "多模型桌面助手，可参考做插件产品",
+   "action": "下载py-gpt研究其插件与MCP架构",
+   "opportunity": "借鉴做多模型聚合小工具",
+   "risk": "同类开源竞品多，变现难"
   },
   {
    "title": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video generation tool. Uses Gemini for generating sto",
    "link": "https://github.com/0xsline/StoryGen-Atelier",
-   "summary": "⭐1023星 | 语言:JavaScript | 更新:2026-11-17 | AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-",
+   "summary": "⭐1023星 | 语言:JavaScript | 更新:2026-11-21 | AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "Gemini+Veo分镜生成，可优化短剧生产链",
-   "action": "测试StoryGen分镜与转场生成效果",
-   "opportunity": "提升分镜效率做爆款短剧",
-   "risk": "依赖Veo成本较高"
+   "why": "Gemini+Veo+ffmpeg全流程分镜生成，可参考搭建自有短剧管线",
+   "action": "克隆仓库跑通分镜到成片流程",
+   "opportunity": "低成本批量产短剧素材",
+   "risk": "依赖Veo额度，成本可能失控"
   },
   {
    "title": "[GitHub] clipturbo/clipturbo: 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high",
@@ -680,11 +829,11 @@
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "A",
-   "why": "856星开源营销视频工具，可复用做短剧投流素材",
-   "action": "克隆仓库本地跑通，测试批量生成投流视频",
-   "opportunity": "封装成SaaS卖给中小卖家",
-   "risk": "开源项目质量参差，需验证成片效果"
+   "level": "B",
+   "why": "营销视频工具竞品，可借鉴其产品形态",
+   "action": "体验其生成效果与定价",
+   "opportunity": "无",
+   "risk": "同质化竞争激烈"
   },
   {
    "title": "[GitHub] gongxings/ai-creator: A powerful AI content creation platform with AI writing, image generation, video",
@@ -696,10 +845,10 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "多功能创作平台，功能泛但可参考产品结构",
-   "action": "浏览README了解多平台发布模块设计",
-   "opportunity": "无",
-   "risk": "功能大而全难落地，勿直接依赖"
+   "why": "多平台一键发布功能可参考做分发工具",
+   "action": "研究其多平台发布实现",
+   "opportunity": "做短剧多平台分发插件",
+   "risk": "无"
   },
   {
    "title": "[GitHub] TorresLi608/SceneFlow: 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧/ai漫剧等功能。以及一系列的管理后台An AI workbench supporting intell",
@@ -711,10 +860,10 @@
    ],
    "category": "short_drama",
    "level": "B",
-   "why": "含短剧/漫剧工作台，仅4星参考价值有限",
-   "action": "扫一眼架构，看有无可借鉴的分镜流程",
+   "why": "含短剧/漫剧工作台，可参考后台设计",
+   "action": "查看其短剧模块架构",
    "opportunity": "无",
-   "risk": "星数低维护差，不建议投入"
+   "risk": "星少质量待验证"
   },
   {
    "title": "[GitHub] winsentrobot008/TOONOOT: TOONOOT开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本",
@@ -726,10 +875,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "开源短剧全流程工具，可降本自制漫剧",
-   "action": "下载部署测试小说转动画短剧效果",
-   "opportunity": "低成本批量产漫剧投海外",
-   "risk": "0星项目，代码质量与稳定性存疑"
+   "why": "开源一站式短剧工具，小说转动画可降本",
+   "action": "部署测试小说转短剧效果",
+   "opportunity": "批量产漫剧投海外",
+   "risk": "0星项目稳定性差"
   },
   {
    "title": "[GitHub] dingai2046/Toonflow-app-20260617: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者",
@@ -740,101 +889,101 @@
     "ai_tools"
    ],
    "category": "short_drama",
-   "level": "A",
-   "why": "Toonflow另一分支，短剧自动化生产可试",
-   "action": "对比TOONOOT选更活跃分支部署测试",
-   "opportunity": "搭建自有漫剧流水线",
-   "risk": "0星fork，可能已停更"
+   "level": "B",
+   "why": "Toonflow分支，验证其是否更活跃",
+   "action": "对比两版更新与功能",
+   "opportunity": "无",
+   "risk": "重复项目易踩坑"
   },
   {
    "title": "[GitHub] Anil-matcha/Open-Generative-AI: Uncensored Open-source alternative to AI video platforms — Free AI image & video",
    "link": "https://github.com/Anil-matcha/Open-Generative-AI",
-   "summary": "⭐35558星 | 语言:JavaScript | 更新:2026-11-21 | Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+   "summary": "⭐35655星 | 语言:JavaScript | 更新:2026-11-22 | Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
-   "level": "S",
-   "why": "3.5万星无审查自托管，800+模型聚合省成本",
-   "action": "自托管部署，接入短剧生成管线测试",
-   "opportunity": "免API费批量生图生视频",
-   "risk": "无审查内容投海外平台可能违规被封"
+   "level": "A",
+   "why": "3.5万星无审查多模型视频生成，自托管省成本",
+   "action": "自托管测试800+模型出片",
+   "opportunity": "无审查题材短剧素材",
+   "risk": "无审查内容平台封号风险"
   },
   {
    "title": "[GitHub] pydantic/pydantic-ai: How Python does AI. Agents, realtime voice, image generation, embeddings. Every ",
    "link": "https://github.com/pydantic/pydantic-ai",
-   "summary": "⭐21319星 | 语言:Python | 更新:2026-11-21 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+   "summary": "⭐21329星 | 语言:Python | 更新:2026-11-21 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "Python AI开发框架，做工具时可用但非直接变现",
-   "action": "收藏备用，开发Agent类插件时评估",
+   "why": "Python AI Agent框架，可做自动化短剧管线",
+   "action": "评估用于搭建自动化Agent",
    "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "[GitHub] YouMind-OpenLab/awesome-nano-banana-pro-prompts: 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with ",
    "link": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-   "summary": "⭐13837星 | 语言:TypeScript | 更新:2026-11-21 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
+   "summary": "⭐13842星 | 语言:TypeScript | 更新:2026-11-22 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "1万+精选提示词库，直接提升生图质量",
-   "action": "下载提示词库，筛选短剧角色/场景模板",
-   "opportunity": "整理成付费提示词包卖",
-   "risk": "无"
+   "why": "万条精选图像提示词库，可直接用于短剧分镜与封面生成",
+   "action": "克隆仓库筛选适合短剧场景的提示词模板",
+   "opportunity": "打包成短剧分镜提示词包做知识付费",
+   "risk": "提示词同质化，需二次加工才有差异"
   },
   {
    "title": "[GitHub] jamez-bondos/awesome-gpt4o-images: Awesome curated collection of images and prompts generated by GPT-4o and gpt-ima",
    "link": "https://github.com/jamez-bondos/awesome-gpt4o-images",
-   "summary": "⭐8171星 | 语言:JavaScript | 更新:2026-11-20 | Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabili",
-   "source": "GitHub开源",
-   "biz_tags": [
-    "ai_tools"
-   ],
-   "category": "short_drama",
-   "level": "A",
-   "why": "GPT-4o图像提示词库可直接用于短剧分镜与漫剧素材生成",
-   "action": "下载仓库筛选适合短剧场景的提示词模板",
-   "opportunity": "批量生成漫剧分镜素材提效",
-   "risk": "无"
-  },
-  {
-   "title": "[GitHub] open-mmlab/mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unl",
-   "link": "https://github.com/open-mmlab/mmagic",
-   "summary": "⭐7482星 | 语言:Jupyter Notebook | 更新:2026-11-19 | OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio",
+   "summary": "⭐8172星 | 语言:JavaScript | 更新:2026-11-21 | Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabili",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "开源AIGC工具箱可参考技术方案但非直接变现工具",
-   "action": "浏览模型库评估可集成到现有工作流",
+   "why": "GPT-4o图像案例参考，可借鉴风格但非核心工具",
+   "action": "浏览案例库挑选适合漫剧的角色风格",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "[GitHub] open-mmlab/mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unl",
+   "link": "https://github.com/open-mmlab/mmagic",
+   "summary": "⭐7482星 | 语言:Jupyter Notebook | 更新:2026-11-21 | OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio",
+   "source": "GitHub开源",
+   "biz_tags": [
+    "ai_tools"
+   ],
+   "category": "ai_tools",
+   "level": "B",
+   "why": "开源生成工具箱，技术门槛高，短期难直接变现",
+   "action": "收藏备用，暂不投入研究",
    "opportunity": "无",
    "risk": "无"
   },
   {
    "title": "[GitHub] hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All",
    "link": "https://github.com/hpcaitech/Open-Sora",
-   "summary": "⭐29943星 | 语言:Python | 更新:2026-11-20 | Open-Sora: Democratizing Efficient Video Production for All",
+   "summary": "⭐29947星 | 语言:Python | 更新:2026-11-22 | Open-Sora: Democratizing Efficient Video Production for All",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "开源视频生成模型可降低短剧制作成本，需评估质量",
-   "action": "本地部署测试Open-Sora生成短剧片段效果",
-   "opportunity": "自建视频生成管线省API成本",
-   "risk": "开源模型质量可能不及商用"
+   "why": "开源视频生成模型，可降低短剧制作成本",
+   "action": "本地部署测试生成质量与出片速度",
+   "opportunity": "自建低成本短剧生产管线",
+   "risk": "算力成本高，成片质量可能不达投放标准"
   },
   {
    "title": "[GitHub] SoraWebui/SoraWebui: SoraWebui is an open-source Sora web client, enabling users to easily create vid",
@@ -846,8 +995,8 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "开源Sora客户端可参考做自有工具界面",
-   "action": "研究其架构用于自建视频生成工具",
+   "why": "Sora网页客户端，依赖官方API，实用性有限",
+   "action": "了解即可，关注官方Sora开放进度",
    "opportunity": "无",
    "risk": "无"
   },
@@ -861,10 +1010,10 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "去水印工具可处理AI生成素材，但需注意平台合规",
-   "action": "测试工具效果并评估合规风险",
-   "opportunity": "清理素材水印提升投放质量",
-   "risk": "去水印可能违反平台政策"
+   "why": "去水印工具可处理素材，但需注意平台合规风险",
+   "action": "测试工具效果，仅用于自有素材处理",
+   "opportunity": "无",
+   "risk": "去除他人水印涉侵权，平台可能封号"
   },
   {
    "title": "[GitHub] lichao-sun/Mora: Mora: More like Sora for Generalist Video Generation",
@@ -874,10 +1023,10 @@
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "ai_tools",
    "level": "B",
-   "why": "通用视频生成研究项目，技术参考价值大于实用",
-   "action": "关注其论文与后续迭代",
+   "why": "学术向视频生成项目，落地价值待观察",
+   "action": "关注论文与demo更新",
    "opportunity": "无",
    "risk": "无"
   },
@@ -891,8 +1040,8 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "Sora视频生成Web应用可参考其产品化思路",
-   "action": "体验产品并分析其变现模式",
+   "why": "第三方Sora生成站，可参考其产品形态",
+   "action": "体验产品交互，借鉴到自有工具设计",
    "opportunity": "无",
    "risk": "无"
   },
@@ -906,23 +1055,23 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "自动化内容增长指南含Sora2视频生成与多平台发布",
-   "action": "通读指南提取可复用的自动化发布流程",
-   "opportunity": "搭建多平台批量发布管线",
-   "risk": "无"
+   "why": "Sora 2自动化内容生产指南，直接提升短剧出海产能",
+   "action": "克隆仓库研究Sora 2批量生成与多平台分发流程",
+   "opportunity": "搭建自动化短剧生产流水线降本",
+   "risk": "Sora 2 API成本与平台合规风险"
   },
   {
    "title": "[GitHub] AIM-Intelligence/video2robot: End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot m",
    "link": "https://github.com/AIM-Intelligence/video2robot",
-   "summary": "⭐766星 | 语言:Python | 更新:2026-11-20 | End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot motions",
+   "summary": "⭐767星 | 语言:Python | 更新:2026-11-22 | End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot motions",
    "source": "GitHub开源",
    "biz_tags": [
     "ai_tools"
    ],
    "category": "other",
    "level": "B",
-   "why": "机器人动作转换，与短剧出海业务无直接关联",
-   "action": "忽略，不占用时间",
+   "why": "视频转机器人动作，与当前业务无直接关联",
+   "action": "收藏了解，暂不投入",
    "opportunity": "无",
    "risk": "无"
   },
@@ -937,9 +1086,9 @@
    "category": "ai_tools",
    "level": "A",
    "why": "开源节点式AI工作流，可替代付费工具降本",
-   "action": "部署测试，评估能否替代现有付费工作流",
-   "opportunity": "封装成短剧批量生产流水线",
-   "risk": "开源项目维护不稳定，需自建运维"
+   "action": "部署测试节点工作流搭建短剧生成管线",
+   "opportunity": "封装成SaaS插件出售",
+   "risk": "开源项目稳定性与维护风险"
   },
   {
    "title": "[GitHub] mazsola2k/ai-video-editor: AI Video Editor Pipeline with Vision LLM Models",
@@ -949,12 +1098,12 @@
    "biz_tags": [
     "ai_tools"
    ],
-   "category": "ai_tools",
+   "category": "short_drama",
    "level": "A",
-   "why": "视觉LLM自动剪辑，可提升短剧后期效率",
-   "action": "下载跑通demo，测试短剧素材自动剪辑效果",
-   "opportunity": "做成自动剪辑SaaS卖给同行",
-   "risk": "视觉LLM成本高，需算ROI"
+   "why": "视觉LLM自动剪辑，可加速短剧后期制作",
+   "action": "下载测试自动剪辑效果与适配度",
+   "opportunity": "批量剪辑短剧降人力成本",
+   "risk": "剪辑质量不稳定需人工复核"
   },
   {
    "title": "[GitHub] weshopai/awesome-Seedance-2.0-prompt: A curated library of high-quality Seedance 2.0 prompts, tools, and workflows. Le",
@@ -967,9 +1116,9 @@
    "category": "short_drama",
    "level": "A",
    "why": "Seedance 2.0提示词库，直接提升短剧画面质量",
-   "action": "收藏并批量测试提示词，筛选爆款模板",
-   "opportunity": "整理成中文提示词课卖",
-   "risk": "提示词同质化，需差异化"
+   "action": "整理提示词库并测试电影级短剧生成",
+   "opportunity": "用高质量提示词做爆款题材",
+   "risk": "提示词同质化导致内容雷同"
   },
   {
    "title": "[GitHub] bitsandbrainsai/ai-ad-creative-strategist: Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates compet",
@@ -981,10 +1130,10 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "竞品广告情报自动化，可优化投流素材策略",
-   "action": "研究其架构，借鉴做短剧投流素材分析",
-   "opportunity": "改造为短剧爆款素材分析工具",
-   "risk": "企业级复杂度高，落地成本大"
+   "why": "竞品广告情报自动化，可优化投流打法",
+   "action": "研究其竞品分析逻辑用于短剧投流",
+   "opportunity": "提炼投流素材策略提升ROI",
+   "risk": "数据抓取合规风险"
   },
   {
    "title": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI video creator, compatible with local ComfyUI w",
@@ -995,11 +1144,71 @@
     "ai_tools"
    ],
    "category": "short_drama",
-   "level": "S",
-   "why": "开源桌面工具直接支持短剧、翻译视频制作",
-   "action": "立即下载测试，评估替代现有制作流程",
-   "opportunity": "基于它做短剧批量生产工作流",
-   "risk": "早期项目功能不全，需验证稳定性"
+   "level": "A",
+   "why": "桌面端AI视频创作工具，明确支持短剧生成",
+   "action": "下载测试短剧与翻译视频生成功能",
+   "opportunity": "本地化生产降低API成本",
+   "risk": "本地算力要求高"
+  },
+  {
+   "title": "[版本更新] Open-Sora v1.3: Open-Sora V1.3 Release",
+   "link": "https://github.com/hpcaitech/Open-Sora/releases/tag/v1.3",
+   "summary": "2025-02-21 发布 | We are excited to introduce Open-Sora V1.3.0, bringing improvements in model architecture and generation quality.\r\n\r\nOpen-Sora V1.3.0 Release 🎉\r\n\r\n### 🚀 Key Highlights:\r\n📦 Upgraded Video Compression\r\n",
+   "source": "GitHub版本",
+   "biz_tags": [
+    "ai_tools"
+   ],
+   "category": "short_drama",
+   "level": "B",
+   "why": "开源视频模型更新，长期可关注但非即时机会",
+   "action": "关注后续版本，暂不部署",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "[版本更新] Toonflow短剧工具 v2.0.11: Toonflow 2.0.11",
+   "link": "https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v2.0.11",
+   "summary": "2026-11-18 发布 | ## 📦 下载指南\n\n选择你的设备对应的安装包，点击即可下载：\n\n| 你的设备 | 下载 |\n| --- | --- |\n| 💻 Windows（Intel / AMD，x64） | [⬇️ 下载 Windows x64 安装包](https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.11/toonflow-2.0.11-S",
+   "source": "GitHub版本",
+   "biz_tags": [
+    "ai_tools"
+   ],
+   "category": "short_drama",
+   "level": "A",
+   "why": "短剧制作工具迭代，直接影响AI漫剧产能与效率",
+   "action": "下载v2.0.11测试新功能与稳定性",
+   "opportunity": "用新版工具批量产漫剧抢流量",
+   "risk": "新版可能有bug影响出片进度"
+  },
+  {
+   "title": "[版本更新] ComfyUI v0.46.0: v0.46.0",
+   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.0",
+   "summary": "2026-11-18 发布 | ## What's Changed\r\n* [Partner Nodes] feat(LTX): add AlphaGen, SDR to HDR, Reframe and Upscale nodes by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/17664\r\n* [Partner Nodes] feat(MiniMax): ad",
+   "source": "GitHub版本",
+   "biz_tags": [
+    "ai_tools"
+   ],
+   "category": "ai_tools",
+   "level": "A",
+   "why": "新增LTX/MiniMax节点，提升视频生成能力",
+   "action": "升级并测试LTX视频节点效果",
+   "opportunity": "用新节点做差异化短剧画面",
+   "risk": "节点兼容性可能导致工作流报错"
+  },
+  {
+   "title": "[版本更新] MoneyPrinter v1.3.10: v1.3.10",
+   "link": "https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.10",
+   "summary": "2026-11-07 发布 | [English](#en-v1.3.10) | [中文](#cn-v1.3.10)\n\n<h2 id=\"en-v1.3.10\">Highlights</h2>\n\n- Added **OpenAI Codex subscription access** with device-code sign-in and dynamic model selection, plus a separate **Ch",
+   "source": "GitHub版本",
+   "biz_tags": [
+    "ai_tools"
+   ],
+   "category": "ai_tools",
+   "level": "B",
+   "why": "自动化视频生成工具更新，可参考其变现思路",
+   "action": "了解其Codex订阅接入方式",
+   "opportunity": "无",
+   "risk": "无"
   },
   {
    "title": "[HN] Show HN: A different kind of AI Video generation",
@@ -1012,8 +1221,8 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "FCP用户视角的AI视频工具，参考思路有限",
-   "action": "快速浏览评论，记录可借鉴点",
+   "why": "新型AI视频生成思路，或带来制作新玩法",
+   "action": "浏览其技术思路判断可用性",
    "opportunity": "无",
    "risk": "无"
   },
@@ -1028,10 +1237,10 @@
    ],
    "category": "industry",
    "level": "B",
-   "why": "小团队自研视频模型，说明门槛在降低",
-   "action": "阅读其技术笔记，了解成本结构",
+   "why": "小团队自研视频模型，关注其生成质量",
+   "action": "查看Linum v2样例效果",
    "opportunity": "无",
-   "risk": "自研模型投入大，不建议跟风"
+   "risk": "无"
   },
   {
    "title": "[HN] Meta’s new text-to-video AI generator is like DALL-E for video",
@@ -1042,10 +1251,10 @@
     "industry",
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "industry",
    "level": "B",
-   "why": "Meta入局文生视频，多一个可选工具",
-   "action": "关注Meta视频工具开放进度",
+   "why": "旧闻，大厂视频模型背景信息",
+   "action": "无需行动",
    "opportunity": "无",
    "risk": "无"
   },
@@ -1058,11 +1267,11 @@
     "industry",
     "ai_tools"
    ],
-   "category": "short_drama",
-   "level": "A",
-   "why": "Veo是Sora竞品，可作短剧制作备选",
-   "action": "申请Veo测试并对比出片质量",
-   "opportunity": "多工具组合降本",
+   "category": "industry",
+   "level": "B",
+   "why": "Veo是短剧制作可选工具，需关注能力",
+   "action": "评估Veo是否适合短剧镜头",
+   "opportunity": "无",
    "risk": "无"
   },
   {
@@ -1074,10 +1283,10 @@
     "industry",
     "ai_tools"
    ],
-   "category": "short_drama",
+   "category": "industry",
    "level": "B",
-   "why": "Sora发布是行业里程碑背景信息",
-   "action": "回顾Sora能力边界用于选题",
+   "why": "Sora是行业标杆，旧闻背景参考",
+   "action": "无需行动",
    "opportunity": "无",
    "risk": "无"
   },
@@ -1091,10 +1300,10 @@
     "ai_tools"
    ],
    "category": "short_drama",
-   "level": "A",
-   "why": "Sora正式开放，短剧制作效率或提升",
-   "action": "实测Sora生成短剧片段可行性",
-   "opportunity": "AI短剧产能翻倍",
+   "level": "B",
+   "why": "Sora初代发布是AI视频起点，了解工具演进脉络",
+   "action": "回顾Sora初代能力边界，对比当前所用工具",
+   "opportunity": "无",
    "risk": "无"
   },
   {
@@ -1108,10 +1317,10 @@
    ],
    "category": "short_drama",
    "level": "S",
-   "why": "Sora关停，依赖它的制作流程有断供风险",
-   "action": "排查现有工作流并备份替代工具",
-   "opportunity": "无",
-   "risk": "工具断供致项目停摆"
+   "why": "Sora关停，依赖它的短剧生产管线需紧急迁移",
+   "action": "排查现有工作流是否依赖Sora，准备替代方案",
+   "opportunity": "竞品工具窗口期抢用户红利",
+   "risk": "生产中断，已投素材打水漂"
   },
   {
    "title": "[HN] Sora 2",
@@ -1124,9 +1333,9 @@
    ],
    "category": "short_drama",
    "level": "A",
-   "why": "Sora 2升级，出片质量影响短剧竞争力",
-   "action": "测试Sora 2生成漫剧效果",
-   "opportunity": "高质量短剧抢先机",
+   "why": "Sora2能力升级曾影响短剧制作效率与题材选择",
+   "action": "复盘Sora2系统卡，评估其视频一致性能力",
+   "opportunity": "无",
    "risk": "无"
   },
   {
@@ -1139,11 +1348,11 @@
     "ai_tools"
    ],
    "category": "industry",
-   "level": "A",
-   "why": "迪士尼IP入Sora，版权内容玩法将变",
-   "action": "研究IP授权内容对短剧题材影响",
-   "opportunity": "IP衍生短剧新赛道",
-   "risk": "无授权IP使用风险上升"
+   "level": "B",
+   "why": "迪士尼入局说明IP+AI视频是资本认可方向",
+   "action": "关注IP授权类AI短剧的合规玩法",
+   "opportunity": "无",
+   "risk": "无"
   },
   {
    "title": "[HN] The Walt Disney Company and OpenAI Partner on Sora",
@@ -1155,11 +1364,11 @@
     "ai_tools"
    ],
    "category": "industry",
-   "level": "A",
-   "why": "迪士尼合作预示AI视频版权合规化",
-   "action": "关注平台对AI版权内容新规",
-   "opportunity": "合规IP短剧先发",
-   "risk": "侵权内容被平台下架"
+   "level": "B",
+   "why": "大厂合作预示AI视频内容版权规则将收紧",
+   "action": "留意平台对AI生成内容的版权政策变化",
+   "opportunity": "无",
+   "risk": "无"
   },
   {
    "title": "[HN] Disney Exits OpenAI Deal After AI Giant Shutters Sora",
@@ -1170,97 +1379,17 @@
     "industry",
     "ai_tools"
    ],
-   "category": "industry",
-   "level": "A",
-   "why": "Sora关停+迪士尼退出，AI视频工具格局生变影响制作链",
-   "action": "排查现有短剧制作流程是否依赖Sora类工具，找替代方案",
-   "opportunity": "替代AI视频工具空窗期，抢先测试新工具",
-   "risk": "依赖单一AI视频工具，平台关停即断供"
+   "category": "short_drama",
+   "level": "S",
+   "why": "Sora关停+迪士尼撤资，AI视频赛道格局剧变",
+   "action": "立即评估ReelShort等平台对Sora素材的依赖度",
+   "opportunity": "转向国产/开源视频模型做差异化",
+   "risk": "平台可能下架Sora生成内容"
   },
   {
-   "title": "[新品] Shozito: Showcase your Products, Projects & Work. Grow Business.",
-   "link": "https://www.producthunt.com/products/shozito?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Shozito is the business presentation & sales app for builders, architects, interior designers, manufacturers, dealers, photographers, makeup artists and creative professionals. Showcase your work, sca",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "作品展示类SaaS，与短剧出海业务关联弱",
-   "action": "略过，不投入时间",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "[新品] TEF Canada AI Speaking Practice Tool: Practice French Speaking with AI for TEF Canada Prep",
-   "link": "https://www.producthunt.com/products/tef-canada-ai-speaking-practice-tool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Looking to improve your French speaking skills for the TEF Canada exam? The TEF Canada AI Speaking Practice Tool by CELPIP Practice Tests offers an online learning resource to help candidates strength",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "ai_tools",
-   "level": "B",
-   "why": "垂类AI口语练习工具，验证AI+考试培训变现模式",
-   "action": "研究其定价与获客方式，参考知识付费产品设计",
-   "opportunity": "垂类AI陪练工具可复制到其他考试场景",
-   "risk": "无"
-  },
-  {
-   "title": "[新品] Same Moon: Free bedtime stories for children who had to leave home",
-   "link": "https://www.producthunt.com/products/same-moon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Gentle bedtime stories in English, Arabic and Spanish for refugee and displaced children, read aloud and built for cheap phones: tiny first load, works offline, no sign-up, no tracking. A person appro",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "多语言离线故事App，与短剧出海内容形态有借鉴",
-   "action": "略过，仅记录多语言低成本分发思路",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "[新品] NavieAI- An AI Learning Platform: NavieAI- AI Software Development & Workflow Automation",
-   "link": "https://www.producthunt.com/products/navieai-an-ai-learning-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "NavieAI by Excalatech is an AI-assisted learning platform for students in Classes 9–12, designed for CBSE, ICSE, ISC and State Board learning contexts. It combines AI tutoring, interactive simulations",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "ai_tools",
-   "level": "B",
-   "why": "AI教育平台，可参考其AI辅导+仿真交互产品形态",
-   "action": "浏览其功能页，提炼可借鉴的课程交互设计",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "[新品] Netizn: Social, Shop, Community, Health & Wellness AI",
-   "link": "https://www.producthunt.com/products/netizn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "Supercharge Your Lifestyle: Social, Entertainment, E-Commerce, Fitness & AI Health. Welcome to Netizn — the ultimate digital ecosystem built for your modern lifestyle. Why clutter your device with doz",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "other",
-   "level": "B",
-   "why": "大而全超级App，与一人公司聚焦策略相悖",
-   "action": "略过",
-   "opportunity": "无",
-   "risk": "无"
-  },
-  {
-   "title": "[新品] InteraOne: Open-source Intercom & Zendesk alternative with AI agents",
-   "link": "https://www.producthunt.com/products/interaone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "InteraOne is the open-source, agentic alternative to Intercom & Zendesk. AI and human agents in one inbox, with one-click setup and deployment, self-hosted or cloud.",
+   "title": "[新品] Diane: Turn any course into flashcards you'll actually remember",
+   "link": "https://www.producthunt.com/products/diane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Diane turns any course (PDF, photo of notes, link, audio, video) into flashcards, a study sheet, a quiz and a podcast. Spaced repetition then plans daily reviews around your exam date. For high school",
    "source": "Product Hunt",
    "biz_tags": [
     "ai_tools",
@@ -1268,31 +1397,15 @@
    ],
    "category": "ai_tools",
    "level": "A",
-   "why": "开源AI客服可自托管，省客服成本且可二次开发",
-   "action": "部署测试InteraOne，评估接入短剧出海客服场景",
-   "opportunity": "基于开源AI客服做垂类SaaS插件出售",
-   "risk": "自托管运维成本可能高于预期"
-  },
-  {
-   "title": "[新品] Groundwork: Claude Code plans that re-runs never overwrite",
-   "link": "https://www.producthunt.com/products/groundwork-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "A Claude Code skill that scaffolds a plan folder: research, design, plan, tracking, and an HTML board. Re-runs only rewrite the blocks it generated, checked by a hash. Your own text stays as you wrote",
-   "source": "Product Hunt",
-   "biz_tags": [
-    "ai_tools",
-    "industry"
-   ],
-   "category": "ai_tools",
-   "level": "A",
-   "why": "Claude Code技能脚手架，提升AI开发工作流稳定性",
-   "action": "安装Groundwork测试，用于AI工具开发项目管理",
-   "opportunity": "可打包成知识付费课程里的AI开发工作流模块",
+   "why": "课程转卡片工具，可借鉴做知识付费配套产品",
+   "action": "试用Diane，评估做成课程配套SaaS可行性",
+   "opportunity": "知识付费+AI工具捆绑变现",
    "risk": "无"
   },
   {
-   "title": "[新品] tripps: Plan a group trip with one link, no account needed",
-   "link": "https://www.producthunt.com/products/tripps?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
-   "summary": "tripps puts everyone’s flights, trains, stays and plans on one day-by-day itinerary. Send the group one link: friends open it in the browser and edit it, no account or app. Forward a booking email, sc",
+   "title": "[新品] Lumiri Todo: A private to-do list for iPhone, iPad and Mac",
+   "link": "https://www.producthunt.com/products/lumiri-todo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Plan today and the next two days on one screen. Keep separate lists for groceries, packing and work projects, and add photos, PDFs or voice notes to any task. No account and no subscription: pay once ",
    "source": "Product Hunt",
    "biz_tags": [
     "ai_tools",
@@ -1300,10 +1413,42 @@
    ],
    "category": "ai_tools",
    "level": "B",
-   "why": "免登录协作工具思路可借鉴到AI工具产品设计",
-   "action": "研究其免账号协作机制，评估能否复用到自有工具",
-   "opportunity": "免登录分享式工具降低获客门槛",
+   "why": "买断制隐私工具，参考其小工具变现模式",
+   "action": "研究其定价与获客渠道",
+   "opportunity": "无",
    "risk": "无"
+  },
+  {
+   "title": "[新品] gitroots: Path-level GitHub access for developers and AI agents",
+   "link": "https://www.producthunt.com/products/gitroots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "gitroots is a governance layer for GitHub. Give each developer and AI agent access to only the paths they need, route their changes through approvals, and keep a searchable audit trail. Widen access t",
+   "source": "Product Hunt",
+   "biz_tags": [
+    "ai_tools",
+    "industry"
+   ],
+   "category": "ai_tools",
+   "level": "B",
+   "why": "GitHub权限治理工具，与短剧出海和知识付费无直接关联",
+   "action": "了解即可，暂不投入时间测试",
+   "opportunity": "无",
+   "risk": "无"
+  },
+  {
+   "title": "[新品] TaskGalaxy: AI Focus Tracker & Distraction Blocker",
+   "link": "https://www.producthunt.com/products/taskgalaxy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "TaskGalaxy uses AI to block distractions during your focus sessions. It monitors your active tabs and judges whether the tab and it's content are relevant to the topics you picked or to your block lis",
+   "source": "Product Hunt",
+   "biz_tags": [
+    "ai_tools",
+    "industry"
+   ],
+   "category": "ai_tools",
+   "level": "B",
+   "why": "专注力工具赛道竞争激烈，变现模式不清晰",
+   "action": "记录竞品，观察其定价和用户增长",
+   "opportunity": "可借鉴其AI内容判断思路做插件",
+   "risk": "同类工具多，付费转化难"
   }
  ]
 }

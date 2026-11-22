@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Hy4 flash",
-   "what": "腾讯超低价大模型，单任务成本仅Hy4的1/20，适合Agent批量任务",
-   "why_today": "S级情报实测快速实惠聪明，可大幅降低短剧翻译配音等批量任务成本",
-   "time_est": "1小时",
+   "name": "腾讯 Hy4 flash",
+   "what": "腾讯推出的高性价比大模型，单任务成本极低",
+   "why_today": "情报显示其单任务成本仅Hy4二十分之一，可直接省制作费，适合批量生成多语种短剧文案",
+   "time_est": "1-2小时",
    "source": "腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代"
   },
   {
-   "name": "Gemini 4 Neon",
-   "what": "谷歌新发布的高性价比大模型，复杂任务单次成本低",
-   "why_today": "S级情报显示性价比斩杀Opus 5.5，可低成本批量生成短剧剧本/分镜",
-   "time_est": "1.5小时",
-   "source": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5"
-  },
-  {
    "name": "Kling Image 4.0",
-   "what": "支持8K生图、2000字提示、10张连贯图的生图模型",
-   "why_today": "S级情报显示可直接用于漫剧分镜与海报，省外包设计费",
-   "time_est": "1小时",
+   "what": "可灵图像生成模型4.0版，支持8K、2000字提示、10张连贯图",
+   "why_today": "情报强调其能直接提效短剧分镜，批量出分镜降本，且可做教程卖课",
+   "time_est": "2-3小时",
    "source": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！"
   },
   {
    "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作、短剧漫剧全流程制作",
-   "why_today": "S级GitHub项目，零成本量产漫剧，需本地部署测试生产流程",
-   "time_est": "2小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
+   "what": "开源AI视频创作平台，集成剧本创作、分镜、视频生成",
+   "why_today": "开源短剧漫剧全流程工具，可替代付费管线省成本，情报建议本地部署测试",
+   "time_est": "3-4小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作"
   },
   {
-   "name": "ai0-video-creator",
-   "what": "开源桌面AI工具（Tauri v2），支持短剧、翻译视频制作",
-   "why_today": "S级GitHub项目，可评估替代现有制作流程，立即下载测试",
-   "time_est": "1.5小时",
-   "source": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI"
+   "name": "Gemini 4 Neon",
+   "what": "谷歌推出的低成本多模态模型，性价比高",
+   "why_today": "情报多次提及Neon性价比高，可降短剧AI制作成本，建议测试脚本与分镜生成",
+   "time_est": "1-2小时",
+   "source": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央"
+  },
+  {
+   "name": "StoryGen-Atelier",
+   "what": "开源AI辅助分镜与视频生成工具，集成Gemini+Veo+ffmpeg",
+   "why_today": "情报建议克隆仓库跑通分镜到成片流程，可参考搭建自有短剧管线",
+   "time_est": "2-3小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
   }
  ],
  "things_to_watch": [
   {
-   "item": "韩国短剧平台分账周期90天及买断模式机会",
-   "reason": "S级情报显示账期拖长导致现金流风险，需跟踪平台政策变化及买断合作可能性"
+   "item": "Sora关停后的替代方案与平台依赖",
+   "reason": "Sora关停且迪士尼撤资，依赖Sora的短剧生产管线需紧急迁移，需持续关注竞品工具窗口期和平台对Sora素材的依赖度"
   },
   {
-   "item": "Sora关停后的替代工具与工作流备份",
-   "reason": "S级情报提示依赖Sora的流程有断供风险，需持续关注替代方案并排查自身工作流"
+   "item": "Anthropic上市后API政策与封号规则变化",
+   "reason": "Claude母公司上市，API政策/封号规则或变，影响开发者成本与稳定性"
   },
   {
-   "item": "GPT-6.2实测翻车与难用点",
-   "reason": "A级情报显示其不稳定，暂缓迁移核心工作流，但需跟踪后续修复与社区反馈"
+   "item": "印度短剧市场CPA与回款周期",
+   "reason": "印度CPA涨至0.9美元、ROI跌破0.5，回款60天，需跟踪变现链路修复与现金流风险"
   }
  ],
  "research_topics": [
   {
-   "topic": "阿语短剧本地化SOP（审校前置、沙特配音测试）",
-   "why": "A级情报指出阿语口音与审校是中东短剧交付瓶颈，沉淀SOP可复用到多部剧"
+   "topic": "北美短剧App付费墙设计与混合付费结构",
+   "why": "回本周期拉长至90天，需优化付费墙提前与金币混合提升首周付费率"
   },
   {
-   "topic": "巴西葡语短剧前5秒流失变量A/B测试（配音vs节奏）",
-   "why": "A级情报显示巴西葡语完播率仅西语版一半，影响投放ROI，需分离变量定标准"
+   "topic": "Poppy协议与Agent商业插件接入",
+   "why": "OpenAI和Meta打通Agent商业最后一公里，可评估做Agent可调用的短剧素材/工具插件"
   },
   {
-   "topic": "Poppy协议与Agent电商插件接入可行性",
-   "why": "A级情报显示OpenAI和Meta打通Agent商业最后一公里，可能催生新工具需求"
+   "topic": "中式校园题材短剧出海差异化",
+   "why": "中式校园题材在海外有热度，可作短剧选题参考，研究其传播路径提炼题材"
   }
  ],
- "daily_focus": "在WorkBuddy免费试用Hy4 flash跑一批短剧翻译配音批量任务，验证成本与效果"
+ "daily_focus": "立即测试腾讯Hy4 flash批量生成多语种短剧文案，并对比现有成本，评估接入生产流程的可行性"
 }
