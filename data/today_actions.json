@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Kling Image 4.0",
-   "what": "支持8K生图、2000字提示词、10张连贯图的AI图像生成工具",
-   "why_today": "S级情报，直接提升漫剧分镜与海报产能，需立即测试连贯性与中文字体",
-   "time_est": "1-2小时",
-   "source": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！"
+   "name": "GPT-6.2 Astra",
+   "what": "OpenAI 最新旗舰模型，API 降价 20% 且 Token 用量减少 22%",
+   "why_today": "S 级情报显示任务成本减少近一半，直接降低短剧脚本与分镜制作成本，可扩产量抢爆款",
+   "time_est": "2 小时",
+   "source": "深拆 GPT-6.2 Astra：性能涨了、价格降了，任务成本减少近一半，OpenAI 怎么做到的？"
   },
   {
-   "name": "Toonflow (HBAI-Ltd/Toonflow-app)",
-   "what": "开源AI视频创作平台，集成剧本创作到视频生成全流程",
-   "why_today": "S级开源工具，可替代付费管线降本，需本地部署测试全流程",
-   "time_est": "2-3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
+   "name": "Toonflow-app",
+   "what": "开源 AI 视频创作平台，集成剧本创作到视频生成全流程",
+   "why_today": "S 级开源短剧漫剧工具，可本地部署省 API 成本，且今日有 v2.0.11 版本更新，值得对比现有工作流效率",
+   "time_est": "3 小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app 及 [版本更新] Toonflow短剧工具 v2.0.11"
   },
   {
-   "name": "Open-Generative-AI",
-   "what": "3.5万星无审查开源视频生成平台，支持800+模型",
-   "why_today": "S级情报，无审查题材差异化机会，需自托管测试出片质量",
-   "time_est": "2-3小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI: Uncensored Open-source altern"
+   "name": "ComfyUI v0.46.0",
+   "what": "节点式 AI 图像/视频生成工作流工具，新增 LTX/MiniMax 节点",
+   "why_today": "版本更新带来视频生成与放大能力扩展，可用新节点做短剧画质增强差异化",
+   "time_est": "1.5 小时",
+   "source": "[版本更新] ComfyUI v0.46.0"
   },
   {
-   "name": "Hy4 flash (混元4 flash)",
-   "what": "腾讯低成本高吞吐大模型，实测快速实惠",
-   "why_today": "A级情报，可大幅降低短剧批量生成成本，需测试脚本批量生成",
-   "time_est": "1小时",
-   "source": "腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代"
+   "name": "StoryGen-Atelier",
+   "what": "基于 Gemini+Veo 的分镜转视频流水线开源项目",
+   "why_today": "Sora 关停后需紧急测试替代方案，该项目提供可借鉴的分镜到视频工作流，可集成到短剧批量生产管线",
+   "time_est": "2 小时",
+   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
   },
   {
-   "name": "Gemini 4 Neon",
-   "what": "谷歌新发布的高性价比模型，适合批量内容生产",
-   "why_today": "A级情报，多语种本地化降本机会，需测试多语言脚本与配音",
-   "time_est": "1小时",
-   "source": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央"
+   "name": "剪映 Hub",
+   "what": "一站式 Agent 创作平台，可从一句话生成视觉素材与成片",
+   "why_today": "A 级情报显示可批量产短剧视觉素材降本，注册测试 Agent 生成分镜与成片流程",
+   "time_est": "1 小时",
+   "source": "首届AI音乐视觉黑客松：从一句话到一块大屏，剪映 Hub 让 AI 视觉进入音乐现场"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停后续影响与替代方案",
-   "reason": "S级风险，需排查现有工作流Sora依赖，关注竞品窗口期"
+   "item": "巴西葡语短剧 CPA 走势与墨西哥分流效果",
+   "reason": "巴西 CPA 涨至 12 雷亚尔，需持续跟踪是素材问题还是竞价环境变化，同时观察墨西哥分流预算后的 CPA 稳定性"
   },
   {
-   "item": "德语与拉美短剧本地化A/B测试结果",
-   "reason": "S级机会，本地化方法论可复制到欧洲与拉美市场"
+   "item": "Sora 关停后的替代模型生态（可灵/Veo/Sora 2）",
+   "reason": "Sora 关停导致生产管线断供风险，需持续关注替代模型的可用性、定价与迁移窗口期"
   },
   {
-   "item": "GPT-6.2实测稳定性",
-   "reason": "A级风险，跑分高但实测翻车，暂缓迁移先小样本观察"
+   "item": "GPT-6.2 稳定性口碑与 Hy4 flash/Neon 性价比表现",
+   "reason": "旗舰模型跑分高但实测翻车，需观察稳定性再决定是否迁移核心流程；同时跟踪低成本模型的实际降本效果"
   }
  ],
  "research_topics": [
   {
-   "topic": "短剧出海本地化分层方法论（配音腔调/剧本改编/面孔口音）",
-   "why": "德语完播率减半、拉美反降，需系统拆解变量做单变量测试"
+   "topic": "巴西短剧投放竞价环境与付费墙节奏优化",
+   "why": "CPA 暴涨直接影响投放决策，需研究成本上限出价策略与付费墙节奏，判断是否分流预算至墨西哥"
   },
   {
-   "topic": "新兴市场支付通道与订阅拒付率优化",
-   "why": "尼日利亚CPA涨至4.2美元且拒付率上升，影响AI工具订阅收入"
+   "topic": "Sora 替代方案（可灵/Veo/Sora 2）的商用授权条款与出片质量对比",
+   "why": "Sora 关停后需紧急替换工具链，同时迪士尼 IP 授权进 AI 视频带来合规风向变化，需明确使用边界"
   },
   {
-   "topic": "开源视频生成模型（Open-Sora/Seedance）替代Sora的可行性",
-   "why": "Sora关停验证工具生命周期风险，需建立多工具备份策略"
+   "topic": "开源短剧工具（Toonflow/TOONOOT/Open-Sora）本地部署成本与出片质量",
+   "why": "多个开源全流程工具涌现，需评估本地 GPU 部署成本对比商用 API，判断能否自建管线省 API 费"
   }
  ],
- "daily_focus": "立即用Kling Image 4.0测试10张连贯漫剧分镜与中文字体，评估批量海报产能"
+ "daily_focus": "立即盘点现有短剧生产流程中的 Sora 依赖环节，并切换 GPT-6.2 Astra 跑一遍现有脚本与分镜工作流，验证成本降幅。"
 }
