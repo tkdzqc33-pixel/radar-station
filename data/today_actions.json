@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "GPT-6.2 Astra",
-   "what": "OpenAI 最新旗舰模型，API 降价 20% 且 Token 用量减少 22%",
-   "why_today": "S 级情报显示任务成本减少近一半，直接降低短剧脚本与分镜制作成本，可扩产量抢爆款",
-   "time_est": "2 小时",
-   "source": "深拆 GPT-6.2 Astra：性能涨了、价格降了，任务成本减少近一半，OpenAI 怎么做到的？"
+   "name": "Sand.ai MAGI-2",
+   "what": "新一代视频生成模型，支持30秒1080P+音频，登顶AA榜单",
+   "why_today": "S级情报，成本降至1/10，直接降本增效，窗口期抢短剧素材",
+   "time_est": "2小时",
+   "source": "Sand.ai正式发布新一代视频生成模型MAGI-2"
   },
   {
    "name": "Toonflow-app",
-   "what": "开源 AI 视频创作平台，集成剧本创作到视频生成全流程",
-   "why_today": "S 级开源短剧漫剧工具，可本地部署省 API 成本，且今日有 v2.0.11 版本更新，值得对比现有工作流效率",
-   "time_est": "3 小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app 及 [版本更新] Toonflow短剧工具 v2.0.11"
+   "what": "开源AI视频创作平台，集成剧本创作到视频生成全流程",
+   "why_today": "S级开源短剧工具，可替代付费工具省订阅费，快速跑通漫剧测试",
+   "time_est": "3小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app"
   },
   {
-   "name": "ComfyUI v0.46.0",
-   "what": "节点式 AI 图像/视频生成工作流工具，新增 LTX/MiniMax 节点",
-   "why_today": "版本更新带来视频生成与放大能力扩展，可用新节点做短剧画质增强差异化",
-   "time_est": "1.5 小时",
-   "source": "[版本更新] ComfyUI v0.46.0"
+   "name": "Open-Generative-AI",
+   "what": "3.6万星无审查多模型视频生成平台，支持自托管",
+   "why_today": "S级机会，题材自由度大增，可做差异化擦边短剧出海",
+   "time_est": "2小时",
+   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
   },
   {
-   "name": "StoryGen-Atelier",
-   "what": "基于 Gemini+Veo 的分镜转视频流水线开源项目",
-   "why_today": "Sora 关停后需紧急测试替代方案，该项目提供可借鉴的分镜到视频工作流，可集成到短剧批量生产管线",
-   "time_est": "2 小时",
-   "source": "[GitHub] 0xsline/StoryGen-Atelier: AI-assisted storyboard and video ge"
+   "name": "gBench",
+   "what": "谷歌开源AI评测框架，86套评估套件开箱即用",
+   "why_today": "A级情报，可标准化评测MAGI-2等模型，辅助选型决策",
+   "time_est": "1小时",
+   "source": "谷歌开源 AI 评测框架 gBench"
   },
   {
-   "name": "剪映 Hub",
-   "what": "一站式 Agent 创作平台，可从一句话生成视觉素材与成片",
-   "why_today": "A 级情报显示可批量产短剧视觉素材降本，注册测试 Agent 生成分镜与成片流程",
-   "time_est": "1 小时",
-   "source": "首届AI音乐视觉黑客松：从一句话到一块大屏，剪映 Hub 让 AI 视觉进入音乐现场"
+   "name": "Gemini 4 Neon API",
+   "what": "谷歌高性价比AI模型API，用于脚本生成与翻译",
+   "why_today": "A级情报，低成本高智能，可测试短剧脚本生成与翻译效果",
+   "time_est": "1小时",
+   "source": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央"
   }
  ],
  "things_to_watch": [
   {
-   "item": "巴西葡语短剧 CPA 走势与墨西哥分流效果",
-   "reason": "巴西 CPA 涨至 12 雷亚尔，需持续跟踪是素材问题还是竞价环境变化，同时观察墨西哥分流预算后的 CPA 稳定性"
+   "item": "Sora关停后的替代工具格局",
+   "reason": "OpenAI关停Sora，视频生成格局剧变，需评估现有流程依赖并跟踪替代方案成熟度"
   },
   {
-   "item": "Sora 关停后的替代模型生态（可灵/Veo/Sora 2）",
-   "reason": "Sora 关停导致生产管线断供风险，需持续关注替代模型的可用性、定价与迁移窗口期"
+   "item": "欧洲本地支付通道接入进展",
+   "reason": "欧洲订阅转化仅3.1%，支付是变现卡点，需跟踪SEPA/本地钱包接入成本与回款周期"
   },
   {
-   "item": "GPT-6.2 稳定性口碑与 Hy4 flash/Neon 性价比表现",
-   "reason": "旗舰模型跑分高但实测翻车，需观察稳定性再决定是否迁移核心流程；同时跟踪低成本模型的实际降本效果"
+   "item": "印度方言短剧CPA变化与出价策略",
+   "reason": "CPA从18卢比涨到53卢比，但付费率1.5%说明题材有效，需跟踪手动出价测试结果"
   }
  ],
  "research_topics": [
   {
-   "topic": "巴西短剧投放竞价环境与付费墙节奏优化",
-   "why": "CPA 暴涨直接影响投放决策，需研究成本上限出价策略与付费墙节奏，判断是否分流预算至墨西哥"
+   "topic": "欧洲短剧订阅支付方式优化",
+   "why": "转化率仅3.1%，补齐本地支付可提0.5-1个点，直接影响收入"
   },
   {
-   "topic": "Sora 替代方案（可灵/Veo/Sora 2）的商用授权条款与出片质量对比",
-   "why": "Sora 关停后需紧急替换工具链，同时迪士尼 IP 授权进 AI 视频带来合规风向变化，需明确使用边界"
+   "topic": "印度方言短剧投流结构拆解",
+   "why": "CPA暴涨但留存付费双升，需研究出价结构与受众包优化"
   },
   {
-   "topic": "开源短剧工具（Toonflow/TOONOOT/Open-Sora）本地部署成本与出片质量",
-   "why": "多个开源全流程工具涌现，需评估本地 GPU 部署成本对比商用 API，判断能否自建管线省 API 费"
+   "topic": "开源短剧全流程工具链整合方案",
+   "why": "多个开源工具（Toonflow、TOONOOT、Vibe-Workflow）可组合成低成本生产线"
   }
  ],
- "daily_focus": "立即盘点现有短剧生产流程中的 Sora 依赖环节，并切换 GPT-6.2 Astra 跑一遍现有脚本与分镜工作流，验证成本降幅。"
+ "daily_focus": "立即注册Sand.ai并实测MAGI-2生成一条30秒短剧片段，对比Seedance成本与质量"
 }

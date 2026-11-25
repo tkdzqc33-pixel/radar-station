@@ -24569,6 +24569,249 @@
    "date": "2026-11-24",
    "category": "ai_tools",
    "level": "B"
+  },
+  {
+   "title": "Sand.ai正式发布新一代视频生成模型MAGI-2",
+   "link": "https://www.36kr.com/newsflashes/4084767820311168",
+   "summary": "36氪获悉，Sand.ai正式发布新一代视频生成模型MAGI-2，在Artificial Analysis（AA）榜单中登顶全球第一。支持原生30秒的1080P视频及音频生成，定价为每秒0.5元。Sand.ai宣布，将尽快开放MAGI-2模型权重。",
+   "source": "36氪 - 快讯",
+   "date": "2026-11-25",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "久远银海：公司自研的“银海闻语”大模型已应用于医疗医保、数字政务和智慧城市等领域",
+   "link": "https://www.36kr.com/newsflashes/4084699238328704",
+   "summary": "36氪获悉，久远银海在互动平台表示，公司自研的“银海闻语”大模型已应用于医疗医保、数字政务和智慧城市等领域。",
+   "source": "36氪 - 快讯",
+   "date": "2026-11-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "阿里健康宣布战略核心方向：做中国家庭长期可托付的AI健康管家",
+   "link": "https://www.36kr.com/newsflashes/4084692544891527",
+   "summary": "11月25日，阿里健康在2027财年中期业绩分析师会上宣布公司下阶段战略重心：战略聚焦家庭健康，做中国家庭长期可托付的AI健康管家。公司将以“家庭健康档案”和“个人健康模型”为核心引擎，为中国有健康管理需求的家庭，精准定制覆盖防、筛、诊、治、康及保险支付全链路的长期解决方案。阿里健康董事会主席兼首席执行官余涌在会上表示：未来将深度绑定千问和集团多元用户场景，构建健康管理与服务闭环的Agent，为千问、淘宝、天猫、阿福等应用提供健康服务支撑。",
+   "source": "36氪 - 快讯",
+   "date": "2026-11-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "最前线丨联想擎天发布敦煌城市超级智能体，统一多模态交互入口",
+   "link": "https://36kr.com/p/4083749704116616?f=rss",
+   "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 智慧城市的概念演进多年后，行业对其评价标准正在发生变化。 过去十年，以“城市大脑”为代表的3.0阶段主要解决的是数据汇聚与可视化呈现，核心逻辑是“建平台、接数据、做看板”。但这种模式在落地中暴露出明显的结构性缺陷：各委办局的业务系统依然垂直孤立，AI能力被封装在一个个具体应用里，城市管理者面对跨域问题时，仍需人工在不同系统间协调。也就是说，所谓的“智慧”，更多停留在感知层，而非决策执行层。 11月20日，联想与敦煌联合发布的城市超级智能体，以及同期联想与IDC联合出品的《城市超级智能体白皮书》，为行业提供了一个观察智慧城市4.0落地路径的样本。 其中，IDC在报告中预测，到2027年中国70%的城市将在各系统与数据中部署AI智能体。这指向了一个行业共识：AI的角色正从辅助观察向代理执行迁移。 当前，城市AI落地其实主要存在两个关键堵点。 一是AI应用体系的碎片化。各地智慧城市项目长期采用“一场景一采购”模式，文旅、交通、安防各自建设系统，彼此不共享记忆与技能，财政资金反复投入而数据资产沉淀在各自服务器中。 二是算力供给的成本与稳定性。联想与酒泉推进的万全混合词元工厂，依托甘肃绿电资源建设算力集群，试图把八大算力枢纽之一的甘肃枢纽算力在本地用起来。 硬氪在现场获悉，联想擎天城市超级智能体由三大模块构成。城市数字门户负责超级交互与体验，充当城市一站式服务管家；城市任务内核负责超级执行与生产，是承接全流程任务的助手；城市资产库负责超级底座与沉淀，持续积累数字资产。 基于这一架构，敦煌城市超级智能体实现了“四个统一”：统一入口、统一调度、统一记忆、统一技能。 在支撑层，联想提出擎天AI三层动力：第一层是联想问天AI基础设施，作为算力底座；第二层是联想万全混合词元工厂，承担算力加工、治理与分发，把算力转化为可高效输出的词元；第三层是AI应用体系，包括面向政企的擎天智能体解决方案，以及面向商业客户的百应智能体即服务和词元即服务。 依托擎天智能体解决方案，联想助力敦煌搭建了覆盖内容生产、游客服务、城市治理和产业运营的AI能力体系。 内容生产方面，敦煌搭建文旅特色语料库，即敦煌文化基因库，支撑特色内容生成、文创产品创作、市场化短漫剧制作等场景。 游客服务方面，智能体基于游客画像生成个性化行程与文化体验方案。游中环节设计了多场景触达入口，包括把NFC芯片植入文创产品，让文创变成数字入口，游客拿起文创即可唤醒AI，打通线上线下渠道，推动智能体触达提升50%以上。游览后，政府还可通过AI硬件、数字旅行日志和个性化内容推送与游客保持连接，将文旅流量转化为持续消费。 城市治理方面，敦煌城市超级智能体可调动多领域智能体，将文旅智能化服务的统一覆盖做到100%，依托统一AI入口实现跨文物保护、文旅服务、城市治理的多域协同调度。 产业变现方面，通过AI场景服务和票根经济联动，目前已实现带动1300多万消费订单，形成票根消费裂变，沉淀用户画像反过来持续优化模型，形成闭环运营。 这些数据表明，智能体在文旅场景中已能形成闭环运营，具备一定可行性。但敦煌的产业结构以文旅为绝对主导，城市治理复杂度明显低于一线或新一线城市，其经验未必具有普遍性。更值得追问的是，同样的架构能否复用到制造业场景或超大城市社区治理中。 联想方面披露，自2025年全球首发城市超级智能体以来，已在宜昌、呼和浩特、佛山等11个城市进行布局。但公开披露的深度运行数据仍然有限，多数案例停留在“已部署”阶段，而非“已验证成效”。 此外，这场发布会与低空经济发展大会合并举办，透露的信号值得注意：低空经济的规模化，隐性瓶颈在地面数字基础设施。 据国家信息中心数据，2026年我国低空经济市场规模预计突破1万亿元。但飞行器在天上飞，调度压力在地面。空域管理、航线规划、飞行冲突预警的数据量和实时性要求，远超传统城市治理场景。如果低空管理系统与城市既有的交通、安防体系割裂，“融合”便无从谈起。 复旦大学管理学院教授、复旦大学智慧城市研究中心主任凌鸿认为，随着AI上升为国家战略，以及智能化被写进基础设施清单，对于城市来说，AI不再是一个个应用，而是城市运行的底座，甚至是一项基础能力。 判断一个城市智能体样本的行业意义，关键不在于它能否被演示，而在于它能否被复制。敦煌迈出了第一步，但业务复杂度、财政可持续性、标准互通这三个变量仍待观察。 白皮书中同时收录了联想在敦煌、佛山、上海、郑州、宜昌等城市的实践，并将“推动城市间AI标准互通”列为建议之一，这恰恰说明当前各城市的智能体建设仍处于各自探索阶段。若架构互不兼容，跨城市协同将面临新的壁垒。 智慧城市4.0的真正门槛，或许不在单点技术的突破，而在于能否从“一城一策”的定制实验，走向可互操作、可复用的公共基础设施。这才是敦煌样本留给行业",
+   "source": "36氪",
+   "date": "2026-11-25",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "华为星芒O1 Pro，如何把手机 AI 再往前努一小步",
+   "link": "http://www.geekpark.net/news/374417",
+   "summary": "随着 iOS 27.2 的更新，中国大陆用户日盼夜盼的苹果智能，终于露出了一小手，但各种原因吧，仍然是犹抱琵琶半遮面。 如果对消费电子看得比较多的同学，可能会感到现在手机 AI 比较割裂。既有大厂在一点点摸索，上了 AI，但是散落在键盘、录音、文字记录、笔记等等各个功能之中；然后也有来自字节、阶跃这样的挑战者，走的是 Rabbit R1 的路子，想用一个 AI 助手，一杆子捅到底，然后被互联网大厂南墙撞得头破血流。 星芒 OSTA O1 Pro 采用了阔直板形式｜图片来源：极客公园 历史肯定是要发展的，但道路无疑注定是曲折的，先进的技术，未必总是一开始就能势如破竹。 极客公园最近试用了华为刚刚曝光的新品牌，华为星芒OSTA 的首款产品&mdash;&mdash;华为星芒 OSTA O1 Pro，从这台手机上，我们或许看到，大厂在手机 AI 光谱上向着 AI 手机迈进的一小步。 一个 AI Launcher 星芒 OSTA O1 Pro 的包装盒和配件非常简单｜图片来源：极客公园 刚拿到华为星芒 OSTA O1 Pro时候，我还真愣了一下，白色扁盒以及蓝色字体，和之前 Mate 系列的红色包装盒相比，看起来确实青春不少。甚至，我拿到的这款星空黑的配色，配件只有一个透明手机壳和一根黑色充电数据线。按照品牌目标用户科技前沿爱好者来看，倒也确实不需要配充电头，这些用户手里肯定早已有大把高速充电头了。 开机，看到华为团队专门为星芒 OSTA O1 Pro 设计了一个光芒四射的开机画面，显示出新品牌新气象。 开机画面之后，才是华为星芒 OSTA O1 Pro 的重头戏&mdash;&mdash;AI Launcher。 稍微上点年纪，喜欢折腾安卓机的，估计对 Launcher 这个东西还有印象。在Android 系统依然简陋的时代，如果不想大费周章刷机搞系统，换一个自己中意的 Launcher，也算是一个折中方案。当时也有相当多爱好者和开发者，弄了不少 Launcher，自娱娱人。 首次开机后可以和AI 先互相认识一下｜图片来源：极客公园 华为星芒 OSTA O1 Pro 开机之后，映入眼帘的就是这样一个，我称之为「AI 集合页」的页面。 上面是星芒特有的「小星星」形象，这个小助手会根据下方的轮转页，改变形象。例如在检测快递时候，它的头上会出现一个快递箱；推荐出游场景，会戴上墨镜。如果你感兴趣，还可以戳它，戳多了它还会生气；你甚至可以快速晃动手机，把它给晃晕。 在首次使用时，小助手下方会出现「让我们认识一下」的引导页面，一方面了解你的基本信息，另一方面告知用户这个小助手都能做什么。在得到基本信息之后，这样 Launcher 页面最重要的两个功能区，会正式开放给你。 一个是小助手下方的消息推送区，它会根据你常用的 App，从购物到社交媒体再到快递和工作 App，只要你点赞或者收藏了某些内容，下面的推送消息，就会根据这些内容，给你推荐相关内容。 AI 助手可以读取到小红书收藏的信息，给你推送相关攻略｜图片来源：极客公园 例如，我一直希望找到一个比较好的能拍车辆测评的景点，在小红书上收藏了两个景点之后，这里就会出现如何去该景点，以及该景点周围的住宿和露营知识，诸如此类。 AI 助手也可以调取电商平台信息给你推荐有用的产品比对｜图片来源：极客公园 然后我在京东 App 上浏览过智能手表和智能戒指的页面，这里也会出现「对比市场上主流智能戒指」的消息，一键点击就能生成主流产品的详细数据对比，确实要比你一点点在电商平台查找更省力。 小艺空间的场景页面｜图片来源：极客公园 另一个更详细的页面，点击右上角的「小艺空间」，会进入到小艺空间的专属页面。在这个页面，你可以打造专属于自己的场景，系统推荐的是「我的美食」和「观影追剧」，可以说是当代用户的两大刚需。你在大众、美团收藏的店铺，美食这边可以给出推荐，同时你还可以上传自己每顿饭的照片，让小艺帮你算算健康程度。 美食、观影等场景是硬需求｜图片来源：极客公园 「观影追剧」，可以主动给你推送目前影院和流媒体平台最热的影视内容，然后一键订票或者直达视频播放页面。 我新建了一个工作空间和一个健康追踪场景。在工作场景，我上传了一张新能源车销量的信息截图，之后在信息推荐页面，就能看到小助手主动寻找中国新能源车相关信息。 我觉得非常有用的一个信息页面，是飞书的信息摘要。起床之后，点击飞书摘要会进入简报模式，里面就有过去数个小时内，飞书群的一些重要信息摘要。对于打工牛马来说，是个相当不错的功能，不过这个摘要只能设定 5 个时间段来定时抓取。 当然，如果你还是想回归传统的 App 页面，只要向上一扫，就是传统的手机桌面了。想回到 AI 页面也很简单，底部常驻导航栏上有一个发光的圆圈，就是 AI 页面的常驻人口。 能力集合，半步",
+   "source": "极客公园",
+   "date": "2026-11-25",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
+   "link": "https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign",
+   "summary": "AI 视频「烧钱」终结者 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-11-25",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "实测小豆：主动办事的背后，AI 正在走向每一个人",
+   "link": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign",
+   "summary": "Personal Agent 的下半场，拼的是主动办事 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "source": "爱范儿",
+   "date": "2026-11-25",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "TikTok Shop 马来站达人寄样，单条视频成本涨到多少算踩线？",
+   "link": "https://www.baijing.cn/question/638958",
+   "summary": "上个月在马来站给达人寄样，20 个中腰部达人，样品加物流花了大概 3800 马币，最后只出了 6 条视频，挂车转化 11 单，算下来单个成交的 CPA 已经到 340 马币，比我们投 Shop Ads 还贵一倍多。团队 5 个人，现在刚起量阶段，主要靠寄样铺量加少量 Spark Ads 加热。试过按粉丝量分层筛达人、也试过要求先给脚本再寄样，但马来这边很多达人收到样品后拖两三周才发，有的干脆不发，追也追不动。现在卡在要不要继续放大寄样规模，还是转成纯佣金加少量付费合作。想直接问：马来站达人寄样这条链路，单条视频的综合成本控制在多少马币以内才值得批量复制？",
+   "source": "白鲸出海",
+   "date": "2026-11-25",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "欧洲短剧订阅首月付费转化只有3.1%，是支付方式没铺全吗？",
+   "link": "https://www.baijing.cn/question/638954",
+   "summary": "德国、法国、西班牙三地上线短剧App四个月，月活约18万，团队12人。订阅页首月付费转化只有3.1%，德国略高、西班牙最低。目前只接了信用卡和PayPal，德国有不少用户卡在SEPA直接借记这一步，法国用户对预付卡接受度也比预期低。试过给首周0.99欧试用、限时折扣弹窗，转化提升不到0.5个点。现在怀疑是本地支付方式覆盖不足，但接入新通道涉及结算周期和回款时效，我们现金流撑不了太长账期。想请教：欧洲短剧订阅场景下，优先补哪几个本地支付方式，回款周期大概多久？",
+   "source": "白鲸出海",
+   "date": "2026-11-25",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "传音应用商店在尼日利亚的CPA涨到0.42美元，还要不要继续投？",
+   "link": "https://www.baijing.cn/question/638952",
+   "summary": "我们做工具类App，去年底上线，目前主攻尼日利亚和肯尼亚，团队6人，月投放预算约1.2万美元。传音应用商店是我们非洲分发的主要渠道之一，上个月在尼日利亚的CPA从0.28美元涨到0.42美元，量还掉了约三成，肯尼亚相对稳一点。已经试过换素材、调出价、把预算往Palm Store和华为AppGallery挪，但传音那边的量还是回不来。现在纠结的是：是接受这个成本继续买传音的量保规模，还是把预算集中到Google Play和本地其他商店？想听听大家判断传音渠道成本天花板的标准是什么。",
+   "source": "白鲸出海",
+   "date": "2026-11-25",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "印度方言短剧投放CPA从18卢比涨到53卢比，是该换素材还是换投手？",
+   "link": "https://www.baijing.cn/question/638949",
+   "summary": "我们在印度做短剧出海，主投泰米尔语和泰卢固语配音剧，团队6人，月投放预算约8万美元，主要跑Meta和Google UAC，起量阶段。上周同一个泰卢固语剧集，Meta的CPI从18卢比涨到53卢比，7日留存没掉，付费转化率还从1.2%涨到1.5%，但CPA直接翻了三倍。已经试过换前3秒钩子、加方言字幕、把素材从15秒压到9秒，也试过把预算从UAC挪回Meta手动出价，CPA只降到41卢比就卡住了。现在不确定是印度方言受众池子就这么大、素材疲劳不可避免，还是出价结构本身有问题。想直接问：这种留存和付费都在涨、只有CPA暴涨的情况，该先砍预算保ROI，还是继续加投等模型学习期过？",
+   "source": "白鲸出海",
+   "date": "2026-11-25",
+   "category": "short_drama",
+   "level": "S"
+  },
+  {
+   "title": "日本教育培训机构 Bestco 遭黑客入侵，超 5 万条客户信息泄露",
+   "link": "https://www.ithome.com/1/032/106.htm",
+   "summary": "IT之家 11 月 25 日消息，据外媒 ITMedia 报道，日本教育培训机构 Bestco 发布通报，称公司使用的系统遭到第三方非法访问，导致 5 万零 196 条客户信息遭到泄露。 Bestco 披露，可能泄露的客户信息包括家长姓名、学生姓名、兄弟姐妹信息、住址、电话号码、电子邮箱地址、学生成绩、入学情况、银行账户号码、账户持有人姓名、每月学费金额，以及缴费和自动扣款记录等。此外，用户在教育信息应用中设置的登录 ID 和密码也可能遭到泄露。 公开信息显示，Bestco 是上市公司 United 旗下的教育培训机构，旗下“Best Individual”（ベスト個別）在日本宫城县、香川县等地设有 146 家校区，学生人数约 8,000 人。公司 2026 年 3 月期营收为 26.32 亿日元。",
+   "source": "IT之家",
+   "date": "2026-11-25",
+   "category": "industry",
+   "level": "A"
+  },
+  {
+   "title": "亚马逊 Strands 发布 5 款 Decider v2 决策模型，基于谷歌 Gemma 4 打造",
+   "link": "https://www.ithome.com/1/032/105.htm",
+   "summary": "IT之家 11 月 25 日消息，Amazon（亚马逊）Strands Agents 团队当地时间本月 23 日发布了 Strands Decider v2 系列决策模型。 该系列基于谷歌 Gemma 4 打造， 包括 5 款规模从 E2B 到 31B 的型号 ，以 Apache-2.0 许可开源，权重发布于 Hugging Face 上。 Strands Decider v2 系列在 v1 版本的基础上采用了全新架构，拥有 1,750 万个训练样本， 带来更高的准确率和置信度 ，该系列模型还针对长程输入进行了专门的训练优化。 根据 Strands 分享的数据，Strands Decider v2 31B 在六项公开文本基准测试中取得了 82.1 的平均得分，高于 v1 系列中 26B-A4B 的 70.0，图像、视频任务表现也得到显著提升。规模较小的 E4B 版本也有明显改进。 参考 https://strandsagents.com/blog/introducing-strands-decider-v2/",
+   "source": "IT之家",
+   "date": "2026-11-25",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "谷歌开源 AI 评测框架 gBench，开箱即用 86 套评估套件",
+   "link": "https://www.ithome.com/1/032/104.htm",
+   "summary": "IT之家 11 月 25 日消息，谷歌昨日（11 月 24 日）宣布开源基准测试框架 gBench，用来评估 Gemma 等开放 AI 模型的表现。 该基准框架自带 86 个评估套件，还包括聊天模板检查、智能体基准测试和不同级别的冒烟测试。 IT之家注：冒烟测试（Smoke Testing）是在软件或模型构建完成后，先跑一小批最核心、最基础的检查，从而确认“能不能正常运转”。这里是指先用少量题目快速确认模型接入正确、聊天模板没出错、能正常答题，再决定是否跑完整的 86 套评测。 基准测试方面，gBench 是一个综合评测框架，同时支持大语言模型（LLM）和视觉语言模型（VLM），内置 86 个评估套件。用户只需提供兼容 OpenAI 的 API 接口，目前已确认能配合 vLLM 和 Ollama 使用。它以 Python 包形式发布，可用 pip 安装。 开源方面，谷歌已在 GitHub 托管上传源代码和文档，采用 Apache License 2.0 许可证。对开发者来说，gBench 能让不同模型在同一套标准下对比，不用再自己拼凑测试脚本。对本地部署模型的用户来说，它也能在模型上线前做一次完整体检。",
+   "source": "IT之家",
+   "date": "2026-11-25",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "约 1/9 体积保留 93.7% 编程能力：Bonsai 2.5 27B AI 模型登场，手机、电脑都能跑",
+   "link": "https://www.ithome.com/1/032/101.htm",
+   "summary": "IT之家 11 月 25 日消息，美国 AI 公司 PrismML 昨日（11 月 24 日）发布 Ternary Bonsai 2.5 27B 模型，基于 Qwen3.8 27B 基座，相比较今年 9 月推出的 Bonsai 2 27B，重点提升智能体编程、多轮工具调用和长任务执行能力。 Ternary Bonsai 2.5 27B 模型采用“三值”量化，权重只取 -1、0、1 三种数值。在最紧凑格式下，该模型仍只占用 5.9GB 内存，体积约为全精度版本（约 53.8GB）的九分之一， 压缩后依然保留了原模型约 93.7% 的 Agent 编程评测得分（SWE-bench Verified 得分 75.6，完整精度得分为 80.6）。 性能方面，按 PrismML 公布的数据，代码能力测试 SWE-bench Verified 得分从 60.8 升至 75.6。工具使用测试 AppWorld 得分从 51.2 跃升至 90.5；LiveCodeBench v6 则从 83.8 小幅降至 83.0。IT之家附上相关数据如下： PrismML 称，压缩模型在长任务中容易出现误差累积，导致智能体偏离目标或重复失败的操作。新版本改进了对工具反馈的利用和失败后的恢复能力，并减少无谓推理，以缩小与全精度模型在多步骤任务上的差距。 在应用上，编码助手可在本地检查私有代码库、修改代码并运行测试。知识工作助手可整理文档、核对不一致的记录。推理和敏感数据都留在用户设备上。 该模型可通过 llama.cpp 在 NVIDIA 和 Intel GPU 上运行，也可通过 MLX 在 Mac、iPhone 和 iPad 上运行。模型即日起按 Apache 2.0 许可证免费下载。",
+   "source": "IT之家",
+   "date": "2026-11-25",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "德国消费者保护组织起诉 Meta，指控摄像头智能眼镜销售违反法规",
+   "link": "https://www.ithome.com/1/032/099.htm",
+   "summary": "IT之家 11 月 25 日消息，德国消费者保护组织 VZBV 当地时间昨日宣布，对 Meta Ray-Ban 摄像头智能眼镜的合作方 Meta、依视路陆逊梯卡分别提起诉讼， 指控其在该产品的销售过程中违反了信息披露义务和数据保护法规 。 VZBV 指出，两家被告本应在摄像头智能眼镜销售时指出，消费者 无法在公共场所以完全符合各项数据保护法规的方式使用该产品 ，这意味着消费者被暴露在了遭受数据保护监管机构处罚的风险之下。 图源：Pexels 该组织同时认为，摄像头眼镜上的白色闪光灯不足以告知公众其正被收集数据，这些数据的利用方式也难以被拍摄方控制；另一方面，数据保护的责任不应转嫁给那些在日常生活中使用智能眼镜的消费者。",
+   "source": "IT之家",
+   "date": "2026-11-25",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "《三体》电影版编剧陈宇：已集中写剧本两年多时间，自己和张艺谋压力都非常大",
+   "link": "https://www.ithome.com/1/032/087.htm",
+   "summary": "IT之家 11 月 25 日消息，据新浪电影报道，在 11 月 24 日的新浪潮论坛 X 2026 嘉兴南湖吴天明青年电影展对话活动中，《三体》电影版编剧陈宇透露目前项目进度。 陈宇表示：《三体》是一个非常大的作品，而且有很多很喜欢这个作品的观众和粉丝，它也是最能够被世界观众所知道的当代 IP 之一。我和张艺谋导演从有这个提议以来， 已经为这个事情工作了四五年，集中写（剧本）两年多时间 。作为一个中国电影人去做这样一个东西，身上感觉到担子特别重，说老实话，我有一段时间都快抑郁了，压力非常大。 陈宇还称： 张艺谋导演也是，我觉得他的压力特别大 ，甚至我说咱们至于到这个程度吗？对，就是要。要在我们自己超越自己的地方，能够去做到最好的地方，都得在前面想到，在剧本的层面打磨到最好。 “所以说在这样的一个情况下，我们目前的状态是做到了大概的基本模型，现在在进行打磨。 希望能够精益求精吧，尽量不辜负那么多观众对于《三体》的期待 。” 豆瓣页面显示，陈宇目前担任北京大学艺术学院教授、博士生导师、中国电影导演协会会员、中国作家协会会员，曾任中央电视台电影频道编剧、导演及国务院新闻办公室导演、编辑，原创及编剧作品有电影《满江红》、《坚如磐石》、《狙击手》、电视剧《国门英雄》（中国电视剧飞天奖一等奖）等。 综合IT之家此前报道，光线传媒董事长王长田 2024 年 6 月在上海国际电影节开幕论坛上 宣布开发《三体》科幻电影 ，导演为张艺谋。 2024 年 10 月， 新华社公布了一段对导演张艺谋的采访视频 ，透露了关于电影《三体》的制作进展。 张艺谋表示，准备这部电影，除了打磨剧本之外，已精选 10 多个“90 后”精英， 率先成立 AI 小组，将运用“中国制造”的新科技、新观念开展创作 。张艺谋举例称，关于外星飞船如何设计呈现，要梳理、学习以往上千部科幻电影和游戏中的设计，这个过程可以借助 AI 完成。 张艺谋坦言，拍摄《三体》电影最大的挑战，是拍出一部好看的电影，找到一个切入点很重要，还是要人物好，融入中国文化和科幻价值观。“ 我并不想拍三部，我只打算拍一部 。关键是调整好心态，看大量的书和各种材料，去不断学习提高。” IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
+   "source": "IT之家",
+   "date": "2026-11-25",
+   "category": "industry",
+   "level": "B"
+  },
+  {
+   "title": "[新品] PingPong Live by WSOS: Browser live streaming with a teleprompter and AI presenter",
+   "link": "https://www.producthunt.com/products/pingpong-live-by-wsos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Go live from your browser with no download. Built in: a teleprompter, an AI presenter that reads your script, copyright-free music, DJ song requests, live shopping and OBS multistreaming. Viewers need",
+   "source": "Product Hunt",
+   "date": "2026-11-25",
+   "category": "ai_tools",
+   "level": "A"
+  },
+  {
+   "title": "[新品] Authora: AI that writes, edits and formats your book for Amazon KDP",
+   "link": "https://www.producthunt.com/products/authora?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Authora plans, writes and edits your book in your style, then makes the cover, Kindle e-book and print-ready paperback for Amazon KDP. Romance, thrillers, horror, fantasy, nonfiction and more. Free tr",
+   "source": "Product Hunt",
+   "date": "2026-11-25",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] ShowcaseMy: Turn your resume into a portfolio website in minutes.",
+   "link": "https://www.producthunt.com/products/showcasemy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Your resume is a document. It sits, it waits, it gets skimmed in seconds. ShowcaseMy turns it into a hosted portfolio website that moves, so recruiters see your work instead of skimming a PDF. Upload ",
+   "source": "Product Hunt",
+   "date": "2026-11-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Ticks AI: Learn trading by watching an AI manage real strategies",
+   "link": "https://www.producthunt.com/products/ticks-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "A modern trading education app: Genius AI follows real strategies on crypto, forex and stocks, and explains each step, from entry and stop loss to the exit. Ticks never places orders: you learn, you d",
+   "source": "Product Hunt",
+   "date": "2026-11-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] SEO Questions Bank: Free Arabic SEO answers, audits and an MCP server",
+   "link": "https://www.producthunt.com/products/seo-questions-bank?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "SEO Questions Bank is a free Arabic reference for fixing SEO problems: 91 answered questions with tools, illustrated steps and WordPress fixes. It also has 33 free tools (full page audit, AI readiness",
+   "source": "Product Hunt",
+   "date": "2026-11-25",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] TheApp: 20 offline Android tools in one app, no ads, no account",
+   "link": "https://www.producthunt.com/products/theapp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "I built TheApp because my phone was full of single purpose apps, each one with ads, an account or a subscription. TheApp puts 20 everyday tools in one Android app that works offline: gallery and file ",
+   "source": "Product Hunt",
+   "date": "2026-11-25",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] BanglaCodes: Build websites and simple apps by describing them in Bengali",
+   "link": "https://www.producthunt.com/products/banglacodes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "A Bengali-first AI platform for creating websites, simple apps, games, and tools. Describe what you want in Bengali, refine it with a live preview, and publish a shareable site. Start free; paid plans",
+   "source": "Product Hunt",
+   "date": "2026-11-25",
+   "category": "ai_tools",
+   "level": "B"
+  },
+  {
+   "title": "[新品] PlanTimetable: Conflict-free timetables in minutes, not days",
+   "link": "https://www.producthunt.com/products/plantimetable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Generate balanced, conflict-free timetables for schools, hospitals, hotels and restaurants. The open-source FET engine runs in the cloud as a background job - filter the result per group, teacher or r",
+   "source": "Product Hunt",
+   "date": "2026-11-25",
+   "category": "other",
+   "level": "B"
+  },
+  {
+   "title": "[新品] Abondy: Turn one video into hundreds of posts by real people",
+   "link": "https://www.producthunt.com/products/abondy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "Upload a video you already have. Abondy turns it into hundreds of new versions, each with its own crop, caption, sound and hook. Then thousands of real people post them on their own TikTok, YouTube, I",
+   "source": "Product Hunt",
+   "date": "2026-11-25",
+   "category": "short_drama",
+   "level": "A"
+  },
+  {
+   "title": "[新品] The Number Combo®: Interactive math and power labs",
+   "link": "https://www.producthunt.com/products/the-number-combo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+tk+%28ID%3A+296491%29",
+   "summary": "The Number Combo® is a calculator and lab toolkit with 12 labs (Math Lab™, Numeral Lab™, Fraction Lab®, Geometry Lab®, Imaginary Lab®, Matrix Lab®, Sigmoid Lab®, Phase Lab®, Voltage Lab®, DC Lab®, Pow",
+   "source": "Product Hunt",
+   "date": "2026-11-25",
+   "category": "other",
+   "level": "B"
   }
  ]
 }
