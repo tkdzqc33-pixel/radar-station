@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "Sand.ai MAGI-2",
-   "what": "新一代视频生成模型，支持30秒1080P+音频，登顶AA榜单",
-   "why_today": "S级情报，成本降至1/10，直接降本增效，窗口期抢短剧素材",
+   "name": "MAGI-2",
+   "what": "计划开源的视频生成模型，价格仅为Seedance 2.5的1/10",
+   "why_today": "情报显示其成本直降90%，短剧制作毛利空间大幅打开，需实测生成质量与Seedance对比",
    "time_est": "2小时",
-   "source": "Sand.ai正式发布新一代视频生成模型MAGI-2"
+   "source": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2"
   },
   {
    "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作到视频生成全流程",
-   "why_today": "S级开源短剧工具，可替代付费工具省订阅费，快速跑通漫剧测试",
+   "what": "开源AI视频创作平台，集成剧本创作、分镜、视频生成全流程",
+   "why_today": "2.2万星验证，版本更新至v2.0.11，可立即克隆部署测试剧本→分镜→视频全流程，降本做短剧量产",
    "time_est": "3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app"
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
   },
   {
-   "name": "Open-Generative-AI",
-   "what": "3.6万星无审查多模型视频生成平台，支持自托管",
-   "why_today": "S级机会，题材自由度大增，可做差异化擦边短剧出海",
-   "time_est": "2小时",
-   "source": "[GitHub] Anil-matcha/Open-Generative-AI"
+   "name": "ai0-video-creator",
+   "what": "基于Tauri v2的桌面端AI短剧创作工具，支持短剧与翻译视频功能",
+   "why_today": "直接对标核心业务，本地化批量生产短剧降本增效，需下载测试其功能",
+   "time_est": "1.5小时",
+   "source": "[GitHub] ajoesoft/ai0-video-creator: Full-featured Tauri v2 desktop AI"
   },
   {
-   "name": "gBench",
-   "what": "谷歌开源AI评测框架，86套评估套件开箱即用",
-   "why_today": "A级情报，可标准化评测MAGI-2等模型，辅助选型决策",
+   "name": "混元Hy4 flash API",
+   "what": "腾讯混元4模型，性价比极高，可用于生成短剧脚本/分镜",
+   "why_today": "情报指出其性价比极高，可降短剧AI制作成本，需测试API对比现有工具成本",
    "time_est": "1小时",
-   "source": "谷歌开源 AI 评测框架 gBench"
+   "source": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切"
   },
   {
-   "name": "Gemini 4 Neon API",
-   "what": "谷歌高性价比AI模型API，用于脚本生成与翻译",
-   "why_today": "A级情报，低成本高智能，可测试短剧脚本生成与翻译效果",
-   "time_est": "1小时",
-   "source": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央"
+   "name": "ComfyUI v0.46.0",
+   "what": "节点式AI图像生成工具，新版本LTX新增AlphaGen/重构图/超分节点",
+   "why_today": "版本更新直接提升短剧画质与产能，可用超分节点做高清短剧差异化，需升级测试出片效果",
+   "time_est": "1.5小时",
+   "source": "[版本更新] ComfyUI v0.46.0: v0.46.0"
   }
  ],
  "things_to_watch": [
   {
    "item": "Sora关停后的替代工具格局",
-   "reason": "OpenAI关停Sora，视频生成格局剧变，需评估现有流程依赖并跟踪替代方案成熟度"
+   "reason": "Sora关停导致工具链剧变，迪士尼退出OpenAI合作，需持续跟踪替代方案（如MAGI-2、Open-Sora）的成熟度与生态迁移"
   },
   {
-   "item": "欧洲本地支付通道接入进展",
-   "reason": "欧洲订阅转化仅3.1%，支付是变现卡点，需跟踪SEPA/本地钱包接入成本与回款周期"
+   "item": "欧洲短剧投放CPA与转化数据",
+   "reason": "德国CPA涨至8欧，转化承压，需关注后续优化打法及美区/拉美市场对比，指导投放策略调整"
   },
   {
-   "item": "印度方言短剧CPA变化与出价策略",
-   "reason": "CPA从18卢比涨到53卢比，但付费率1.5%说明题材有效，需跟踪手动出价测试结果"
+   "item": "AI内容平台监管政策（如Tidal拒绝AI音乐）",
+   "reason": "平台对AI内容监管趋严，可能影响短剧配乐/音频分发，需跟踪政策细节评估连带影响"
   }
  ],
  "research_topics": [
   {
-   "topic": "欧洲短剧订阅支付方式优化",
-   "why": "转化率仅3.1%，补齐本地支付可提0.5-1个点，直接影响收入"
+   "topic": "欧洲短剧市场可接受CPA上限与优化打法",
+   "why": "德国CPA飙升转化崩盘是避坑样本，需研究回复中的优化策略，决定是否转向美区或拉美"
   },
   {
-   "topic": "印度方言短剧投流结构拆解",
-   "why": "CPA暴涨但留存付费双升，需研究出价结构与受众包优化"
+   "topic": "美国买量素材迭代与回款周期下的预算模型",
+   "why": "素材衰减快+回款45天导致现金流错配，需测算自身投流回款周期，建立素材3天一换的预算模型"
   },
   {
-   "topic": "开源短剧全流程工具链整合方案",
-   "why": "多个开源工具（Toonflow、TOONOOT、Vibe-Workflow）可组合成低成本生产线"
+   "topic": "中东短剧市场本地化内容策略",
+   "why": "沙特本地化素材CPI反涨40%，需研究文化适配与留存指标，挖掘中东短剧市场稀缺机会"
   }
  ],
- "daily_focus": "立即注册Sand.ai并实测MAGI-2生成一条30秒短剧片段，对比Seedance成本与质量"
+ "daily_focus": "今天最重要的一件事：下载并实测MAGI-2视频生成模型，对比Seedance 2.5的生成质量与成本，评估短剧制作毛利提升空间。"
 }
