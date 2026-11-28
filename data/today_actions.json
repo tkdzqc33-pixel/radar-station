@@ -1,68 +1,68 @@
 {
  "tools_to_test": [
   {
-   "name": "MAGI-2",
-   "what": "低价视频生成模型，价格仅为Seedance 2.5的1/10",
-   "why_today": "S级情报，直接降低短剧制作成本90%，可批量试题材，建议立即实测生成短剧片段对比效果",
-   "time_est": "2小时",
-   "source": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2"
-  },
-  {
    "name": "Toonflow-app",
-   "what": "开源AI视频创作平台，集成剧本创作到视频生成全流程",
-   "why_today": "S级情报，2.3万星开源短剧漫剧工具，可直接降本增效，且今日有v2.0.11版本更新，建议本地部署测试全流程",
-   "time_est": "3小时",
-   "source": "[GitHub] HBAI-Ltd/Toonflow-app 及 [版本更新] Toonflow短剧工具 v2.0.11"
+   "what": "开源 AI 视频创作平台，集成剧本创作与短剧全流程制作",
+   "why_today": "2.3万星开源短剧工具，且今日有 v2.0.12 版本更新，可直接本地部署测试分镜与角色一致性，压缩单集制作成本",
+   "time_est": "2-3小时",
+   "source": "[GitHub] HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow"
   },
   {
    "name": "vertical-drama-director-skills",
-   "what": "端到端竖屏短剧Agent管线，含37个脚本",
-   "why_today": "S级情报，直击核心生产流程，建议部署测试并跑一条样片验证批量产短剧能力",
-   "time_est": "2.5小时",
-   "source": "[GitHub] shiz81463/vertical-drama-director-skills"
+   "what": "端到端竖屏短剧 AI 流水线，含分镜/提示词/剪映草稿/质检脚本",
+   "why_today": "直接可用的 37 个脚本，clone 即可跑通，能立刻接入现有短剧生产流程大幅提效",
+   "time_est": "1-2小时",
+   "source": "[GitHub] shiz81463/vertical-drama-director-skills: End-to-end AI verti"
   },
   {
-   "name": "Sora 2",
-   "what": "OpenAI新一代视频生成模型，能力跃升",
-   "why_today": "S级情报，直接影响短剧制作效率与成本，建议立即申请测试权限并用现有脚本试生成对比",
-   "time_est": "1小时（申请+初步测试）",
-   "source": "[HN] Sora 2"
+   "name": "Magi 2",
+   "what": "30秒 1080p 带音频的 AI 视频生成器",
+   "why_today": "新品发布，直接可用于短剧/漫剧素材批量生产，需立即评估角色一致性和音频质量以判断能否替代现有管线",
+   "time_est": "1小时",
+   "source": "[新品] Magi 2: AI video generator for 30-second 1080p clips with audio"
   },
   {
-   "name": "ComfyUI v0.46.0",
-   "what": "节点式AI工作流工具，新增LTX/MiniMax视频生成节点",
-   "why_today": "A级版本更新，新节点可做差异化短剧画面，建议升级并测试LTX视频节点效果",
+   "name": "即梦（最新4K/长镜头版）",
+   "what": "AI 视频生成工具，升级了 4K、长镜头与一致性能力",
+   "why_today": "在北美 ROI 崩盘、量产内卷背景下，用即梦精品化能力做差异化短剧是摆脱价格战的关键路径，需实测其 4K 与长镜头能否用于短剧生产",
    "time_est": "1.5小时",
-   "source": "[版本更新] ComfyUI v0.46.0"
+   "source": "[A] AI 创作，走过产能竞速之后"
+  },
+  {
+   "name": "Claude Ship",
+   "what": "Anthropic 的 AI Agent 全流程代码交付工具",
+   "why_today": "内部 PR 合并量 3 个月翻倍、回滚比例下降超 40%，小团队可用 Agent 低成本批量开发上架小工具，需跑一个插件小需求验证",
+   "time_est": "1小时",
+   "source": "[A] Anthropic 放出 Claude Ship：内部 PR 合并量 3 个月翻倍"
   }
  ],
  "things_to_watch": [
   {
-   "item": "Sora关停与迪士尼撤资的后续影响",
-   "reason": "Sora若关停，依赖它的短剧生产管线需紧急迁移，需持续关注官方消息并盘点现有素材依赖，提前准备备用工具"
+   "item": "Sora 关停后的替代工具迁移与竞品动态",
+   "reason": "Sora 关停意味着依赖它的短剧生产管线需紧急迁移，同时竞品工具会趁机抢占市场，需持续跟踪替代方案成熟度与迁移成本"
   },
   {
-   "item": "Tidal拒绝AI音乐及平台AI内容监管趋势",
-   "reason": "预示平台对AI内容监管收紧，可能影响AI视频投放，需跟踪其他平台政策变化"
+   "item": "Tidal 拒绝 AI 音乐及平台对 AI 内容的监管趋势",
+   "reason": "预示平台对 AI 内容监管趋严，可能波及短剧配乐 AI 生成与投放合规，需持续观察政策扩散范围"
   },
   {
-   "item": "OpenAI首席科学家关于AI加速进化的言论",
-   "reason": "AI工具迭代窗口缩短，需关注2027模型能力跃迁，提前布局工具升级"
+   "item": "印度方言短剧审核新规与本地化红线",
+   "reason": "泰米尔语/孟加拉语剧本限流导致完播率与投放成本双恶化，审核标准模糊，需持续跟踪平台价值观红线变化以调整剧本模板"
   }
  ],
  "research_topics": [
   {
-   "topic": "短剧出海本地化信任前置打法（如清真认证在短视频前3秒的呈现）",
-   "why": "印尼美妆案例显示本地化信任标签可提转化，可迁移到短剧出海，研究前3秒打信任标签对完播率的影响"
+   "topic": "北美短剧投放 ROI 从 0.9 跌至 0.55 的归因与止损策略",
+   "why": "直接亏钱，需研究是砍素材产能还是调排期，并测算 AI 素材工厂替代人工剪辑的降本幅度与回本周期"
   },
   {
-   "topic": "SaaS免费试用转付费的支付卡点与结账优化",
-   "why": "北美SaaS支付转化拆解方法可复用，研究3D Secure失败率与年付到账时效，可能衍生支付失败挽回插件或结账优化服务"
+   "topic": "印度区内容审核雷区清单与素材预审流程",
+   "why": "印度上架被拒两次、方言短剧限流，审核标准模糊，整理雷区清单可建立预审流程并衍生本地化审核咨询服务"
   },
   {
-   "topic": "短剧情绪消费题材库拆解（爽燃甜虐哭奇六类）",
-   "why": "专家称短剧情绪消费本质指导选题与营销，按六类拆解爆款题材可直接用于漫剧选题与营销"
+   "topic": "DeepSeek API 缓存命中降本策略与 Token 成本核算",
+   "why": "梁文锋展示 Token 成本，缓存命中可大幅降本，需测算自己工具调用 DeepSeek 的 API 成本以优化调用策略"
   }
  ],
- "daily_focus": "立即实测MAGI-2生成一段短剧片段，并与现有付费模型（如Seedance 2.5）做成本与质量对比，验证降本90%的可行性。"
+ "daily_focus": "今天先 clone 并跑通 vertical-drama-director-skills 的 37 个脚本，验证其能否直接接入现有短剧生产流程并量化提效幅度。"
 }
